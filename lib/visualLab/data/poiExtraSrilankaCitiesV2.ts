@@ -521,7 +521,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "National Zoological Gardens",
                   "text": "Einer der ältesten zoologischen Gärten Asiens mit einer großen Vielfalt an Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         79.874152,
                         6.857163
@@ -586,7 +586,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "National Zoological Gardens",
                   "text": "Ázsia egyik legrégebbi állatkertje, amely számos állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         79.874152,
                         6.857163
@@ -651,7 +651,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "National Zoological Gardens",
                   "text": "Una dintre cele mai vechi grădini zoologice din Asia, cu o mare varietate de specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         79.874152,
                         6.857163
@@ -716,7 +716,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "National Zoological Gardens",
                   "text": "One of the oldest zoological gardens in Asia, home to a wide variety of animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         79.874152,
                         6.857163
@@ -1727,7 +1727,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Lake Gregory Park",
                   "text": "Der Lake Gregory Park ist ein Freizeitpark in der Stadt Nuwara Eliya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.77237,
                         6.962313
@@ -1765,7 +1765,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Lake Gregory Park",
                   "text": "A Lake Gregory Park egy vidámpark Nuwara Eliya városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.77237,
                         6.962313
@@ -1803,7 +1803,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Lake Gregory Park",
                   "text": "Lake Gregory Park este un parc tematic în orașul Nuwara Eliya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.77237,
                         6.962313
@@ -1841,7 +1841,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Lake Gregory Park",
                   "text": "Lake Gregory Park is a theme park located in the city of Nuwara Eliya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.77237,
                         6.962313
@@ -2744,7 +2744,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Vavuniya water park",
                   "text": "Eine Freizeiteinrichtung in Vavuniya mit verschiedenen Wasserbecken und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.502876,
                         8.755565
@@ -2764,7 +2764,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Vavuniya water park",
                   "text": "Szabadidős létesítmény Vavuniyában medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.502876,
                         8.755565
@@ -2784,7 +2784,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Vavuniya water park",
                   "text": "O unitate de recreere din Vavuniya cu bazine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.502876,
                         8.755565
@@ -2804,7 +2804,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Vavuniya water park",
                   "text": "A recreational facility in Vavuniya featuring water pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         80.502876,
                         8.755565
@@ -3329,7 +3329,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Green Park",
                   "text": "Der Green Park ist ein Freizeitpark in Moneragala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.333311,
                         6.85894
@@ -3338,7 +3338,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Pradeshiya Sabha Children Park",
                   "text": "Dies ist ein für Kinder konzipierter Freizeitpark in Moneragala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.348241,
                         6.869058
@@ -3349,7 +3349,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Green Park",
                   "text": "A Green Park egy szabadidős vidámpark Moneragala városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.333311,
                         6.85894
@@ -3358,7 +3358,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Pradeshiya Sabha Children Park",
                   "text": "Ez egy gyermekek számára kialakított vidámpark Moneragala városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.348241,
                         6.869058
@@ -3369,7 +3369,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Green Park",
                   "text": "Green Park este un parc de distracții și recreere situat în Moneragala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.333311,
                         6.85894
@@ -3378,7 +3378,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Pradeshiya Sabha Children Park",
                   "text": "Acesta este un parc de distracții destinat copiilor, situat în Moneragala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.348241,
                         6.869058
@@ -3389,7 +3389,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Green Park",
                   "text": "Green Park is a recreational theme park located in Moneragala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.333311,
                         6.85894
@@ -3398,7 +3398,7 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             {
                   "name": "Pradeshiya Sabha Children Park",
                   "text": "This is a theme park designed for children, situated in Moneragala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         81.348241,
                         6.869058

@@ -1113,7 +1113,7 @@ export const poiExtraIranCitiesV2: POI[] = [
             {
                   "name": "مرکز بازی و شادی",
                   "text": "Dieser lokale Freizeitpark bietet Unterhaltung und Freizeitaktivitäten in der Stadt Kaschan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435146,
                         33.975587
@@ -1313,7 +1313,7 @@ export const poiExtraIranCitiesV2: POI[] = [
             {
                   "name": "مرکز بازی و شادی",
                   "text": "Ez a helyi vidámpark szórakozási és szabadidős tevékenységeket kínál Kaschan városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435146,
                         33.975587
@@ -1513,7 +1513,7 @@ export const poiExtraIranCitiesV2: POI[] = [
             {
                   "name": "مرکز بازی و شادی",
                   "text": "Acest parc tematic local oferă divertisment și activități de agrement în orașul Kaschan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435146,
                         33.975587
@@ -1713,7 +1713,7 @@ export const poiExtraIranCitiesV2: POI[] = [
             {
                   "name": "مرکز بازی و شادی",
                   "text": "This local theme park provides entertainment and recreational activities in the city of Kaschan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435146,
                         33.975587

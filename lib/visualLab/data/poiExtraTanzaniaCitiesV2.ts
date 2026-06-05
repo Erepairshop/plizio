@@ -1471,7 +1471,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             {
                   "name": "Mkwawa Magic Site",
                   "text": "Eine historische Stätte mit Tiergehegen in Iringa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.687513,
                         -7.750649
@@ -1509,7 +1509,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             {
                   "name": "Mkwawa Magic Site",
                   "text": "Történelmi helyszín állatkifutókkal Iringában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.687513,
                         -7.750649
@@ -1547,7 +1547,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             {
                   "name": "Mkwawa Magic Site",
                   "text": "Un sit istoric cu incinte pentru animale în Iringa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.687513,
                         -7.750649
@@ -1585,7 +1585,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             {
                   "name": "Mkwawa Magic Site",
                   "text": "A historic site with animal enclosures in Iringa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.687513,
                         -7.750649

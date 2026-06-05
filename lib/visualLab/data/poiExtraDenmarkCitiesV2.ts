@@ -62,7 +62,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vizz",
                   "text": "Ein lokaler Freizeitpark in Herning mit verschiedenen Unterhaltungsmöglichkeiten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.996944,
                         56.13549
@@ -80,7 +80,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Herning Svømmehal",
                   "text": "Ein großes Schwimmbad und Freizeitzentrum in Herning mit mehreren Becken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.966165,
                         56.152751
@@ -89,7 +89,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Babooon City",
                   "text": "Ein großer Indoor-Vergnügungspark in Herning für Familien und Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.97779,
                         56.152924
@@ -244,7 +244,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vizz",
                   "text": "Helyi szabadidőpark Herningben különféle szórakozási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.996944,
                         56.13549
@@ -262,7 +262,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Herning Svømmehal",
                   "text": "Nagy uszoda és szabadidőközpont Herningben több medencével.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.966165,
                         56.152751
@@ -271,7 +271,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Babooon City",
                   "text": "Nagy fedett vidámpark Herningben családok és gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.97779,
                         56.152924
@@ -426,7 +426,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vizz",
                   "text": "Un parc de distracții local în Herning cu diverse opțiuni de divertisment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.996944,
                         56.13549
@@ -444,7 +444,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Herning Svømmehal",
                   "text": "O piscină mare și centru de agrement în Herning cu mai multe bazine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.966165,
                         56.152751
@@ -453,7 +453,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Babooon City",
                   "text": "Un mare parc de distracții interior în Herning pentru familii și copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.97779,
                         56.152924
@@ -608,7 +608,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vizz",
                   "text": "A local theme park in Herning with various entertainment options.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.996944,
                         56.13549
@@ -626,7 +626,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Herning Svømmehal",
                   "text": "A large swimming pool and leisure center in Herning with several pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.966165,
                         56.152751
@@ -635,7 +635,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Babooon City",
                   "text": "A large indoor amusement park in Herning for families and children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.97779,
                         56.152924
@@ -863,7 +863,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Zoopark",
                   "text": "Ein kleiner Zoo in Næstved, der verschiedene exotische Tiere beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.721805,
                         55.221785
@@ -890,7 +890,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule Næstved",
                   "text": "Ein Indoor-Themenpark für Kinder in Næstved.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.749477,
                         55.223863
@@ -1036,7 +1036,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Zoopark",
                   "text": "Különböző egzotikus állatoknak otthont adó kis állatkert Næstvedben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.721805,
                         55.221785
@@ -1063,7 +1063,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule Næstved",
                   "text": "Fedett vidámpark gyermekek számára Næstvedben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.749477,
                         55.223863
@@ -1209,7 +1209,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Zoopark",
                   "text": "O mică grădină zoologică din Næstved care găzduiește diverse animale exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.721805,
                         55.221785
@@ -1236,7 +1236,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule Næstved",
                   "text": "Un parc tematic de interior pentru copii în Næstved.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.749477,
                         55.223863
@@ -1382,7 +1382,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Zoopark",
                   "text": "A small zoo in Næstved housing various exotic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.721805,
                         55.221785
@@ -1409,7 +1409,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule Næstved",
                   "text": "An indoor theme park for children located in Næstved.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.749477,
                         55.223863
@@ -1664,7 +1664,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Fredericia Badeland",
                   "text": "Ein moderner Wasserpark in Fredericia mit verschiedenen Pools und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.728063,
                         55.576771
@@ -1673,7 +1673,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Madsby Legepark",
                   "text": "Ein großer Spiel- und Erlebnispark in Fredericia für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.737809,
                         55.570881
@@ -1882,7 +1882,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Fredericia Badeland",
                   "text": "Modern vízipark Fredericiában, különféle medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.728063,
                         55.576771
@@ -1891,7 +1891,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Madsby Legepark",
                   "text": "Nagy játszó- és élménypark családok számára Fredericiában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.737809,
                         55.570881
@@ -2100,7 +2100,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Fredericia Badeland",
                   "text": "Un parc acvatic modern în Fredericia, cu diverse piscine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.728063,
                         55.576771
@@ -2109,7 +2109,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Madsby Legepark",
                   "text": "Un parc mare de joacă și aventură în Fredericia, ideal pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.737809,
                         55.570881
@@ -2318,7 +2318,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Fredericia Badeland",
                   "text": "A modern water park in Fredericia featuring various pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.728063,
                         55.576771
@@ -2327,7 +2327,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Madsby Legepark",
                   "text": "A large play and activity park in Fredericia for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.737809,
                         55.570881
@@ -3113,7 +3113,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "KCS Badeland & Motion",
                   "text": "Ein Freizeitbad in Skive mit Wellenbecken, Rutschen und Fitnessmöglichkeiten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.025235,
                         56.544599
@@ -3232,7 +3232,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "KCS Badeland & Motion",
                   "text": "Szabadidős fürdő Skiveben hullámmedencével, csúszdákkal és fitnesz lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.025235,
                         56.544599
@@ -3351,7 +3351,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "KCS Badeland & Motion",
                   "text": "Un parc acvatic în Skive cu bazin cu valuri, tobogane și facilități de fitness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.025235,
                         56.544599
@@ -3470,7 +3470,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "KCS Badeland & Motion",
                   "text": "A leisure pool in Skive with wave pool, slides, and fitness facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.025235,
                         56.544599
@@ -3914,7 +3914,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Thyhallens Svømmecenter",
                   "text": "Ein Hallenbad und Wasserpark für Familien in Thisted.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.698067,
                         56.967335
@@ -4042,7 +4042,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Thyhallens Svømmecenter",
                   "text": "Fedett uszoda és vízipark családok számára Thistedben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.698067,
                         56.967335
@@ -4170,7 +4170,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Thyhallens Svømmecenter",
                   "text": "O piscină acoperită și parc acvatic pentru familii în Thisted.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.698067,
                         56.967335
@@ -4298,7 +4298,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Thyhallens Svømmecenter",
                   "text": "An indoor swimming center and water park for families in Thisted.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.698067,
                         56.967335
@@ -4490,7 +4490,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vindebyøre Playzoo",
                   "text": "Ein kleiner Tierpark und Spielplatz an der Küste von Svendborg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.631732,
                         55.054627
@@ -4708,7 +4708,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vindebyøre Playzoo",
                   "text": "Kisebb állatpark és játszótér Svendborg partjainál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.631732,
                         55.054627
@@ -4926,7 +4926,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vindebyøre Playzoo",
                   "text": "Un mic parc cu animale și loc de joacă situat pe coasta din Svendborg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.631732,
                         55.054627
@@ -5144,7 +5144,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vindebyøre Playzoo",
                   "text": "A small animal park and play area located on the coast of Svendborg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.631732,
                         55.054627
@@ -5390,7 +5390,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Rubilee's Escape House",
                   "text": "Ein Escape-Room-Anbieter in Sønderborg für Freizeitunterhaltung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.789431,
                         54.908994
@@ -5581,7 +5581,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Rubilee's Escape House",
                   "text": "Szabadulószoba-szolgáltató Sønderborgban szabadidős szórakozáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.789431,
                         54.908994
@@ -5772,7 +5772,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Rubilee's Escape House",
                   "text": "Un furnizor de escape room în Sønderborg pentru divertisment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.789431,
                         54.908994
@@ -5963,7 +5963,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Rubilee's Escape House",
                   "text": "An escape room provider in Sønderborg for leisure entertainment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.789431,
                         54.908994
@@ -6182,7 +6182,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vejle svømmehal & Wellness",
                   "text": "Ein Schwimmbad- und Wellnesskomplex in Vejle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.517522,
                         55.706953
@@ -6191,7 +6191,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehaven i Nørreskoven",
                   "text": "Ein Wildpark im Nørreskoven-Wald in Vejle, in dem Hirsche frei herumlaufen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.574534,
                         55.708256
@@ -6454,7 +6454,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vejle svømmehal & Wellness",
                   "text": "Uszoda- és wellnessközpont Vejlében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.517522,
                         55.706953
@@ -6463,7 +6463,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehaven i Nørreskoven",
                   "text": "Vadaspark a vejlei Nørreskoven-erdőben, ahol szarvasok szabadon élnek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.574534,
                         55.708256
@@ -6726,7 +6726,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vejle svømmehal & Wellness",
                   "text": "Un complex de piscină și wellness în Vejle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.517522,
                         55.706953
@@ -6735,7 +6735,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehaven i Nørreskoven",
                   "text": "Un parc cu căprioare în pădurea Nørreskoven din Vejle, unde animalele umblă liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.574534,
                         55.708256
@@ -6998,7 +6998,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Vejle svømmehal & Wellness",
                   "text": "A swimming pool and wellness complex in Vejle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.517522,
                         55.706953
@@ -7007,7 +7007,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehaven i Nørreskoven",
                   "text": "A deer park in the Nørreskoven forest in Vejle where deer roam freely.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.574534,
                         55.708256
@@ -12500,7 +12500,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Funplays Ballerup",
                   "text": "Ein Indoor-Freizeitpark in Ballerup, der Aktivitäten für Kinder und Familien bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.347449,
                         55.733
@@ -12583,7 +12583,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Funplays Ballerup",
                   "text": "Fedett szabadidőpark Ballerupban, amely tevékenységeket kínál gyermekeknek és családoknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.347449,
                         55.733
@@ -12666,7 +12666,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Funplays Ballerup",
                   "text": "Un parc de distracții de interior în Ballerup, care oferă activități pentru copii și familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.347449,
                         55.733
@@ -12749,7 +12749,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Funplays Ballerup",
                   "text": "An indoor theme park in Ballerup offering activities for children and families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.347449,
                         55.733
@@ -14003,7 +14003,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "Ein Freizeitzentrum mit Schwimmbädern und Sportanlagen in Brøndby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -14131,7 +14131,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "Szabadidőközpont úszómedencékkel és sportlétesítményekkel Brøndbyben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -14259,7 +14259,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "Un centru de agrement cu piscine și facilități sportive în Brøndby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -14387,7 +14387,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "A leisure center with swimming pools and sports facilities in Brøndby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -14534,7 +14534,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "Ein großer Indoor-Spielplatz in Herlev, ideal für Familien mit Kindern.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -14543,7 +14543,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "XJump Trampoline Park",
                   "text": "Ein Trampolinpark in Herlev, der Sport und Spaß für alle Altersgruppen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.422454,
                         55.713634
@@ -14653,7 +14653,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "Nagy fedett játszóház Herlevben, ideális gyermekes családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -14662,7 +14662,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "XJump Trampoline Park",
                   "text": "Trambulinpark Herlevben, amely sportot és szórakozást kínál minden korosztálynak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.422454,
                         55.713634
@@ -14772,7 +14772,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "Un spațiu mare de joacă interior în Herlev, ideal pentru familii cu copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -14781,7 +14781,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "XJump Trampoline Park",
                   "text": "Un parc de trambuline în Herlev, care oferă sport și distracție pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.422454,
                         55.713634
@@ -14891,7 +14891,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "A large indoor playground in Herlev, ideal for families with children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -14900,7 +14900,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "XJump Trampoline Park",
                   "text": "A trampoline park in Herlev offering sports and fun for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.422454,
                         55.713634
@@ -15083,7 +15083,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "Ein Freizeitzentrum in Glostrup mit Schwimmbecken und Wasserattraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -15211,7 +15211,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "Szabadidőközpont Glostrupban úszómedencékkel és vízi látványosságokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -15339,7 +15339,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "Un centru de recreere în Glostrup, cu piscine și atracții acvatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -15467,7 +15467,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Glostrup Fritidscenter",
                   "text": "A leisure center in Glostrup featuring swimming pools and water attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.386702,
                         55.664465
@@ -15668,7 +15668,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Ein Freibad in Rødovre, das in den Sommermonaten zum Schwimmen einlädt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -15895,7 +15895,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Szabadtéri strand Rødovre-ben, amely a nyári hónapokban várja a fürdőzőket.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -16122,7 +16122,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "O piscină în aer liber în Rødovre, populară pentru înot în lunile de vară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -16349,7 +16349,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "An outdoor swimming pool in Rødovre, popular for swimming during summer months.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -18620,7 +18620,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule City2",
                   "text": "Ein Indoor-Freizeitpark in Taastrup, der Spiel und Spaß für Kinder bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.279293,
                         55.643921
@@ -18766,7 +18766,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule City2",
                   "text": "Fedett szabadidőpark Taastrupban, amely játékot és szórakozást kínál gyermekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.279293,
                         55.643921
@@ -18912,7 +18912,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule City2",
                   "text": "Un parc de distracții interior în Taastrup, care oferü jocuri și distracție pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.279293,
                         55.643921
@@ -19058,7 +19058,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Hermans Hule City2",
                   "text": "An indoor theme park in Taastrup offering play and fun for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.279293,
                         55.643921
@@ -19277,7 +19277,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Skolelandbruget",
                   "text": "Ein pädagogischer Bauernhof und kleiner Zoo für Kinder in Farum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.402253,
                         55.816665
@@ -19396,7 +19396,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Skolelandbruget",
                   "text": "Oktató farm és kisállatkert gyerekeknek Farumban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.402253,
                         55.816665
@@ -19515,7 +19515,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Skolelandbruget",
                   "text": "O fermă educațională și o mică grădină zoologică pentru copii în Farum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.402253,
                         55.816665
@@ -19634,7 +19634,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Skolelandbruget",
                   "text": "An educational farm and small zoo for children in Farum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.402253,
                         55.816665
@@ -19790,7 +19790,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Jernalderboplads",
                   "text": "Eine rekonstruierte Eisenzeit-Siedlung, die Besuchern das Leben vor 2000 Jahren näher bringt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.350424,
                         55.786416
@@ -19945,7 +19945,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Jernalderboplads",
                   "text": "Rekonstruált vaskori település, amely bemutatja a látogatóknak a 2000 évvel ezelőtti életet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.350424,
                         55.786416
@@ -20100,7 +20100,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Jernalderboplads",
                   "text": "O așezare din epoca fierului reconstruită, care arată vizitatorilor viața de acum 2000 de ani.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.350424,
                         55.786416
@@ -20255,7 +20255,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Jernalderboplads",
                   "text": "A reconstructed Iron Age settlement showing visitors life as it was 2000 years ago.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.350424,
                         55.786416
@@ -29843,7 +29843,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Dyrehavsbakken, auch Bakken genannt, ist der älteste bestehende Vergnügungspark der Welt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -30061,7 +30061,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "A Dyrehavsbakken, vagy Bakken, a világ legrégebbi, ma is működő vidámparkja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -30279,7 +30279,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Dyrehavsbakken, cunoscut și sub numele de Bakken, este cel mai vechi parc de distracții din lume încă în activitate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -30497,7 +30497,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Dyrehavsbakken, also known as Bakken, is the world's oldest operating amusement park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -30797,7 +30797,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Der älteste noch betriebene Vergnügungspark der Welt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -31114,7 +31114,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "A világ legrégebbi, ma is működő vidámparkja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -31431,7 +31431,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Cel mai vechi parc de distracții din lume aflat încă în funcțiune.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -31748,7 +31748,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "The oldest operating amusement park in the world.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -32111,7 +32111,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Der älteste noch in Betrieb befindliche Vergnügungspark der Welt im Dyrehaven-Wald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -32446,7 +32446,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "A világ legrégebbi folyamatosan működő vidámparkja, a Dyrehaven erdőben található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -32781,7 +32781,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "Cel mai vechi parc de distracții în funcțiune din lume, situat în pădurea Dyrehaven.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -33116,7 +33116,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dyrehavsbakken",
                   "text": "The world's oldest operating amusement park, located in the Dyrehaven forest.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.575012,
                         55.775739
@@ -39383,7 +39383,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Swimming Pool",
                   "text": "Dieser Wasserpark in Dragør bietet Schwimmanlagen für Einheimische und Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.628859,
                         55.581831
@@ -39520,7 +39520,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Swimming Pool",
                   "text": "Ez a dragőri vízi park úszási lehetőséget biztosít a helyiek és a látogatók számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.628859,
                         55.581831
@@ -39657,7 +39657,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Swimming Pool",
                   "text": "Acest parc acvatic din Dragør oferă facilități de înot pentru localnici și vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.628859,
                         55.581831
@@ -39794,7 +39794,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Swimming Pool",
                   "text": "This water park in Dragør provides swimming facilities for locals and visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.628859,
                         55.581831
@@ -39923,7 +39923,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dinos Legeland",
                   "text": "Ein Indoor-Themenpark in Taarnby mit verschiedenen Spielattraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.574477,
                         55.619663
@@ -39932,7 +39932,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Bonderen",
                   "text": "Ein kleiner Zoo und Streichelzoo in Taarnby, ideal für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.598087,
                         55.652755
@@ -40078,7 +40078,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dinos Legeland",
                   "text": "Fedett élménypark Taarnby-ban, különféle játékokkal a gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.574477,
                         55.619663
@@ -40087,7 +40087,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Bonderen",
                   "text": "Kisebb állatkert és állatsimogató Taarnby-ban, ideális családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.598087,
                         55.652755
@@ -40233,7 +40233,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dinos Legeland",
                   "text": "Un parc tematic de interior în Taarnby, cu diverse atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.574477,
                         55.619663
@@ -40242,7 +40242,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Bonderen",
                   "text": "O mică grădină zoologică în Taarnby, ideală pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.598087,
                         55.652755
@@ -40388,7 +40388,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Dinos Legeland",
                   "text": "An indoor theme park in Taarnby featuring various play attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.574477,
                         55.619663
@@ -40397,7 +40397,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Bonderen",
                   "text": "A small zoo and petting farm in Taarnby, ideal for families with children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.598087,
                         55.652755
@@ -44792,7 +44792,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "Ein großer Indoor-Spielplatz für Kinder in der Region Herlev.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -45073,7 +45073,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "Nagy fedett játszóház gyermekeknek Herlev régiójában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -45354,7 +45354,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "Un loc de joacă interior mare pentru copii în regiunea Herlev.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -45635,7 +45635,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Leo's Legeland Herlev",
                   "text": "A large indoor playground for children in the Herlev region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.450211,
                         55.717566
@@ -62747,7 +62747,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Das Friluftsbadet Præstemosen ist ein Freibad im Valby Park, das im Sommer zur Abkühlung einlädt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -63019,7 +63019,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "A Friluftsbadet Præstemosen egy szabadtéri strand a Valby Parkban, amely nyáron hűsölésre hív.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -63291,7 +63291,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Friluftsbadet Præstemosen este un ștrand în aer liber din Valby Park, care invită la răcoare pe timpul verii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -63563,7 +63563,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Friluftsbadet Præstemosen is an outdoor swimming pool in Valby Park, perfect for cooling off in summer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -63863,7 +63863,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Ein Freibad und Wasserpark in der Gemeinde Hvidovre.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -64072,7 +64072,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Szabadtéri fürdő és vízi park Hvidovre községben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -64281,7 +64281,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "Un ștrand în aer liber și parc acvatic în comuna Hvidovre.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785
@@ -64490,7 +64490,7 @@ export const denmarkCitiesV2: POI[] = [
             {
                   "name": "Friluftsbadet Præstemosen",
                   "text": "An outdoor pool and water park in the Hvidovre municipality.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.465463,
                         55.655785

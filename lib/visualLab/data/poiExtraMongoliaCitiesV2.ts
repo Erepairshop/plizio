@@ -577,7 +577,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Khovd Park",
                   "text": "Der Khovd Park ist ein Freizeitpark mit Erholungsflächen in Chowd.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.631495,
                         47.980804
@@ -624,7 +624,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Khovd Park",
                   "text": "A Khovd Park egy vidámpark és pihenőövezet Chowd városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.631495,
                         47.980804
@@ -671,7 +671,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Khovd Park",
                   "text": "Khovd Park este un parc tematic ce oferă spații de recreere în Chowd.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.631495,
                         47.980804
@@ -718,7 +718,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Khovd Park",
                   "text": "Khovd Park is a theme park providing recreational spaces in Chowd.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.631495,
                         47.980804
@@ -1183,7 +1183,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "Парк ist ein Freizeit- und Erholungspark in Arwaicheer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.788573,
                         46.263993
@@ -1257,7 +1257,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "A Парк egy vidámpark és pihenőövezet Arwaicheer városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.788573,
                         46.263993
@@ -1331,7 +1331,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "Парк este un parc tematic și zonă de recreere aflat în Arwaicheer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.788573,
                         46.263993
@@ -1405,7 +1405,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "Парк is a theme park and recreational area located in Arwaicheer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.788573,
                         46.263993
@@ -1681,7 +1681,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Өмнөговь аймгийн Соёл амралтын хүрээлэн",
                   "text": "Өмнөговь аймгийн Соёл амралтын хүрээлэн ist ein Freizeitpark in Dalandsadgad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.40664,
                         43.58674
@@ -1737,7 +1737,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Өмнөговь аймгийн Соёл амралтын хүрээлэн",
                   "text": "A Өмнөговь аймгийн Соёл амралтын хүрээлэн egy vidámpark Dalandsadgad városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.40664,
                         43.58674
@@ -1793,7 +1793,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Өмнөговь аймгийн Соёл амралтын хүрээлэн",
                   "text": "Өмнөговь аймгийн Соёл амралтын хүрээлэн este un parc tematic situat în Dalandsadgad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.40664,
                         43.58674
@@ -1849,7 +1849,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
             {
                   "name": "Өмнөговь аймгийн Соёл амралтын хүрээлэн",
                   "text": "Өмнөговь аймгийн Соёл амралтын хүрээлэн is a theme park located in Dalandsadgad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.40664,
                         43.58674

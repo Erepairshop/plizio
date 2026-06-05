@@ -773,7 +773,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "Ogród Zoologiczny w Zamościu ist ein bekannter zoologischer Garten in der Altstadt von Zamość.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -1117,7 +1117,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "Az Ogród Zoologiczny w Zamościu egy ismert állatkert az Altstadt von Zamość területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -1461,7 +1461,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "Ogród Zoologiczny w Zamościu este o grădină zoologică recunoscută situată în Altstadt von Zamość.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -1805,7 +1805,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "Ogród Zoologiczny w Zamościu is a recognized zoological garden located in Altstadt von Zamość.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -2753,7 +2753,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Zoobotanischer Garten",
                   "text": "Zoobotanischer Garten in Toruń.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.590644,
                         53.008954
@@ -3223,7 +3223,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoobotaniczny w Toruniu",
                   "text": "Állatkert és botanikus kert Toruńban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.590644,
                         53.008954
@@ -3693,7 +3693,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoobotaniczny w Toruniu",
                   "text": "Grădină zoobotanică în Toruń.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.590644,
                         53.008954
@@ -4163,7 +4163,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Ogród Zoobotaniczny w Toruniu",
                   "text": "Zoobotanical garden in Toruń.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.590644,
                         53.008954
@@ -4328,7 +4328,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Z fizyką za pan brat",
                   "text": "Z fizyką za pan brat ist ein Freizeitpark in Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.946063,
                         51.323204
@@ -4346,7 +4346,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kazimierskie Alpaki",
                   "text": "Kazimierskie Alpaki ist ein Zoo in Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.945905,
                         51.313836
@@ -4355,7 +4355,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Miliona Róż i Zabytków Kresowych",
                   "text": "Park Miliona Róż i Zabytków Kresowych ist ein Freizeitpark in Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.926865,
                         51.317179
@@ -4501,7 +4501,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Z fizyką za pan brat",
                   "text": "A Z fizyką za pan brat egy vidámpark Kazimierz Dolny városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.946063,
                         51.323204
@@ -4519,7 +4519,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kazimierskie Alpaki",
                   "text": "A Kazimierskie Alpaki egy állatkert Kazimierz Dolny városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.945905,
                         51.313836
@@ -4528,7 +4528,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Miliona Róż i Zabytków Kresowych",
                   "text": "A Park Miliona Róż i Zabytków Kresowych egy vidámpark Kazimierz Dolny városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.926865,
                         51.317179
@@ -4674,7 +4674,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Z fizyką za pan brat",
                   "text": "Z fizyką za pan brat este un parc de distracții în Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.946063,
                         51.323204
@@ -4692,7 +4692,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kazimierskie Alpaki",
                   "text": "Kazimierskie Alpaki este o grădină zoologică în Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.945905,
                         51.313836
@@ -4701,7 +4701,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Miliona Róż i Zabytków Kresowych",
                   "text": "Park Miliona Róż i Zabytków Kresowych este un parc de distracții în Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.926865,
                         51.317179
@@ -4847,7 +4847,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Z fizyką za pan brat",
                   "text": "Z fizyką za pan brat is a theme park located in Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.946063,
                         51.323204
@@ -4865,7 +4865,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kazimierskie Alpaki",
                   "text": "Kazimierskie Alpaki is a zoo located in Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.945905,
                         51.313836
@@ -4874,7 +4874,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Miliona Róż i Zabytków Kresowych",
                   "text": "Park Miliona Róż i Zabytków Kresowych is a theme park located in Kazimierz Dolny.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.926865,
                         51.317179
@@ -7651,7 +7651,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Park Wodny ist ein Wasserpark in der Altstadt von Chojnice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -7752,7 +7752,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "A Park Wodny egy vízipark az Altstadt von Chojnice területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -7853,7 +7853,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Park Wodny este un parc acvatic situat în Altstadt von Chojnice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -7954,7 +7954,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Park Wodny is a water park located in Altstadt von Chojnice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -8236,7 +8236,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Abenteuer- und Kletterpark für die Freizeit.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -8254,7 +8254,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "ParkMani",
                   "text": "Freizeitpark mit Unterhaltungsangeboten für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.726593,
                         49.7072
@@ -8454,7 +8454,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Kaland- és mászópark szabadidős tevékenységekhez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -8472,7 +8472,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "ParkMani",
                   "text": "Vidámpark családi szórakozási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.726593,
                         49.7072
@@ -8672,7 +8672,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Parc de aventură și cățărare pentru petrecerea timpului liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -8690,7 +8690,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "ParkMani",
                   "text": "Parc de distracții cu oferte pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.726593,
                         49.7072
@@ -8890,7 +8890,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Adventure and climbing park for leisure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -8908,7 +8908,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "ParkMani",
                   "text": "Amusement park with entertainment for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.726593,
                         49.7072
@@ -9271,7 +9271,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "Kąpielisko Miejskie „Frajda” ist ein Wasserpark in der Altstadt von Nysa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -9624,7 +9624,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "A Kąpielisko Miejskie „Frajda” egy vízipark Altstadt von Nysában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -9977,7 +9977,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "Kąpielisko Miejskie „Frajda” este un parc acvatic în Altstadt von Nysa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -10330,7 +10330,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "Kąpielisko Miejskie „Frajda” is a water park situated in the Altstadt von Nysa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -11440,7 +11440,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Centrum Działalności Podwodnej",
                   "text": "Centrum Działalności Podwodnej ist ein Wasserpark in der Altstadt von Bytom.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.936628,
                         50.336617
@@ -11838,7 +11838,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Centrum Działalności Podwodnej",
                   "text": "A Centrum Działalności Podwodnej egy vízipark Altstadt von Bytomban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.936628,
                         50.336617
@@ -12236,7 +12236,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Centrum Działalności Podwodnej",
                   "text": "Centrum Działalności Podwodnej este un parc acvatic din Altstadt von Bytom.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.936628,
                         50.336617
@@ -12634,7 +12634,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Centrum Działalności Podwodnej",
                   "text": "Centrum Działalności Podwodnej is a water park located in the Altstadt von Bytom.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.936628,
                         50.336617
@@ -13267,7 +13267,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Odkryte baseny letnie",
                   "text": "Ein Freibad in der Altstadt von Gnesen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.614565,
                         52.544795
@@ -13521,7 +13521,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Odkryte baseny letnie",
                   "text": "Egy szabadtéri vízipark Gniezno óvárosában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.614565,
                         52.544795
@@ -13775,7 +13775,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Odkryte baseny letnie",
                   "text": "Un parc acvatic în aer liber în orașul vechi din Gniezno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.614565,
                         52.544795
@@ -14029,7 +14029,7 @@ export const polandHistoryV2: POI[] = [
             {
                   "name": "Odkryte baseny letnie",
                   "text": "An outdoor water park in the Old Town of Gniezno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.614565,
                         52.544795

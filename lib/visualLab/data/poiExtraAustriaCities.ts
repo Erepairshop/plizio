@@ -44,7 +44,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "DonauSplash Tulln",
                   "text": "Ein Hallenbad und eine Wasserfreizeitanlage in Tulln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.062296,
                         48.333422
@@ -157,6 +157,42 @@ export const austriaCities: POI[] = [
                         16.050975,
                         48.333964
                   ]
+            },
+            {
+                  "name": "Rosskopfteich",
+                  "text": "Ein ruhiger See in Tulln an der Donau, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.059669,
+                        48.357612
+                  ]
+            },
+            {
+                  "name": "Erdabsetzbecken",
+                  "text": "Ein Gewässer in Tulln an der Donau mit einer ruhigen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        16.057014,
+                        48.347804
+                  ]
+            },
+            {
+                  "name": "Hochwiesegraben",
+                  "text": "Ein kleiner See in Tulln an der Donau, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        16.028526,
+                        48.329918
+                  ]
+            },
+            {
+                  "name": "Krakeninsel",
+                  "text": "Ein spannender Spielplatz in Tulln an der Donau für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.074679,
+                        48.332156
+                  ]
             }
       ],
       "hu": [
@@ -199,7 +235,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "DonauSplash Tulln",
                   "text": "Fedett uszoda és vízi élményközpont Tullnban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.062296,
                         48.333422
@@ -312,6 +348,42 @@ export const austriaCities: POI[] = [
                         16.050975,
                         48.333964
                   ]
+            },
+            {
+                  "name": "Rosskopfteich",
+                  "text": "Egy csendes tó Tulln an der Donauban, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.059669,
+                        48.357612
+                  ]
+            },
+            {
+                  "name": "Erdabsetzbecken",
+                  "text": "Egy vízfelület Tulln an der Donauban, nyugodt légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        16.057014,
+                        48.347804
+                  ]
+            },
+            {
+                  "name": "Hochwiesegraben",
+                  "text": "Egy kis tó Tulln an der Donauban, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        16.028526,
+                        48.329918
+                  ]
+            },
+            {
+                  "name": "Krakeninsel",
+                  "text": "Izgalmas játszótér Tulln an der Donauban az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        16.074679,
+                        48.332156
+                  ]
             }
       ],
       "ro": [
@@ -354,7 +426,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "DonauSplash Tulln",
                   "text": "O piscină acoperită și facilitate de agrement acvatic în Tulln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.062296,
                         48.333422
@@ -467,6 +539,42 @@ export const austriaCities: POI[] = [
                         16.050975,
                         48.333964
                   ]
+            },
+            {
+                  "name": "Rosskopfteich",
+                  "text": "Un lac liniștit în Tulln an der Donau, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.059669,
+                        48.357612
+                  ]
+            },
+            {
+                  "name": "Erdabsetzbecken",
+                  "text": "Un corp de apă în Tulln an der Donau, cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        16.057014,
+                        48.347804
+                  ]
+            },
+            {
+                  "name": "Hochwiesegraben",
+                  "text": "Un mic lac în Tulln an der Donau, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        16.028526,
+                        48.329918
+                  ]
+            },
+            {
+                  "name": "Krakeninsel",
+                  "text": "Un loc de joacă captivant în Tulln an der Donau pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        16.074679,
+                        48.332156
+                  ]
             }
       ],
       "en": [
@@ -509,7 +617,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "DonauSplash Tulln",
                   "text": "An indoor swimming pool and water leisure facility in Tulln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.062296,
                         48.333422
@@ -621,6 +729,42 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.050975,
                         48.333964
+                  ]
+            },
+            {
+                  "name": "Rosskopfteich",
+                  "text": "A quiet lake in Tulln an der Donau, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.059669,
+                        48.357612
+                  ]
+            },
+            {
+                  "name": "Erdabsetzbecken",
+                  "text": "A body of water in Tulln an der Donau with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        16.057014,
+                        48.347804
+                  ]
+            },
+            {
+                  "name": "Hochwiesegraben",
+                  "text": "A small lake in Tulln an der Donau, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.028526,
+                        48.329918
+                  ]
+            },
+            {
+                  "name": "Krakeninsel",
+                  "text": "An exciting playground in Tulln an der Donau for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        16.074679,
+                        48.332156
                   ]
             }
       ]
@@ -759,6 +903,24 @@ export const austriaCities: POI[] = [
                         16.112728,
                         47.725567
                   ]
+            },
+            {
+                  "name": "Drudenteich",
+                  "text": "Der Drudenteich in Neunkirchen bietet eine ruhige Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Dieses Gewässer in Neunkirchen ist ein ruhiger Ort zum Entspannen in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
             }
       ],
       "hu": [
@@ -850,6 +1012,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.112728,
                         47.725567
+                  ]
+            },
+            {
+                  "name": "Drudenteich",
+                  "text": "A Neunkirchenben található Drudenteich nyugodt légkört biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Ez a neunkircheni vízfelület nyugodt hely a tájban való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
                   ]
             }
       ],
@@ -943,6 +1123,24 @@ export const austriaCities: POI[] = [
                         16.112728,
                         47.725567
                   ]
+            },
+            {
+                  "name": "Drudenteich",
+                  "text": "Drudenteich din Neunkirchen oferă o atmosferă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Această acumulare de apă din Neunkirchen este un loc liniștit pentru relaxare în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
             }
       ],
       "en": [
@@ -1035,6 +1233,24 @@ export const austriaCities: POI[] = [
                         16.112728,
                         47.725567
                   ]
+            },
+            {
+                  "name": "Drudenteich",
+                  "text": "The Drudenteich in Neunkirchen offers a quiet atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "This body of water in Neunkirchen is a quiet spot for relaxing in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
             }
       ]
 },
@@ -1104,7 +1320,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Freibad Hollabrunn",
                   "text": "Freibad Hollabrunn ist ein Wasserpark in Hollabrunn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.074981,
                         48.560392
@@ -1217,6 +1433,24 @@ export const austriaCities: POI[] = [
                         16.088758,
                         48.558444
                   ]
+            },
+            {
+                  "name": "Siedlerplatz",
+                  "text": "Ein gemütlicher Spielplatz in Hollabrunn, der Spaß für kleine Entdecker bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.09154,
+                        48.554994
+                  ]
+            },
+            {
+                  "name": "Hubsi Land",
+                  "text": "Ein farbenfroher Spielplatz in Hollabrunn, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        16.076065,
+                        48.578806
+                  ]
             }
       ],
       "hu": [
@@ -1241,7 +1475,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Freibad Hollabrunn",
                   "text": "A Freibad Hollabrunn egy aquapark Hollabrunn városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.074981,
                         48.560392
@@ -1354,6 +1588,24 @@ export const austriaCities: POI[] = [
                         16.088758,
                         48.558444
                   ]
+            },
+            {
+                  "name": "Siedlerplatz",
+                  "text": "Hangulatos játszótér Hollabrunnban, amely szórakozást nyújt a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        16.09154,
+                        48.554994
+                  ]
+            },
+            {
+                  "name": "Hubsi Land",
+                  "text": "Színes játszótér Hollabrunnban, ideális gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        16.076065,
+                        48.578806
+                  ]
             }
       ],
       "ro": [
@@ -1378,7 +1630,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Freibad Hollabrunn",
                   "text": "Freibad Hollabrunn este un parc acvatic situat în Hollabrunn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.074981,
                         48.560392
@@ -1491,6 +1743,24 @@ export const austriaCities: POI[] = [
                         16.088758,
                         48.558444
                   ]
+            },
+            {
+                  "name": "Siedlerplatz",
+                  "text": "Un loc de joacă primitor în Hollabrunn, care oferă distracție micilor exploratori.",
+                  "category": "family",
+                  "coords": [
+                        16.09154,
+                        48.554994
+                  ]
+            },
+            {
+                  "name": "Hubsi Land",
+                  "text": "Un loc de joacă colorat în Hollabrunn, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        16.076065,
+                        48.578806
+                  ]
             }
       ],
       "en": [
@@ -1515,7 +1785,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Freibad Hollabrunn",
                   "text": "Freibad Hollabrunn is a water park located in Hollabrunn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.074981,
                         48.560392
@@ -1628,6 +1898,24 @@ export const austriaCities: POI[] = [
                         16.088758,
                         48.558444
                   ]
+            },
+            {
+                  "name": "Siedlerplatz",
+                  "text": "A cozy playground in Hollabrunn offering fun for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        16.09154,
+                        48.554994
+                  ]
+            },
+            {
+                  "name": "Hubsi Land",
+                  "text": "A colorful playground in Hollabrunn, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        16.076065,
+                        48.578806
+                  ]
             }
       ]
 },
@@ -1718,7 +2006,88 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-bischofshofen",
+    id: "at-bischofshofen", "sights": {
+      "de": [
+            {
+                  "name": "Spiegelsee am Hochkeil",
+                  "text": "Der Spiegelsee am Hochkeil bietet beeindruckende Ausblicke auf die umliegende Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        13.133269,
+                        47.400652
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Die Minigolfanlage in Bischofshofen bietet Freizeitspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.21637,
+                        47.419935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiegelsee am Hochkeil",
+                  "text": "A Hochkeil-en található Spiegelsee lenyűgöző kilátást nyújt a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        13.133269,
+                        47.400652
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "A bischofshofeni minigolfpálya szabadidős szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        13.21637,
+                        47.419935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiegelsee am Hochkeil",
+                  "text": "Spiegelsee de pe Hochkeil oferă vederi impresionante asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        13.133269,
+                        47.400652
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Terenul de minigolf din Bischofshofen oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        13.21637,
+                        47.419935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiegelsee am Hochkeil",
+                  "text": "The Spiegelsee at Hochkeil offers impressive views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        13.133269,
+                        47.400652
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "The miniature golf course in Bischofshofen offers leisure fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        13.21637,
+                        47.419935
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-5",
     coords: [13.2163, 47.4177],
@@ -1812,7 +2181,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Strandbad",
                   "text": "Strandbad ist ein Wasserpark in Gmunden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.785241,
                         47.90894
@@ -1961,6 +2330,69 @@ export const austriaCities: POI[] = [
                         13.806085,
                         47.918487
                   ]
+            },
+            {
+                  "name": "Laudachsee",
+                  "text": "Ein idyllischer See bei Gmunden, eingebettet in eine beeindruckende Bergkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        13.853343,
+                        47.879135
+                  ]
+            },
+            {
+                  "name": "Traunsee",
+                  "text": "Ein weitläufiger See in Gmunden, bekannt für seine malerische Lage und klares Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        13.790922,
+                        47.863096
+                  ]
+            },
+            {
+                  "name": "Erlebnisspielplatz Kalvarienberg",
+                  "text": "Ein erlebnisreicher Spielplatz in Gmunden, der viel Abwechslung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.798682,
+                        47.923291
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hochkogel",
+                  "text": "Ein schöner Kinderspielplatz in Gmunden für Spiel und Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        13.793151,
+                        47.919137
+                  ]
+            },
+            {
+                  "name": "Spielfläche Pfadfinder Gmunden",
+                  "text": "Ein gut ausgestatteter Spielbereich in Gmunden für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.799704,
+                        47.926342
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Auwald",
+                  "text": "Ein ruhiger Spielplatz in Gmunden, umgeben von Natur.",
+                  "category": "family",
+                  "coords": [
+                        13.799019,
+                        47.932383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörihub",
+                  "text": "Ein einladender Spielplatz in Gmunden, ideal für eine Pause mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.815187,
+                        47.922955
+                  ]
             }
       ],
       "hu": [
@@ -2012,7 +2444,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Strandbad",
                   "text": "A Strandbad egy aquapark Gmunden városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.785241,
                         47.90894
@@ -2161,6 +2593,69 @@ export const austriaCities: POI[] = [
                         13.806085,
                         47.918487
                   ]
+            },
+            {
+                  "name": "Laudachsee",
+                  "text": "Idilli tó Gmunden közelében, lenyűgöző hegyi környezetbe ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        13.853343,
+                        47.879135
+                  ]
+            },
+            {
+                  "name": "Traunsee",
+                  "text": "Tágas tó Gmundenben, amely festői fekvéséről és tiszta vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.790922,
+                        47.863096
+                  ]
+            },
+            {
+                  "name": "Erlebnisspielplatz Kalvarienberg",
+                  "text": "Élményekkel teli játszótér Gmundenben, amely sok változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.798682,
+                        47.923291
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hochkogel",
+                  "text": "Szép játszótér Gmundenben a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.793151,
+                        47.919137
+                  ]
+            },
+            {
+                  "name": "Spielfläche Pfadfinder Gmunden",
+                  "text": "Jól felszerelt játszóhely Gmundenben az aktív gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        13.799704,
+                        47.926342
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Auwald",
+                  "text": "Csendes játszótér Gmundenben, természettel körülvéve.",
+                  "category": "family",
+                  "coords": [
+                        13.799019,
+                        47.932383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörihub",
+                  "text": "Hívogató játszótér Gmundenben, ideális egy családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        13.815187,
+                        47.922955
+                  ]
             }
       ],
       "ro": [
@@ -2212,7 +2707,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Strandbad",
                   "text": "Strandbad este un parc acvatic situat în Gmunden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.785241,
                         47.90894
@@ -2361,6 +2856,69 @@ export const austriaCities: POI[] = [
                         13.806085,
                         47.918487
                   ]
+            },
+            {
+                  "name": "Laudachsee",
+                  "text": "Un lac idilic lângă Gmunden, cuibărit într-un cadru montan impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        13.853343,
+                        47.879135
+                  ]
+            },
+            {
+                  "name": "Traunsee",
+                  "text": "Un lac vast în Gmunden, cunoscut pentru locația sa pitorească și apa limpede.",
+                  "category": "natural",
+                  "coords": [
+                        13.790922,
+                        47.863096
+                  ]
+            },
+            {
+                  "name": "Erlebnisspielplatz Kalvarienberg",
+                  "text": "Un loc de joacă plin de aventură în Gmunden, care oferă multă diversitate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        13.798682,
+                        47.923291
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hochkogel",
+                  "text": "Un loc de joacă frumos în Gmunden pentru joc și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.793151,
+                        47.919137
+                  ]
+            },
+            {
+                  "name": "Spielfläche Pfadfinder Gmunden",
+                  "text": "O zonă de joacă bine echipată în Gmunden pentru copii activi.",
+                  "category": "family",
+                  "coords": [
+                        13.799704,
+                        47.926342
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Auwald",
+                  "text": "Un loc de joacă liniștit în Gmunden, înconjurat de natură.",
+                  "category": "family",
+                  "coords": [
+                        13.799019,
+                        47.932383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörihub",
+                  "text": "Un loc de joacă primitor în Gmunden, ideal pentru o pauză cu familia.",
+                  "category": "family",
+                  "coords": [
+                        13.815187,
+                        47.922955
+                  ]
             }
       ],
       "en": [
@@ -2412,7 +2970,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Strandbad",
                   "text": "Strandbad is a water park located in Gmunden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.785241,
                         47.90894
@@ -2561,6 +3119,69 @@ export const austriaCities: POI[] = [
                         13.806085,
                         47.918487
                   ]
+            },
+            {
+                  "name": "Laudachsee",
+                  "text": "An idyllic lake near Gmunden, nestled in an impressive mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.853343,
+                        47.879135
+                  ]
+            },
+            {
+                  "name": "Traunsee",
+                  "text": "A vast lake in Gmunden, known for its scenic location and clear water.",
+                  "category": "natural",
+                  "coords": [
+                        13.790922,
+                        47.863096
+                  ]
+            },
+            {
+                  "name": "Erlebnisspielplatz Kalvarienberg",
+                  "text": "An eventful playground in Gmunden offering plenty of variety for children.",
+                  "category": "family",
+                  "coords": [
+                        13.798682,
+                        47.923291
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hochkogel",
+                  "text": "A nice children's playground in Gmunden for outdoor fun and games.",
+                  "category": "family",
+                  "coords": [
+                        13.793151,
+                        47.919137
+                  ]
+            },
+            {
+                  "name": "Spielfläche Pfadfinder Gmunden",
+                  "text": "A well-equipped play area in Gmunden for active children.",
+                  "category": "family",
+                  "coords": [
+                        13.799704,
+                        47.926342
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Auwald",
+                  "text": "A quiet playground in Gmunden surrounded by nature.",
+                  "category": "family",
+                  "coords": [
+                        13.799019,
+                        47.932383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörihub",
+                  "text": "An inviting playground in Gmunden, ideal for a break with the family.",
+                  "category": "family",
+                  "coords": [
+                        13.815187,
+                        47.922955
+                  ]
             }
       ]
 },
@@ -2680,6 +3301,24 @@ export const austriaCities: POI[] = [
                         14.874399,
                         48.123783
                   ]
+            },
+            {
+                  "name": "VR Frag Amstetten",
+                  "text": "Ein moderner Freizeitort in Amstetten für unterhaltsame Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.893818,
+                        48.123542
+                  ]
+            },
+            {
+                  "name": "Verkehrskindergarten der Stadt Amstetten",
+                  "text": "Ein lehrreicher Spielplatz in Amstetten für Kinder zum spielerischen Lernen.",
+                  "category": "family",
+                  "coords": [
+                        14.864538,
+                        48.119797
+                  ]
             }
       ],
       "hu": [
@@ -2753,6 +3392,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.874399,
                         48.123783
+                  ]
+            },
+            {
+                  "name": "VR Frag Amstetten",
+                  "text": "Egy modern szabadidős hely Amstettenben a családdal eltöltött szórakoztató órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.893818,
+                        48.123542
+                  ]
+            },
+            {
+                  "name": "Verkehrskindergarten der Stadt Amstetten",
+                  "text": "Egy oktató játszótér Amstettenben a gyermekek játékos tanulásához.",
+                  "category": "family",
+                  "coords": [
+                        14.864538,
+                        48.119797
                   ]
             }
       ],
@@ -2828,6 +3485,24 @@ export const austriaCities: POI[] = [
                         14.874399,
                         48.123783
                   ]
+            },
+            {
+                  "name": "VR Frag Amstetten",
+                  "text": "Un loc de petrecere a timpului liber modern în Amstetten pentru ore distractive cu familia.",
+                  "category": "family",
+                  "coords": [
+                        14.893818,
+                        48.123542
+                  ]
+            },
+            {
+                  "name": "Verkehrskindergarten der Stadt Amstetten",
+                  "text": "Un loc de joacă educativ în Amstetten pentru învățarea prin joc a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.864538,
+                        48.119797
+                  ]
             }
       ],
       "en": [
@@ -2901,6 +3576,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.874399,
                         48.123783
+                  ]
+            },
+            {
+                  "name": "VR Frag Amstetten",
+                  "text": "A modern leisure spot in Amstetten for entertaining hours with the family.",
+                  "category": "family",
+                  "coords": [
+                        14.893818,
+                        48.123542
+                  ]
+            },
+            {
+                  "name": "Verkehrskindergarten der Stadt Amstetten",
+                  "text": "An educational playground in Amstetten for children to learn through play.",
+                  "category": "family",
+                  "coords": [
+                        14.864538,
+                        48.119797
                   ]
             }
       ]
@@ -3007,7 +3700,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Drautalperle",
                   "text": "Ein modernes Erlebnisbad und Schwimmkomplex in Spittal an der Drau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.486701,
                         46.79269
@@ -3144,7 +3837,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Drautalperle",
                   "text": "Modern vízipark és uszodakomplexum Spittal an der Drau-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.486701,
                         46.79269
@@ -3281,7 +3974,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Drautalperle",
                   "text": "Un parc acvatic modern și un complex de înot în Spittal an der Drau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.486701,
                         46.79269
@@ -3418,7 +4111,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Drautalperle",
                   "text": "A modern water park and swimming complex in Spittal an der Drau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.486701,
                         46.79269
@@ -3582,7 +4275,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Badeanlage Telfs",
                   "text": "Die Badeanlage Telfs ist ein Erlebnisbad in Telfs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.068772,
                         47.304129
@@ -3740,6 +4433,87 @@ export const austriaCities: POI[] = [
                         11.054808,
                         47.3029
                   ]
+            },
+            {
+                  "name": "Wildmoossee",
+                  "text": "Ein friedlicher See in Telfs, der eine entspannte Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.144336,
+                        47.332816
+                  ]
+            },
+            {
+                  "name": "Schwallausgleichsbecken",
+                  "text": "Ein ruhig gelegenes Gewässer in Telfs, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        10.970533,
+                        47.271687
+                  ]
+            },
+            {
+                  "name": "Möserer See",
+                  "text": "Ein malerischer See in Telfs, der zum Verweilen und Genießen der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.144043,
+                        47.315531
+                  ]
+            },
+            {
+                  "name": "Spielplatz KiWi",
+                  "text": "Ein moderner Spielplatz in Telfs mit vielfältigen Möglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.079213,
+                        47.297708
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz",
+                  "text": "Ein schöner Minigolfplatz in Telfs, der Freizeitspaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.067519,
+                        47.302912
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Widumanger",
+                  "text": "Ein gut besuchter Spielplatz in Telfs, ideal für das Treffen mit anderen Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.075207,
+                        47.308676
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Fuchsbühel",
+                  "text": "Ein einladender Ort für Kinder in Telfs zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        11.091124,
+                        47.317247
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Sonnensiedlung",
+                  "text": "Ein naturnaher Spielplatz in Telfs, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        11.059639,
+                        47.319689
+                  ]
+            },
+            {
+                  "name": "Spielplatz in der Aue",
+                  "text": "Ein weitläufiger Spielbereich in Telfs, der viel Platz für Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.097071,
+                        47.306613
+                  ]
             }
       ],
       "hu": [
@@ -3782,7 +4556,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Badeanlage Telfs",
                   "text": "A Badeanlage Telfs egy vízipark Telfs városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.068772,
                         47.304129
@@ -3940,6 +4714,87 @@ export const austriaCities: POI[] = [
                         11.054808,
                         47.3029
                   ]
+            },
+            {
+                  "name": "Wildmoossee",
+                  "text": "Békés tó Telfsben, amely nyugodt légkört biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        11.144336,
+                        47.332816
+                  ]
+            },
+            {
+                  "name": "Schwallausgleichsbecken",
+                  "text": "Csendes fekvésű vízfelület Telfsben, ideális a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.970533,
+                        47.271687
+                  ]
+            },
+            {
+                  "name": "Möserer See",
+                  "text": "Festői tó Telfsben, amely pihenésre és a táj élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        11.144043,
+                        47.315531
+                  ]
+            },
+            {
+                  "name": "Spielplatz KiWi",
+                  "text": "Modern játszótér Telfsben, sokféle lehetőséggel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        11.079213,
+                        47.297708
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz",
+                  "text": "Szép minigolfpálya Telfsben, amely minden korosztálynak szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        11.067519,
+                        47.302912
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Widumanger",
+                  "text": "Népszerű játszótér Telfsben, ideális más családokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        11.075207,
+                        47.308676
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Fuchsbühel",
+                  "text": "Hívogató hely gyerekeknek Telfsben a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.091124,
+                        47.317247
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Sonnensiedlung",
+                  "text": "Természetközeli játszótér Telfsben, amely felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        11.059639,
+                        47.319689
+                  ]
+            },
+            {
+                  "name": "Spielplatz in der Aue",
+                  "text": "Tágas játszóhely Telfsben, amely sok helyet biztosít a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        11.097071,
+                        47.306613
+                  ]
             }
       ],
       "ro": [
@@ -3982,7 +4837,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Badeanlage Telfs",
                   "text": "Badeanlage Telfs este un parc acvatic din Telfs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.068772,
                         47.304129
@@ -4140,6 +4995,87 @@ export const austriaCities: POI[] = [
                         11.054808,
                         47.3029
                   ]
+            },
+            {
+                  "name": "Wildmoossee",
+                  "text": "Un lac liniștit în Telfs, care oferă o atmosferă relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.144336,
+                        47.332816
+                  ]
+            },
+            {
+                  "name": "Schwallausgleichsbecken",
+                  "text": "O apă situată liniștit în Telfs, ideală pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        10.970533,
+                        47.271687
+                  ]
+            },
+            {
+                  "name": "Möserer See",
+                  "text": "Un lac pitoresc în Telfs, care invită la relaxare și la admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        11.144043,
+                        47.315531
+                  ]
+            },
+            {
+                  "name": "Spielplatz KiWi",
+                  "text": "Un loc de joacă modern în Telfs, cu diverse oportunități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        11.079213,
+                        47.297708
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz",
+                  "text": "Un teren de minigolf frumos în Telfs, care oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        11.067519,
+                        47.302912
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Widumanger",
+                  "text": "Un loc de joacă popular în Telfs, ideal pentru întâlniri cu alte familii.",
+                  "category": "family",
+                  "coords": [
+                        11.075207,
+                        47.308676
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Fuchsbühel",
+                  "text": "Un loc primitor pentru copii în Telfs pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        11.091124,
+                        47.317247
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Sonnensiedlung",
+                  "text": "Un loc de joacă aproape de natură în Telfs, care invită la explorare.",
+                  "category": "family",
+                  "coords": [
+                        11.059639,
+                        47.319689
+                  ]
+            },
+            {
+                  "name": "Spielplatz in der Aue",
+                  "text": "O zonă de joacă vastă în Telfs, care oferă mult spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        11.097071,
+                        47.306613
+                  ]
             }
       ],
       "en": [
@@ -4182,7 +5118,7 @@ export const austriaCities: POI[] = [
             {
                   "name": "Badeanlage Telfs",
                   "text": "Badeanlage Telfs is a water park located in Telfs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.068772,
                         47.304129
@@ -4340,6 +5276,87 @@ export const austriaCities: POI[] = [
                         11.054808,
                         47.3029
                   ]
+            },
+            {
+                  "name": "Wildmoossee",
+                  "text": "A peaceful lake in Telfs offering a relaxed atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.144336,
+                        47.332816
+                  ]
+            },
+            {
+                  "name": "Schwallausgleichsbecken",
+                  "text": "A quietly located body of water in Telfs, ideal for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        10.970533,
+                        47.271687
+                  ]
+            },
+            {
+                  "name": "Möserer See",
+                  "text": "A picturesque lake in Telfs that invites staying and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        11.144043,
+                        47.315531
+                  ]
+            },
+            {
+                  "name": "Spielplatz KiWi",
+                  "text": "A modern playground in Telfs with diverse options for children.",
+                  "category": "family",
+                  "coords": [
+                        11.079213,
+                        47.297708
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz",
+                  "text": "A nice miniature golf course in Telfs offering leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        11.067519,
+                        47.302912
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Widumanger",
+                  "text": "A well-frequented playground in Telfs, ideal for meeting other families.",
+                  "category": "family",
+                  "coords": [
+                        11.075207,
+                        47.308676
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Fuchsbühel",
+                  "text": "An inviting spot for children in Telfs to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        11.091124,
+                        47.317247
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Sonnensiedlung",
+                  "text": "A nature-oriented playground in Telfs that invites discovery.",
+                  "category": "family",
+                  "coords": [
+                        11.059639,
+                        47.319689
+                  ]
+            },
+            {
+                  "name": "Spielplatz in der Aue",
+                  "text": "A spacious play area in Telfs offering plenty of room for movement.",
+                  "category": "family",
+                  "coords": [
+                        11.097071,
+                        47.306613
+                  ]
             }
       ]
 },
@@ -4386,7 +5403,448 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-worgl",
+    id: "at-worgl", "sights": {
+      "de": [
+            {
+                  "name": "Anglerteich",
+                  "text": "Ein friedlicher See in Wörgl, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.041507,
+                        47.47326
+                  ]
+            },
+            {
+                  "name": "Mittermoosen See",
+                  "text": "Ein idyllischer See in Wörgl, umgeben von einer malerischen Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        12.111303,
+                        47.435674
+                  ]
+            },
+            {
+                  "name": "Trinkwasser-Hochbehälter",
+                  "text": "Ein ruhiges Gewässer in Wörgl mit einer schönen Aussicht auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        12.017338,
+                        47.520981
+                  ]
+            },
+            {
+                  "name": "Speicherteich Holzalm",
+                  "text": "Ein klarer Gebirgssee in Wörgl, ideal für eine Pause während einer Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        12.082847,
+                        47.42367
+                  ]
+            },
+            {
+                  "name": "Strillinger Stausee",
+                  "text": "Ein beeindruckender Stausee in Wörgl, eingebettet in die Tiroler Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.074638,
+                        47.535259
+                  ]
+            },
+            {
+                  "name": "Halligalli",
+                  "text": "Ein fröhlicher Spielplatz in Wörgl für viel Bewegung und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        12.079735,
+                        47.493874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ladestraße",
+                  "text": "Ein kinderfreundlicher Spielplatz in Wörgl für tägliches Vergnügen.",
+                  "category": "family",
+                  "coords": [
+                        12.067185,
+                        47.492267
+                  ]
+            },
+            {
+                  "name": "Freizeitpark Wave Spielplatz",
+                  "text": "Ein großzügiger Spielplatz in Wörgl für abwechslungsreiche Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        12.042196,
+                        47.477485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Egerndorfer Wohnpark",
+                  "text": "Ein moderner Spielplatz in Wörgl in einer ruhigen Wohngegend.",
+                  "category": "family",
+                  "coords": [
+                        12.090938,
+                        47.487132
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pflichtschulzentrum",
+                  "text": "Ein gut ausgestatteter Spielplatz in Wörgl für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        12.070814,
+                        47.48741
+                  ]
+            },
+            {
+                  "name": "Motorikpark",
+                  "text": "Ein spannender Park in Wörgl zur Förderung von Geschicklichkeit und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        12.056575,
+                        47.477288
+                  ]
+            },
+            {
+                  "name": "Kinderkrippe \"Purzelbaum\"",
+                  "text": "Ein geschützter Spielbereich in Wörgl für die kleinsten Familienmitglieder.",
+                  "category": "family",
+                  "coords": [
+                        12.068475,
+                        47.49127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anglerteich",
+                  "text": "Egy békés tó Wörglben, amely a természetben való időtöltésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.041507,
+                        47.47326
+                  ]
+            },
+            {
+                  "name": "Mittermoosen See",
+                  "text": "Egy idilli tó Wörglben, festői hegyi világban.",
+                  "category": "natural",
+                  "coords": [
+                        12.111303,
+                        47.435674
+                  ]
+            },
+            {
+                  "name": "Trinkwasser-Hochbehälter",
+                  "text": "Egy csendes vízfelület Wörglben, szép kilátással a környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        12.017338,
+                        47.520981
+                  ]
+            },
+            {
+                  "name": "Speicherteich Holzalm",
+                  "text": "Egy tiszta hegyi tó Wörglben, amely ideális egy pihenőhöz túrázás közben.",
+                  "category": "natural",
+                  "coords": [
+                        12.082847,
+                        47.42367
+                  ]
+            },
+            {
+                  "name": "Strillinger Stausee",
+                  "text": "Egy lenyűgöző víztározó Wörglben, a tiroli tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        12.074638,
+                        47.535259
+                  ]
+            },
+            {
+                  "name": "Halligalli",
+                  "text": "Egy vidám játszótér Wörglben a sok mozgáshoz és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.079735,
+                        47.493874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ladestraße",
+                  "text": "Egy gyermekbarát játszótér Wörglben a mindennapi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.067185,
+                        47.492267
+                  ]
+            },
+            {
+                  "name": "Freizeitpark Wave Spielplatz",
+                  "text": "Egy tágas játszótér Wörglben a változatos családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        12.042196,
+                        47.477485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Egerndorfer Wohnpark",
+                  "text": "Egy modern játszótér Wörglben, csendes lakóövezetben.",
+                  "category": "family",
+                  "coords": [
+                        12.090938,
+                        47.487132
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pflichtschulzentrum",
+                  "text": "Egy jól felszerelt játszótér Wörglben minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        12.070814,
+                        47.48741
+                  ]
+            },
+            {
+                  "name": "Motorikpark",
+                  "text": "Egy izgalmas park Wörglben az ügyesség és a szórakozás ösztönzésére.",
+                  "category": "family",
+                  "coords": [
+                        12.056575,
+                        47.477288
+                  ]
+            },
+            {
+                  "name": "Kinderkrippe \"Purzelbaum\"",
+                  "text": "Egy védett játszóhely Wörglben a család legkisebb tagjai számára.",
+                  "category": "family",
+                  "coords": [
+                        12.068475,
+                        47.49127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anglerteich",
+                  "text": "Un lac pașnic în Wörgl, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.041507,
+                        47.47326
+                  ]
+            },
+            {
+                  "name": "Mittermoosen See",
+                  "text": "Un lac idilic în Wörgl, înconjurat de un peisaj montan pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        12.111303,
+                        47.435674
+                  ]
+            },
+            {
+                  "name": "Trinkwasser-Hochbehälter",
+                  "text": "Un corp de apă liniștit în Wörgl, cu o vedere frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        12.017338,
+                        47.520981
+                  ]
+            },
+            {
+                  "name": "Speicherteich Holzalm",
+                  "text": "Un lac de munte limpede în Wörgl, ideal pentru o pauză în timpul unei drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        12.082847,
+                        47.42367
+                  ]
+            },
+            {
+                  "name": "Strillinger Stausee",
+                  "text": "Un lac de acumulare impresionant în Wörgl, înconjurat de peisajul tirolez.",
+                  "category": "natural",
+                  "coords": [
+                        12.074638,
+                        47.535259
+                  ]
+            },
+            {
+                  "name": "Halligalli",
+                  "text": "Un loc de joacă vesel în Wörgl pentru multă mișcare și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.079735,
+                        47.493874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ladestraße",
+                  "text": "Un loc de joacă prietenos pentru copii în Wörgl pentru plăcerea zilnică.",
+                  "category": "family",
+                  "coords": [
+                        12.067185,
+                        47.492267
+                  ]
+            },
+            {
+                  "name": "Freizeitpark Wave Spielplatz",
+                  "text": "Un loc de joacă spațios în Wörgl pentru activități variate în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.042196,
+                        47.477485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Egerndorfer Wohnpark",
+                  "text": "Un loc de joacă modern în Wörgl, într-o zonă rezidențială liniștită.",
+                  "category": "family",
+                  "coords": [
+                        12.090938,
+                        47.487132
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pflichtschulzentrum",
+                  "text": "Un loc de joacă bine echipat în Wörgl pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.070814,
+                        47.48741
+                  ]
+            },
+            {
+                  "name": "Motorikpark",
+                  "text": "Un parc captivant în Wörgl pentru stimularea dexterității și distracției.",
+                  "category": "family",
+                  "coords": [
+                        12.056575,
+                        47.477288
+                  ]
+            },
+            {
+                  "name": "Kinderkrippe \"Purzelbaum\"",
+                  "text": "O zonă de joacă protejată în Wörgl pentru cei mai mici membri ai familiei.",
+                  "category": "family",
+                  "coords": [
+                        12.068475,
+                        47.49127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anglerteich",
+                  "text": "A peaceful lake in Woergl that invites you to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.041507,
+                        47.47326
+                  ]
+            },
+            {
+                  "name": "Mittermoosen See",
+                  "text": "An idyllic lake in Woergl, surrounded by a picturesque mountain world.",
+                  "category": "natural",
+                  "coords": [
+                        12.111303,
+                        47.435674
+                  ]
+            },
+            {
+                  "name": "Trinkwasser-Hochbehälter",
+                  "text": "A calm body of water in Woergl with a nice view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        12.017338,
+                        47.520981
+                  ]
+            },
+            {
+                  "name": "Speicherteich Holzalm",
+                  "text": "A clear mountain lake in Woergl, ideal for a break during a hike.",
+                  "category": "natural",
+                  "coords": [
+                        12.082847,
+                        47.42367
+                  ]
+            },
+            {
+                  "name": "Strillinger Stausee",
+                  "text": "An impressive reservoir in Woergl, embedded in the Tyrolean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.074638,
+                        47.535259
+                  ]
+            },
+            {
+                  "name": "Halligalli",
+                  "text": "A cheerful playground in Woergl for lots of movement and family fun.",
+                  "category": "family",
+                  "coords": [
+                        12.079735,
+                        47.493874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ladestraße",
+                  "text": "A child-friendly playground in Woergl for daily enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        12.067185,
+                        47.492267
+                  ]
+            },
+            {
+                  "name": "Freizeitpark Wave Spielplatz",
+                  "text": "A spacious playground in Woergl for diverse family activities.",
+                  "category": "family",
+                  "coords": [
+                        12.042196,
+                        47.477485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Egerndorfer Wohnpark",
+                  "text": "A modern playground in Woergl in a quiet residential area.",
+                  "category": "family",
+                  "coords": [
+                        12.090938,
+                        47.487132
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pflichtschulzentrum",
+                  "text": "A well-equipped playground in Woergl for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.070814,
+                        47.48741
+                  ]
+            },
+            {
+                  "name": "Motorikpark",
+                  "text": "An exciting park in Woergl to promote agility and fun.",
+                  "category": "family",
+                  "coords": [
+                        12.056575,
+                        47.477288
+                  ]
+            },
+            {
+                  "name": "Kinderkrippe \"Purzelbaum\"",
+                  "text": "A protected play area in Woergl for the smallest family members.",
+                  "category": "family",
+                  "coords": [
+                        12.068475,
+                        47.49127
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-7",
     coords: [12.0598, 47.4895],

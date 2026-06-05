@@ -102,7 +102,7 @@ export const nicaraguaCities: POI[] = [
             {
                   "name": "River Splash",
                   "text": "Ein Wasserpark in León, der verschiedene Freizeitaktivitäten im Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.877527,
                         12.429681
@@ -311,7 +311,7 @@ export const nicaraguaCities: POI[] = [
             {
                   "name": "River Splash",
                   "text": "Vízi vidámpark Leónban, amely különféle vizes kikapcsolódási lehetőségeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.877527,
                         12.429681
@@ -520,7 +520,7 @@ export const nicaraguaCities: POI[] = [
             {
                   "name": "River Splash",
                   "text": "Un parc acvatic din León care oferă diverse activități recreative în apă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.877527,
                         12.429681
@@ -729,7 +729,7 @@ export const nicaraguaCities: POI[] = [
             {
                   "name": "River Splash",
                   "text": "A water park in León offering various water-based recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.877527,
                         12.429681

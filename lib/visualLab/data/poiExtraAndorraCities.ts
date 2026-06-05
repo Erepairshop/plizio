@@ -27187,7 +27187,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) ist ein bekannter Freizeitpark in Auvinyà.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -27333,7 +27333,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "A Naturlandia (cota 1600) egy jól ismert vidámpark Auvinyà területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -27479,7 +27479,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) este un parc tematic bine-cunoscut situat în Auvinyà.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -27625,7 +27625,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) is a well-known theme park located in Auvinyà.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -28663,7 +28663,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Ein Abenteuerpark in den Bergen bei Certés mit verschiedenen Outdoor-Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -28827,7 +28827,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Kalandpark a hegyekben Certés közelében, különféle szabadtéri tevékenységekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -28991,7 +28991,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Un parc de aventură în munți lângă Certés, cu diverse activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -29155,7 +29155,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "An adventure park in the mountains near Certés with various outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -30586,7 +30586,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Ein Abenteuerpark in Mas d'Alins mit verschiedenen Outdoor-Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -30732,7 +30732,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Kalandpark Mas d'Alins-ban, amely különféle szabadtéri tevékenységeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -30878,7 +30878,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Un parc de aventură în Mas d'Alins care oferă diverse activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31024,7 +31024,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "An adventure park in Mas d'Alins offering various outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31213,7 +31213,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) ist ein Natur- und Abenteuer-Freizeitpark in Naturlandia Base.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31359,7 +31359,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "A Naturlandia (cota 1600) egy természet- és kalandpark, amely Naturlandia Base területén található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31505,7 +31505,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) este un parc tematic de natură și aventură situat în Naturlandia Base.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31651,7 +31651,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) is a nature and adventure theme park located in Naturlandia Base.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31840,7 +31840,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Ein Abenteuerpark in Les Cases Noves, der Aktivitäten in der Natur für die ganze Familie bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -31986,7 +31986,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Kalandpark Les Cases Noves-ben, amely természeti tevékenységeket kínál az egész család számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -32132,7 +32132,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Un parc de aventură în Les Cases Noves care oferă activități în natură pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -32278,7 +32278,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "An adventure park in Les Cases Noves offering outdoor activities for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -32467,7 +32467,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Ein bekannter Freizeitpark bei La Fèira mit Outdoor-Attraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -32622,7 +32622,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Ismert vidámpark La Fèira közelében, szabadtéri látványosságokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -32777,7 +32777,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Un parc tematic cunoscut lângă La Fèira, cu atracții în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -32932,7 +32932,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "A well-known theme park near La Fèira with outdoor attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -33130,7 +33130,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) ist ein Natur- und Abenteuer-Freizeitpark in Pont de Fontaneda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -33285,7 +33285,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "A Naturlandia (cota 1600) egy természet- és kalandpark, amely Pont de Fontaneda területén található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -33440,7 +33440,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) este un parc tematic de natură și aventură situat în Pont de Fontaneda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506
@@ -33595,7 +33595,7 @@ export const poiExtraAndorraCities: POI[] = [
             {
                   "name": "Naturlandia (cota 1600)",
                   "text": "Naturlandia (cota 1600) is a nature and adventure theme park located in Pont de Fontaneda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.50324,
                         42.442506

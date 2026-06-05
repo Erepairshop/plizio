@@ -268,7 +268,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "الحكير تايم",
                   "text": "Al Hokair Time ist ein Themenpark in Ta'if.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         40.414947,
                         21.245603
@@ -315,7 +315,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "الحكير تايم",
                   "text": "Az Al Hokair Time egy vidámpark Ta'ifban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         40.414947,
                         21.245603
@@ -362,7 +362,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "الحكير تايم",
                   "text": "Al Hokair Time este un parc tematic în Ta'if.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         40.414947,
                         21.245603
@@ -409,7 +409,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "Al Hokair Time",
                   "text": "Al Hokair Time is a theme park in Ta'if.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         40.414947,
                         21.245603
@@ -1187,7 +1187,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "مملكة الحيوان",
                   "text": "Mamlaka al-Haywan ist ein Zoo in Yanbu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.065505,
                         24.090436
@@ -1243,7 +1243,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "مملكة الحيوان",
                   "text": "A Mamlaka al-Haywan egy állatkert Yanbuban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.065505,
                         24.090436
@@ -1299,7 +1299,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "مملكة الحيوان",
                   "text": "Mamlaka al-Haywan este o grădină zoologică în Yanbu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.065505,
                         24.090436
@@ -1355,7 +1355,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             {
                   "name": "مملكة الحيوان",
                   "text": "Mamlaka al-Haywan is a zoo in Yanbu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.065505,
                         24.090436

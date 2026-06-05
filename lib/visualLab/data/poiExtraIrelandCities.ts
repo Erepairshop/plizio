@@ -17,7 +17,7 @@ export const poiExtraIrelandCities: POI[] = [
             {
                   "name": "Funtasia",
                   "text": "Ein großer Indoor-Themenpark und Wasserpark für Familien in Drogheda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.363657,
                         53.705348
@@ -145,7 +145,7 @@ export const poiExtraIrelandCities: POI[] = [
             {
                   "name": "Funtasia",
                   "text": "Nagy fedett élménypark és vízipark családoknak Droghedában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.363657,
                         53.705348
@@ -273,7 +273,7 @@ export const poiExtraIrelandCities: POI[] = [
             {
                   "name": "Funtasia",
                   "text": "Un parc tematic de interior și parc acvatic mare pentru familii în Drogheda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.363657,
                         53.705348
@@ -401,7 +401,7 @@ export const poiExtraIrelandCities: POI[] = [
             {
                   "name": "Funtasia",
                   "text": "A large indoor theme park and water park for families in Drogheda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.363657,
                         53.705348

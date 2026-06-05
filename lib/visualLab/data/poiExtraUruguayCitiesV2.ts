@@ -1088,7 +1088,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Zoologico de Atlántida",
                   "text": "Der Zoo von Atlántida bietet Tierausstellungen in der Stadt Atlantida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.752631,
                         -34.776218
@@ -1144,7 +1144,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Zoologico de Atlántida",
                   "text": "Az Atlántida Állatkert állatkiállításokat kínál Atlantida városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.752631,
                         -34.776218
@@ -1200,7 +1200,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Zoologico de Atlántida",
                   "text": "Grădina Zoologică din Atlántida oferă expoziții de animale în orașul Atlantida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.752631,
                         -34.776218
@@ -1256,7 +1256,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Zoologico de Atlántida",
                   "text": "The Zoo of Atlántida offers animal exhibits in the city of Atlantida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.752631,
                         -34.776218
@@ -2238,7 +2238,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna y Flora Pan de Azúcar",
                   "text": "Das Fauna- und Flora-Reservat Pan de Azúcar fungiert als Zoo und Naturschutzgebiet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.249976,
                         -34.813525
@@ -2276,7 +2276,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna y Flora Pan de Azúcar",
                   "text": "A Pan de Azúcar Állat- és Növényrezervátum állatkertként és természetvédelmi területként működik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.249976,
                         -34.813525
@@ -2314,7 +2314,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna y Flora Pan de Azúcar",
                   "text": "Rezervația de Faună și Floră Pan de Azúcar funcționează ca o grădină zoologică și zonă de conservare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.249976,
                         -34.813525
@@ -2352,7 +2352,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna y Flora Pan de Azúcar",
                   "text": "The Pan de Azúcar Fauna and Flora Reserve functions as a zoo and conservation area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -55.249976,
                         -34.813525
@@ -3104,7 +3104,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Termal Monte Caseros",
                   "text": "Ein Thermal-Wasserpark in Bella Unión mit verschiedenen Becken und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -57.624967,
                         -30.259363
@@ -3142,7 +3142,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Termal Monte Caseros",
                   "text": "Termálvizes élménypark Bella Uniónban, különféle medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -57.624967,
                         -30.259363
@@ -3180,7 +3180,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Termal Monte Caseros",
                   "text": "Un parc acvatic termal în Bella Unión, cu diverse bazine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -57.624967,
                         -30.259363
@@ -3218,7 +3218,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Termal Monte Caseros",
                   "text": "A thermal water park in Bella Unión featuring various pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -57.624967,
                         -30.259363
@@ -4402,7 +4402,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Tortugas Karumbé",
                   "text": "Ein Zentrum zum Schutz von Meeresschildkröten in La Paloma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -54.153969,
                         -34.66159
@@ -4476,7 +4476,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Tortugas Karumbé",
                   "text": "Tengeri teknősök védelmével foglalkozó központ La Palomában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -54.153969,
                         -34.66159
@@ -4550,7 +4550,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Tortugas Karumbé",
                   "text": "Un centru pentru protecția țestoaselor marine în La Paloma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -54.153969,
                         -34.66159
@@ -4624,7 +4624,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Tortugas Karumbé",
                   "text": "A center for the protection of sea turtles in La Paloma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -54.153969,
                         -34.66159
@@ -4743,7 +4743,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna",
                   "text": "Ein lokaler Zoo in Carmelo, in dem verschiedene einheimische Tierarten beheimatet sind.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -58.288309,
                         -34.010571
@@ -4799,7 +4799,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna",
                   "text": "Helyi állatkert Carmelóban, amely különféle őshonos állatfajoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -58.288309,
                         -34.010571
@@ -4855,7 +4855,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna",
                   "text": "O grădină zoologică locală în Carmelo, care găzduiește diverse specii de animale native.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -58.288309,
                         -34.010571
@@ -4911,7 +4911,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             {
                   "name": "Reserva de Fauna",
                   "text": "A local zoo in Carmelo that is home to various native animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -58.288309,
                         -34.010571

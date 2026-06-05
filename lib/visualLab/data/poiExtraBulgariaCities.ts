@@ -463,6 +463,141 @@ export const poiExtraBulgariaCities: POI[] = [
                         23.326319,
                         42.691616
                   ]
+            },
+            {
+                  "name": "Зелените езера",
+                  "text": "Malerische Seen in Sofia, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Бароко",
+                  "text": "Ein ruhiger See in Sofia, der eine angenehme Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Дружбенско езеро",
+                  "text": "Ein bekannter See in Sofia, der zu entspannten Stunden am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Малък Пенчо",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in Sofia für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "Ein einladender Spielbereich in Sofia für Familien with Kindern.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Коша",
+                  "text": "Ein beliebter Spielplatz in Sofia, der viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "Eine aufregende Spielhalle in Sofia mit Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Ein moderner Unterhaltungsbereich in Sofia für Fans von Videospielen.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "Ein Ort in Sofia, der klassische Videospiele in geselliger Runde bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Костенурка",
+                  "text": "Ein fantasievoll gestalteter Spielplatz in Sofia für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "Ein Ort für virtuellen Spielspaß in Sofia für technikbegeisterte Besucher.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "Ein großer Indoor-Spielplatz in Sofia, ideal für Kindergeburtstage.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Хълмчето",
+                  "text": "Ein schön gelegener Spielplatz in Sofia mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Детска площадка „Слона“",
+                  "text": "Ein thematischer Spielplatz in Sofia, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Децата с животни",
+                  "text": "Ein kinderfreundlicher Spielplatz in Sofia mit liebevollen Details.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
             }
       ],
       "hu": [
@@ -923,6 +1058,141 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         23.326319,
                         42.691616
+                  ]
+            },
+            {
+                  "name": "Зелените езера",
+                  "text": "Festői tavak Szófiában, ideálisak természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Бароко",
+                  "text": "Csendes tó Szófiában, amely kellemes légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Дружбенско езеро",
+                  "text": "Ismert tó Szófiában, amely pihentető órákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Малък Пенчо",
+                  "text": "Kicsi, hangulatos játszótér Szófiában a fiatal látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "Hívogató játszóterület Szófiában gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Коша",
+                  "text": "Népszerű játszótér Szófiában, amely tágas helyet kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "Izgalmas játékterem Szófiában szórakozással minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Modern szórakoztató központ Szófiában a videojátékok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "Hely Szófiában, amely klasszikus videojátékokat kínál baráti társaságban.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Костенурка",
+                  "text": "Ötletesen kialakított játszótér Szófiában gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "Hely a virtuális játékélményhez Szófiában a technika iránt érdeklődőknek.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "Nagy fedett játszóház Szófiában, ideális gyerekzsúrokhoz.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Хълмчето",
+                  "text": "Szép fekvésű játszótér Szófiában különféle játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Детска площадка „Слона“",
+                  "text": "Tematikus játszótér Szófiában, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Децата с животни",
+                  "text": "Gyermekbarát játszótér Szófiában kedves részletekkel.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
                   ]
             }
       ],
@@ -1385,6 +1655,141 @@ export const poiExtraBulgariaCities: POI[] = [
                         23.326319,
                         42.691616
                   ]
+            },
+            {
+                  "name": "Зелените езера",
+                  "text": "Lacuri pitorești în Sofia, ideale pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Бароко",
+                  "text": "Un lac liniștit în Sofia, care oferă o atmosferă plăcută.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Дружбенско езеро",
+                  "text": "Un lac cunoscut în Sofia, care invită la ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Малък Пенчо",
+                  "text": "Un teren de joacă mic și primitor în Sofia pentru micii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "O zonă de joacă primitoare în Sofia pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Коша",
+                  "text": "Un teren de joacă popular în Sofia, care oferă mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "O sală de jocuri captivantă în Sofia cu divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "O zonă de divertisment modernă în Sofia pentru fanii jocurilor video.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "Un loc în Sofia care oferă jocuri video clasice într-o atmosferă sociabilă.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Костенурка",
+                  "text": "Un teren de joacă conceput cu imaginație în Sofia pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "Un loc pentru distracție virtuală în Sofia pentru vizitatorii pasionați de tehnologie.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "Un teren de joacă interior mare în Sofia, ideal pentru aniversările copiilor.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Хълмчето",
+                  "text": "Un teren de joacă frumos situat în Sofia, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Детска площадка „Слона“",
+                  "text": "Un teren de joacă tematic în Sofia, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Децата с животни",
+                  "text": "Un teren de joacă prietenos pentru copii în Sofia, cu detalii atractive.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
             }
       ],
       "en": [
@@ -1846,6 +2251,141 @@ export const poiExtraBulgariaCities: POI[] = [
                         23.326319,
                         42.691616
                   ]
+            },
+            {
+                  "name": "The Green Lakes",
+                  "text": "Scenic lakes in Sofia, perfect for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Baroko",
+                  "text": "A quiet lake in Sofia offering a pleasant atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Дружбенско езеро",
+                  "text": "A well-known lake in Sofia, perfect for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Малък Пенчо",
+                  "text": "A small, cozy playground in Sofia for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "An inviting play area in Sofia for families with children.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Коша",
+                  "text": "A popular playground in Sofia offering plenty of space for play.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "An exciting amusement arcade in Sofia with entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "A modern entertainment area in Sofia for video game fans.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "A venue in Sofia offering classic video games in a social setting.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Костенурка",
+                  "text": "An imaginatively designed playground in Sofia for children.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "A venue for virtual gaming fun in Sofia for tech-savvy visitors.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "A large indoor playground in Sofia, ideal for children's birthdays.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Хълмчето",
+                  "text": "A nicely located playground in Sofia with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Playground \"Elephant\"",
+                  "text": "A themed playground in Sofia that brings a lot of joy to children.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Децата с животни",
+                  "text": "A child-friendly playground in Sofia with charming details.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
             }
       ]
 },
@@ -2194,7 +2734,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Пловдивски Зоопарк",
                   "text": "Der Plovdiv Zoo ist ein zoologischer Garten in Plowdiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.711208,
                         42.144666
@@ -2243,6 +2783,15 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         24.74458,
                         42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "Ein E-Sport-Zentrum und eine Spielhalle in Plowdiw mit Unterhaltung für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
                   ]
             }
       ],
@@ -2511,7 +3060,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Пловдивски Зоопарк",
                   "text": "A Plovdiv Zoo egy állatkert Plowdiwban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.711208,
                         42.144666
@@ -2560,6 +3109,15 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         24.74458,
                         42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "Egy e-sport központ és játékterem Plovdivban, szórakozással a család számára.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
                   ]
             }
       ],
@@ -2828,7 +3386,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Пловдивски Зоопарк",
                   "text": "Plovdiv Zoo este o grădină zoologică în Plowdiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.711208,
                         42.144666
@@ -2877,6 +3435,15 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         24.74458,
                         42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "Un centru de eSports și sală de jocuri în Plovdiv, cu divertisment pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
                   ]
             }
       ],
@@ -3145,7 +3712,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Plovdiv Zoo",
                   "text": "Plovdiv Zoo is a zoological garden in Plowdiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.711208,
                         42.144666
@@ -3194,6 +3761,15 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         24.74458,
                         42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "An eSports centre and amusement arcade in Plovdiv with entertainment for the family.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
                   ]
             }
       ]
@@ -3480,7 +4056,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Aquarium",
                   "text": "Ein öffentliches Aquarium in Warna, das die Meeresfauna des Schwarzen Meeres zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.922332,
                         43.201308
@@ -3701,6 +4277,15 @@ export const poiExtraBulgariaCities: POI[] = [
                         27.935784,
                         43.210775
                   ]
+            },
+            {
+                  "name": "Varnaer See",
+                  "text": "Der Lake Varna in Varna ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
             }
       ],
       "hu": [
@@ -3905,7 +4490,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквариум",
                   "text": "Várnai akvárium, amely a Fekete-tenger élővilágát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.922332,
                         43.201308
@@ -4126,6 +4711,15 @@ export const poiExtraBulgariaCities: POI[] = [
                         27.935784,
                         43.210775
                   ]
+            },
+            {
+                  "name": "Варненско езеро",
+                  "text": "A Lake Varna egy tó Varna területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
             }
       ],
       "ro": [
@@ -4330,7 +4924,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквариум",
                   "text": "Un acvariu public din Varna care prezintă fauna marină a Mării Negre.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.922332,
                         43.201308
@@ -4551,6 +5145,15 @@ export const poiExtraBulgariaCities: POI[] = [
                         27.935784,
                         43.210775
                   ]
+            },
+            {
+                  "name": "Варненско езеро",
+                  "text": "Lake Varna din Varna este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
             }
       ],
       "en": [
@@ -4755,7 +5358,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквариум",
                   "text": "A public aquarium in Varna showcasing the marine life of the Black Sea.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.922332,
                         43.201308
@@ -4975,6 +5578,15 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         27.935784,
                         43.210775
+                  ]
+            },
+            {
+                  "name": "Lake Varna",
+                  "text": "The Lake Varna in Varna is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
                   ]
             }
       ]
@@ -6304,7 +6916,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Парк Мини България",
                   "text": "Der Mini Bulgaria Park ist ein Themenpark in Weliko Tarnowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -6426,6 +7038,51 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.63721,
                         43.081784
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Ein See bei Weliko Tarnowo, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "Ein See bei Weliko Tarnowo, ideal um die Ruhe der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "Ein See bei Weliko Tarnowo, der eine schöne natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "Ein Spielplatz in Weliko Tarnowo, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "Ein Spielplatz in Weliko Tarnowo für die Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
+                  ]
             }
       ],
       "hu": [
@@ -6540,7 +7197,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Парк Мини България",
                   "text": "A Mini Bulgaria Park egy vidámpark Weliko Tarnowóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -6662,6 +7319,51 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.63721,
                         43.081784
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Egy tó Veliko Tarnovo környékén, amely a szabadban való tartózkodásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "Egy tó Veliko Tarnovo környékén, amely ideális a természet nyugalmának élvezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "Egy tó Veliko Tarnovo környékén, amely szép természetes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "Egy játszótér Veliko Tarnovóban, amely bőséges helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "Egy játszótér Veliko Tarnovóban a gyermekek szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
+                  ]
             }
       ],
       "ro": [
@@ -6776,7 +7478,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Парк Мини България",
                   "text": "Mini Bulgaria Park este un parc tematic în Weliko Tarnowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -6898,6 +7600,51 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.63721,
                         43.081784
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Un lac în apropiere de Veliko Târnovo, care invită la petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "Un lac în apropiere de Veliko Târnovo, ideal pentru a te bucura de liniștea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "Un lac în apropiere de Veliko Târnovo, care oferă un mediu natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "Un loc de joacă în Veliko Târnovo, care oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "Un loc de joacă în Veliko Târnovo pentru activitățile de recreere ale copiilor.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
+                  ]
             }
       ],
       "en": [
@@ -7012,7 +7759,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Mini Bulgaria Park",
                   "text": "Mini Bulgaria Park is a theme park in Weliko Tarnowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -7133,6 +7880,51 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         25.63721,
                         43.081784
+                  ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "A lake near Veliko Tarnovo, inviting outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "A lake near Veliko Tarnovo, ideal for enjoying the peace of nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "A lake near Veliko Tarnovo offering a beautiful natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "A playground in Veliko Tarnovo offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "A playground in Veliko Tarnovo for children's leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
                   ]
             }
       ]
@@ -7750,7 +8542,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоо Кът",
                   "text": "Die Zoo-Ecke ist ein Tiergehege und Zoo in Schumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.895703,
                         43.267188
@@ -7777,7 +8569,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Gravity Park",
                   "text": "Der Gravity Park ist ein Themenpark, der Freizeitaktivitäten in Schumen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.921434,
                         43.271008
@@ -7926,6 +8718,33 @@ export const poiExtraBulgariaCities: POI[] = [
                         26.923364,
                         43.261629
                   ]
+            },
+            {
+                  "name": "Лозевският язовир",
+                  "text": "Ein See bei Schumen, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        26.898719,
+                        43.314435
+                  ]
+            },
+            {
+                  "name": "Язовир Дибич",
+                  "text": "Ein See bei Schumen, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.976251,
+                        43.240768
+                  ]
+            },
+            {
+                  "name": "Шуменско езеро",
+                  "text": "Ein See bei Schumen, ideal um die natürliche Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.951159,
+                        43.246275
+                  ]
             }
       ],
       "hu": [
@@ -7959,7 +8778,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоо Кът",
                   "text": "A Zoo-sarok egy állatkerti létesítmény Schumenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.895703,
                         43.267188
@@ -7986,7 +8805,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Gravity Park",
                   "text": "A Gravity Park egy vidámpark, amely szabadidős tevékenységeket kínál Schumenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.921434,
                         43.271008
@@ -8135,6 +8954,33 @@ export const poiExtraBulgariaCities: POI[] = [
                         26.923364,
                         43.261629
                   ]
+            },
+            {
+                  "name": "Лозевският язовир",
+                  "text": "Egy tó Sumen környékén, amely ideális sétákhoz és természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        26.898719,
+                        43.314435
+                  ]
+            },
+            {
+                  "name": "Язовир Дибич",
+                  "text": "Egy tó Sumen környékén, amely kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.976251,
+                        43.240768
+                  ]
+            },
+            {
+                  "name": "Шуменско езеро",
+                  "text": "Egy tó Sumen környékén, amely ideális a természetes táj élvezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.951159,
+                        43.246275
+                  ]
             }
       ],
       "ro": [
@@ -8168,7 +9014,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоо Кът",
                   "text": "Colțul Zoo este o expoziție de animale și o grădină zoologică din Șumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.895703,
                         43.267188
@@ -8195,7 +9041,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Gravity Park",
                   "text": "Gravity Park este un parc tematic care oferă activități recreative în Șumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.921434,
                         43.271008
@@ -8344,6 +9190,33 @@ export const poiExtraBulgariaCities: POI[] = [
                         26.923364,
                         43.261629
                   ]
+            },
+            {
+                  "name": "Лозевският язовир",
+                  "text": "Un lac în apropiere de Șumen, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.898719,
+                        43.314435
+                  ]
+            },
+            {
+                  "name": "Язовир Дибич",
+                  "text": "Un lac în apropiere de Șumen, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.976251,
+                        43.240768
+                  ]
+            },
+            {
+                  "name": "Шуменско езеро",
+                  "text": "Un lac în apropiere de Șumen, ideal pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.951159,
+                        43.246275
+                  ]
             }
       ],
       "en": [
@@ -8377,7 +9250,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоо Кът",
                   "text": "The Zoo Corner is an animal exhibition and zoo facility in Schumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.895703,
                         43.267188
@@ -8404,7 +9277,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Gravity Park",
                   "text": "Gravity Park is a theme park offering recreational activities in Schumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.921434,
                         43.271008
@@ -8552,6 +9425,33 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         26.923364,
                         43.261629
+                  ]
+            },
+            {
+                  "name": "Лозевският язовир",
+                  "text": "A lake near Shumen, ideal for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.898719,
+                        43.314435
+                  ]
+            },
+            {
+                  "name": "Язовир Дибич",
+                  "text": "A lake near Shumen, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.976251,
+                        43.240768
+                  ]
+            },
+            {
+                  "name": "Шуменско езеро",
+                  "text": "A lake near Shumen, ideal for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.951159,
+                        43.246275
                   ]
             }
       ]
@@ -8739,7 +9639,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Център за защита на природата и животните",
                   "text": "Ein kleiner Zoo in Dobritsch, der sich auf den Schutz einheimischer Arten konzentriert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.844586,
                         43.556452
@@ -8930,7 +9830,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Център за защита на природата и животните",
                   "text": "Kisméretű állatkert Dobricsban, amely a helyi fajok védelmére összpontosít.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.844586,
                         43.556452
@@ -9121,7 +10021,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Център за защита на природата и животните",
                   "text": "O mică grădină zoologică din Dobrici, concentrată pe protecția speciilor native.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.844586,
                         43.556452
@@ -9312,7 +10212,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Център за защита на природата и животните",
                   "text": "A small zoo in Dobrich focusing on the protection of native species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.844586,
                         43.556452
@@ -9530,7 +10430,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "Ein Freizeitzentrum in Sliwen mit Wasserattraktionen und Schwimmbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.329708,
                         42.676618
@@ -9652,6 +10552,15 @@ export const poiExtraBulgariaCities: POI[] = [
                         26.331585,
                         42.673791
                   ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "Ein malerischer See in Sliwen, ideal für Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
             }
       ],
       "hu": [
@@ -9703,7 +10612,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "Szabadidős központ Slivenben vízi élményekkel és medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.329708,
                         42.676618
@@ -9825,6 +10734,15 @@ export const poiExtraBulgariaCities: POI[] = [
                         26.331585,
                         42.673791
                   ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "Festői tó Szliven területén, ideális természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
             }
       ],
       "ro": [
@@ -9876,7 +10794,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "Un centru de recreere în Sliven cu atracții acvatice și piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.329708,
                         42.676618
@@ -9998,6 +10916,15 @@ export const poiExtraBulgariaCities: POI[] = [
                         26.331585,
                         42.673791
                   ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "Un lac pitoresc în Sliven, ideal pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
             }
       ],
       "en": [
@@ -10049,7 +10976,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "A recreation center in Sliven featuring water attractions and swimming pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.329708,
                         42.676618
@@ -10170,6 +11097,15 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         26.331585,
                         42.673791
+                  ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "A scenic lake in Sliven, perfect for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
                   ]
             }
       ]
@@ -10312,7 +11248,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк Стара Загора",
                   "text": "Der Zoo von Stara Sagora ist ein Tierpark, der sich im Ayazmoto-Park der Stadt befindet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.609873,
                         42.438752
@@ -10479,6 +11415,24 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.61104,
                         42.438453
                   ]
+            },
+            {
+                  "name": "Езеро \"Загорка\"",
+                  "text": "Ein See in Stara Sagora, der zum Entspannen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Детска площадка",
+                  "text": "Ein Spielplatz in Stara Sagora, der Kindern Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
             }
       ],
       "hu": [
@@ -10539,7 +11493,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк Стара Загора",
                   "text": "A Sztara Zagorai Állatkert egy vadaspark, amely a város Ajazmoto parkjában található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.609873,
                         42.438752
@@ -10706,6 +11660,24 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.61104,
                         42.438453
                   ]
+            },
+            {
+                  "name": "Езеро \"Загорка\"",
+                  "text": "Egy tó Sztara Zagorában, amely pihenésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Детска площадка",
+                  "text": "Egy játszótér Sztara Zagorában, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
             }
       ],
       "ro": [
@@ -10766,7 +11738,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк Стара Загора",
                   "text": "Grădina Zoologică din Stara Zagora este un parc de animale situat în parcul Ayazmoto al orașului.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.609873,
                         42.438752
@@ -10933,6 +11905,24 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.61104,
                         42.438453
                   ]
+            },
+            {
+                  "name": "Езеро \"Загорка\"",
+                  "text": "Un lac în Stara Zagora, care invită la relaxare și petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Детска площадка",
+                  "text": "Un loc de joacă în Stara Zagora, care oferă spațiu pentru joacă copiilor.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
             }
       ],
       "en": [
@@ -10993,7 +11983,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Stara Zagora Zoo",
                   "text": "The Stara Zagora Zoo is an animal park located in the Ayazmoto park area of the city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.609873,
                         42.438752
@@ -11160,6 +12150,24 @@ export const poiExtraBulgariaCities: POI[] = [
                         25.61104,
                         42.438453
                   ]
+            },
+            {
+                  "name": "Езеро \"Загорка\"",
+                  "text": "A lake in Stara Zagora, inviting relaxation and leisure.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Детска площадка",
+                  "text": "A playground in Stara Zagora offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
             }
       ]
 },
@@ -11247,7 +12255,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк Благоевград",
                   "text": "Der Zoo von Blagoewgrad beherbergt eine Vielzahl lokaler und exotischer Tiere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.103087,
                         42.01395
@@ -11274,7 +12282,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "Ein Wasserpark in Blagoewgrad, der Erholung und Spaß für die ganze Familie bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.108845,
                         42.02761
@@ -11348,7 +12356,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк Благоевград",
                   "text": "A blagoevgrádi állatkert számos helyi és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.103087,
                         42.01395
@@ -11375,7 +12383,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "Blagoevgrádi aquapark, amely kikapcsolódást és szórakozást nyújt az egész családnak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.108845,
                         42.02761
@@ -11449,7 +12457,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк Благоевград",
                   "text": "Grădina zoologică din Blagoevgrad găzduiește o varietate de animale locale și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.103087,
                         42.01395
@@ -11476,7 +12484,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "Un parc acvatic din Blagoevgrad care oferă recreere și distracție pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.108845,
                         42.02761
@@ -11550,7 +12558,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Blagoevgrad Zoo",
                   "text": "Blagoevgrad Zoo is home to a variety of local and exotic animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.103087,
                         42.01395
@@ -11577,7 +12585,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "A water park in Blagoevgrad offering recreation and fun for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.108845,
                         42.02761
@@ -11732,7 +12740,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк \"Хасково\"",
                   "text": "Ein kleiner Zoo in Haskowo, der verschiedene einheimische und exotische Tierarten beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.535719,
                         41.953823
@@ -11851,7 +12859,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк \"Хасково\"",
                   "text": "Kis állatkert Haszkovóban, amely számos hazai és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.535719,
                         41.953823
@@ -11970,7 +12978,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк \"Хасково\"",
                   "text": "O mică grădină zoologică în Haskovo, care adăpostește diverse specii de animale locale și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.535719,
                         41.953823
@@ -12089,7 +13097,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Зоопарк \"Хасково\"",
                   "text": "A small zoo in Haskovo housing various domestic and exotic animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.535719,
                         41.953823
@@ -12307,7 +13315,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Динозавърски парк",
                   "text": "Динозавърски парк ist ein Themenpark in der Stadt Pasardschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.327035,
                         42.183055
@@ -12399,7 +13407,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Динозавърски парк",
                   "text": "A Динозавърски парк egy vidámpark Pasardschik városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.327035,
                         42.183055
@@ -12491,7 +13499,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Динозавърски парк",
                   "text": "Динозавърски парк este un parc tematic situat în orașul Pasardschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.327035,
                         42.183055
@@ -12583,7 +13591,7 @@ export const poiExtraBulgariaCities: POI[] = [
             {
                   "name": "Динозавърски парк",
                   "text": "Динозавърски парк is a theme park located in the city of Pasardschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.327035,
                         42.183055

@@ -466,7 +466,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "Tivoli Friheden ist ein beliebter Freizeitpark in Aarhus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -972,7 +972,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "A Tivoli Friheden egy népszerű vidámpark Aarhusban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -1478,7 +1478,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "Tivoli Friheden este un parc de distracții popular din Aarhus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -1984,7 +1984,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "Tivoli Friheden is a popular amusement park in Aarhus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -2444,7 +2444,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Odense friluftsbad",
                   "text": "Odense friluftsbad ist ein bemerkenswerter Wasserpark in Odense.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.344341,
                         55.385266
@@ -2833,7 +2833,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Odense friluftsbad",
                   "text": "Az Odense friluftsbad egy nevezetes vízipark Odense városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.344341,
                         55.385266
@@ -3222,7 +3222,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Odense friluftsbad",
                   "text": "Odense friluftsbad este un parc acvatic notabil situat în Odense.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.344341,
                         55.385266
@@ -3611,7 +3611,7 @@ export const denmarkRegions: POI[] = [
             {
                   "name": "Odense friluftsbad",
                   "text": "Odense friluftsbad is a notable water park located in Odense.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.344341,
                         55.385266
@@ -4118,7 +4118,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aalborg Zoo",
                   "text": "Der Aalborg Zoo beherbergt zahlreiche exotische Tiere in naturnah gestalteten Gehegen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.898209,
                         57.036413
@@ -4597,7 +4597,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aalborg Zoo",
                   "text": "Az Aalborgi Állatkert számos egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.898209,
                         57.036413
@@ -5076,7 +5076,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aalborg Zoo",
                   "text": "Grădina Zoologică din Aalborg găzduiește numeroase specii de animale exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.898209,
                         57.036413
@@ -5555,7 +5555,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aalborg Zoo",
                   "text": "Aalborg Zoo is home to numerous exotic animals in naturalistic enclosures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.898209,
                         57.036413
@@ -5934,7 +5934,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Øresundsakvariet",
                   "text": "Das Øresund Aquarium ist ein Salzwasseraquarium in Helsingør.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.610898,
                         56.041223
@@ -5979,7 +5979,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Vandlaboratoriet",
                   "text": "Das Vandlaboratoriet ist ein interaktives Lernzentrum zum Thema Wasser in Helsingør.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.61302,
                         56.041572
@@ -6116,7 +6116,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Øresundsakvariet",
                   "text": "Az Øresund Aquarium egy sós vizi akvárium Helsingørben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.610898,
                         56.041223
@@ -6161,7 +6161,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Vandlaboratoriet",
                   "text": "A Vandlaboratoriet egy interaktív oktatási központ a víz témakörében Helsingőrben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.61302,
                         56.041572
@@ -6298,7 +6298,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Øresundsakvariet",
                   "text": "Øresund Aquarium este un acvariu cu apă sărată din Helsingør.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.610898,
                         56.041223
@@ -6343,7 +6343,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Vandlaboratoriet",
                   "text": "Vandlaboratoriet este un centru educațional interactiv despre apă în Helsingør.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.61302,
                         56.041572
@@ -6480,7 +6480,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Øresund Aquarium",
                   "text": "Øresund Aquarium is a saltwater aquarium in Helsingør.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.610898,
                         56.041223
@@ -6525,7 +6525,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Vandlaboratoriet",
                   "text": "Vandlaboratoriet is an interactive water laboratory and learning center in Helsingør.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.61302,
                         56.041572
@@ -8527,7 +8527,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Randers Regnskov",
                   "text": "Randers Regnskov ist ein bekannter Zoo in Randers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.032257,
                         56.456848
@@ -8608,7 +8608,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Water & Wellness Randers",
                   "text": "Water & Wellness Randers ist ein Wasserpark in Randers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.009619,
                         56.464691
@@ -8763,7 +8763,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Randers Regnskov",
                   "text": "A Randers Regnskov egy híres állatkert Randers városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.032257,
                         56.456848
@@ -8844,7 +8844,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Water & Wellness Randers",
                   "text": "A Water & Wellness Randers egy vízi park Randers városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.009619,
                         56.464691
@@ -8999,7 +8999,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Randers Regnskov",
                   "text": "Randers Regnskov este o grădină zoologică notabilă din Randers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.032257,
                         56.456848
@@ -9080,7 +9080,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Water & Wellness Randers",
                   "text": "Water & Wellness Randers este un parc acvatic din Randers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.009619,
                         56.464691
@@ -9235,7 +9235,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Randers Regnskov",
                   "text": "Randers Regnskov is a notable zoo in Randers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.032257,
                         56.456848
@@ -9316,7 +9316,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Water & Wellness Randers",
                   "text": "Water & Wellness Randers is a water park in Randers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.009619,
                         56.464691
@@ -9551,7 +9551,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aqua",
                   "text": "AQUA ist ein Süßwasseraquarium und Tierpark, der die heimische Natur präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.562358,
                         56.153762
@@ -9778,7 +9778,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aqua",
                   "text": "Az AQUA egy édesvízi akvárium és vadaspark Silkeborgban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.562358,
                         56.153762
@@ -10005,7 +10005,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aqua",
                   "text": "AQUA este un acvariu de apă dulce și parc zoologic din Silkeborg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.562358,
                         56.153762
@@ -10232,7 +10232,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Aqua",
                   "text": "AQUA is a freshwater aquarium and wildlife park showcasing local nature in Silkeborg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.562358,
                         56.153762
@@ -11077,7 +11077,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Jump-It",
                   "text": "Jump-It ist ein Freizeitpark in Kolding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.465857,
                         55.507329
@@ -11095,7 +11095,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Slotssøbadet",
                   "text": "Slotssøbadet ist ein Wasserpark in Kolding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.471009,
                         55.4941
@@ -11331,7 +11331,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Jump-It",
                   "text": "A Jump-It egy vidámpark Kolding városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.465857,
                         55.507329
@@ -11349,7 +11349,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Slotssøbadet",
                   "text": "A Slotssøbadet egy vízi park Kolding városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.471009,
                         55.4941
@@ -11585,7 +11585,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Jump-It",
                   "text": "Jump-It este un parc de distracții din Kolding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.465857,
                         55.507329
@@ -11603,7 +11603,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Slotssøbadet",
                   "text": "Slotssøbadet este un parc acvatic din Kolding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.471009,
                         55.4941
@@ -11839,7 +11839,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Jump-It",
                   "text": "Jump-It is a theme park in Kolding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.465857,
                         55.507329
@@ -11857,7 +11857,7 @@ export const denmarkCities: POI[] = [
             {
                   "name": "Slotssøbadet",
                   "text": "Slotssøbadet is a water park in Kolding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.471009,
                         55.4941

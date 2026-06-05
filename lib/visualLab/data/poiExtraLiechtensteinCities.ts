@@ -80,7 +80,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein Hallenbad und Wasserfreizeitbereich in Mühleholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -316,7 +316,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Fedett uszoda és vízi szabadidőközpont Mühleholzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -552,7 +552,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină acoperită și zonă de agrement acvatic în Mühleholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -788,7 +788,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "An indoor swimming pool and water leisure area in Mühleholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -1067,7 +1067,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Indoor-Erlebnisbad in Ebenholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -1312,7 +1312,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy fedett vízi park Ebenholzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -1557,7 +1557,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic interior aflat în Ebenholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -1802,7 +1802,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is an indoor water park facility found in Ebenholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -2073,7 +2073,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein Hallenbad in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -2291,7 +2291,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Fedett uszoda Schaanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -2509,7 +2509,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O facilitate de înot acoperită situată în Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -2727,7 +2727,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "An indoor swimming facility located in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -3007,7 +3007,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein öffentliches Schwimmbad und Freizeitzentrum in Mitteldorf.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -3261,7 +3261,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy nyilvános uszoda és szabadidőközpont Mitteldorfban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -3515,7 +3515,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este o piscină publică și centru de recreere în Mitteldorf.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -3769,7 +3769,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is a public indoor swimming pool and leisure center in Mitteldorf.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -4067,7 +4067,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Schwimmbad und Wasserpark in Haberfeld.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -4303,7 +4303,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy fedett vízi park és uszoda Haberfeldben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -4539,7 +4539,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic din Haberfeld.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -4775,7 +4775,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is a water park and swimming pool in Haberfeld.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -5056,7 +5056,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Öffentliches Hallenbad in Letten mit Einrichtungen für Sport und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -5292,7 +5292,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Nyilvános fedett uszoda Lettenben sportolási és kikapcsolódási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -5528,7 +5528,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Piscină acoperită publică în Letten, cu facilități pentru sport și recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -5764,7 +5764,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Public indoor swimming pool in Letten with facilities for sport and relaxation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -8550,7 +8550,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein Hallenbad in Schaan mit Sport- und Freizeitmöglichkeiten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -8741,7 +8741,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Fedett uszoda Schaanban, sportolási és szabadidős lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -8932,7 +8932,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină acoperită în Schaan, cu facilități pentru sport și recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -9123,7 +9123,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "An indoor swimming pool in Schaan providing sports and leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -9367,7 +9367,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Indoor-Wasserpark in Forst.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -9376,7 +9376,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Der Greifvogelpark Buchs ist ein auf Greifvögel spezialisierter Zoo in Forst.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -9567,7 +9567,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy fedett élményfürdő létesítmény Forst városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -9576,7 +9576,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "A Greifvogelpark Buchs egy ragadozó madarakra specializálódott állatkert Forst városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -9767,7 +9767,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic acoperit situat în Forst.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -9776,7 +9776,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Greifvogelpark Buchs este o grădină zoologică dedicată păsărilor de pradă, situată în Forst.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -9967,7 +9967,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is an indoor water park facility situated in Forst.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -9976,7 +9976,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Greifvogelpark Buchs is a zoo dedicated to birds of prey, located in Forst.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -10220,7 +10220,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Öffentliches Hallenbad und Freizeiteinrichtung für Wassersport.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -10229,7 +10229,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Wildpark, der sich dem Schutz und der Ausstellung von Greifvögeln widmet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -10456,7 +10456,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Nyilvános fedett uszoda és szabadidős vízi létesítmény.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -10465,7 +10465,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Ragadozó madarak bemutatásának és védelmének szentelt vadaspark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -10692,7 +10692,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Piscină publică acoperită și facilitate recreativă de apă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -10701,7 +10701,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Parc natural dedicat conservării și expunerii păsărilor de pradă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -10928,7 +10928,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Public indoor swimming pool and recreational water facility.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -10937,7 +10937,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Wildlife park dedicated to the conservation and display of birds of prey.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -11181,7 +11181,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein öffentliches Hallenbad mit Sportbecken in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -11190,7 +11190,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Ein Zoo in Buchs, der auf die Haltung und Vorführung von Greifvögeln spezialisiert ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -11336,7 +11336,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Nyilvános fedett uszoda úszómedencével Schaanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -11345,7 +11345,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Buchsi állatkert, amely ragadozó madarak tartására és bemutatására szakosodott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -11491,7 +11491,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină publică acoperită cu bazin sportiv în Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -11500,7 +11500,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "O grădină zoologică în Buchs, specializată în întreținerea și demonstrațiile cu păsări de pradă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -11646,7 +11646,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A public indoor swimming pool with a sports basin in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -11655,7 +11655,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "A zoo in Buchs specializing in the keeping and demonstration of birds of prey.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -11863,7 +11863,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Indoor-Wasserpark, der aquatische Erholung in Rossfeld bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -11872,7 +11872,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Der Greifvogelpark Buchs ist ein auf Greifvögel spezialisierter Zoo in Rossfeld.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -12054,7 +12054,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy fedett élményfürdő, amely vízi kikapcsolódást kínál Rossfeldben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -12063,7 +12063,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "A Greifvogelpark Buchs egy ragadozó madarakra fókuszáló speciális állatkert Rossfeld városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -12245,7 +12245,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic acoperit ce oferă recreere acvatică în Rossfeld.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -12254,7 +12254,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Greifvogelpark Buchs este o grădină zoologică specializată din Rossfeld, care se concentrează pe păsări de pradă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -12436,7 +12436,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is an indoor water park offering aquatic recreation in Rossfeld.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -12445,7 +12445,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Greifvogelpark Buchs is a specialized zoo in Rossfeld that focuses on birds of prey.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -12689,7 +12689,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein öffentliches Hallenbad und Freizeitzentrum in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -12698,7 +12698,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Ein Tierpark in Buchs, der sich auf Greifvögel spezialisiert hat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -12952,7 +12952,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Nyilvános fedett uszoda és szabadidőközpont Schaanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -12961,7 +12961,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Buchsi állatpark, amely ragadozó madarakra specializálódott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -13215,7 +13215,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină publică acoperită și centru de agrement în Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -13224,7 +13224,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "Un parc zoologic din Buchs specializat în păsări de pradă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -13478,7 +13478,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A public indoor swimming pool and leisure centre in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -13487,7 +13487,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Greifvogelpark Buchs",
                   "text": "A zoo in Buchs specializing in birds of prey.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.474548,
                         47.154117
@@ -13758,7 +13758,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein Hallenbad für Schwimmsport und Erholung in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -13913,7 +13913,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Fedett uszoda úszáshoz és pihenéshez Schaanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -14068,7 +14068,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină acoperită pentru înot și relaxare în Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -14223,7 +14223,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "An indoor pool for swimming and recreation in Schaan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -14450,7 +14450,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Wasserpark und Schwimmbad in Bardella.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -14686,7 +14686,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy vízipark és uszoda Bardella városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -14922,7 +14922,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic și bazin de înot din Bardella.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -15158,7 +15158,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is a water park and swimming facility in Bardella.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -15411,7 +15411,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Ein Abenteuer-Seilpark im Wald für Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -15539,7 +15539,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Erdei kalandpark szabadidős tevékenységekhez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -15667,7 +15667,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Un parc de aventură cu frânghii în pădure pentru activități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -15795,7 +15795,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "An adventure rope park in the forest for leisure activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -15977,7 +15977,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Ein Hochseilgarten für Outdoor-Aktivitäten im Wald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -16150,7 +16150,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Kalandpark erdei szabadtéri tevékenységekhez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -16323,7 +16323,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Un parc de aventură pentru activități în aer liber în pădure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -16496,7 +16496,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A high ropes course for outdoor activities in the forest.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -16722,7 +16722,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Der Seilpark im Forst ist ein Themenpark in Poska.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -16922,7 +16922,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A Seilpark im Forst egy vidámpark Poska városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -17122,7 +17122,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Seilpark im Forst este un parc tematic din Poska.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -17322,7 +17322,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Seilpark im Forst is a theme park located in the city of Poska.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -17566,7 +17566,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Ein Hochseilgarten im Wald, der verschiedene Kletterparcours für alle Altersgruppen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -17739,7 +17739,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Erdei kalandpark, amely különböző nehézségű mászópályákat kínál minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -17912,7 +17912,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Un parc de aventură în pădure, care oferă diverse trasee de cățărare pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -18085,7 +18085,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A high ropes course in the forest offering various climbing circuits for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -18321,7 +18321,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Ein Hochseilgarten für Outdoor-Aktivitäten im Wald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -18548,7 +18548,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Kalandpark erdei szabadtéri tevékenységekhez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -18775,7 +18775,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Un parc de aventură pentru activități în aer liber în pădure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -19002,7 +19002,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A high ropes course for outdoor activities in the forest.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -19246,7 +19246,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Seilpark im Forst ist ein Freizeitpark in Gartnetsch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -19392,7 +19392,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A(z) Seilpark im Forst egy szabadidőpark Gartnetsch területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -19538,7 +19538,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Seilpark im Forst este un parc tematic în Gartnetsch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -19684,7 +19684,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Seilpark im Forst is a theme park located in Gartnetsch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -19893,7 +19893,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Outdoor-Abenteuerpark mit Seilrutschen und Kletterelementen inmitten der Natur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -20111,7 +20111,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Szabadtéri kalandpark kötélpályákkal és mászóelemekkel a természet lágy ölén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -20329,7 +20329,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Parc de aventură în aer liber cu tiroliene și elemente de cățărare în mijlocul naturii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -20547,7 +20547,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Outdoor adventure park with zip lines and climbing elements in the heart of nature.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -20800,7 +20800,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Ein Waldseilpark mit verschiedenen Kletterparcours bei Berschis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -21009,7 +21009,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Erdei kötélpálya különböző mászóútvonalakkal Berschisnél.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -21218,7 +21218,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Un parc de aventură în pădure cu diverse trasee de escaladă lângă Berschis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -21427,7 +21427,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A forest rope park with various climbing courses near Berschis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -29730,7 +29730,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Ein Hochseilgarten in Wangerberg für sportliche Aktivitäten im Freien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -29867,7 +29867,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Kalandpark Wangerbergben kültéri sporttevékenységekhez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -30004,7 +30004,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "Un parc de aventură cu frânghii în Wangerberg pentru activități sportive în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -30141,7 +30141,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Seilpark im Forst",
                   "text": "A high ropes course in Wangerberg for outdoor sports activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.527212,
                         47.093328
@@ -33194,7 +33194,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Park in Nendeln, in dem verschiedene Vogelarten beobachtet werden können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33277,7 +33277,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Nendelni park, ahol különféle madárfajok figyelhetők meg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33360,7 +33360,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc în Nendeln unde pot fi observate diverse specii de păsări.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33443,7 +33443,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A park in Nendeln where various bird species can be observed.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33570,7 +33570,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelpark und Naturschutzgebiet in Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33662,7 +33662,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és természetvédelmi terület Maurenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33754,7 +33754,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Parc de păsări și rezervație naturală în Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33846,7 +33846,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Bird park and nature reserve in Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -33982,7 +33982,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein bekannter Vogelpark und Zoo in Bochs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34056,7 +34056,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy nevezetes madárpark és állatkert Bochsban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34130,7 +34130,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este un parc de păsări și grădină zoologică notabilă situată în Bochs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34204,7 +34204,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a notable bird park and zoo located in Bochs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34322,7 +34322,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Tierpark in Rofenberg, der auf die Haltung von Vögeln spezialisiert ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34423,7 +34423,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Rofenbergi állatpark, amely madarak tartására szakosodott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34524,7 +34524,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc zoologic din Rofenberg, specializat în păsări.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34625,7 +34625,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A zoo in Rofenberg specialized in keeping birds.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34771,7 +34771,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Naturpark in Mauren, der sich dem Schutz von Vögeln widmet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34836,7 +34836,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárvédelemnek szentelt natúrpark Maurenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34901,7 +34901,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Parc natural în Mauren dedicat protecției păsărilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -34966,7 +34966,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Nature park in Mauren dedicated to the protection of birds.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35075,7 +35075,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein anerkanntes Vogelschutzgebiet und ein Zoo in Eichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35140,7 +35140,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy elismert madárrezervátum és állatkert Eichenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35205,7 +35205,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este un sanctuar de păsări și o grădină zoologică recunoscută, situată în Eichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35270,7 +35270,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a recognized bird sanctuary and zoo located in Eichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35379,7 +35379,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Naturpark in Haldengass, der sich dem Schutz von Vögeln widmet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35453,7 +35453,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárvédelmi központ és természetvédelmi park Haldengassban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35527,7 +35527,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc natural din Haldengass dedicat protejării păsărilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35601,7 +35601,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A nature park in Haldengass dedicated to the protection of birds.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35720,7 +35720,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Naherholungsgebiet in Mauren, das Lebensraum für zahlreiche Vogelarten bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35812,7 +35812,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és pihenőhely Maurenben, amely számos madárfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35904,7 +35904,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și zonă de agrement în Mauren, oferind habitat pentru numeroase specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -35996,7 +35996,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and recreation area in Mauren providing habitat for numerous bird species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36132,7 +36132,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein anerkannter Naturpark und Zoo in Schaanwald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36278,7 +36278,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy elismert natúrpark és állatkert Schaanwaldban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36424,7 +36424,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este un parc natural și o grădină zoologică recunoscută situată în Schaanwald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36570,7 +36570,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a recognized nature park and zoo situated in Schaanwald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36760,7 +36760,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Tiergarten in Auf Berg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36879,7 +36879,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és állatkert Auf Bergben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -36998,7 +36998,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și grădină zoologică în Auf Berg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -37117,7 +37117,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and zoo located in Auf Berg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -37280,7 +37280,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Naherholungsgebiet bei Binza, das Lebensraum für zahlreiche Vogelarten bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -37426,7 +37426,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és pihenőhely Binza közelében, amely számos madárfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -37572,7 +37572,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și zonă de agrement lângă Binza, oferind habitat pentru numeroase specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -37718,7 +37718,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and recreation area near Binza providing habitat for numerous bird species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -37908,7 +37908,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka ist ein Tierpark in Freiendorf. Es ist als Erholungsgebiet und Vogelpark bekannt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38027,7 +38027,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy állatpark Freiendorf településen. A hely madárparkként és pihenőövezetként ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38146,7 +38146,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este o grădină zoologică în Freiendorf. Este cunoscută ca un parc de păsări și zonă de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38265,7 +38265,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a zoo in Freiendorf. It is well-known as a bird park and local recreation area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38429,7 +38429,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Tiergarten in Maurerberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38548,7 +38548,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és állatkert Maurerbergben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38667,7 +38667,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și grădină zoologică în Maurerberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38786,7 +38786,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and zoo located in Maurerberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -38949,7 +38949,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Naherholungsgebiet bei Weiherring mit vielfältiger Vogelwelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39059,7 +39059,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és pihenőhely Weiherring közelében, változatos madárvilággal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39169,7 +39169,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și zonă de agrement lângă Weiherring, cu o faună diversă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39279,7 +39279,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and recreation area near Weiherring featuring a variety of bird species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39433,7 +39433,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka ist ein Tierpark in Fallsgass. Er ist als lokaler Vogelpark und Naturraum bekannt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39543,7 +39543,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy állatkert Fallsgass településen. Helyi madárparkként és természeti területként ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39653,7 +39653,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este o grădină zoologică din Fallsgass. Este recunoscută ca un parc de păsări și rezervație naturală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39763,7 +39763,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a zoo in Fallsgass. It is recognized as a bird park and nature area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -39918,7 +39918,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Tiergarten in Gänsbach.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -40028,7 +40028,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és állatkert Gänsbachban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -40138,7 +40138,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și grădină zoologică în Gänsbach.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -40248,7 +40248,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and zoo located in Gänsbach.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -43020,7 +43020,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Wasserpark in der Stadt Rütti.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -43157,7 +43157,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy vízipark Rütti városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -43294,7 +43294,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic în orașul Rütti.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -43431,7 +43431,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is a water park located in the city of Rütti.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -43622,7 +43622,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein öffentliches Hallenbad und Freizeitzentrum in Wes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -43759,7 +43759,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Nyilvános fedett uszoda és szabadidőközpont Wesben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -43896,7 +43896,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină publică acoperită și centru de agrement în Wes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -44033,7 +44033,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A public indoor swimming pool and leisure center in Wes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -44205,7 +44205,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein öffentliches Hallenbad in Schaan mit verschiedenen Schwimmbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -44369,7 +44369,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Schaani nyilvános fedett uszoda különféle medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -44533,7 +44533,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină publică acoperită în Schaan, cu diverse bazine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -44697,7 +44697,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A public indoor swimming pool in Schaan with various pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -45317,7 +45317,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Ein öffentliches Hallenbad mit Sport- und Freizeitmöglichkeiten in Nülla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -45418,7 +45418,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Nyilvános fedett uszoda sportolási és szabadidős lehetőségekkel Nülla városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -45519,7 +45519,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O piscină publică interioară cu facilități sportive și de recreere în Nülla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -45620,7 +45620,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A public indoor swimming pool with sports and leisure facilities in Nülla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -45766,7 +45766,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Eine Freizeiteinrichtung in Gsperr mit Schwimm- und Badeangeboten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -45921,7 +45921,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Szabadidős létesítmény Gsperrben, úszási és fürdési lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46076,7 +46076,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "O unitate de recreere în Gsperr, cu facilități pentru înot și scăldat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46231,7 +46231,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A leisure facility in Gsperr with swimming and bathing facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46422,7 +46422,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Das Hallenbad Resch ist ein Wasserpark in der Stadt Rüttistein.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46550,7 +46550,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "A Hallenbad Resch egy vízipark Rüttistein városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46678,7 +46678,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch este un parc acvatic în orașul Rüttistein.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46806,7 +46806,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Hallenbad Resch",
                   "text": "Hallenbad Resch is a water park located in the city of Rüttistein.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.51508,
                         47.166187
@@ -46961,7 +46961,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Naturschutzgebiet und Vogelpark in Mauren bei Hinterschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -47134,7 +47134,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Természetvédelmi terület és madárpark Maurenben, Hinterschellenberg közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -47307,7 +47307,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "O rezervație naturală și parc de păsări în Mauren, lângă Hinterschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -47480,7 +47480,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A nature reserve and bird park in Mauren near Hinterschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -47697,7 +47697,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein Tierpark und Naturschutzgebiet in Vorderschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -47843,7 +47843,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy madárpark és állatkert Vorderschellenbergben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -47989,7 +47989,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este un parc zoologic situat în Vorderschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -48135,7 +48135,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a bird paradise and zoo in Vorderschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -48326,7 +48326,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein Tierpark in St. Georg, der als Natur- und Vogelschutzgebiet bekannt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -48490,7 +48490,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy állatkert St. Georg városában, amely madár- és természetvédelmi területként ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -48654,7 +48654,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este o grădină zoologică în St. Georg, cunoscută ca rezervație naturală și de păsări.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -48818,7 +48818,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a zoo in St. Georg, well-known as a bird sanctuary and nature reserve.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -49026,7 +49026,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Naturschutzgebiet im Biedermann-Areal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -49190,7 +49190,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és természetvédelmi terület a Biedermann-Areal környékén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -49354,7 +49354,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și rezervație naturală în Biedermann-Areal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -49518,7 +49518,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and nature reserve located in the Biedermann-Areal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -49726,7 +49726,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein Tierpark in Mittelschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -49881,7 +49881,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy állatkert Mittelschellenbergben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -50036,7 +50036,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este o grădină zoologică în Mittelschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -50191,7 +50191,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a zoo located in Mittelschellenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -50391,7 +50391,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein Tierpark in Gantenstein, der als Natur- und Vogelschutzgebiet bekannt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -50582,7 +50582,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy állatkert Gantenstein városában, amely madár- és természetvédelmi területként ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -50773,7 +50773,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este o grădină zoologică în Gantenstein, cunoscută ca rezervație naturală și de păsări.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -50964,7 +50964,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a zoo in Gantenstein, well-known as a bird sanctuary and nature reserve.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -51200,7 +51200,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark und Naturschutzgebiet in Loch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -51328,7 +51328,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark és természetvédelmi terület Loch településen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -51456,7 +51456,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări și rezervație naturală în Loch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -51584,7 +51584,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park and nature reserve located in Loch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -51756,7 +51756,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein Zoo in Platta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -51920,7 +51920,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy állatkert Platta településen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -52084,7 +52084,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este o grădină zoologică în Platta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -52248,7 +52248,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a zoo in Platta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -52456,7 +52456,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Das Vogelparadies Birka ist ein anerkanntes zoologisches Vogelschutzgebiet in Eichholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -52629,7 +52629,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A Vogelparadies Birka egy elismert madárvédelmi állatkert Eichholzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -52802,7 +52802,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka este un sanctuar zoologic de păsări recunoscut, situat în Eichholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -52975,7 +52975,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Vogelparadies Birka is a recognized zoological bird sanctuary situated in Eichholz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -57855,7 +57855,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein Vogelpark mit Spielplatz und Erholungsraum in Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -57947,7 +57947,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Madárpark játszótérrel és pihenőhellyel Maurenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -58039,7 +58039,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un parc de păsări cu loc de joacă și spațiu de recreere în Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -58131,7 +58131,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A bird park with a playground and recreation area in Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -58840,7 +58840,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Bekannter Vogelpark in Mauren, ideal für Familienausflüge.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -58914,7 +58914,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ismert madárpark Maurenben, ideális családi kirándulásokhoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -58988,7 +58988,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Parc de păsări cunoscut în Mauren, ideal pentru excursii în familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -59062,7 +59062,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Well-known bird park in Mauren, ideal for family outings.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -60181,7 +60181,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Ein kleiner Tierpark und Erholungsort in der Gemeinde Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -60273,7 +60273,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Kisebb állatpark és pihenőhely Mauren községben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -60365,7 +60365,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "Un mic parc zoologic și loc de recreere în comuna Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569
@@ -60457,7 +60457,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Vogelparadies Birka",
                   "text": "A small animal park and place of recreation in the municipality of Mauren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.550738,
                         47.215569

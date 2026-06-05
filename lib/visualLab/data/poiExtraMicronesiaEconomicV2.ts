@@ -251,7 +251,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Der Eel Pool ist eine Attraktion mit Aalen in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -260,7 +260,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Der Pohnpei Swimming Pool ist ein Wasserpark in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -379,7 +379,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Az Eel Pool egy angolnás látnivaló Koloniában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -388,7 +388,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "A Pohnpei Swimming Pool egy vízi park Koloniában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -507,7 +507,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool este o atracție cu anghile în Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -516,7 +516,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool este un parc acvatic în Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -635,7 +635,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "The Eel Pool is an attraction featuring eels in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -644,7 +644,7 @@ export const micronesiaEconomicV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "The Pohnpei Swimming Pool is a water park in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703

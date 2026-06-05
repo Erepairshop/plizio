@@ -55,7 +55,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Шаровед Антошка",
                   "text": "Sharoved Antoshka ist ein Themenpark in Almaty.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         76.838317,
                         43.221401
@@ -93,7 +93,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Шаровед Антошка",
                   "text": "A Sharoved Antoshka egy élménypark Almatiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         76.838317,
                         43.221401
@@ -131,7 +131,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Шаровед Антошка",
                   "text": "Sharoved Antoshka este un parc tematic din Almaty.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         76.838317,
                         43.221401
@@ -169,7 +169,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Шаровед Антошка",
                   "text": "Sharoved Antoshka is a theme park in Almaty.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         76.838317,
                         43.221401
@@ -252,7 +252,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "детский развлекательный центр Avatariya",
                   "text": "детский развлекательный центр Avatariya ist ein Themenpark für Kinder in Schymkent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.573787,
                         42.32755
@@ -306,7 +306,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бейбітшілік сквері",
                   "text": "Бейбітшілік сквері ist ein Erholungspark in Schymkent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.582899,
                         42.320108
@@ -398,7 +398,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "детский развлекательный центр Avatariya",
                   "text": "A детский развлекательный центр Avatariya egy gyermek vidámpark Shymkentben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.573787,
                         42.32755
@@ -452,7 +452,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бейбітшілік сквері",
                   "text": "A Бейбітшілік сквері egy rekreációs vidámpark Shymkentben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.582899,
                         42.320108
@@ -544,7 +544,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "детский развлекательный центр Avatariya",
                   "text": "детский развлекательный центр Avatariya este un parc tematic pentru copii situat în Schymkent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.573787,
                         42.32755
@@ -598,7 +598,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бейбітшілік сквері",
                   "text": "Бейбітшілік сквері este un parc tematic de agrement situat în Schymkent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.582899,
                         42.320108
@@ -690,7 +690,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "детский развлекательный центр Avatariya",
                   "text": "детский развлекательный центр Avatariya is a children's theme park located in Schymkent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.573787,
                         42.32755
@@ -744,7 +744,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бейбітшілік сквері",
                   "text": "Бейбітшілік сквері is a recreational theme park located in Schymkent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.582899,
                         42.320108
@@ -881,7 +881,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Цирк",
                   "text": "Der Karaganda-Zirkus ist ein bekannter Unterhaltungsort und ein markantes Zirkusgebäude in Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.084266,
                         49.799781
@@ -890,7 +890,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Мир фантазий РЦ",
                   "text": "Мир фантазий РЦ ist ein Vergnügungs- und Themenpark in der Stadt Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.083647,
                         49.803131
@@ -917,7 +917,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бегемот",
                   "text": "Бегемот ist ein Themenpark mit Unterhaltungsmöglichkeiten in der Stadt Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.100333,
                         49.810887
@@ -926,7 +926,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Дельфин",
                   "text": "Дельфин ist ein Wasserpark mit Wasserattraktionen in Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.101839,
                         49.815992
@@ -944,7 +944,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Акваленд",
                   "text": "Акваленд ist ein lokaler Wasserpark in der Stadt Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.127166,
                         49.778679
@@ -1063,7 +1063,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Цирк",
                   "text": "A Karagandai Cirkusz egy kiemelkedő szórakoztató központ és ismert cirkuszépület Qaraghandy városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.084266,
                         49.799781
@@ -1072,7 +1072,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Мир фантазий РЦ",
                   "text": "A Мир фантазий РЦ egy vidámpark és témapark Qaraghandy városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.083647,
                         49.803131
@@ -1099,7 +1099,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бегемот",
                   "text": "A Бегемот egy szórakozási lehetőségeket kínáló témapark Qaraghandy városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.100333,
                         49.810887
@@ -1108,7 +1108,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Дельфин",
                   "text": "A Дельфин egy vízipark, amely vízi látványosságokat kínál Qaraghandy városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.101839,
                         49.815992
@@ -1126,7 +1126,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Акваленд",
                   "text": "Az Акваленд egy helyi vízipark Qaraghandy városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.127166,
                         49.778679
@@ -1245,7 +1245,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Цирк",
                   "text": "Circul din Karaganda este un important loc de divertisment și o clădire notabilă în orașul Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.084266,
                         49.799781
@@ -1254,7 +1254,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Мир фантазий РЦ",
                   "text": "Мир фантазий РЦ este un parc tematic situat în orașul Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.083647,
                         49.803131
@@ -1281,7 +1281,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бегемот",
                   "text": "Бегемот este un parc tematic cu facilități de divertisment în orașul Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.100333,
                         49.810887
@@ -1290,7 +1290,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Дельфин",
                   "text": "Дельфин este un parc acvatic cu atracții de apă în orașul Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.101839,
                         49.815992
@@ -1308,7 +1308,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Акваленд",
                   "text": "Акваленд este un parc acvatic local situat în orașul Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.127166,
                         49.778679
@@ -1427,7 +1427,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Цирк",
                   "text": "The Karaganda Circus is a prominent entertainment venue and iconic circus building in Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.084266,
                         49.799781
@@ -1436,7 +1436,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Мир фантазий РЦ",
                   "text": "Мир фантазий РЦ is an amusement and theme park located in Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.083647,
                         49.803131
@@ -1463,7 +1463,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Бегемот",
                   "text": "Бегемот is a theme park offering entertainment facilities in Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.100333,
                         49.810887
@@ -1472,7 +1472,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Дельфин",
                   "text": "Дельфин is a water park featuring aquatic attractions in Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.101839,
                         49.815992
@@ -1490,7 +1490,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Акваленд",
                   "text": "Акваленд is a local water park located in the city of Qaraghandy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.127166,
                         49.778679
@@ -1672,7 +1672,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Happylon",
                   "text": "Happylon ist ein Themenpark in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.193521,
                         50.289456
@@ -1690,7 +1690,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Медуза парк",
                   "text": "Medusa Park ist ein Wasserpark in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.192828,
                         50.296198
@@ -1699,7 +1699,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Капитан Бриг",
                   "text": "Kapitan Brig ist ein Themenpark in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.187741,
                         50.285287
@@ -1717,7 +1717,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Yurta парк",
                   "text": "Yurta Park ist ein Themenpark in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190883,
                         50.296924
@@ -1735,7 +1735,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Tree of Life",
                   "text": "Tree of Life ist ein Wasserpark in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190253,
                         50.285323
@@ -1863,7 +1863,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Happylon",
                   "text": "A Happylon egy élménypark Aqtöbében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.193521,
                         50.289456
@@ -1881,7 +1881,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Медуза парк",
                   "text": "A Medusa Park egy vízi vidámpark Aqtöbében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.192828,
                         50.296198
@@ -1890,7 +1890,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Капитан Бриг",
                   "text": "A Kapitan Brig egy élménypark Aqtöbében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.187741,
                         50.285287
@@ -1908,7 +1908,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Yurta парк",
                   "text": "A Yurta Park egy élménypark Aqtöbében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190883,
                         50.296924
@@ -1926,7 +1926,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Tree of Life",
                   "text": "A Tree of Life egy vízi vidámpark Aqtöbében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190253,
                         50.285323
@@ -2054,7 +2054,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Happylon",
                   "text": "Happylon este un parc tematic din Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.193521,
                         50.289456
@@ -2072,7 +2072,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Медуза парк",
                   "text": "Medusa Park este un parc acvatic din Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.192828,
                         50.296198
@@ -2081,7 +2081,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Капитан Бриг",
                   "text": "Kapitan Brig este un parc tematic din Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.187741,
                         50.285287
@@ -2099,7 +2099,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Yurta парк",
                   "text": "Yurta Park este un parc tematic din Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190883,
                         50.296924
@@ -2117,7 +2117,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Tree of Life",
                   "text": "Tree of Life este un parc acvatic din Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190253,
                         50.285323
@@ -2245,7 +2245,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Happylon",
                   "text": "Happylon is a theme park in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.193521,
                         50.289456
@@ -2263,7 +2263,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Медуза парк",
                   "text": "Medusa Park is a water park in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.192828,
                         50.296198
@@ -2272,7 +2272,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Капитан Бриг",
                   "text": "Kapitan Brig is a theme park in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.187741,
                         50.285287
@@ -2290,7 +2290,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Yurta парк",
                   "text": "Yurta Park is a theme park in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190883,
                         50.296924
@@ -2308,7 +2308,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Tree of Life",
                   "text": "Tree of Life is a water park in Aqtöbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.190253,
                         50.285323
@@ -2472,7 +2472,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Вотервиль",
                   "text": "Вотервиль ist ein Wasserpark in Tarasan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         71.359688,
                         42.880402
@@ -2582,7 +2582,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Вотервиль",
                   "text": "A Вотервиль egy vízipark Tarasanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         71.359688,
                         42.880402
@@ -2692,7 +2692,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Вотервиль",
                   "text": "Вотервиль este un parc acvatic situat în Tarasan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         71.359688,
                         42.880402
@@ -2802,7 +2802,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Вотервиль",
                   "text": "Вотервиль is an aquatic park located in Tarasan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         71.359688,
                         42.880402
@@ -3611,7 +3611,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Керемет",
                   "text": "Керемет ist ein Vergnügungs- und Themenpark in der Stadt Atyrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.888408,
                         47.094267
@@ -3721,7 +3721,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Керемет",
                   "text": "A Керемет egy vidámpark és témapark Atirau városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.888408,
                         47.094267
@@ -3831,7 +3831,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Керемет",
                   "text": "Керемет este un parc de distracții și tematic situat în orașul Atyrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.888408,
                         47.094267
@@ -3941,7 +3941,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Керемет",
                   "text": "Керемет is an amusement and theme park situated in the city of Atyrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.888408,
                         47.094267
@@ -4157,7 +4157,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Галактика",
                   "text": "Галактика ist ein Freizeitpark in Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.382409,
                         51.218012
@@ -4175,7 +4175,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк аттракционов \"Джуманджи\"",
                   "text": "Парк аттракционов \"Джуманджи\" ist ein Freizeitpark in Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.347684,
                         51.213789
@@ -4184,7 +4184,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Funky Town",
                   "text": "Funky Town ist ein Freizeitpark in Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.38847,
                         51.220478
@@ -4240,7 +4240,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Галактика",
                   "text": "A Галактика egy vidámpark Oral városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.382409,
                         51.218012
@@ -4258,7 +4258,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк аттракционов \"Джуманджи\"",
                   "text": "A Парк аттракционов \"Джуманджи\" egy vidámpark Oral városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.347684,
                         51.213789
@@ -4267,7 +4267,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Funky Town",
                   "text": "A Funky Town egy vidámpark Oral városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.38847,
                         51.220478
@@ -4323,7 +4323,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Галактика",
                   "text": "Галактика este un parc de distracții în Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.382409,
                         51.218012
@@ -4341,7 +4341,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк аттракционов \"Джуманджи\"",
                   "text": "Парк аттракционов \"Джуманджи\" este un parc de distracții în Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.347684,
                         51.213789
@@ -4350,7 +4350,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Funky Town",
                   "text": "Funky Town este un parc de distracții în Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.38847,
                         51.220478
@@ -4406,7 +4406,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Галактика",
                   "text": "Галактика is a theme park located in Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.382409,
                         51.218012
@@ -4424,7 +4424,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк аттракционов \"Джуманджи\"",
                   "text": "Парк аттракционов \"Джуманджи\" is a theme park found in Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.347684,
                         51.213789
@@ -4433,7 +4433,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Funky Town",
                   "text": "Funky Town is a theme park located in Oral.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.38847,
                         51.220478
@@ -4579,7 +4579,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Нептун",
                   "text": "Wasserpark in Petropawl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.16816,
                         54.864975
@@ -4707,7 +4707,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Нептун",
                   "text": "Vízi park Petropawlban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.16816,
                         54.864975
@@ -4835,7 +4835,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Нептун",
                   "text": "Parc acvatic în Petropawl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.16816,
                         54.864975
@@ -4963,7 +4963,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Нептун",
                   "text": "Water park in Petropawl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.16816,
                         54.864975
@@ -5737,7 +5737,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Гол+Пас БК",
                   "text": "Freizeitpark in Turkestan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.293856,
                         43.28964
@@ -5937,7 +5937,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Гол+Пас БК",
                   "text": "Vidámpark Turkestanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.293856,
                         43.28964
@@ -6137,7 +6137,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Гол+Пас БК",
                   "text": "Parc de distracții în Turkestan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.293856,
                         43.28964
@@ -6337,7 +6337,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Гол+Пас БК",
                   "text": "Theme park in Turkestan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.293856,
                         43.28964
@@ -7044,7 +7044,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Аттракционы",
                   "text": "Der Attraktionsbereich ist ein Freizeitpark in Balchasch. Er bietet Fahrgeschäfte und Unterhaltung für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         74.978074,
                         46.833987
@@ -7145,7 +7145,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Аттракционы",
                   "text": "A Látványosságok területe egy vidámpark Balhasban. Szórakoztató túrákat és kikapcsolódást nyújt a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         74.978074,
                         46.833987
@@ -7246,7 +7246,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Аттракционы",
                   "text": "Zona de Atracții este un parc tematic situat în Balchasch. Aceasta oferă plimbări de agrement și divertisment pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         74.978074,
                         46.833987
@@ -7347,7 +7347,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Аттракционы",
                   "text": "The Attractions area is a theme park located in Balchasch. It provides amusement rides and entertainment for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         74.978074,
                         46.833987
@@ -7484,7 +7484,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк Независимости",
                   "text": "Парк Независимости ist ein Freizeitpark in Sätbajew.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.534998,
                         47.909935
@@ -7495,7 +7495,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк Независимости",
                   "text": "A Парк Независимости egy vidámpark Sätbajewben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.534998,
                         47.909935
@@ -7506,7 +7506,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк Независимости",
                   "text": "Парк Независимости este un parc de distracții în Sätbajew.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.534998,
                         47.909935
@@ -7517,7 +7517,7 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
             {
                   "name": "Парк Независимости",
                   "text": "Парк Независимости is a theme park situated in Sätbajew.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.534998,
                         47.909935

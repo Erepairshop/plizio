@@ -94,7 +94,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "גן החיות הלימודי חיפה",
                   "text": "Der Bildungszoo in Haifa bietet Einblicke in die Tierwelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.985233,
                         32.80657
@@ -456,7 +456,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "גן החיות הלימודי חיפה",
                   "text": "A haifai oktatási állatkert betekintést nyújt az élővilágba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.985233,
                         32.80657
@@ -818,7 +818,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "גן החיות הלימודי חיפה",
                   "text": "Grădina zoologică educativă din Haifa oferă perspective asupra faunei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.985233,
                         32.80657
@@ -1180,7 +1180,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Haifa educational zoo",
                   "text": "The educational zoo in Haifa provides insights into wildlife.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.985233,
                         32.80657
@@ -1626,7 +1626,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "גן החי בפתח תקווה",
                   "text": "Gan Hai in Petah Tikva ist ein Zoo, der verschiedene Tierarten in Petach Tikwa zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.873974,
                         32.087273
@@ -1808,7 +1808,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "גן החי בפתח תקווה",
                   "text": "A Gan Hai in Petah Tikva egy állatkert, amely különféle állatfajokat mutat be Petach Tikwa városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.873974,
                         32.087273
@@ -1990,7 +1990,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "גן החי בפתח תקווה",
                   "text": "Gan Hai in Petah Tikva este o grădină zoologică ce găzduiește diverse specii de animale în Petach Tikwa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.873974,
                         32.087273
@@ -2172,7 +2172,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Gan Hai in Petah Tikva",
                   "text": "Gan Hai in Petah Tikva is a zoo exhibiting various animal species in Petach Tikwa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.873974,
                         32.087273
@@ -5817,7 +5817,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "לונה פארק",
                   "text": "Der Luna Park ist ein großer Vergnügungs- und Themenpark in der Gegend von Ramat Gan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.812081,
                         32.106587
@@ -6287,7 +6287,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "לונה פארק",
                   "text": "A Luna Park egy jelentős vidámpark Ramat Gan környékén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.812081,
                         32.106587
@@ -6757,7 +6757,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "לונה פארק",
                   "text": "Luna Park este un important parc de distracții și tematic situat în zona Ramat Gan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.812081,
                         32.106587
@@ -7227,7 +7227,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Luna Park",
                   "text": "Luna Park is a major amusement and theme park located in the Ramat Gan area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.812081,
                         32.106587
@@ -8012,7 +8012,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "אשקלונה",
                   "text": "Ashkeluna ist ein beliebter Wasserpark mit Freizeitangeboten und Pools in Aschkelon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.554136,
                         31.672694
@@ -8140,7 +8140,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "אשקלונה",
                   "text": "Az Ashkeluna egy népszerű vízipark, amely szabadidős tevékenységeket és medencéket kínál Aschkelonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.554136,
                         31.672694
@@ -8268,7 +8268,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "אשקלונה",
                   "text": "Ashkeluna este un parc acvatic popular care oferă activități de agrement și piscine în Aschkelon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.554136,
                         31.672694
@@ -8396,7 +8396,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Ashkeluna",
                   "text": "Ashkeluna is a popular water park offering recreational activities and pools in Aschkelon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.554136,
                         31.672694
@@ -8672,7 +8672,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת חי",
                   "text": "Dieser Streichelzoo ist eine familienfreundliche Tierattraktion in Kfar Saba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.925614,
                         32.180761
@@ -8863,7 +8863,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת חי",
                   "text": "Ez az állatsimogató egy családbarát állatos látványosság Kfar Sabában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.925614,
                         32.180761
@@ -9054,7 +9054,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת חי",
                   "text": "Această grădină zoologică cu animale blânde este o atracție prietenoasă cu familiile situată în Kfar Saba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.925614,
                         32.180761
@@ -9245,7 +9245,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Petting Zoo",
                   "text": "This petting zoo is a family-friendly animal attraction located in Kfar Saba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.925614,
                         32.180761
@@ -9507,7 +9507,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת החי",
                   "text": "Dieser lokale Streichelzoo bietet familienfreundliche Tierbegegnungen in Herzlia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -9635,7 +9635,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת החי",
                   "text": "Ez a helyi állatsimogató családbarát állatos programokat kínál Herzliyában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -9763,7 +9763,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת החי",
                   "text": "Această grădină zoologică locală oferă întâlniri cu animale, potrivite pentru familii, în Herzliya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -9891,7 +9891,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Petting Zoo",
                   "text": "This local petting zoo offers family-friendly animal encounters in Herzliya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -11832,7 +11832,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת החי",
                   "text": "Der Streichelzoo in Ra’anana bietet Tieren ein Zuhause und Familien ein Erlebnis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -11933,7 +11933,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת החי",
                   "text": "A Ra’ananai Állatsimogató állatkert a városban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -12034,7 +12034,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "פינת החי",
                   "text": "Grădina Zoologică din Ra’anana oferă familiilor ocazia de a vedea animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671
@@ -12135,7 +12135,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
             {
                   "name": "Petting Zoo",
                   "text": "The Petting Zoo in Ra’anana is a local zoo facility.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.85191,
                         32.187671

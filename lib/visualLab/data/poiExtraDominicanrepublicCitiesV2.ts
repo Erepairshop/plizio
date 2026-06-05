@@ -462,7 +462,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico y Botánico Municipal",
                   "text": "Dieser Zoo und botanische Garten in Moca bietet Einblicke in die lokale Tier- und Pflanzenwelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.518677,
                         19.391518
@@ -500,7 +500,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico y Botánico Municipal",
                   "text": "Ez a mocai állatkert és botanikus kert bepillantást nyújt a helyi élővilágba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.518677,
                         19.391518
@@ -538,7 +538,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico y Botánico Municipal",
                   "text": "Această grădină zoologică și botanică din Moca oferă o incursiune în flora și fauna locală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.518677,
                         19.391518
@@ -576,7 +576,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico y Botánico Municipal",
                   "text": "This zoo and botanical garden in Moca offers a look at local wildlife and flora.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.518677,
                         19.391518

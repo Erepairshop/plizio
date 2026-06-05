@@ -252,7 +252,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
             {
                   "name": "Luna Park Katerina",
                   "text": "Ein Vergnügungspark in Iraklio, der Freizeitunterhaltung für alle Altersgruppen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.144247,
                         35.34085
@@ -506,7 +506,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
             {
                   "name": "Luna Park Katerina",
                   "text": "Vidámpark Iraklio városában, amely minden korosztály számára kikapcsolódást nyújt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.144247,
                         35.34085
@@ -760,7 +760,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
             {
                   "name": "Luna Park Katerina",
                   "text": "Un parc de distracții din Iraklio care oferă divertisment pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.144247,
                         35.34085
@@ -1014,7 +1014,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
             {
                   "name": "Luna park",
                   "text": "An amusement park in Iraklio offering recreational entertainment for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.144247,
                         35.34085
@@ -5536,7 +5536,7 @@ imageHint: "Rhodes Palace of the Grand Master",
             {
                   "name": "Ενυδρείο",
                   "text": "Das Aquarium befindet sich in einer markanten Hydrobiologischen Station aus den 1930er Jahren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.220706,
                         36.457038
@@ -5915,7 +5915,7 @@ imageHint: "Rhodes Palace of the Grand Master",
             {
                   "name": "Ενυδρείο",
                   "text": "Az akvárium egy jellegzetes, 1930-as évekből származó hidrobiológiai állomáson található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.220706,
                         36.457038
@@ -6294,7 +6294,7 @@ imageHint: "Rhodes Palace of the Grand Master",
             {
                   "name": "Ενυδρείο",
                   "text": "Acvariul este situat într-o stație hidrobiologică distinctivă din anii 1930.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.220706,
                         36.457038
@@ -6673,7 +6673,7 @@ imageHint: "Rhodes Palace of the Grand Master",
             {
                   "name": "Ενυδρείο",
                   "text": "The aquarium is housed in a distinctive 1930s hydrobiological station.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.220706,
                         36.457038
@@ -9574,7 +9574,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
             {
                   "name": "Πλατεία Χρ. Σμύρνης",
                   "text": "Ein öffentlicher Platz und Erholungsbereich im Herzen von Edessa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.043934,
                         40.795733
@@ -9657,7 +9657,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
             {
                   "name": "Πλατεία Χρ. Σμύρνης",
                   "text": "Közterület és rekreációs helyszín Edessza szívében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.043934,
                         40.795733
@@ -9740,7 +9740,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
             {
                   "name": "Πλατεία Χρ. Σμύρνης",
                   "text": "O piață publică și zonă de recreere în inima orașului Edessa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.043934,
                         40.795733
@@ -9823,7 +9823,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
             {
                   "name": "Πλατεία Χρ. Σμύρνης",
                   "text": "A public square and recreational area in the heart of Edessa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.043934,
                         40.795733

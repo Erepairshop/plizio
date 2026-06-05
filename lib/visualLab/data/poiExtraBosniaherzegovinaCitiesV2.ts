@@ -8,7 +8,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Vodeni park Sanski Most",
                   "text": "Ein Wasserpark in Sanski Most mit verschiedenen Pools und Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.682313,
                         44.744567
@@ -46,7 +46,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Vodeni park Sanski Most",
                   "text": "Sanski Most-i vízi park, amely különféle medencékkel és szabadidős tevékenységekkel várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.682313,
                         44.744567
@@ -84,7 +84,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Vodeni park Sanski Most",
                   "text": "Un parc acvatic din Sanski Most care oferă diverse piscine și activități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.682313,
                         44.744567
@@ -122,7 +122,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Vodeni park Sanski Most",
                   "text": "A water park in Sanski Most offering various pools and recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.682313,
                         44.744567
@@ -6933,7 +6933,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Bazen 9. Januar",
                   "text": "Ein moderner Wasserpark in Šipovo, der Erholung und Freizeitspaß für Besucher bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.087425,
                         44.284516
@@ -6944,7 +6944,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Bazen 9. Januar",
                   "text": "Egy modern vízi park Šipovóban, amely kikapcsolódást és szórakozást kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.087425,
                         44.284516
@@ -6955,7 +6955,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Bazen 9. Januar",
                   "text": "Un parc acvatic modern din Šipovo, care oferă relaxare și distracție vizitatorilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.087425,
                         44.284516
@@ -6966,7 +6966,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Bazen 9. Januar",
                   "text": "A modern water park in Šipovo offering recreation and leisure fun for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.087425,
                         44.284516
@@ -9619,7 +9619,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Terme Ilidža",
                   "text": "Ein beliebter Thermalbad- und Wasserparkkomplex mit Innen- und Außenbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.311426,
                         43.82773
@@ -9711,7 +9711,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Terme Ilidža",
                   "text": "Népszerű termálfürdő és vízipark komplexum beltéri és kültéri medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.311426,
                         43.82773
@@ -9803,7 +9803,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Terme Ilidža",
                   "text": "Un complex popular de băi termale și parc acvatic, oferind piscine interioare și exterioare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.311426,
                         43.82773
@@ -9895,7 +9895,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
             {
                   "name": "Terme Ilidža",
                   "text": "A popular thermal spa and water park complex offering indoor and outdoor pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.311426,
                         43.82773

@@ -3967,7 +3967,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Jojo Land",
                   "text": "Jojo Land ist ein Vergnügungs- und Themenpark in Tanger.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.858818,
                         35.773465
@@ -4032,7 +4032,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Jojo Land",
                   "text": "A Jojo Land egy vidámpark és tematikus park Tangerben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.858818,
                         35.773465
@@ -4097,7 +4097,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Jojo Land",
                   "text": "Jojo Land este un parc de distracții și tematic situat în Tanger.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.858818,
                         35.773465
@@ -4162,7 +4162,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Jojo Land",
                   "text": "Jojo Land is an amusement and theme park located in Tangier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.858818,
                         35.773465
@@ -4294,7 +4294,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Vallée des Oiseaux",
                   "text": "Zoo in Agadir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.602126,
                         30.419633
@@ -4359,7 +4359,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Vallée des Oiseaux",
                   "text": "Állatkert Agadirban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.602126,
                         30.419633
@@ -4424,7 +4424,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Vallée des Oiseaux",
                   "text": "Grădină zoologică în Agadir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.602126,
                         30.419633
@@ -4489,7 +4489,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Vallée des Oiseaux",
                   "text": "Zoo in Agadir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.602126,
                         30.419633
@@ -4684,7 +4684,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Lahboul Zoo",
                   "text": "Der Lahboul Zoo ist ein zoologischer Garten in Meknès.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.561604,
                         33.897605
@@ -5010,7 +5010,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Lahboul Zoo",
                   "text": "A Lahboul Állatkert Meknesz városában található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.561604,
                         33.897605
@@ -5336,7 +5336,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Lahboul Zoo",
                   "text": "Grădina Zoologică Lahboul este un parc zoologic situat în Meknes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.561604,
                         33.897605
@@ -5662,7 +5662,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Lahboul Zoo",
                   "text": "Lahboul Zoo is a zoological park situated in Meknes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.561604,
                         33.897605
@@ -6028,7 +6028,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction et d'Animation d'Oujda",
                   "text": "Dieser Freizeitpark in Oujda bietet verschiedene Fahrgeschäfte und familienfreundliche Unterhaltung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.912032,
                         34.697859
@@ -6165,7 +6165,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction et d'Animation d'Oujda",
                   "text": "Ez az oujdai vidámpark különféle szórakoztató túrákat és családbarát szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.912032,
                         34.697859
@@ -6302,7 +6302,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction et d'Animation d'Oujda",
                   "text": "Acest parc tematic din Oujda oferă diverse atracții și divertisment pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.912032,
                         34.697859
@@ -6439,7 +6439,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction et d'Animation d'Oujda",
                   "text": "This theme park in Oujda offers various amusement rides and family-friendly entertainment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.912032,
                         34.697859
@@ -6607,7 +6607,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Waves Aquapark Hotel",
                   "text": "Wasserpark in Kenitra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.554301,
                         34.274735
@@ -6636,7 +6636,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Waves Aquapark Hotel",
                   "text": "Vízipark Kenitrában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.554301,
                         34.274735
@@ -6665,7 +6665,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Waves Aquapark Hotel",
                   "text": "Parc acvatic în Kenitra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.554301,
                         34.274735
@@ -6694,7 +6694,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Waves Aquapark Hotel",
                   "text": "Water park in Kenitra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.554301,
                         34.274735
@@ -8740,7 +8740,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Picine Municipale",
                   "text": "Wasserpark in Settat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.622446,
                         33.013951
@@ -8760,7 +8760,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Picine Municipale",
                   "text": "Vízipark Settatban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.622446,
                         33.013951
@@ -8780,7 +8780,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Picine Municipale",
                   "text": "Parc acvatic în Settat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.622446,
                         33.013951
@@ -8800,7 +8800,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Picine Municipale",
                   "text": "Water park in Settat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.622446,
                         33.013951
@@ -13204,7 +13204,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parque de jeux enfants",
                   "text": "Ein Freizeitpark für Kinder in Ifrane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.114257,
                         33.525315
@@ -13242,7 +13242,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parque de jeux enfants",
                   "text": "Vidámpark gyermekeknek Ifrane-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.114257,
                         33.525315
@@ -13280,7 +13280,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parque de jeux enfants",
                   "text": "Un parc de distracții pentru copii în Ifrane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.114257,
                         33.525315
@@ -13318,7 +13318,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
             {
                   "name": "Parque de jeux enfants",
                   "text": "An amusement park for children in Ifrane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.114257,
                         33.525315

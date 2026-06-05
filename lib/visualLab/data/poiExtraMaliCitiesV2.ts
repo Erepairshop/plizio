@@ -497,7 +497,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             {
                   "name": "Stade Bassi Coulibaly",
                   "text": "Das Stade Bassi Coulibaly ist ein lokaler Freizeitpark in der Stadt Kayes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -11.429161,
                         14.446633
@@ -544,7 +544,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             {
                   "name": "Stade Bassi Coulibaly",
                   "text": "A Stade Bassi Coulibaly egy helyi vidámpark Kayes városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -11.429161,
                         14.446633
@@ -591,7 +591,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             {
                   "name": "Stade Bassi Coulibaly",
                   "text": "Stade Bassi Coulibaly este un parc de distracții local situat în orașul Kayes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -11.429161,
                         14.446633
@@ -638,7 +638,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             {
                   "name": "Stade Bassi Coulibaly",
                   "text": "The Stade Bassi Coulibaly is a local theme park located in the city of Kayes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -11.429161,
                         14.446633

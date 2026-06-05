@@ -1842,7 +1842,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "A. S. Pushkin nomli bolalar bog'i",
                   "text": "Ein beliebter Freizeitpark für Familien in Andischan, benannt nach Alexander Puschkin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.358041,
                         40.765447
@@ -1934,7 +1934,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "A. S. Pushkin nomli bolalar bog'i",
                   "text": "Népszerű családi szabadidőpark Andizsanban, amely Puskin nevét viseli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.358041,
                         40.765447
@@ -2026,7 +2026,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "A. S. Pushkin nomli bolalar bog'i",
                   "text": "Un parc de distracții popular pentru familii în Andijan, numit după Pușkin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.358041,
                         40.765447
@@ -2118,7 +2118,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "A. S. Pushkin nomli bolalar bog'i",
                   "text": "A popular family theme park in Andijan named after Alexander Pushkin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.358041,
                         40.765447
@@ -2402,7 +2402,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Jumanji\" balalar dem alıw orayı",
                   "text": "Ein beliebtes Indoor-Vergnügungs- und Spielzentrum für Familien in Nukus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.600598,
                         42.467331
@@ -2411,7 +2411,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Jungle Land",
                   "text": "Ein Freizeitpark in Nukus mit verschiedenen Fahrgeschäften und Attraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.639029,
                         42.462049
@@ -2465,7 +2465,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Nókis haywanat baǵı",
                   "text": "Ein lokaler Zoo in Nukus mit einer Vielzahl regionaler Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.612761,
                         42.442843
@@ -2638,7 +2638,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Jumanji\" balalar dem alıw orayı",
                   "text": "Népszerű fedett szórakoztató- és játszóközpont családok számára Nukusban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.600598,
                         42.467331
@@ -2647,7 +2647,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Jungle Land",
                   "text": "Vidámpark Nukusban, amely különféle játékokat és látnivalókat kínál gyermekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.639029,
                         42.462049
@@ -2701,7 +2701,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Nókis haywanat baǵı",
                   "text": "Helyi állatkert Nukusban, amely különféle regionális állatfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.612761,
                         42.442843
@@ -2874,7 +2874,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Jumanji\" balalar dem alıw orayı",
                   "text": "Un centru popular de distracții și joacă în interior pentru familii în Nukus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.600598,
                         42.467331
@@ -2883,7 +2883,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Jungle Land",
                   "text": "Un parc tematic din Nukus care oferă diverse atracții și jocuri pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.639029,
                         42.462049
@@ -2937,7 +2937,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Nókis haywanat baǵı",
                   "text": "O grădină zoologică locală din Nukus care adăpostește o varietate de specii de animale regionale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.612761,
                         42.442843
@@ -3110,7 +3110,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Children's entertainment center \"Jumanji\"",
                   "text": "A popular indoor amusement and play center for families in Nukus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.600598,
                         42.467331
@@ -3119,7 +3119,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Jungle Land",
                   "text": "A theme park in Nukus offering various rides and attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.639029,
                         42.462049
@@ -3173,7 +3173,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Nukus Zoo",
                   "text": "A local zoo in Nukus featuring a variety of regional animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         59.612761,
                         42.442843
@@ -3439,7 +3439,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "Dieser lokale Wasserpark bietet Freizeitschwimmen und Wassersportaktivitäten in Kokand.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         70.942779,
                         40.536029
@@ -3522,7 +3522,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "Ez a helyi vízipark szabadidős úszást és vízi tevékenységeket kínál Kokandban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         70.942779,
                         40.536029
@@ -3605,7 +3605,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "Acest parc acvatic local oferă înot recreativ și activități acvatice în Kokand.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         70.942779,
                         40.536029
@@ -3688,7 +3688,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Аквапарк",
                   "text": "This local water park offers recreational swimming and aquatic activities in Kokand.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         70.942779,
                         40.536029
@@ -4026,7 +4026,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Akvapark",
                   "text": "Ein moderner Wasserpark in Nawoi mit verschiedenen Pools und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.363152,
                         40.107122
@@ -4035,7 +4035,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Shahar hayvonot bog'i",
                   "text": "Der städtische Zoo von Nawoi beherbergt eine Vielzahl von Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.366552,
                         40.103803
@@ -4073,7 +4073,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Akvapark",
                   "text": "Modern vízipark Navoiyban, különféle medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.363152,
                         40.107122
@@ -4082,7 +4082,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Shahar hayvonot bog'i",
                   "text": "Navoiy városi állatkertje, amely számos állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.366552,
                         40.103803
@@ -4120,7 +4120,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Akvapark",
                   "text": "Un parc acvatic modern în Navoiy, cu diverse piscine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.363152,
                         40.107122
@@ -4129,7 +4129,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Shahar hayvonot bog'i",
                   "text": "Grădina zoologică a orașului Navoiy, care găzduiește o varietate de specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.366552,
                         40.103803
@@ -4167,7 +4167,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Akvapark",
                   "text": "A modern water park in Navoiy featuring various pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.363152,
                         40.107122
@@ -4176,7 +4176,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Shahar hayvonot bog'i",
                   "text": "The city zoo of Navoiy, home to a variety of animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.366552,
                         40.103803
@@ -4270,7 +4270,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Istiqlol\" bolalar istirohat bog'i",
                   "text": "Der Kinderfreizeitpark \"Istiqlol\" bietet verschiedene Fahrgeschäfte und Aktivitäten in Dschizzach.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.823401,
                         40.117069
@@ -4362,7 +4362,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Istiqlol\" bolalar istirohat bog'i",
                   "text": "Az \"Istiqlol\" Gyermek Vidámpark különféle túrákat és tevékenységeket kínál Dschizzachban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.823401,
                         40.117069
@@ -4454,7 +4454,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Istiqlol\" bolalar istirohat bog'i",
                   "text": "Parcul de distracții pentru copii \"Istiqlol\" oferă diverse atracții și activități în Dschizzach.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.823401,
                         40.117069
@@ -4546,7 +4546,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "\"Istiqlol\" bolalar istirohat bog'i",
                   "text": "The \"Istiqlol\" Children's Amusement Park offers various rides and activities in Dschizzach.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.823401,
                         40.117069
@@ -4703,7 +4703,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "NEMO akvarium baliq",
                   "text": "Ein Aquarium in Urgentsch, das verschiedene exotische und heimische Fischarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616883,
                         41.560434
@@ -4712,7 +4712,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "GOLD FISH akvarium baliq",
                   "text": "Eine spezialisierte Aquariumsattraktion in Urgentsch mit farbenfrohen Fischarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.607732,
                         41.566165
@@ -4721,7 +4721,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Xorazm baliq baliqlat do'koni",
                   "text": "Ein lokales Aquarium und ein fischthematischer Ort in der Stadt Urgentsch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.619092,
                         41.551038
@@ -4739,7 +4739,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amir Temur Istrohat Bog'i",
                   "text": "Ein öffentlicher Freizeitpark in Urgentsch, benannt zu Ehren des historischen Führers Amir Timur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616362,
                         41.557789
@@ -4831,7 +4831,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "NEMO akvarium baliq",
                   "text": "Urgencsi akvárium, amely különféle egzotikus és helyi halfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616883,
                         41.560434
@@ -4840,7 +4840,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "GOLD FISH akvarium baliq",
                   "text": "Speciális akváriumi látványosság Urgencsben, színes halfajokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.607732,
                         41.566165
@@ -4849,7 +4849,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Xorazm baliq baliqlat do'koni",
                   "text": "Helyi akvárium és hal-tematikájú helyszín Urgencs városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.619092,
                         41.551038
@@ -4867,7 +4867,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amir Temur Istrohat Bog'i",
                   "text": "Nyilvános vidámpark Urgencsben, amelyet a történelmi vezető, Timur Lenk tiszteletére neveztek el.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616362,
                         41.557789
@@ -4959,7 +4959,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "NEMO akvarium baliq",
                   "text": "Un acvariu din Urgentsch care expune diverse specii de pești exotici și locali.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616883,
                         41.560434
@@ -4968,7 +4968,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "GOLD FISH akvarium baliq",
                   "text": "O atracție specializată de acvariu din Urgentsch, cu specii de pești colorați.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.607732,
                         41.566165
@@ -4977,7 +4977,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Xorazm baliq baliqlat do'koni",
                   "text": "Un acvariu local și un sit cu tematică piscicolă în orașul Urgentsch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.619092,
                         41.551038
@@ -4995,7 +4995,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amir Temur Istrohat Bog'i",
                   "text": "Un parc tematic public din Urgentsch numit în onoarea liderului istoric Amir Timur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616362,
                         41.557789
@@ -5087,7 +5087,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "NEMO akvarium baliq",
                   "text": "An aquarium in Urgentsch displaying various species of exotic and local fish.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616883,
                         41.560434
@@ -5096,7 +5096,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "GOLD FISH akvarium baliq",
                   "text": "A specialized aquarium attraction in Urgentsch featuring colorful fish species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.607732,
                         41.566165
@@ -5105,7 +5105,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Xorazm baliq baliqlat do'koni",
                   "text": "A local aquarium and fish-themed site in the city of Urgentsch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.619092,
                         41.551038
@@ -5123,7 +5123,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amir Timur park",
                   "text": "A public theme park in Urgentsch named in honor of the historical leader Amir Timur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         60.616362,
                         41.557789
@@ -5271,7 +5271,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Do'stlik istirohat bog'i",
                   "text": "Ein Park in Termiz, der der Freundschaft und Erholung gewidmet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.285459,
                         37.241162
@@ -5289,7 +5289,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Hayvonot bogi",
                   "text": "Der Zoo von Termiz bietet Einblicke in die lokale und exotische Tierwelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.257529,
                         37.214993
@@ -5307,7 +5307,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amudaryo dam olish maskani",
                   "text": "Ein Erholungsgebiet und Park am Ufer des Amudarja in Termiz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.31284,
                         37.233118
@@ -5345,7 +5345,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Do'stlik istirohat bog'i",
                   "text": "Termizi park, amelyet a barátságnak és a kikapcsolódásnak szenteltek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.285459,
                         37.241162
@@ -5363,7 +5363,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Hayvonot bogi",
                   "text": "A termizi állatkert betekintést nyújt a helyi és egzotikus állatvilágba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.257529,
                         37.214993
@@ -5381,7 +5381,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amudaryo dam olish maskani",
                   "text": "Üdülőhely és park az Amudarja partján, Termizben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.31284,
                         37.233118
@@ -5419,7 +5419,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Do'stlik istirohat bog'i",
                   "text": "Un parc în Termiz dedicat prieteniei și recreerii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.285459,
                         37.241162
@@ -5437,7 +5437,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Hayvonot bogi",
                   "text": "Grădina zoologică din Termiz oferă o incursiune în fauna locală și exotică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.257529,
                         37.214993
@@ -5455,7 +5455,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amudaryo dam olish maskani",
                   "text": "O zonă de recreere și parc pe malul râului Amu Daria în Termiz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.31284,
                         37.233118
@@ -5493,7 +5493,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Do'stlik istirohat bog'i",
                   "text": "A park in Termiz dedicated to friendship and recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.285459,
                         37.241162
@@ -5511,7 +5511,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Hayvonot bogi",
                   "text": "The Termiz zoo offers insights into local and exotic wildlife.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.257529,
                         37.214993
@@ -5529,7 +5529,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Amudaryo dam olish maskani",
                   "text": "A recreation area and park on the banks of the Amu Darya in Termiz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.31284,
                         37.233118
@@ -6657,7 +6657,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Амфитеатр",
                   "text": "Ein Amphitheater in Kattakurgan, das als Zentrum für kulturelle Veranstaltungen dient.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         66.294258,
                         39.901447
@@ -6686,7 +6686,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Амфитеатр",
                   "text": "Amfiteátrum Kattakurganban, amely kulturális események központjaként szolgál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         66.294258,
                         39.901447
@@ -6715,7 +6715,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Амфитеатр",
                   "text": "Un amfiteatru în Kattakurgan, care servește ca centru pentru evenimente culturale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         66.294258,
                         39.901447
@@ -6744,7 +6744,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Амфитеатр",
                   "text": "An amphitheatre in Kattakurgan serving as a hub for cultural events.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         66.294258,
                         39.901447
@@ -7839,7 +7839,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Парк культуры и Отдыха",
                   "text": "Ein zentraler Park für Kultur und Erholung in Jangijul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.060501,
                         41.118815
@@ -7848,7 +7848,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Oazis",
                   "text": "Ein Wasserpark in Jangijul, der Freizeitspaß und Abkühlung bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.042885,
                         41.105236
@@ -7868,7 +7868,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Парк культуры и Отдыха",
                   "text": "Központi kulturális és szabadidőpark Jangijulban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.060501,
                         41.118815
@@ -7877,7 +7877,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Oazis",
                   "text": "Vízipark Jangijulban, amely szórakozást és felfrissülést kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.042885,
                         41.105236
@@ -7897,7 +7897,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Парк культуры и Отдыха",
                   "text": "Un parc central de cultură și recreere în Jangijul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.060501,
                         41.118815
@@ -7906,7 +7906,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Oazis",
                   "text": "Un parc acvatic în Jangijul, care oferă distracție și răcorire.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.042885,
                         41.105236
@@ -7926,7 +7926,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Парк культуры и Отдыха",
                   "text": "A central park for culture and recreation in Jangijul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.060501,
                         41.118815
@@ -7935,7 +7935,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             {
                   "name": "Oazis",
                   "text": "A water park in Jangijul offering fun and refreshment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.042885,
                         41.105236

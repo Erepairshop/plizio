@@ -508,6 +508,195 @@ export const switzerlandEconomicV2: POI[] = [
                         8.502994,
                         47.401287
                   ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Der Untere Katzensee bei Zürich West ist ein beliebtes Naherholungsgebiet mit Badegelegenheit.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Der Obere Katzensee ist ein Naturschutzgebiet bei Zürich West und lädt zur Naturbeobachtung ein.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Ein Anreicherungsbecken in Zürich West, das in die lokale Grünlandschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Teil der Wasserversorgung in Zürich West in einer für Spaziergänge geeigneten Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Ein ruhiges Gewässer in Zürich West, das zu erholsamen Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "Ein beschaulicher Weiher in Zürich West, ideal für eine kleine Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "Ein lokales Gewässer in Zürich West, das eine ruhige Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Der Zürichsee bietet in Zürich West malerische Ausblicke und Möglichkeiten zur Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "Ein familienfreundlicher Spielplatz in Zürich West, der Kindern viel Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "Ein abwechslungsreicher Spielplatz in Zürich West, der ein idealer Treffpunkt für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "Diese Grünanlage in Zürich West bietet Familien eine angenehme Umgebung zum Spielen und Verweilen.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Hohenklingenallee",
+                  "text": "Ein Spielbereich in Zürich West, der für Kinder sicher und unterhaltsam gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        8.489449,
+                        47.402257
+                  ]
+            },
+            {
+                  "name": "Outlane - Spielbar und Flipperraum",
+                  "text": "Diese Spielhalle in Zürich West bietet Unterhaltung und Spielspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.498048,
+                        47.383002
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "Ein kleinerer Spielplatz in Zürich West, der Familien eine ruhige Atmosphäre zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "Eine gepflegte Anlage in Zürich West, die zum Spielen im Freien und zum Entspannen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "Ein beliebter Spielplatz in Zürich West, an dem Kinder sicher spielen und neue Freunde finden können.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Lommisweg B",
+                  "text": "Ein moderner Spielbereich in Zürich West, der für abwechslungsreiche Freizeitgestaltung sorgt.",
+                  "category": "family",
+                  "coords": [
+                        8.486578,
+                        47.389893
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "Ein Treffpunkt für Familien in Zürich West, der zum Spielen und zum Genießen der frischen Luft einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "Ein familienfreundlicher Ort in Zürich West, der ideal für einen Nachmittagsausflug mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "Ein weitläufiger Spielbereich in Zürich West, der viel Platz für Bewegung und Spiel bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "Ein vielseitiger Spielort in Zürich West, der bei Familien der Umgebung sehr beliebt ist.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
+                  ]
             }
       ],
       "hu": [
@@ -968,6 +1157,195 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.502994,
                         47.401287
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "A Zürich West melletti Unterer Katzensee népszerű pihenőhely fürdőzési lehetőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Az Obere Katzensee természetvédelmi terület Zürich Westnél, amely természetjárásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Egy dúsító medence Zürich Westben, amely a helyi zöld tájba illeszkedik.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Zürich West vízellátásának része, sétákra alkalmas környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Egy csendes vízfelület Zürich West területén, amely pihentető sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "Egy nyugodt tavacska Zürich West területén, amely ideális egy kis kikapcsolódáshoz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "Egy helyi vízfelület Zürich West területén, amely nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "A Zürichi-tó festői kilátást és vízparti kikapcsolódási lehetőségeket kínál Zürich West területén.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "Családbarát játszótér Zürich West területén, amely tágas teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "Változatos játszótér Zürich West területén, amely ideális találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "Ez a zöldterület Zürich West területén kellemes környezetet kínál a családoknak a játékhoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Hohenklingenallee",
+                  "text": "Egy játszóterület Zürich West területén, amelyet biztonságosra és szórakoztatóra terveztek a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.489449,
+                        47.402257
+                  ]
+            },
+            {
+                  "name": "Outlane - Spielbar und Flipperraum",
+                  "text": "Ez a játékterem Zürich West területén szórakozást és játékélményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        8.498048,
+                        47.383002
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "Egy kisebb játszótér Zürich West területén, amely nyugodt légkört biztosít a családoknak a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "Egy gondozott park Zürich West területén, amely szabadtéri játékra és pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "Népszerű játszótér Zürich West területén, ahol a gyerekek biztonságban játszhatnak és barátkozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Lommisweg B",
+                  "text": "Modern játszóterület Zürich West területén, amely változatos szabadidős tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.486578,
+                        47.389893
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "Találkozóhely családoknak Zürich West területén, amely játékra és a friss levegő élvezetére hív.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "Családbarát hely Zürich West területén, amely ideális egy délutáni kiránduláshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "Tágas játszóterület Zürich West területén, amely sok helyet biztosít a mozgáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "Sokoldalú játszóhely Zürich West területén, amely igen népszerű a környékbeli családok körében.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
                   ]
             }
       ],
@@ -1430,6 +1808,195 @@ export const switzerlandEconomicV2: POI[] = [
                         8.502994,
                         47.401287
                   ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Unterer Katzensee din Zurich West este o zonă de recreere populară cu posibilități de scăldat.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Oberer Katzensee este o rezervație naturală în Zurich West, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Un bazin de infiltrare în Zurich West, integrat în peisajul verde local.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Parte a alimentării cu apă din Zurich West, într-un mediu pretabil pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "O zonă cu apă liniștită în Zurich West, care invită la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "Un iaz liniștit în Zurich West, ideal pentru o scurtă evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "O apă locală în Zurich West, care oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Lacul Zurich oferă priveliști pitorești și oportunități de recreere pe malul apei în Zurich West.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "Un teren de joacă pentru familii în Zurich West, care oferă copiilor mult spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "Un teren de joacă variat în Zurich West, care reprezintă un loc de întâlnire ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "Această zonă verde din Zurich West oferă familiilor un mediu plăcut pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Hohenklingenallee",
+                  "text": "O zonă de joacă în Zurich West, concepută pentru a fi sigură și distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.489449,
+                        47.402257
+                  ]
+            },
+            {
+                  "name": "Outlane - Spielbar und Flipperraum",
+                  "text": "Această sală de jocuri din Zurich West oferă divertisment și distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.498048,
+                        47.383002
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "Un teren de joacă mai mic în Zurich West, care oferă familiilor o atmosferă liniștită pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "O zonă bine întreținută în Zurich West, care invită la joacă în aer liber și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "Un teren de joacă popular în Zurich West, unde copiii se pot juca în siguranță și își pot face prieteni noi.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Lommisweg B",
+                  "text": "O zonă de joacă modernă în Zurich West, care asigură activități variate în timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        8.486578,
+                        47.389893
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "Un loc de întâlnire pentru familii în Zurich West, care invită la joacă și la bucuria de a fi în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "Un loc prietenos pentru familii în Zurich West, ideal pentru o excursie de după-amiază cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "O zonă de joacă întinsă în Zurich West, care oferă mult spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "Un loc de joacă versatil în Zurich West, foarte popular în rândul familiilor din zonă.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
+                  ]
             }
       ],
       "en": [
@@ -1890,6 +2457,195 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.502994,
                         47.401287
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Unterer Katzensee in Zurich West is a popular recreation area with swimming opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Oberer Katzensee is a nature reserve in Zurich West, perfect for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "A replenishment basin in Zurich West, nestled within the local green landscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Part of the water supply in Zurich West, located in an environment suitable for walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "A quiet body of water in Zurich West, inviting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "A peaceful pond in Zurich West, ideal for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "A local body of water in Zurich West, offering a quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Lake Zurich",
+                  "text": "Lake Zurich offers scenic views and opportunities for lakeside recreation in Zurich West.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "A family-friendly playground in Zurich West, offering children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "A diverse playground in Zurich West, which is an ideal meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "This green space in Zurich West offers families a pleasant environment for playing and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Hohenklingenallee",
+                  "text": "A play area in Zurich West designed to be safe and entertaining for children.",
+                  "category": "family",
+                  "coords": [
+                        8.489449,
+                        47.402257
+                  ]
+            },
+            {
+                  "name": "Outlane - Spielbar und Flipperraum",
+                  "text": "This amusement arcade in Zurich West offers entertainment and gaming fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.498048,
+                        47.383002
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "A smaller playground in Zurich West offering families a quiet atmosphere for play.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "A well-maintained facility in Zurich West that invites outdoor play and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "A popular playground in Zurich West where children can play safely and make new friends.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Lommisweg B",
+                  "text": "A modern play area in Zurich West providing varied leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        8.486578,
+                        47.389893
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "A meeting place for families in Zurich West, inviting play and the enjoyment of fresh air.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "A family-friendly place in Zurich West, ideal for an afternoon outing with children.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "A spacious play area in Zurich West offering plenty of room for movement and play.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "A versatile play location in Zurich West, very popular with local families.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
                   ]
             }
       ]

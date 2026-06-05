@@ -112,7 +112,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Balneario Publico de Apanteos",
                   "text": "Das Balneario Publico de Apanteos ist ein beliebter Wasserpark in Santa Ana.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.546872,
                         14.00099
@@ -294,7 +294,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Balneario Publico de Apanteos",
                   "text": "A Balneario Publico de Apanteos egy népszerű vízi park Santa Ana városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.546872,
                         14.00099
@@ -476,7 +476,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Balneario Publico de Apanteos",
                   "text": "Balneario Publico de Apanteos este un parc acvatic popular situat în Santa Ana.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.546872,
                         14.00099
@@ -658,7 +658,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Balneario Publico de Apanteos",
                   "text": "Balneario Publico de Apanteos is a popular water park situated in Santa Ana.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.546872,
                         14.00099
@@ -1111,7 +1111,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Parque Acuático Adolfo Salume",
                   "text": "Ein Wasserpark in Santa Tecla mit verschiedenen Freizeit- und Schwimmbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.280673,
                         13.674743
@@ -1257,7 +1257,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Parque Acuático Adolfo Salume",
                   "text": "Vízi park Santa Tecla városában különféle medencékkel és kikapcsolódási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.280673,
                         13.674743
@@ -1403,7 +1403,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Parque Acuático Adolfo Salume",
                   "text": "Un parc acvatic în Santa Tecla cu diverse piscine și facilități de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.280673,
                         13.674743
@@ -1549,7 +1549,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Parque Acuático Adolfo Salume",
                   "text": "A water park in Santa Tecla featuring various pools and recreation facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.280673,
                         13.674743
@@ -1669,7 +1669,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Sunset Amusement Park",
                   "text": "Der Sunset Amusement Park ist ein lokaler Freizeitpark in La Libertad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.321001,
                         13.487057
@@ -1716,7 +1716,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Sunset Amusement Park",
                   "text": "A Sunset Amusement Park egy helyi vidámpark La Libertadban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.321001,
                         13.487057
@@ -1763,7 +1763,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Sunset Amusement Park",
                   "text": "Sunset Amusement Park este un parc tematic local din La Libertad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.321001,
                         13.487057
@@ -1810,7 +1810,7 @@ export const elsalvadorCities: POI[] = [
             {
                   "name": "Sunset Amusement Park",
                   "text": "Sunset Amusement Park is a local theme park providing entertainment in La Libertad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.321001,
                         13.487057

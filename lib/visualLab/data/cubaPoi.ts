@@ -66,7 +66,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Zoológico de Santiago de Cuba",
                   "text": "Der Zoo von Santiago de Cuba ist ein öffentlicher Tierpark, der verschiedene Tierarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.801545,
                         20.021306
@@ -446,7 +446,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Zoológico de Santiago de Cuba",
                   "text": "A Santiago de Cuba Állatkert egy nyilvános park, amely különféle állatfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.801545,
                         20.021306
@@ -826,7 +826,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Zoológico de Santiago de Cuba",
                   "text": "Grădina Zoologică din Santiago de Cuba este un parc zoologic public care expune diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.801545,
                         20.021306
@@ -1206,7 +1206,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Zoológico de Santiago de Cuba",
                   "text": "The Santiago de Cuba Zoo is a public zoological park displaying various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.801545,
                         20.021306
@@ -2627,7 +2627,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Zoológico de Trinidad",
                   "text": "Der Zoológico de Trinidad ist ein Zoo mit Tierausstellungen in Trinidad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.980099,
                         21.796503
@@ -2845,7 +2845,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Zoológico de Trinidad",
                   "text": "A Zoológico de Trinidad egy állatkert Trinidad városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.980099,
                         21.796503
@@ -3063,7 +3063,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Zoológico de Trinidad",
                   "text": "Zoológico de Trinidad este o grădină zoologică ce oferă expoziții de animale în Trinidad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.980099,
                         21.796503
@@ -3281,7 +3281,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Zoológico de Trinidad",
                   "text": "Zoológico de Trinidad is a zoo providing animal exhibits in Trinidad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.980099,
                         21.796503
@@ -4434,7 +4434,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque De Diversiones \"Camilo Cienfuegos\"",
                   "text": "Ein beliebter Freizeitpark in Camagüey, benannt nach dem Revolutionär Camilo Cienfuegos.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.915336,
                         21.36344
@@ -4497,7 +4497,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "Ein lokales Aquarium in Camagüey, das verschiedene marine Arten der Region zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.91329,
                         21.37667
@@ -4533,7 +4533,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Japonés",
                   "text": "Ein im japanischen Stil angelegter Garten innerhalb der städtischen Parkanlagen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.916607,
                         21.364217
@@ -4724,7 +4724,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque De Diversiones \"Camilo Cienfuegos\"",
                   "text": "Népszerű vidámpark Camagüeyben, a forradalmár Camilo Cienfuegosról elnevezve.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.915336,
                         21.36344
@@ -4787,7 +4787,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "Helyi akvárium Camagüeyben, amely a régió különféle tengeri fajait mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.91329,
                         21.37667
@@ -4823,7 +4823,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Japonés",
                   "text": "Japán stílusú kert a városi parkrendszer területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.916607,
                         21.364217
@@ -5014,7 +5014,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque De Diversiones \"Camilo Cienfuegos\"",
                   "text": "Un parc de distracții popular din Camagüey, numit după revoluționarul Camilo Cienfuegos.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.915336,
                         21.36344
@@ -5077,7 +5077,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "Un acvariu local din Camagüey care prezintă diverse specii marine din regiune.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.91329,
                         21.37667
@@ -5113,7 +5113,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Japonés",
                   "text": "O grădină amenajată în stil japonez în cadrul parcurilor orașului.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.916607,
                         21.364217
@@ -5304,7 +5304,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Luna Park Camillo Cienfuegos",
                   "text": "A popular amusement park in Camagüey named after the revolutionary Camilo Cienfuegos.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.915336,
                         21.36344
@@ -5367,7 +5367,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "A local aquarium in Camagüey showcasing various marine species of the region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.91329,
                         21.37667
@@ -5403,7 +5403,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Parque Japonés",
                   "text": "A Japanese-style garden located within the city's park system.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -77.916607,
                         21.364217
@@ -5576,7 +5576,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "Das Acuario ist ein lokales Aquarium in Holguín.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.261598,
                         20.892637
@@ -5713,7 +5713,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "Az Acuario egy helyi akvárium Holguínban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.261598,
                         20.892637
@@ -5850,7 +5850,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "Acuario este un acvariu local situat în Holguín.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.261598,
                         20.892637
@@ -5987,7 +5987,7 @@ export const cubaCities: POI[] = [
             {
                   "name": "Acuario",
                   "text": "The Acuario is a local aquarium located in Holguín.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.261598,
                         20.892637

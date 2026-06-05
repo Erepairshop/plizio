@@ -1459,7 +1459,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             {
                   "name": "Borås Djurpark",
                   "text": "Ein beliebter Zoo in Borås, der für seine großen Gehege und afrikanischen Tiere bekannt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.941157,
                         57.740657
@@ -1605,7 +1605,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             {
                   "name": "Borås Djurpark",
                   "text": "Népszerű állatkert Boråsban, amely tágas kifutóiról és afrikai állatairól ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.941157,
                         57.740657
@@ -1751,7 +1751,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             {
                   "name": "Borås Djurpark",
                   "text": "O grădină zoologică populară în Borås, cunoscută pentru incintele sale mari și animalele africane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.941157,
                         57.740657
@@ -1897,7 +1897,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             {
                   "name": "Borås Djurpark",
                   "text": "A popular zoo in Borås known for its large enclosures and African animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.941157,
                         57.740657
@@ -3162,7 +3162,7 @@ imageHint: "Eskilstuna city center river view",
             {
                   "name": "Fjärran Höjderbadet",
                   "text": "Ein beliebtes Erlebnisbad in Gävle mit verschiedenen Schwimmbecken und Wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.132123,
                         60.664403
@@ -3506,7 +3506,7 @@ imageHint: "Eskilstuna city center river view",
             {
                   "name": "Fjärran Höjderbadet",
                   "text": "Népszerű élményfürdő Gävle városában különféle medencékkel és wellnesszel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.132123,
                         60.664403
@@ -3850,7 +3850,7 @@ imageHint: "Eskilstuna city center river view",
             {
                   "name": "Fjärran Höjderbadet",
                   "text": "Un parc acvatic popular în Gävle, cu diverse piscine și facilități wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.132123,
                         60.664403
@@ -4194,7 +4194,7 @@ imageHint: "Eskilstuna city center river view",
             {
                   "name": "Fjärran Höjderbadet",
                   "text": "A popular water park in Gävle with various pools and wellness facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.132123,
                         60.664403
@@ -4982,7 +4982,7 @@ imageHint: "Växjö Cathedral with its unique twin towers",
             {
                   "name": "Sydpoolen",
                   "text": "Ein großer Indoor-Wasserpark und Sportkomplex in Södertälje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.6355,
                         59.189739
@@ -5173,7 +5173,7 @@ imageHint: "Växjö Cathedral with its unique twin towers",
             {
                   "name": "Sydpoolen",
                   "text": "Nagy fedett vízi park és sportkomplexum Södertälje városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.6355,
                         59.189739
@@ -5364,7 +5364,7 @@ imageHint: "Växjö Cathedral with its unique twin towers",
             {
                   "name": "Sydpoolen",
                   "text": "Un parc acvatic interior și complex sportiv de mari dimensiuni în Södertälje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.6355,
                         59.189739
@@ -5555,7 +5555,7 @@ imageHint: "Växjö Cathedral with its unique twin towers",
             {
                   "name": "Sydpoolen",
                   "text": "A large indoor water park and sports complex in Södertälje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.6355,
                         59.189739
@@ -5875,7 +5875,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Falu Vildvattenpark",
                   "text": "Ein künstlicher Wildwasserpark für Kanu- und Kajaksport in Falun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.646718,
                         60.59178
@@ -5893,7 +5893,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Friluftsbad",
                   "text": "Freibad und Erholungszentrum in Falun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.656125,
                         60.618517
@@ -6129,7 +6129,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Falu Vildvattenpark",
                   "text": "Mesterséges vadvízi pálya kajakosok és kenusok számára Falunban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.646718,
                         60.59178
@@ -6147,7 +6147,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Friluftsbad",
                   "text": "Szabadtéri strand és szabadidős központ Falunban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.656125,
                         60.618517
@@ -6383,7 +6383,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Falu Vildvattenpark",
                   "text": "Un parc artificial de ape repezi pentru sporturi cu caiacul și canoa în Falun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.646718,
                         60.59178
@@ -6401,7 +6401,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Friluftsbad",
                   "text": "Ștrand în aer liber și centru de recreere în Falun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.656125,
                         60.618517
@@ -6637,7 +6637,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Falu Vildvattenpark",
                   "text": "An artificial whitewater park for canoeing and kayaking sports in Falun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.646718,
                         60.59178
@@ -6655,7 +6655,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Friluftsbad",
                   "text": "Outdoor swimming facility and recreation center in Falun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.656125,
                         60.618517
@@ -7996,7 +7996,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Leo's Lekland",
                   "text": "Ein großer Indoor-Spielplatz für Kinder und Familien in Kristianstad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.193703,
                         56.024759
@@ -8142,7 +8142,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Leo's Lekland",
                   "text": "Nagy fedett játszóház gyermekek és családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.193703,
                         56.024759
@@ -8288,7 +8288,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Leo's Lekland",
                   "text": "Un mare spațiu de joacă interior pentru copii și familii în Kristianstad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.193703,
                         56.024759
@@ -8434,7 +8434,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Leo's Lekland",
                   "text": "A large indoor playground for children and families in Kristianstad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.193703,
                         56.024759
@@ -8619,7 +8619,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Öresunds Fågelförening Friflygningsvoljär",
                   "text": "Eine Voliere für Vögel in der Nähe der Zitadelle von Landskrona.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.850398,
                         55.87457
@@ -8720,7 +8720,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Öresunds Fågelförening Friflygningsvoljär",
                   "text": "Madárröpde a landskronai citadella közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.850398,
                         55.87457
@@ -8821,7 +8821,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Öresunds Fågelförening Friflygningsvoljär",
                   "text": "O volieră pentru păsări situată în apropierea citadelei din Landskrona.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.850398,
                         55.87457
@@ -8922,7 +8922,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Öresunds Fågelförening Friflygningsvoljär",
                   "text": "A bird aviary located near the Landskrona Citadel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.850398,
                         55.87457
@@ -11459,7 +11459,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Pepparrotsbadet",
                   "text": "Das Pepparrotsbadet ist ein moderner Wasserpark und ein beliebtes Freizeitzentrum in Enköping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.092346,
                         59.630175
@@ -11533,7 +11533,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Pepparrotsbadet",
                   "text": "A Pepparrotsbadet egy modern vízi park és népszerű szabadidőközpont Enköpingben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.092346,
                         59.630175
@@ -11607,7 +11607,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Pepparrotsbadet",
                   "text": "Pepparrotsbadet este un parc acvatic modern și un centru de recreere popular în Enköping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.092346,
                         59.630175
@@ -11681,7 +11681,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Pepparrotsbadet",
                   "text": "Pepparrotsbadet is a modern water park and a popular leisure center in Enköping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.092346,
                         59.630175
@@ -12637,7 +12637,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Ängelholms hembygdspark",
                   "text": "Ein Park mit Wildgehege, Museen und Spielplätzen in Ängelholm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.86331,
                         56.254003
@@ -12747,7 +12747,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Ängelholms hembygdspark",
                   "text": "Vadasparkkal, múzeumokkal és játszóterekkel rendelkező park Ängelholmban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.86331,
                         56.254003
@@ -12857,7 +12857,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Ängelholms hembygdspark",
                   "text": "Un parc cu un parc zoologic, muzee și locuri de joacă în Ängelholm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.86331,
                         56.254003
@@ -12967,7 +12967,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Ängelholms hembygdspark",
                   "text": "A park with a deer park, museums, and playgrounds in Ängelholm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.86331,
                         56.254003
@@ -14285,7 +14285,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Värnamo Wake Park",
                   "text": "Der Värnamo Wake Park bietet spannende Wassersportmöglichkeiten für Besucher in der Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.024146,
                         57.20599
@@ -14368,7 +14368,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Värnamo Wake Park",
                   "text": "A Värnamo Wake Park izgalmas vízi sportolási lehetőségeket kínál a város látogatóinak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.024146,
                         57.20599
@@ -14451,7 +14451,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Värnamo Wake Park",
                   "text": "Värnamo Wake Park oferă facilități captivante pentru sporturi nautice vizitatorilor din oraș.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.024146,
                         57.20599
@@ -14534,7 +14534,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Värnamo Wake Park",
                   "text": "Värnamo Wake Park offers exciting water sports facilities for visitors in the city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.024146,
                         57.20599
@@ -16174,7 +16174,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Storsjöbadet",
                   "text": "Ein großer Wasserpark mit Hallen- und Freibädern in Östersund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.674477,
                         63.160711
@@ -16237,7 +16237,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Surfbukten",
                   "text": "Ein Aktivitätszentrum am Wasser in Östersund mit Möglichkeiten zum Baden und Surfen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.62388,
                         63.181876
@@ -16374,7 +16374,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Storsjöbadet",
                   "text": "Nagy vízipark beltéri és kültéri medencékkel Östersundban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.674477,
                         63.160711
@@ -16437,7 +16437,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Surfbukten",
                   "text": "Vízparti szabadidős központ Östersundban fürdési és szörfözési lehetőséggel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.62388,
                         63.181876
@@ -16574,7 +16574,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Storsjöbadet",
                   "text": "Un parc acvatic mare, cu piscine interioare și exterioare, în Östersund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.674477,
                         63.160711
@@ -16637,7 +16637,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Surfbukten",
                   "text": "Un centru de activități pe malul apei în Östersund, cu facilități pentru înot și surfing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.62388,
                         63.181876
@@ -16774,7 +16774,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Storsjöbadet",
                   "text": "A large water park with indoor and outdoor pools in Östersund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.674477,
                         63.160711
@@ -16837,7 +16837,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Surfbukten",
                   "text": "A waterfront activity center in Östersund with facilities for swimming and surfing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.62388,
                         63.181876
@@ -17049,7 +17049,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Qpoolen",
                   "text": "Mehrzweck-Hallenbad und Sportkomplex in der Stadt Hässleholm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.776339,
                         56.155245
@@ -17141,7 +17141,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Qpoolen",
                   "text": "Többcélú fedett uszoda és sportkomplexum Hässleholm városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.776339,
                         56.155245
@@ -17233,7 +17233,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Qpoolen",
                   "text": "Complex polivalent de înot și sport în interior din orașul Hässleholm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.776339,
                         56.155245
@@ -17325,7 +17325,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Qpoolen",
                   "text": "Multi-purpose indoor swimming and sports complex in the city of Hässleholm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.776339,
                         56.155245
@@ -17939,7 +17939,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Aqua Nova",
                   "text": "Aqua Nova ist ein Erlebnisbad in Borlänge mit vielen Rutschen und Wasserattraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.410242,
                         60.491816
@@ -18049,7 +18049,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Aqua Nova",
                   "text": "Az Aqua Nova egy élményfürdő Borlängében, számos csúszdával és vízi attrakcióval.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.410242,
                         60.491816
@@ -18159,7 +18159,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Aqua Nova",
                   "text": "Aqua Nova este un parc acvatic din Borlänge cu numeroase tobogane și atracții acvatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.410242,
                         60.491816
@@ -18269,7 +18269,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Aqua Nova",
                   "text": "Aqua Nova is a water park in Borlänge with many slides and water attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.410242,
                         60.491816
@@ -18355,7 +18355,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Parkbadet",
                   "text": "Ein beliebter Wasserpark und Freizeitbad in Sandviken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.76892,
                         60.619067
@@ -18420,7 +18420,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Parkbadet",
                   "text": "Népszerű vízipark és szabadidős fürdő Sandvikenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.76892,
                         60.619067
@@ -18485,7 +18485,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Parkbadet",
                   "text": "Un parc acvatic și centru de agrement popular în Sandviken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.76892,
                         60.619067
@@ -18550,7 +18550,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Parkbadet",
                   "text": "A popular water park and leisure pool in Sandviken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.76892,
                         60.619067
@@ -19200,7 +19200,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Boda borg",
                   "text": "Abenteuerhaus in Karlskoga mit interaktiven Team-Herausforderungen und Rätselräumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.487024,
                         59.32385
@@ -19283,7 +19283,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Boda borg",
                   "text": "Kalandház Karlskogában, interaktív csapatfeladatokkal és rejtvénytermekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.487024,
                         59.32385
@@ -19366,7 +19366,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Boda borg",
                   "text": "Casă de aventură în Karlskoga, cu provocări interactive în echipă și camere cu puzzle-uri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.487024,
                         59.32385
@@ -19449,7 +19449,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Boda borg",
                   "text": "Adventure house in Karlskoga featuring interactive team challenges and puzzle rooms.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.487024,
                         59.32385
@@ -27723,7 +27723,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Vallentuna 4H-Gård",
                   "text": "Ein Bauernhof für Jugendliche und ein kleiner Zoo, in dem Besucher mit Haustieren interagieren können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.067285,
                         59.544537
@@ -27815,7 +27815,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Vallentuna 4H-Gård",
                   "text": "Ifjúsági tanya és kisállatkert, ahol a látogatók háziállatokkal ismerkedhetnek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.067285,
                         59.544537
@@ -27907,7 +27907,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Vallentuna 4H-Gård",
                   "text": "O fermă orientată spre tineret și o mică grădină zoologică unde vizitatorii pot interacționa cu animale domestice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.067285,
                         59.544537
@@ -27999,7 +27999,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             {
                   "name": "Vallentuna 4H-Gård",
                   "text": "A youth-oriented farm and small zoo where visitors can interact with domestic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.067285,
                         59.544537

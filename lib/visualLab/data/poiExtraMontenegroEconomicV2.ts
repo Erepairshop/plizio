@@ -503,7 +503,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lopa Davas",
                   "text": "Ein kleiner Tierpark oder Streichelzoo in der Region Ulcinj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.237519,
                         41.928057
@@ -512,7 +512,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lutovac Amusement Park",
                   "text": "Ein kleiner Vergnügungspark für Familien in der Gegend von Ulcinj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.239722,
                         41.915022
@@ -586,7 +586,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lopa Davas",
                   "text": "Kisebb állatpark vagy állatsimogató Ulcinj régiójában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.237519,
                         41.928057
@@ -595,7 +595,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lutovac Amusement Park",
                   "text": "Kisebb vidámpark családok számára Ulcinj környékén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.239722,
                         41.915022
@@ -669,7 +669,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lopa Davas",
                   "text": "Un mic parc zoologic sau grădină zoologică cu animale de mângâiat în regiunea Ulcinj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.237519,
                         41.928057
@@ -678,7 +678,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lutovac Amusement Park",
                   "text": "Un mic parc de distracții pentru familii în zona Ulcinj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.239722,
                         41.915022
@@ -752,7 +752,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lopa Davas",
                   "text": "A small animal park or petting zoo in the Ulcinj region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.237519,
                         41.928057
@@ -761,7 +761,7 @@ export const montenegroEconomicV2: POI[] = [
             {
                   "name": "Lutovac Amusement Park",
                   "text": "A small amusement park for families in the Ulcinj area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.239722,
                         41.915022

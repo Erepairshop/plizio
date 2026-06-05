@@ -140,7 +140,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Zoo Stralsund",
                   "text": "Ein weitläufiger Tierpark in Stralsund mit Fokus auf heimische und exotische Arten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.050735,
                         54.317849
@@ -185,7 +185,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Hanse Dom",
                   "text": "Großer Wasser- und Erlebnispark in Stralsund mit zahlreichen Schwimmbecken und Saunawelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.043576,
                         54.319716
@@ -194,7 +194,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "HanseDom Stralsund",
                   "text": "Freizeit- und Sportpark in Stralsund, der Teil des HanseDom-Komplexes ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.044573,
                         54.319708
@@ -225,6 +225,132 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.118486,
                         54.313182
+                  ]
+            },
+            {
+                  "name": "Moorteich",
+                  "text": "Ein ruhiger See bei Stralsund, ideal zum Spazierengehen.",
+                  "category": "natural",
+                  "coords": [
+                        13.070822,
+                        54.315948
+                  ]
+            },
+            {
+                  "name": "Großer Frankenteich",
+                  "text": "Ein schönes Gewässer in Stralsund mit malerischer Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        13.084704,
+                        54.305686
+                  ]
+            },
+            {
+                  "name": "Frankenteich",
+                  "text": "Ein idyllischer See bei Stralsund zum Natur genießen.",
+                  "category": "natural",
+                  "coords": [
+                        13.092804,
+                        54.309426
+                  ]
+            },
+            {
+                  "name": "Borgwallsee",
+                  "text": "Ein weitläufiger See bei Stralsund in einer ruhigen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.007888,
+                        54.273556
+                  ]
+            },
+            {
+                  "name": "Voigdehäger Teich",
+                  "text": "Ein friedlicher See in der Nähe von Stralsund zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        13.09444,
+                        54.274836
+                  ]
+            },
+            {
+                  "name": "Knieperteich",
+                  "text": "Ein zentral gelegener See in Stralsund, ideal für kleine Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        13.084079,
+                        54.31396
+                  ]
+            },
+            {
+                  "name": "Pütter See",
+                  "text": "Ein schöner Natursee bei Stralsund für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        12.991243,
+                        54.296032
+                  ]
+            },
+            {
+                  "name": "Krummenhagener See",
+                  "text": "Ein idyllisches Gewässer bei Stralsund, perfekt für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        13.038676,
+                        54.242693
+                  ]
+            },
+            {
+                  "name": "Hospitaler Bastion",
+                  "text": "Ein historisch gelegener Spielplatz in Stralsund für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.086811,
+                        54.317026
+                  ]
+            },
+            {
+                  "name": "Lustige Lotte",
+                  "text": "Ein fantasievoller Spielplatz in Stralsund für viel Spielvergnügen.",
+                  "category": "family",
+                  "coords": [
+                        13.082086,
+                        54.308642
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Ein schöner Spielplatz am Freibad in Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.082435,
+                        54.330366
+                  ]
+            },
+            {
+                  "name": "Boulevard Grünhufe I",
+                  "text": "Ein moderner Spielplatz in Stralsund für die Kinder des Wohngebiets.",
+                  "category": "family",
+                  "coords": [
+                        13.039649,
+                        54.310832
+                  ]
+            },
+            {
+                  "name": "Kubitzer Ring",
+                  "text": "Ein freundlicher Spielplatz in Stralsund zum Klettern und Toben.",
+                  "category": "family",
+                  "coords": [
+                        13.068472,
+                        54.340147
+                  ]
+            },
+            {
+                  "name": "Wohngebietspark I",
+                  "text": "Ein ansprechender Spielplatz im Wohngebietspark in Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.033752,
+                        54.308219
                   ]
             }
       ],
@@ -318,7 +444,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Zoo Stralsund",
                   "text": "Tágas állatkert Stralsundban, hazai és egzotikus fajokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.050735,
                         54.317849
@@ -363,7 +489,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Hanse Dom",
                   "text": "Nagy vízi élménypark Stralsundban számos medencével és szaunavilággal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.043576,
                         54.319716
@@ -372,7 +498,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "HanseDom Stralsund",
                   "text": "Szabadidő- és sportpark Stralsundban, a HanseDom komplexum része.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.044573,
                         54.319708
@@ -403,6 +529,132 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.118486,
                         54.313182
+                  ]
+            },
+            {
+                  "name": "Moorteich",
+                  "text": "Egy nyugodt tó Stralsund közelében, ideális sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.070822,
+                        54.315948
+                  ]
+            },
+            {
+                  "name": "Großer Frankenteich",
+                  "text": "Szép vízfelület Stralsundban, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.084704,
+                        54.305686
+                  ]
+            },
+            {
+                  "name": "Frankenteich",
+                  "text": "Idilli tó Stralsund közelében a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        13.092804,
+                        54.309426
+                  ]
+            },
+            {
+                  "name": "Borgwallsee",
+                  "text": "Kiterjedt tó Stralsund közelében, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.007888,
+                        54.273556
+                  ]
+            },
+            {
+                  "name": "Voigdehäger Teich",
+                  "text": "Békés tó Stralsund közelében a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.09444,
+                        54.274836
+                  ]
+            },
+            {
+                  "name": "Knieperteich",
+                  "text": "Központi fekvésű tó Stralsundban, ideális rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.084079,
+                        54.31396
+                  ]
+            },
+            {
+                  "name": "Pütter See",
+                  "text": "Szép természetes tó Stralsund közelében a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        12.991243,
+                        54.296032
+                  ]
+            },
+            {
+                  "name": "Krummenhagener See",
+                  "text": "Idilli vízfelület Stralsund közelében, tökéletes a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        13.038676,
+                        54.242693
+                  ]
+            },
+            {
+                  "name": "Hospitaler Bastion",
+                  "text": "Történelmi környezetben lévő játszótér Stralsundban.",
+                  "category": "family",
+                  "coords": [
+                        13.086811,
+                        54.317026
+                  ]
+            },
+            {
+                  "name": "Lustige Lotte",
+                  "text": "Mókás játszótér Stralsundban a vidám játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.082086,
+                        54.308642
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Szép játszótér a stralsundi szabadtéri strandnál.",
+                  "category": "family",
+                  "coords": [
+                        13.082435,
+                        54.330366
+                  ]
+            },
+            {
+                  "name": "Boulevard Grünhufe I",
+                  "text": "Modern játszótér Stralsundban a lakóövezet gyermekei számára.",
+                  "category": "family",
+                  "coords": [
+                        13.039649,
+                        54.310832
+                  ]
+            },
+            {
+                  "name": "Kubitzer Ring",
+                  "text": "Barátságos játszótér Stralsundban mászásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        13.068472,
+                        54.340147
+                  ]
+            },
+            {
+                  "name": "Wohngebietspark I",
+                  "text": "Vonzó játszótér Stralsund egyik lakóövezeti parkjában.",
+                  "category": "family",
+                  "coords": [
+                        13.033752,
+                        54.308219
                   ]
             }
       ],
@@ -496,7 +748,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Zoo Stralsund",
                   "text": "O grădină zoologică spațioasă din Stralsund, axată pe specii native și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.050735,
                         54.317849
@@ -541,7 +793,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Hanse Dom",
                   "text": "Un mare parc acvatic și de relaxare în Stralsund, cu numeroase piscine și zone de saună.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.043576,
                         54.319716
@@ -550,7 +802,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "HanseDom Stralsund",
                   "text": "Parc de distracții și sport în Stralsund, făcând parte din complexul HanseDom.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.044573,
                         54.319708
@@ -581,6 +833,132 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.118486,
                         54.313182
+                  ]
+            },
+            {
+                  "name": "Moorteich",
+                  "text": "Un lac liniștit lângă Stralsund, perfect pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        13.070822,
+                        54.315948
+                  ]
+            },
+            {
+                  "name": "Großer Frankenteich",
+                  "text": "O zonă cu apă frumoasă în Stralsund, într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        13.084704,
+                        54.305686
+                  ]
+            },
+            {
+                  "name": "Frankenteich",
+                  "text": "Un lac idilic în apropiere de Stralsund pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.092804,
+                        54.309426
+                  ]
+            },
+            {
+                  "name": "Borgwallsee",
+                  "text": "Un lac întins lângă Stralsund, într-un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        13.007888,
+                        54.273556
+                  ]
+            },
+            {
+                  "name": "Voigdehäger Teich",
+                  "text": "Un lac liniștit în apropiere de Stralsund pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        13.09444,
+                        54.274836
+                  ]
+            },
+            {
+                  "name": "Knieperteich",
+                  "text": "Un lac situat central în Stralsund, ideal pentru scurte excursii.",
+                  "category": "natural",
+                  "coords": [
+                        13.084079,
+                        54.31396
+                  ]
+            },
+            {
+                  "name": "Pütter See",
+                  "text": "Un lac natural frumos lângă Stralsund pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        12.991243,
+                        54.296032
+                  ]
+            },
+            {
+                  "name": "Krummenhagener See",
+                  "text": "O zonă cu apă idilică lângă Stralsund, perfectă pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        13.038676,
+                        54.242693
+                  ]
+            },
+            {
+                  "name": "Hospitaler Bastion",
+                  "text": "Un teren de joacă situat într-o zonă istorică din Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.086811,
+                        54.317026
+                  ]
+            },
+            {
+                  "name": "Lustige Lotte",
+                  "text": "Un teren de joacă plin de imaginație în Stralsund pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.082086,
+                        54.308642
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Un teren de joacă frumos la ștrandul din Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.082435,
+                        54.330366
+                  ]
+            },
+            {
+                  "name": "Boulevard Grünhufe I",
+                  "text": "Un teren de joacă modern în Stralsund pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        13.039649,
+                        54.310832
+                  ]
+            },
+            {
+                  "name": "Kubitzer Ring",
+                  "text": "Un teren de joacă primitor în Stralsund pentru cățărat și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        13.068472,
+                        54.340147
+                  ]
+            },
+            {
+                  "name": "Wohngebietspark I",
+                  "text": "Un teren de joacă plăcut într-un parc rezidențial din Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.033752,
+                        54.308219
                   ]
             }
       ],
@@ -674,7 +1052,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Zoo Stralsund",
                   "text": "A spacious zoo in Stralsund focusing on native and exotic species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.050735,
                         54.317849
@@ -719,7 +1097,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Hanse Dom",
                   "text": "Large water park and leisure complex in Stralsund featuring various pools and saunas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.043576,
                         54.319716
@@ -728,7 +1106,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "HanseDom Stralsund",
                   "text": "Recreation and sports park in Stralsund, part of the HanseDom complex.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.044573,
                         54.319708
@@ -759,6 +1137,132 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.118486,
                         54.313182
+                  ]
+            },
+            {
+                  "name": "Moorteich",
+                  "text": "A peaceful lake near Stralsund, perfect for walking.",
+                  "category": "natural",
+                  "coords": [
+                        13.070822,
+                        54.315948
+                  ]
+            },
+            {
+                  "name": "Großer Frankenteich",
+                  "text": "A beautiful lake in Stralsund with picturesque surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        13.084704,
+                        54.305686
+                  ]
+            },
+            {
+                  "name": "Frankenteich",
+                  "text": "An idyllic lake near Stralsund to enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.092804,
+                        54.309426
+                  ]
+            },
+            {
+                  "name": "Borgwallsee",
+                  "text": "A vast lake near Stralsund in a quiet landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.007888,
+                        54.273556
+                  ]
+            },
+            {
+                  "name": "Voigdehäger Teich",
+                  "text": "A peaceful lake near Stralsund for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        13.09444,
+                        54.274836
+                  ]
+            },
+            {
+                  "name": "Knieperteich",
+                  "text": "A centrally located lake in Stralsund, ideal for short trips.",
+                  "category": "natural",
+                  "coords": [
+                        13.084079,
+                        54.31396
+                  ]
+            },
+            {
+                  "name": "Pütter See",
+                  "text": "A beautiful natural lake near Stralsund for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.991243,
+                        54.296032
+                  ]
+            },
+            {
+                  "name": "Krummenhagener See",
+                  "text": "An idyllic lake near Stralsund, perfect for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        13.038676,
+                        54.242693
+                  ]
+            },
+            {
+                  "name": "Hospitaler Bastion",
+                  "text": "A historically located playground in Stralsund for children.",
+                  "category": "family",
+                  "coords": [
+                        13.086811,
+                        54.317026
+                  ]
+            },
+            {
+                  "name": "Lustige Lotte",
+                  "text": "An imaginative playground in Stralsund for lots of fun.",
+                  "category": "family",
+                  "coords": [
+                        13.082086,
+                        54.308642
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "A nice playground at the outdoor pool in Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.082435,
+                        54.330366
+                  ]
+            },
+            {
+                  "name": "Boulevard Grünhufe I",
+                  "text": "A modern playground in Stralsund for local children.",
+                  "category": "family",
+                  "coords": [
+                        13.039649,
+                        54.310832
+                  ]
+            },
+            {
+                  "name": "Kubitzer Ring",
+                  "text": "A friendly playground in Stralsund for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        13.068472,
+                        54.340147
+                  ]
+            },
+            {
+                  "name": "Wohngebietspark I",
+                  "text": "An appealing playground in a residential park in Stralsund.",
+                  "category": "family",
+                  "coords": [
+                        13.033752,
+                        54.308219
                   ]
             }
       ],
@@ -1425,7 +1929,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Tierhof",
                   "text": "Ein kleiner Tierpark und Bauernhof in Neubrandenburg, der besonders für Familien geeignet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.252383,
                         53.55211
@@ -1447,6 +1951,114 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.254562,
                         53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "Der Reitbahnsee in Neubrandenburg bietet Raum für verschiedene Aktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "Der Kiessee in Neubrandenburg ist ein ruhiges Gewässer in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "Der Neveriner See bei Neubrandenburg liegt idyllisch in der Mecklenburger Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "Neon Minigolf in Neubrandenburg bietet ein besonderes Spielerlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "Die Spieleria in Neubrandenburg bietet verschiedene Unterhaltungsmöglichkeiten für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Eine Minigolfanlage in Neubrandenburg für sportlichen Freizeitspaß mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "Der Mudder-Schulten Spielplatz in Neubrandenburg lädt Kinder zum Entdecken und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "Ein familienfreundlicher Spielplatz in Neubrandenburg mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "Dieser Spielplatz in Neubrandenburg bietet Kindern viel Raum für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "Ein schöner Ort in Neubrandenburg für Familien, die Zeit im Freien verbringen möchten.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Einladender Spielplatz in Neubrandenburg für einen abwechslungsreichen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "Dieser Spielplatz in Neubrandenburg ist ein tolles Ziel für eine aktive Pause mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
                   ]
             }
       ],
@@ -1584,7 +2196,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Tierhof",
                   "text": "Kisméretű állatpark és farm Neubrandenburgban, amely interaktív élményt kínál a családoknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.252383,
                         53.55211
@@ -1606,6 +2218,114 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.254562,
                         53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "A neubrandenburgi Reitbahnsee helyet biztosít különféle vízparti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "A neubrandenburgi Kiessee egy csendes tó a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "A Neubrandenburg melletti Neveriner-tó idilli környezetben fekszik a Mecklenburgi tóhátságon.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "A neubrandenburgi Neon Minigolf különleges játékélményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "A neubrandenburgi Spieleria különféle szórakozási lehetőségeket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Minigolfpálya Neubrandenburgban a sportos szabadidős szórakozáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "A neubrandenburgi Mudder-Schulten játszótér felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "Egy családbarát játszótér Neubrandenburgban, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "Ez a neubrandenburgi játszótér sok helyet kínál a gyerekeknek a mozgáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "Egy szép hely Neubrandenburgban a szabadban időzni vágyó családok számára.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Hívogató játszótér Neubrandenburgban egy változatos kiránduláshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "Ez a neubrandenburgi játszótér remek célpont egy aktív családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
                   ]
             }
       ],
@@ -1743,7 +2463,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Tierhof",
                   "text": "O mică grădină zoologică și fermă în Neubrandenburg, ideală pentru familii cu copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.252383,
                         53.55211
@@ -1765,6 +2485,114 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.254562,
                         53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "Reitbahnsee din Neubrandenburg oferă spațiu pentru diverse activități pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "Kiessee din Neubrandenburg este o apă liniștită în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "Lacul Neverin de lângă Neubrandenburg este situat idilic în regiunea lacurilor din Mecklenburg.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "Neon Minigolf din Neubrandenburg oferă o experiență de joc deosebită pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "Spieleria din Neubrandenburg oferă diverse opțiuni de divertisment pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Un teren de minigolf în Neubrandenburg pentru distracție sportivă alături de copii.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "Locul de joacă Mudder-Schulten din Neubrandenburg invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "Un loc de joacă pentru familii în Neubrandenburg, cu diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "Acest loc de joacă din Neubrandenburg oferă copiilor mult spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "Un loc frumos în Neubrandenburg pentru familiile care doresc să petreacă timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Loc de joacă primitor în Neubrandenburg pentru o excursie variată cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "Acest loc de joacă din Neubrandenburg este o destinație excelentă pentru o pauză activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
                   ]
             }
       ],
@@ -1902,7 +2730,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Tierhof",
                   "text": "A small animal park and farm in Neubrandenburg, popular for family visits.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.252383,
                         53.55211
@@ -1924,6 +2752,114 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.254562,
                         53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "The Reitbahnsee in Neubrandenburg offers space for various activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "The Kiessee in Neubrandenburg is a peaceful body of water in the region.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "The Neverin lake near Neubrandenburg is idyllically located in the Mecklenburg Lake District.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "Neon Minigolf in Neubrandenburg offers a special gaming experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "The Spieleria in Neubrandenburg offers various entertainment options for visitors.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "A miniature golf course in Neubrandenburg for sporting leisure fun with children.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "The Mudder-Schulten playground in Neubrandenburg invites children to discover and play.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "A family-friendly playground in Neubrandenburg with various play options.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "This playground in Neubrandenburg offers children plenty of space for movement and play.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "A nice place in Neubrandenburg for families who want to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Inviting playground in Neubrandenburg for a varied outing with children.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "This playground in Neubrandenburg is a great destination for an active break with the family.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
                   ]
             }
       ],
@@ -2993,7 +3929,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Campusbad",
                   "text": "Ein modernes Sport- und Freizeitbad in Flensburg mit verschiedenen Schwimmbecken und Wellnessbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.452538,
                         54.776974
@@ -3002,7 +3938,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Wildgehege",
                   "text": "Ein Wildgehege in Flensburg, in dem Besucher heimische Wildtierarten in natürlicher Umgebung beobachten können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.394092,
                         54.785653
@@ -3060,6 +3996,87 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.428823,
                         54.794624
+                  ]
+            },
+            {
+                  "name": "Westerwerker See",
+                  "text": "Der Westerwerker See in Flensburg ist ein ruhiges Gewässer in grüner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.523748,
+                        54.832601
+                  ]
+            },
+            {
+                  "name": "Adelbybek",
+                  "text": "Der Adelbybek in Flensburg ist ein kleiner See, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.480792,
+                        54.776017
+                  ]
+            },
+            {
+                  "name": "COOOL! BY KIDDIELAND",
+                  "text": "COOOL! BY KIDDIELAND in Flensburg bietet Spielautomaten und Unterhaltung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.43818,
+                        54.782742
+                  ]
+            },
+            {
+                  "name": "Naturnahe Spielfläche",
+                  "text": "Die naturnahe Spielfläche in Flensburg bietet Raum für kreative Aktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.470731,
+                        54.775045
+                  ]
+            },
+            {
+                  "name": "Mommsenstraße/Am Sender",
+                  "text": "Der Spielplatz Mommsenstraße/Am Sender in Flensburg ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.451297,
+                        54.788429
+                  ]
+            },
+            {
+                  "name": "Spielplatz Friedrichstal/Petrischule",
+                  "text": "Der Spielplatz Friedrichstal/Petrischule in Flensburg bietet vielfältige Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        9.424367,
+                        54.809246
+                  ]
+            },
+            {
+                  "name": "Friedheimer Platz",
+                  "text": "Der Friedheimer Platz in Flensburg verfügt über eine Spielfläche für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.475139,
+                        54.804767
+                  ]
+            },
+            {
+                  "name": "Förderpromenade/Sonwik",
+                  "text": "Der Spielplatz Förderpromenade/Sonwik in Flensburg liegt direkt am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.453932,
+                        54.808175
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wassersleben",
+                  "text": "Der Spielplatz Wassersleben in Flensburg bietet Spielspaß in unmittelbarer Strandnähe.",
+                  "category": "family",
+                  "coords": [
+                        9.419918,
+                        54.82625
                   ]
             }
       ],
@@ -3212,7 +4229,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Campusbad",
                   "text": "Modern flensburgi sport- és élményfürdő különféle medencékkel és wellness-részleggel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.452538,
                         54.776974
@@ -3221,7 +4238,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Wildgehege",
                   "text": "Flensburgi vadaspark, ahol a látogatók természetes környezetben láthatnak őshonos vadfajokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.394092,
                         54.785653
@@ -3279,6 +4296,87 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.428823,
                         54.794624
+                  ]
+            },
+            {
+                  "name": "Westerwerker See",
+                  "text": "A flensburgi Westerwerker See egy csendes vízfelület zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.523748,
+                        54.832601
+                  ]
+            },
+            {
+                  "name": "Adelbybek",
+                  "text": "A flensburgi Adelbybek egy kis tó, amely sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.480792,
+                        54.776017
+                  ]
+            },
+            {
+                  "name": "COOOL! BY KIDDIELAND",
+                  "text": "A flensburgi COOOL! BY KIDDIELAND játékgépeket és szórakozást kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.43818,
+                        54.782742
+                  ]
+            },
+            {
+                  "name": "Naturnahe Spielfläche",
+                  "text": "A flensburgi természetközeli játszótér teret ad a kreatív szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        9.470731,
+                        54.775045
+                  ]
+            },
+            {
+                  "name": "Mommsenstraße/Am Sender",
+                  "text": "A flensburgi Mommsenstraße/Am Sender játszótér kedvelt találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.451297,
+                        54.788429
+                  ]
+            },
+            {
+                  "name": "Spielplatz Friedrichstal/Petrischule",
+                  "text": "A flensburgi Friedrichstal/Petrischule játszótér változatos mászási lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        9.424367,
+                        54.809246
+                  ]
+            },
+            {
+                  "name": "Friedheimer Platz",
+                  "text": "A flensburgi Friedheimer Platz játszótérrel rendelkezik a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.475139,
+                        54.804767
+                  ]
+            },
+            {
+                  "name": "Förderpromenade/Sonwik",
+                  "text": "A flensburgi Förderpromenade/Sonwik játszótér közvetlenül a vízparton található.",
+                  "category": "family",
+                  "coords": [
+                        9.453932,
+                        54.808175
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wassersleben",
+                  "text": "A flensburgi Wassersleben játszótér játékélményt nyújt a strand közvetlen közelében.",
+                  "category": "family",
+                  "coords": [
+                        9.419918,
+                        54.82625
                   ]
             }
       ],
@@ -3431,7 +4529,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Campusbad",
                   "text": "O piscină modernă de sport și agrement din Flensburg, cu diverse bazine și zone de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.452538,
                         54.776974
@@ -3440,7 +4538,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Wildgehege",
                   "text": "Un parc de animale sălbatice din Flensburg, unde vizitatorii pot observa specii locale în mediul lor natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.394092,
                         54.785653
@@ -3498,6 +4596,87 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.428823,
                         54.794624
+                  ]
+            },
+            {
+                  "name": "Westerwerker See",
+                  "text": "Westerwerker See din Flensburg este un corp de apă liniștit într-un mediu verde.",
+                  "category": "natural",
+                  "coords": [
+                        9.523748,
+                        54.832601
+                  ]
+            },
+            {
+                  "name": "Adelbybek",
+                  "text": "Adelbybek din Flensburg este un mic lac care invită la plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        9.480792,
+                        54.776017
+                  ]
+            },
+            {
+                  "name": "COOOL! BY KIDDIELAND",
+                  "text": "COOOL! BY KIDDIELAND din Flensburg oferă jocuri mecanice și divertisment pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.43818,
+                        54.782742
+                  ]
+            },
+            {
+                  "name": "Naturnahe Spielfläche",
+                  "text": "Spațiul de joacă natural din Flensburg oferă loc pentru activități creative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.470731,
+                        54.775045
+                  ]
+            },
+            {
+                  "name": "Mommsenstraße/Am Sender",
+                  "text": "Locul de joacă Mommsenstraße/Am Sender din Flensburg este un punct de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.451297,
+                        54.788429
+                  ]
+            },
+            {
+                  "name": "Spielplatz Friedrichstal/Petrischule",
+                  "text": "Locul de joacă Friedrichstal/Petrischule din Flensburg oferă diverse posibilități de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        9.424367,
+                        54.809246
+                  ]
+            },
+            {
+                  "name": "Friedheimer Platz",
+                  "text": "Friedheimer Platz din Flensburg dispune de un spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.475139,
+                        54.804767
+                  ]
+            },
+            {
+                  "name": "Förderpromenade/Sonwik",
+                  "text": "Locul de joacă Förderpromenade/Sonwik din Flensburg este situat direct pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        9.453932,
+                        54.808175
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wassersleben",
+                  "text": "Locul de joacă Wassersleben din Flensburg oferă distracție în imediata apropiere a plajei.",
+                  "category": "family",
+                  "coords": [
+                        9.419918,
+                        54.82625
                   ]
             }
       ],
@@ -3664,7 +4843,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Campusbad",
                   "text": "A modern sports and leisure pool in Flensburg with various pools and wellness areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.452538,
                         54.776974
@@ -3673,7 +4852,7 @@ export const poiExtraDe3a: POI[] = [
             {
                   "name": "Wildgehege",
                   "text": "A wildlife enclosure in Flensburg where visitors can observe native wild animal species in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.394092,
                         54.785653
@@ -3731,6 +4910,87 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.428823,
                         54.794624
+                  ]
+            },
+            {
+                  "name": "Westerwerker See",
+                  "text": "Westerwerker See in Flensburg is a quiet body of water in green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.523748,
+                        54.832601
+                  ]
+            },
+            {
+                  "name": "Adelbybek",
+                  "text": "The Adelbybek in Flensburg is a small lake that invites you for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.480792,
+                        54.776017
+                  ]
+            },
+            {
+                  "name": "COOOL! BY KIDDIELAND",
+                  "text": "COOOL! BY KIDDIELAND in Flensburg offers arcade games and entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        9.43818,
+                        54.782742
+                  ]
+            },
+            {
+                  "name": "Naturnahe Spielfläche",
+                  "text": "The natural play area in Flensburg provides space for creative outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        9.470731,
+                        54.775045
+                  ]
+            },
+            {
+                  "name": "Mommsenstraße/Am Sender",
+                  "text": "The Mommsenstraße/Am Sender playground in Flensburg is a popular meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.451297,
+                        54.788429
+                  ]
+            },
+            {
+                  "name": "Spielplatz Friedrichstal/Petrischule",
+                  "text": "The Friedrichstal/Petrischule playground in Flensburg offers various climbing opportunities.",
+                  "category": "family",
+                  "coords": [
+                        9.424367,
+                        54.809246
+                  ]
+            },
+            {
+                  "name": "Friedheimer Platz",
+                  "text": "Friedheimer Platz in Flensburg features a play area for children.",
+                  "category": "family",
+                  "coords": [
+                        9.475139,
+                        54.804767
+                  ]
+            },
+            {
+                  "name": "Förderpromenade/Sonwik",
+                  "text": "The Förderpromenade/Sonwik playground in Flensburg is located directly by the water.",
+                  "category": "family",
+                  "coords": [
+                        9.453932,
+                        54.808175
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wassersleben",
+                  "text": "The Wassersleben playground in Flensburg offers fun in the immediate vicinity of the beach.",
+                  "category": "family",
+                  "coords": [
+                        9.419918,
+                        54.82625
                   ]
             }
       ],

@@ -557,6 +557,204 @@ export const switzerlandRegions: POI[] = [
                         8.528249,
                         47.388842
                   ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Ein idyllischer Badesee in Zürich, umgeben von einem Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Ein ruhiger See in Zürich, ideal für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Ein Wasserbecken in Zürich, das in eine Grünanlage eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Ein ruhiges Gewässer im Hardhof-Areal in Zürich für kurze Pausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Teil der Wasseranlagen in Zürich, umgeben von Spazierwegen.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "Ein kleiner Weiher in Zürich, der einen Ort der Ruhe im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "Ein ruhiges Gewässer in Zürich, ideal für eine kleine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Der Zürichsee bietet zahlreiche Freizeitmöglichkeiten und schöne Uferpromenaden.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "Ein beliebter Spielplatz in Zürich mit vielen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "GZ Hottingen",
+                  "text": "Ein schöner Quartierspielplatz in Zürich, ideal für Familien aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        8.556507,
+                        47.369537
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "Ein zentral gelegener Spielplatz in Zürich für eine Pause zwischendurch.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "Ein kleiner Spielplatz im Grünen in Zürich für entspanntes Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Drahtzugstrasse",
+                  "text": "Ein lokaler Spielplatz in Zürich, der Kindern viel Bewegungsfreiheit bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.564469,
+                        47.359684
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "Ein freundlicher Spielplatz in Zürich, ideal für einen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Hohe Promenade",
+                  "text": "Ein Spielplatz mit schöner Aussicht in Zürich für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.548885,
+                        47.367793
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "Ein weitläufiger Spielbereich in Zürich mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "Ein moderner Spielplatz in Zürich, der Kinder zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Ein Spielplatz im beliebten Irchelpark in Zürich für Sport und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        8.544292,
+                        47.398028
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "Ein schön gelegener Spielbereich in Zürich für entspannte Nachmittage.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "Ein Quartierspielplatz in Zürich mit Platz zum Rennen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "Ein einladender Spielplatz in Zürich für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "Ein zentraler Spielbereich in Zürich auf dem Kasernenareal.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
+                  ]
             }
       ],
       "hu": [
@@ -1035,6 +1233,204 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.528249,
                         47.388842
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Idilli fürdőtó Zürichben, természetvédelmi területtel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Csendes tó Zürichben, ideális természetjáráshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Vízmedence Zürichben, amely egy parkba van ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Csendes vízfelület a zürichi Hardhof területén rövid pihenőkhöz.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Zürichi vízi létesítmények része, sétányokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "Kicsi tó Zürichben, amely a nyugalom szigete a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "Csendes vízfelület Zürichben, ideális egy kis kikapcsolódáshoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "A Zürichi-tó számos szabadidős lehetőséget és szép tóparti sétányokat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "Népszerű játszótér Zürichben, sok tevékenységgel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "GZ Hottingen",
+                  "text": "Szép környékbeli játszótér Zürichben, ideális a közelben lakó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.556507,
+                        47.369537
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "Központi fekvésű játszótér Zürichben egy köztes pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "Kicsi játszótér a zöldben Zürichben a pihentető játékért.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Drahtzugstrasse",
+                  "text": "Helyi játszótér Zürichben, amely nagy mozgásszabadságot ad a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.564469,
+                        47.359684
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "Barátságos játszótér Zürichben, ideális kiránduláshoz gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Hohe Promenade",
+                  "text": "Játszótér szép kilátással Zürichben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        8.548885,
+                        47.367793
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "Tágas játszóhely Zürichben különféle játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "Modern játszótér Zürichben, amely felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Játszótér a népszerű zürichi Irchelparkban sportoláshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.544292,
+                        47.398028
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "Szép fekvésű játszóhely Zürichben a pihentető délutánokért.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "Környékbeli játszótér Zürichben hellyel a szaladgáláshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "Hívogató játszótér Zürichben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "Központi játszóhely Zürichben a laktanya területén.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
                   ]
             }
       ],
@@ -1515,6 +1911,204 @@ export const switzerlandRegions: POI[] = [
                         8.528249,
                         47.388842
                   ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Un lac idilic pentru scăldat în Zurich, înconjurat de o rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Un lac liniștit în Zurich, ideal pentru observarea naturii și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Un bazin de apă în Zurich, situat într-o zonă verde.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "O apă liniștită în zona Hardhof din Zurich pentru pauze scurte.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Parte a instalațiilor de apă din Zurich, înconjurată de alei de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "Un mic iaz în Zurich, care oferă un loc de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "O apă liniștită în Zurich, ideală pentru o mică pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Lacul Zurich oferă numeroase posibilități de recreere și promenade frumoase pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "Un teren de joacă popular în Zurich, cu multe activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "GZ Hottingen",
+                  "text": "Un teren de joacă frumos de cartier în Zurich, ideal pentru familiile din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        8.556507,
+                        47.369537
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "Un teren de joacă situat central în Zurich pentru o pauză între activități.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "Un mic teren de joacă în natură în Zurich pentru joacă relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Drahtzugstrasse",
+                  "text": "Un teren de joacă local în Zurich, care oferă copiilor multă libertate de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.564469,
+                        47.359684
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "Un teren de joacă prietenos în Zurich, ideal pentru o excursie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Hohe Promenade",
+                  "text": "Un teren de joacă cu o vedere frumoasă în Zurich pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.548885,
+                        47.367793
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "O zonă de joacă vastă în Zurich, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "Un teren de joacă modern în Zurich, care invită copiii la explorare.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Un teren de joacă în popularul parc Irchel din Zurich pentru sport și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.544292,
+                        47.398028
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "O zonă de joacă frumos situată în Zurich pentru după-amiezi relaxante.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "Un teren de joacă de cartier în Zurich, cu spațiu pentru alergat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "Un teren de joacă primitor în Zurich pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "O zonă de joacă centrală în Zurich pe teritoriul cazărmii.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
+                  ]
             }
       ],
       "en": [
@@ -1993,6 +2587,204 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.528249,
                         47.388842
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "An idyllic swimming lake in Zurich, surrounded by a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "A quiet lake in Zurich, ideal for nature observation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "A water basin in Zurich nestled in a green area.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "A quiet body of water in the Hardhof area in Zurich for short breaks.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Part of the water facilities in Zurich, surrounded by walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Gehrenholz Weiher",
+                  "text": "A small pond in Zurich that offers a place of peace in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        8.509279,
+                        47.364062
+                  ]
+            },
+            {
+                  "name": "Martinseiher",
+                  "text": "A quiet body of water in Zurich, ideal for a small break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.468391,
+                        47.425588
+                  ]
+            },
+            {
+                  "name": "Lake Zurich",
+                  "text": "Lake Zurich offers numerous leisure activities and beautiful lakeside promenades.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "GZ Schindlergut",
+                  "text": "A popular playground in Zurich with many activities for children.",
+                  "category": "family",
+                  "coords": [
+                        8.536501,
+                        47.386895
+                  ]
+            },
+            {
+                  "name": "GZ Hottingen",
+                  "text": "A nice neighborhood playground in Zurich, ideal for local families.",
+                  "category": "family",
+                  "coords": [
+                        8.556507,
+                        47.369537
+                  ]
+            },
+            {
+                  "name": "Urania",
+                  "text": "A centrally located playground in Zurich for a break in between.",
+                  "category": "family",
+                  "coords": [
+                        8.541211,
+                        47.373515
+                  ]
+            },
+            {
+                  "name": "Lutherwiese",
+                  "text": "A small playground in the greenery in Zurich for relaxed play.",
+                  "category": "family",
+                  "coords": [
+                        8.528056,
+                        47.374736
+                  ]
+            },
+            {
+                  "name": "Drahtzugstrasse",
+                  "text": "A local playground in Zurich that offers children plenty of freedom to move.",
+                  "category": "family",
+                  "coords": [
+                        8.564469,
+                        47.359684
+                  ]
+            },
+            {
+                  "name": "Obere Waidstrasse",
+                  "text": "A friendly playground in Zurich, ideal for an outing with children.",
+                  "category": "family",
+                  "coords": [
+                        8.522097,
+                        47.399581
+                  ]
+            },
+            {
+                  "name": "Hohe Promenade",
+                  "text": "A playground with a beautiful view in Zurich for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.548885,
+                        47.367793
+                  ]
+            },
+            {
+                  "name": "Aemtleranlage",
+                  "text": "A spacious play area in Zurich with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        8.511082,
+                        47.373799
+                  ]
+            },
+            {
+                  "name": "Heiligfeld",
+                  "text": "A modern playground in Zurich that invites children to discover.",
+                  "category": "family",
+                  "coords": [
+                        8.505058,
+                        47.37959
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "A playground in the popular Irchelpark in Zurich for sport and play.",
+                  "category": "family",
+                  "coords": [
+                        8.544292,
+                        47.398028
+                  ]
+            },
+            {
+                  "name": "Alfred-Altherr-Terrasse",
+                  "text": "A beautifully located play area in Zurich for relaxed afternoons.",
+                  "category": "family",
+                  "coords": [
+                        8.552564,
+                        47.395176
+                  ]
+            },
+            {
+                  "name": "Aegerten",
+                  "text": "A neighborhood playground in Zurich with space for running and playing.",
+                  "category": "family",
+                  "coords": [
+                        8.522501,
+                        47.368536
+                  ]
+            },
+            {
+                  "name": "Steinkluppenanlage",
+                  "text": "An inviting playground in Zurich for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        8.540147,
+                        47.400819
+                  ]
+            },
+            {
+                  "name": "Kasernenareal",
+                  "text": "A central play area in Zurich on the barracks grounds.",
+                  "category": "family",
+                  "coords": [
+                        8.53021,
+                        47.377311
                   ]
             }
       ]
@@ -2545,6 +3337,96 @@ export const switzerlandRegions: POI[] = [
                         6.145846,
                         46.203844
                   ]
+            },
+            {
+                  "name": "Genfersee",
+                  "text": "Der Genfersee in Genf ist ein zentrales Element der Stadt und bietet zahlreiche Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Parc de la Tortue",
+                  "text": "Der Parc de la Tortue in Genf bietet einen freundlichen Spielbereich für Kinder mitten in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        6.13929,
+                        46.189858
+                  ]
+            },
+            {
+                  "name": "Lézard des Grottes",
+                  "text": "Lézard des Grottes in Genf bietet fantasievolle Spielmöglichkeiten für Kinder in einem städtischen Park.",
+                  "category": "family",
+                  "coords": [
+                        6.139125,
+                        46.210261
+                  ]
+            },
+            {
+                  "name": "Square Monthoux",
+                  "text": "Der Square Monthoux in Genf bietet einen kleinen, aber feinen Spielplatz für die Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        6.148153,
+                        46.210919
+                  ]
+            },
+            {
+                  "name": "Billard Bluff",
+                  "text": "Billard Bluff in Genf bietet Unterhaltung und Spiele für Jugendliche und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        6.161956,
+                        46.203183
+                  ]
+            },
+            {
+                  "name": "Parc de l'abeille",
+                  "text": "Der Parc de l'abeille in Genf bietet Kindern einen naturnahen Raum zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        6.120897,
+                        46.19239
+                  ]
+            },
+            {
+                  "name": "Petit Train",
+                  "text": "Petit Train in Genf ist ein besonderer Spielbereich, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        6.11781,
+                        46.190206
+                  ]
+            },
+            {
+                  "name": "Préau couvert",
+                  "text": "Der Préau couvert in Genf bietet einen geschützten Bereich für Spiel und Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.11946,
+                        46.188647
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Soubeyran",
+                  "text": "Die Aire de jeux du parc Soubeyran in Genf bietet abwechslungsreiche Geräte für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        6.124068,
+                        46.212152
+                  ]
+            },
+            {
+                  "name": "Place de jeux du Parc des Franchises",
+                  "text": "Die Place de jeux du Parc des Franchises in Genf ist ein großer Spielplatz mit vielen Möglichkeiten zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        6.116485,
+                        46.211123
+                  ]
             }
       ],
       "hu": [
@@ -3023,6 +3905,96 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.145846,
                         46.203844
+                  ]
+            },
+            {
+                  "name": "Genfi-tó",
+                  "text": "A genfi Genfi-tó a város központi eleme, amely számos vízparti kikapcsolódási lehetőséget nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Parc de la Tortue",
+                  "text": "A genfi Parc de la Tortue barátságos játszóhelyet kínál a gyerekeknek a város közepén.",
+                  "category": "family",
+                  "coords": [
+                        6.13929,
+                        46.189858
+                  ]
+            },
+            {
+                  "name": "Lézard des Grottes",
+                  "text": "A genfi Lézard des Grottes ötletes játéklehetőségeket kínál a gyerekeknek egy városi parkban.",
+                  "category": "family",
+                  "coords": [
+                        6.139125,
+                        46.210261
+                  ]
+            },
+            {
+                  "name": "Square Monthoux",
+                  "text": "A genfi Square Monthoux egy kicsi, de kellemes játszóteret kínál a környékbelieknek.",
+                  "category": "family",
+                  "coords": [
+                        6.148153,
+                        46.210919
+                  ]
+            },
+            {
+                  "name": "Billard Bluff",
+                  "text": "A genfi Billard Bluff szórakozást és játékokat kínál fiataloknak és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        6.161956,
+                        46.203183
+                  ]
+            },
+            {
+                  "name": "Parc de l'abeille",
+                  "text": "A genfi Parc de l'abeille természetközeli helyet biztosít a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        6.120897,
+                        46.19239
+                  ]
+            },
+            {
+                  "name": "Petit Train",
+                  "text": "A genfi Petit Train egy különleges játszóhely, amely megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        6.11781,
+                        46.190206
+                  ]
+            },
+            {
+                  "name": "Préau couvert",
+                  "text": "A genfi Préau couvert fedett területet biztosít a szabadtéri játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.11946,
+                        46.188647
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Soubeyran",
+                  "text": "A genfi Aire de jeux du parc Soubeyran változatos eszközöket kínál minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        6.124068,
+                        46.212152
+                  ]
+            },
+            {
+                  "name": "Place de jeux du Parc des Franchises",
+                  "text": "A genfi Place de jeux du Parc des Franchises egy nagy játszótér, ahol a gyerekek kedvükre mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        6.116485,
+                        46.211123
                   ]
             }
       ],
@@ -3503,6 +4475,96 @@ export const switzerlandRegions: POI[] = [
                         6.145846,
                         46.203844
                   ]
+            },
+            {
+                  "name": "Le Léman",
+                  "text": "Lacul Geneva din Geneva este un element central al orașului, oferind numeroase activități de agrement pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Parc de la Tortue",
+                  "text": "Parcul de la Tortue din Geneva oferă o zonă de joacă primitoare pentru copii în centrul orașului.",
+                  "category": "family",
+                  "coords": [
+                        6.13929,
+                        46.189858
+                  ]
+            },
+            {
+                  "name": "Lézard des Grottes",
+                  "text": "Lézard des Grottes din Geneva oferă posibilități de joacă inventive pentru copii într-un parc urban.",
+                  "category": "family",
+                  "coords": [
+                        6.139125,
+                        46.210261
+                  ]
+            },
+            {
+                  "name": "Square Monthoux",
+                  "text": "Square Monthoux din Geneva oferă un loc de joacă mic, dar plăcut, pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        6.148153,
+                        46.210919
+                  ]
+            },
+            {
+                  "name": "Billard Bluff",
+                  "text": "Billard Bluff din Geneva oferă divertisment și jocuri pentru tineri și adulți.",
+                  "category": "family",
+                  "coords": [
+                        6.161956,
+                        46.203183
+                  ]
+            },
+            {
+                  "name": "Parc de l'abeille",
+                  "text": "Parcul de l'abeille din Geneva oferă copiilor un spațiu natural pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        6.120897,
+                        46.19239
+                  ]
+            },
+            {
+                  "name": "Petit Train",
+                  "text": "Petit Train din Geneva este o zonă de joacă specială care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        6.11781,
+                        46.190206
+                  ]
+            },
+            {
+                  "name": "Préau couvert",
+                  "text": "Préau couvert din Geneva oferă o zonă protejată pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.11946,
+                        46.188647
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Soubeyran",
+                  "text": "Locul de joacă din parcul Soubeyran din Geneva oferă echipamente variate pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.124068,
+                        46.212152
+                  ]
+            },
+            {
+                  "name": "Place de jeux du Parc des Franchises",
+                  "text": "Locul de joacă din parcul Franchises din Geneva este un spațiu vast cu multe posibilități de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        6.116485,
+                        46.211123
+                  ]
             }
       ],
       "en": [
@@ -3982,6 +5044,96 @@ export const switzerlandRegions: POI[] = [
                         6.145846,
                         46.203844
                   ]
+            },
+            {
+                  "name": "Lake Geneva",
+                  "text": "Lake Geneva in Geneva is a central feature of the city, offering numerous lakeside recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Parc de la Tortue",
+                  "text": "Parc de la Tortue in Geneva offers a friendly play area for children in the heart of the city.",
+                  "category": "family",
+                  "coords": [
+                        6.13929,
+                        46.189858
+                  ]
+            },
+            {
+                  "name": "Lézard des Grottes",
+                  "text": "Lézard des Grottes in Geneva offers imaginative play opportunities for children in an urban park.",
+                  "category": "family",
+                  "coords": [
+                        6.139125,
+                        46.210261
+                  ]
+            },
+            {
+                  "name": "Square Monthoux",
+                  "text": "Square Monthoux in Geneva offers a small but nice playground for the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        6.148153,
+                        46.210919
+                  ]
+            },
+            {
+                  "name": "Billard Bluff",
+                  "text": "Billard Bluff in Geneva offers entertainment and games for young people and adults.",
+                  "category": "family",
+                  "coords": [
+                        6.161956,
+                        46.203183
+                  ]
+            },
+            {
+                  "name": "Parc de l'abeille",
+                  "text": "Parc de l'abeille in Geneva offers children a nature-oriented space for play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        6.120897,
+                        46.19239
+                  ]
+            },
+            {
+                  "name": "Petit Train",
+                  "text": "Petit Train in Geneva is a special play area that sparks children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        6.11781,
+                        46.190206
+                  ]
+            },
+            {
+                  "name": "Préau couvert",
+                  "text": "Préau couvert in Geneva offers a sheltered area for outdoor play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        6.11946,
+                        46.188647
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Soubeyran",
+                  "text": "The Soubeyran park playground in Geneva offers varied equipment for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.124068,
+                        46.212152
+                  ]
+            },
+            {
+                  "name": "Place de jeux du Parc des Franchises",
+                  "text": "The Parc des Franchises playground in Geneva is a large playground with many opportunities for active play.",
+                  "category": "family",
+                  "coords": [
+                        6.116485,
+                        46.211123
+                  ]
             }
       ]
 },
@@ -4406,7 +5558,7 @@ export const switzerlandRegions: POI[] = [
             {
                   "name": "Zoologischer Garten Basel",
                   "text": "Der älteste und größte Zoo der Schweiz, lokal als 'Zolli' bekannt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.579184,
                         47.546856
@@ -4536,6 +5688,195 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.625983,
                         47.551661
+                  ]
+            },
+            {
+                  "name": "Reservoir Spitalholz",
+                  "text": "Ein ruhiges Gewässer in Basel, das eine entspannte Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.62421,
+                        47.503256
+                  ]
+            },
+            {
+                  "name": "Quellsee",
+                  "text": "Ein klarer See in Basel, ideal für einen erholsamen Aufenthalt am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        7.618165,
+                        47.530761
+                  ]
+            },
+            {
+                  "name": "Sandbox",
+                  "text": "Ein Sandspielplatz in Basel, der kleinen Kindern viel Freude beim Buddeln und Bauen bereitet.",
+                  "category": "family",
+                  "coords": [
+                        7.569192,
+                        47.565425
+                  ]
+            },
+            {
+                  "name": "Dürrenmatten",
+                  "text": "Ein attraktiver Spielplatz in Basel, der Familien einen abwechslungsreichen Aufenthalt bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.550053,
+                        47.554329
+                  ]
+            },
+            {
+                  "name": "Pumpwerkspielplatz",
+                  "text": "Ein origineller Spielplatz in Basel, der Kindern spannende Möglichkeiten zum Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.614915,
+                        47.574047
+                  ]
+            },
+            {
+                  "name": "Pfirteranlage",
+                  "text": "Eine kinderfreundliche Anlage in Basel, die zu aktiver Freizeitgestaltung im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.578254,
+                        47.549168
+                  ]
+            },
+            {
+                  "name": "Robi Horburg",
+                  "text": "Ein beliebter Robinson-Spielplatz in Basel, der Kreativität und Abenteuerlust fördert.",
+                  "category": "family",
+                  "coords": [
+                        7.594336,
+                        47.573391
+                  ]
+            },
+            {
+                  "name": "Robi Allmend",
+                  "text": "Ein Abenteuerspielplatz in Basel, der Kindern viel Raum für eigene Ideen und Projekte lässt.",
+                  "category": "family",
+                  "coords": [
+                        7.624027,
+                        47.563915
+                  ]
+            },
+            {
+                  "name": "Robi Birsfelden",
+                  "text": "Ein vielseitiger Treffpunkt für Kinder in Basel, der zum gemeinsamen Spielen anregt.",
+                  "category": "family",
+                  "coords": [
+                        7.625709,
+                        47.557732
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Erlenmattpark",
+                  "text": "Ein moderner Spielplatz im Basler Erlenmattpark, der ideal in die Grünanlage integriert ist.",
+                  "category": "family",
+                  "coords": [
+                        7.601539,
+                        47.571201
+                  ]
+            },
+            {
+                  "name": "Sigi von Koeding-Anlage",
+                  "text": "Ein schön gestalteter Spielbereich in Basel, der Familien zur Erholung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.598064,
+                        47.543762
+                  ]
+            },
+            {
+                  "name": "Robi-Spielplatz Binningen",
+                  "text": "Ein abenteuerlicher Spielplatz in Basel, der Kindern spannende Erlebnisse in der Natur bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.576328,
+                        47.541517
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldalleespielplatz",
+                  "text": "Ein gut erreichbarer Spielplatz in Basel, der eine willkommene Abwechslung im Stadtalltag ist.",
+                  "category": "family",
+                  "coords": [
+                        7.610644,
+                        47.561748
+                  ]
+            },
+            {
+                  "name": "Die Spielaue",
+                  "text": "Ein fantasievoller Spielbereich in Basel, der die Spielfreude von Kindern weckt.",
+                  "category": "family",
+                  "coords": [
+                        7.604417,
+                        47.574347
+                  ]
+            },
+            {
+                  "name": "Spielplatz 1 Duradero",
+                  "text": "Ein ansprechender Spielplatz in Basel mit verschiedenen Möglichkeiten zum Klettern und Toben.",
+                  "category": "family",
+                  "coords": [
+                        7.553131,
+                        47.557729
+                  ]
+            },
+            {
+                  "name": "Spielplatz 2 Duradero",
+                  "text": "Ein weiterer Spielbereich in Basel, der für Spaß und Bewegung im Freien sorgt.",
+                  "category": "family",
+                  "coords": [
+                        7.551469,
+                        47.557375
+                  ]
+            },
+            {
+                  "name": "Madeleine-Born-Platz",
+                  "text": "Ein zentraler Platz in Basel, der auch für Kinder attraktive Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.564816,
+                        47.553227
+                  ]
+            },
+            {
+                  "name": "Le Parc des Carrières",
+                  "text": "Eine moderne Anlage in Basel, die Familien Raum für Freizeit und Spiel bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.549868,
+                        47.566577
+                  ]
+            },
+            {
+                  "name": "Lindenplatz",
+                  "text": "Ein kinderfreundlicher Treffpunkt in Basel, der zum Verweilen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.560262,
+                        47.558081
+                  ]
+            },
+            {
+                  "name": "Robi Bachgraben",
+                  "text": "Ein Abenteuerspielplatz in Basel, der Kindern vielfältige Erfahrungen in der Natur ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        7.561065,
+                        47.563528
+                  ]
+            },
+            {
+                  "name": "Claramatte",
+                  "text": "Ein beliebter Stadtspielplatz in Basel, der ein idealer Ort für Familienausflüge ist.",
+                  "category": "family",
+                  "coords": [
+                        7.594783,
+                        47.563225
                   ]
             }
       ],
@@ -4822,7 +6163,7 @@ export const switzerlandRegions: POI[] = [
             {
                   "name": "Zoologischer Garten Basel",
                   "text": "Svájc legrégebbi és legnagyobb állatkertje, helyi nevén a 'Zolli'.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.579184,
                         47.546856
@@ -4952,6 +6293,195 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.625983,
                         47.551661
+                  ]
+            },
+            {
+                  "name": "Reservoir Spitalholz",
+                  "text": "Csendes vízfelület Bázelben, amely nyugodt környezetet biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.62421,
+                        47.503256
+                  ]
+            },
+            {
+                  "name": "Quellsee",
+                  "text": "Tiszta tó Bázelben, amely ideális egy pihentető vízparti időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        7.618165,
+                        47.530761
+                  ]
+            },
+            {
+                  "name": "Sandbox",
+                  "text": "Homokozós játszótér Bázelben, amely nagy örömet okoz a kisgyerekeknek az ásásban és építésben.",
+                  "category": "family",
+                  "coords": [
+                        7.569192,
+                        47.565425
+                  ]
+            },
+            {
+                  "name": "Dürrenmatten",
+                  "text": "Vonzó játszótér Bázelben, amely változatos időtöltést kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.550053,
+                        47.554329
+                  ]
+            },
+            {
+                  "name": "Pumpwerkspielplatz",
+                  "text": "Eredeti játszótér Bázelben, amely izgalmas felfedezési lehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.614915,
+                        47.574047
+                  ]
+            },
+            {
+                  "name": "Pfirteranlage",
+                  "text": "Gyermekbarát létesítmény Bázelben, amely aktív szabadtéri időtöltésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        7.578254,
+                        47.549168
+                  ]
+            },
+            {
+                  "name": "Robi Horburg",
+                  "text": "Népszerű Robinson-játszótér Bázelben, amely ösztönzi a kreativitást és a kalandvágyat.",
+                  "category": "family",
+                  "coords": [
+                        7.594336,
+                        47.573391
+                  ]
+            },
+            {
+                  "name": "Robi Allmend",
+                  "text": "Kalandjátszótér Bázelben, amely sok teret enged a gyerekek saját ötleteinek és projektjeinek.",
+                  "category": "family",
+                  "coords": [
+                        7.624027,
+                        47.563915
+                  ]
+            },
+            {
+                  "name": "Robi Birsfelden",
+                  "text": "Sokoldalú találkozóhely gyerekeknek Bázelben, amely közös játékra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        7.625709,
+                        47.557732
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Erlenmattpark",
+                  "text": "Modern játszótér a bázeli Erlenmattparkban, amely ideálisan illeszkedik a zöldövezetbe.",
+                  "category": "family",
+                  "coords": [
+                        7.601539,
+                        47.571201
+                  ]
+            },
+            {
+                  "name": "Sigi von Koeding-Anlage",
+                  "text": "Szépen kialakított játszóterület Bázelben, amely kikapcsolódásra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        7.598064,
+                        47.543762
+                  ]
+            },
+            {
+                  "name": "Robi-Spielplatz Binningen",
+                  "text": "Kalandos játszótér Bázelben, amely izgalmas élményeket kínál a gyerekeknek a természetben.",
+                  "category": "family",
+                  "coords": [
+                        7.576328,
+                        47.541517
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldalleespielplatz",
+                  "text": "Könnyen megközelíthető játszótér Bázelben, amely kellemes színfolt a városi mindennapokban.",
+                  "category": "family",
+                  "coords": [
+                        7.610644,
+                        47.561748
+                  ]
+            },
+            {
+                  "name": "Die Spielaue",
+                  "text": "Fantáziadús játszóterület Bázelben, amely felébreszti a gyermekek játékkedvét.",
+                  "category": "family",
+                  "coords": [
+                        7.604417,
+                        47.574347
+                  ]
+            },
+            {
+                  "name": "Spielplatz 1 Duradero",
+                  "text": "Vonzó játszótér Bázelben, különféle mászási és hancúrozási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        7.553131,
+                        47.557729
+                  ]
+            },
+            {
+                  "name": "Spielplatz 2 Duradero",
+                  "text": "Egy újabb játszóterület Bázelben, amely gondoskodik a szabadtéri szórakozásról és mozgásról.",
+                  "category": "family",
+                  "coords": [
+                        7.551469,
+                        47.557375
+                  ]
+            },
+            {
+                  "name": "Madeleine-Born-Platz",
+                  "text": "Központi tér Bázelben, amely a gyermekek számára is vonzó játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        7.564816,
+                        47.553227
+                  ]
+            },
+            {
+                  "name": "Le Parc des Carrières",
+                  "text": "Modern létesítmény Bázelben, amely teret biztosít a családoknak a szabadidőhöz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.549868,
+                        47.566577
+                  ]
+            },
+            {
+                  "name": "Lindenplatz",
+                  "text": "Gyermekbarát találkozóhely Bázelben, amely szabadtéri időtöltésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        7.560262,
+                        47.558081
+                  ]
+            },
+            {
+                  "name": "Robi Bachgraben",
+                  "text": "Kalandjátszótér Bázelben, amely sokszínű élményeket tesz lehetővé a gyerekeknek a természetben.",
+                  "category": "family",
+                  "coords": [
+                        7.561065,
+                        47.563528
+                  ]
+            },
+            {
+                  "name": "Claramatte",
+                  "text": "Népszerű városi játszótér Bázelben, amely ideális helyszín családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.594783,
+                        47.563225
                   ]
             }
       ],
@@ -5238,7 +6768,7 @@ export const switzerlandRegions: POI[] = [
             {
                   "name": "Zoologischer Garten Basel",
                   "text": "Cea mai veche și mai mare grădină zoologică din Elveția, cunoscută local sub numele de „Zolli”.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.579184,
                         47.546856
@@ -5368,6 +6898,195 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.625983,
                         47.551661
+                  ]
+            },
+            {
+                  "name": "Reservoir Spitalholz",
+                  "text": "O zonă cu apă liniștită în Basel, care oferă o atmosferă relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.62421,
+                        47.503256
+                  ]
+            },
+            {
+                  "name": "Quellsee",
+                  "text": "Un lac cu apă limpede în Basel, ideal pentru un sejur relaxant pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        7.618165,
+                        47.530761
+                  ]
+            },
+            {
+                  "name": "Sandbox",
+                  "text": "Un teren de joacă cu nisip în Basel, care le oferă copiilor mici multă bucurie la săpat și construit.",
+                  "category": "family",
+                  "coords": [
+                        7.569192,
+                        47.565425
+                  ]
+            },
+            {
+                  "name": "Dürrenmatten",
+                  "text": "Un teren de joacă atractiv în Basel, care oferă familiilor un sejur variat.",
+                  "category": "family",
+                  "coords": [
+                        7.550053,
+                        47.554329
+                  ]
+            },
+            {
+                  "name": "Pumpwerkspielplatz",
+                  "text": "Un teren de joacă original în Basel, care le oferă copiilor oportunități captivante de explorare.",
+                  "category": "family",
+                  "coords": [
+                        7.614915,
+                        47.574047
+                  ]
+            },
+            {
+                  "name": "Pfirteranlage",
+                  "text": "O amenajare prietenoasă pentru copii în Basel, care invită la activități recreative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.578254,
+                        47.549168
+                  ]
+            },
+            {
+                  "name": "Robi Horburg",
+                  "text": "Un teren de joacă tip Robinson popular în Basel, care stimulează creativitatea și aventura.",
+                  "category": "family",
+                  "coords": [
+                        7.594336,
+                        47.573391
+                  ]
+            },
+            {
+                  "name": "Robi Allmend",
+                  "text": "Un teren de joacă de aventură în Basel, care le lasă copiilor mult spațiu pentru propriile idei.",
+                  "category": "family",
+                  "coords": [
+                        7.624027,
+                        47.563915
+                  ]
+            },
+            {
+                  "name": "Robi Birsfelden",
+                  "text": "Un loc de întâlnire versatil pentru copii în Basel, care încurajează joaca împreună.",
+                  "category": "family",
+                  "coords": [
+                        7.625709,
+                        47.557732
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Erlenmattpark",
+                  "text": "Un teren de joacă modern în Erlenmattpark din Basel, integrat ideal în zona verde.",
+                  "category": "family",
+                  "coords": [
+                        7.601539,
+                        47.571201
+                  ]
+            },
+            {
+                  "name": "Sigi von Koeding-Anlage",
+                  "text": "O zonă de joacă frumos amenajată în Basel, care invită familiile la relaxare.",
+                  "category": "family",
+                  "coords": [
+                        7.598064,
+                        47.543762
+                  ]
+            },
+            {
+                  "name": "Robi-Spielplatz Binningen",
+                  "text": "Un teren de joacă plin de aventură în Basel, care oferă copiilor experiențe captivante în natură.",
+                  "category": "family",
+                  "coords": [
+                        7.576328,
+                        47.541517
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldalleespielplatz",
+                  "text": "Un teren de joacă ușor accesibil în Basel, care reprezintă o schimbare binevenită în cotidianul urban.",
+                  "category": "family",
+                  "coords": [
+                        7.610644,
+                        47.561748
+                  ]
+            },
+            {
+                  "name": "Die Spielaue",
+                  "text": "O zonă de joacă plină de fantezie în Basel, care trezește bucuria de a juca a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        7.604417,
+                        47.574347
+                  ]
+            },
+            {
+                  "name": "Spielplatz 1 Duradero",
+                  "text": "Un teren de joacă atractiv în Basel, cu diverse posibilități de cățărare și zbânțuială.",
+                  "category": "family",
+                  "coords": [
+                        7.553131,
+                        47.557729
+                  ]
+            },
+            {
+                  "name": "Spielplatz 2 Duradero",
+                  "text": "O altă zonă de joacă în Basel, care asigură distracție și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.551469,
+                        47.557375
+                  ]
+            },
+            {
+                  "name": "Madeleine-Born-Platz",
+                  "text": "O piață centrală în Basel, care oferă posibilități de joacă atractive și pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.564816,
+                        47.553227
+                  ]
+            },
+            {
+                  "name": "Le Parc des Carrières",
+                  "text": "O amenajare modernă în Basel, care oferă familiilor spațiu pentru timp liber și joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.549868,
+                        47.566577
+                  ]
+            },
+            {
+                  "name": "Lindenplatz",
+                  "text": "Un loc de întâlnire prietenos pentru copii în Basel, care invită la petrecerea timpului în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.560262,
+                        47.558081
+                  ]
+            },
+            {
+                  "name": "Robi Bachgraben",
+                  "text": "Un teren de joacă de aventură în Basel, care le permite copiilor experiențe diverse în natură.",
+                  "category": "family",
+                  "coords": [
+                        7.561065,
+                        47.563528
+                  ]
+            },
+            {
+                  "name": "Claramatte",
+                  "text": "Un teren de joacă urban popular în Basel, care este un loc ideal pentru excursii în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.594783,
+                        47.563225
                   ]
             }
       ],
@@ -5654,7 +7373,7 @@ export const switzerlandRegions: POI[] = [
             {
                   "name": "Zoologischer Garten Basel",
                   "text": "The oldest and largest zoo in Switzerland, locally known as 'Zolli'.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.579184,
                         47.546856
@@ -5784,6 +7503,195 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.625983,
                         47.551661
+                  ]
+            },
+            {
+                  "name": "Reservoir Spitalholz",
+                  "text": "A quiet body of water in Basel, offering a relaxed atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        7.62421,
+                        47.503256
+                  ]
+            },
+            {
+                  "name": "Quellsee",
+                  "text": "A clear lake in Basel, ideal for a relaxing stay by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.618165,
+                        47.530761
+                  ]
+            },
+            {
+                  "name": "Sandbox",
+                  "text": "A sand playground in Basel that brings great joy to small children digging and building.",
+                  "category": "family",
+                  "coords": [
+                        7.569192,
+                        47.565425
+                  ]
+            },
+            {
+                  "name": "Dürrenmatten",
+                  "text": "An attractive playground in Basel offering families a varied stay.",
+                  "category": "family",
+                  "coords": [
+                        7.550053,
+                        47.554329
+                  ]
+            },
+            {
+                  "name": "Pumpwerkspielplatz",
+                  "text": "An original playground in Basel offering children exciting opportunities for discovery.",
+                  "category": "family",
+                  "coords": [
+                        7.614915,
+                        47.574047
+                  ]
+            },
+            {
+                  "name": "Pfirteranlage",
+                  "text": "A child-friendly facility in Basel inviting active outdoor leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        7.578254,
+                        47.549168
+                  ]
+            },
+            {
+                  "name": "Robi Horburg",
+                  "text": "A popular Robinson playground in Basel that encourages creativity and adventure.",
+                  "category": "family",
+                  "coords": [
+                        7.594336,
+                        47.573391
+                  ]
+            },
+            {
+                  "name": "Robi Allmend",
+                  "text": "An adventure playground in Basel giving children plenty of room for their own ideas.",
+                  "category": "family",
+                  "coords": [
+                        7.624027,
+                        47.563915
+                  ]
+            },
+            {
+                  "name": "Robi Birsfelden",
+                  "text": "A versatile meeting point for children in Basel that encourages playing together.",
+                  "category": "family",
+                  "coords": [
+                        7.625709,
+                        47.557732
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Erlenmattpark",
+                  "text": "A modern playground in Basel's Erlenmattpark, ideally integrated into the green space.",
+                  "category": "family",
+                  "coords": [
+                        7.601539,
+                        47.571201
+                  ]
+            },
+            {
+                  "name": "Sigi von Koeding-Anlage",
+                  "text": "A beautifully designed play area in Basel inviting families to relax.",
+                  "category": "family",
+                  "coords": [
+                        7.598064,
+                        47.543762
+                  ]
+            },
+            {
+                  "name": "Robi-Spielplatz Binningen",
+                  "text": "An adventurous playground in Basel offering children exciting experiences in nature.",
+                  "category": "family",
+                  "coords": [
+                        7.576328,
+                        47.541517
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldalleespielplatz",
+                  "text": "An easily accessible playground in Basel, providing a welcome break from city life.",
+                  "category": "family",
+                  "coords": [
+                        7.610644,
+                        47.561748
+                  ]
+            },
+            {
+                  "name": "Die Spielaue",
+                  "text": "An imaginative play area in Basel that sparks children's joy in playing.",
+                  "category": "family",
+                  "coords": [
+                        7.604417,
+                        47.574347
+                  ]
+            },
+            {
+                  "name": "Spielplatz 1 Duradero",
+                  "text": "An appealing playground in Basel with various options for climbing and romping.",
+                  "category": "family",
+                  "coords": [
+                        7.553131,
+                        47.557729
+                  ]
+            },
+            {
+                  "name": "Spielplatz 2 Duradero",
+                  "text": "Another play area in Basel that ensures fun and movement outdoors.",
+                  "category": "family",
+                  "coords": [
+                        7.551469,
+                        47.557375
+                  ]
+            },
+            {
+                  "name": "Madeleine-Born-Platz",
+                  "text": "A central square in Basel that also offers attractive play options for children.",
+                  "category": "family",
+                  "coords": [
+                        7.564816,
+                        47.553227
+                  ]
+            },
+            {
+                  "name": "Le Parc des Carrières",
+                  "text": "A modern facility in Basel offering families space for leisure and play.",
+                  "category": "family",
+                  "coords": [
+                        7.549868,
+                        47.566577
+                  ]
+            },
+            {
+                  "name": "Lindenplatz",
+                  "text": "A child-friendly meeting point in Basel inviting people to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        7.560262,
+                        47.558081
+                  ]
+            },
+            {
+                  "name": "Robi Bachgraben",
+                  "text": "An adventure playground in Basel allowing children diverse experiences in nature.",
+                  "category": "family",
+                  "coords": [
+                        7.561065,
+                        47.563528
+                  ]
+            },
+            {
+                  "name": "Claramatte",
+                  "text": "A popular city playground in Basel, which is an ideal spot for family outings.",
+                  "category": "family",
+                  "coords": [
+                        7.594783,
+                        47.563225
                   ]
             }
       ]
@@ -6298,6 +8206,96 @@ export const switzerlandRegions: POI[] = [
                         6.642958,
                         46.516675
                   ]
+            },
+            {
+                  "name": "Genfersee",
+                  "text": "Der Genfersee bei Lausanne bietet eine prachtvolle Kulisse für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Lac de Sauvabelin",
+                  "text": "Ein idyllischer kleiner See in einem Park in Lausanne, ideal für Familien.",
+                  "category": "natural",
+                  "coords": [
+                        6.63814,
+                        46.537599
+                  ]
+            },
+            {
+                  "name": "Étang de la Bressonne",
+                  "text": "Ein ruhiger See in Lausanne, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.699861,
+                        46.572755
+                  ]
+            },
+            {
+                  "name": "The Jump Spot",
+                  "text": "Dieser Trampolinpark in Lausanne bietet aktiven Springspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.61063,
+                        46.525365
+                  ]
+            },
+            {
+                  "name": "Terrain d'Aventure de Malley",
+                  "text": "Ein abwechslungsreicher Spielplatz in Lausanne, der Kindern viel Raum für Abenteuer bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.603857,
+                        46.523127
+                  ]
+            },
+            {
+                  "name": "Parc des Faverges",
+                  "text": "Ein freundlicher Nachbarschaftsspielplatz in Lausanne für Spiel und Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.645918,
+                        46.513683
+                  ]
+            },
+            {
+                  "name": "Minigolf Club Lausanne",
+                  "text": "Diese Minigolfanlage in Lausanne bietet Freizeitvergnügen für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        6.612025,
+                        46.511943
+                  ]
+            },
+            {
+                  "name": "La Dune de Malley",
+                  "text": "Ein moderner Spielplatz in Lausanne, der zum Klettern und Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.604182,
+                        46.524429
+                  ]
+            },
+            {
+                  "name": "Chandieu",
+                  "text": "Ein schöner Spielbereich in Lausanne für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        6.63966,
+                        46.512563
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux du Grand-Pré",
+                  "text": "Ein einladender Spielplatz in Lausanne mit verschiedenen Geräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.602771,
+                        46.533946
+                  ]
             }
       ],
       "hu": [
@@ -6740,6 +8738,96 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.642958,
                         46.516675
+                  ]
+            },
+            {
+                  "name": "Genfi-tó",
+                  "text": "A Genfi-tó Lausanne-nál pompás hátteret nyújt a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Lac de Sauvabelin",
+                  "text": "Idilli kis tó egy lausanne-i parkban, ideális családok számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.63814,
+                        46.537599
+                  ]
+            },
+            {
+                  "name": "Étang de la Bressonne",
+                  "text": "Nyugodt tó Lausanne-ban, amely ideális a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.699861,
+                        46.572755
+                  ]
+            },
+            {
+                  "name": "The Jump Spot",
+                  "text": "Ez a lausanne-i trambulinpark aktív ugrálási élményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.61063,
+                        46.525365
+                  ]
+            },
+            {
+                  "name": "Terrain d'Aventure de Malley",
+                  "text": "Változatos játszótér Lausanne-ban, amely sok helyet kínál a gyerekeknek a kalandozásra.",
+                  "category": "family",
+                  "coords": [
+                        6.603857,
+                        46.523127
+                  ]
+            },
+            {
+                  "name": "Parc des Faverges",
+                  "text": "Barátságos környékbeli játszótér Lausanne-ban a szabadtéri játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.645918,
+                        46.513683
+                  ]
+            },
+            {
+                  "name": "Minigolf Club Lausanne",
+                  "text": "Ez a lausanne-i minigolfpálya szabadidős szórakozást nyújt kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.612025,
+                        46.511943
+                  ]
+            },
+            {
+                  "name": "La Dune de Malley",
+                  "text": "Modern játszótér Lausanne-ban, amely mászásra és hancúrozásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        6.604182,
+                        46.524429
+                  ]
+            },
+            {
+                  "name": "Chandieu",
+                  "text": "Szép játszóterület Lausanne-ban gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.63966,
+                        46.512563
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux du Grand-Pré",
+                  "text": "Hívogató játszótér Lausanne-ban különböző játékokkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        6.602771,
+                        46.533946
                   ]
             }
       ],
@@ -7184,6 +9272,96 @@ export const switzerlandRegions: POI[] = [
                         6.642958,
                         46.516675
                   ]
+            },
+            {
+                  "name": "Le Léman",
+                  "text": "Lacul Geneva de lângă Lausanne oferă un cadru magnific pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Lac de Sauvabelin",
+                  "text": "Un mic lac idilic într-un parc din Lausanne, ideal pentru familii.",
+                  "category": "natural",
+                  "coords": [
+                        6.63814,
+                        46.537599
+                  ]
+            },
+            {
+                  "name": "Étang de la Bressonne",
+                  "text": "Un lac liniștit în Lausanne, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.699861,
+                        46.572755
+                  ]
+            },
+            {
+                  "name": "The Jump Spot",
+                  "text": "Acest parc de trambuline din Lausanne oferă distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.61063,
+                        46.525365
+                  ]
+            },
+            {
+                  "name": "Terrain d'Aventure de Malley",
+                  "text": "Un teren de joacă variat în Lausanne, care oferă copiilor mult spațiu pentru aventură.",
+                  "category": "family",
+                  "coords": [
+                        6.603857,
+                        46.523127
+                  ]
+            },
+            {
+                  "name": "Parc des Faverges",
+                  "text": "Un loc de joacă prietenos în Lausanne pentru jocuri și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.645918,
+                        46.513683
+                  ]
+            },
+            {
+                  "name": "Minigolf Club Lausanne",
+                  "text": "Acest teren de minigolf din Lausanne oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.612025,
+                        46.511943
+                  ]
+            },
+            {
+                  "name": "La Dune de Malley",
+                  "text": "Un loc de joacă modern în Lausanne, care invită copiii la cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.604182,
+                        46.524429
+                  ]
+            },
+            {
+                  "name": "Chandieu",
+                  "text": "O zonă frumoasă de joacă în Lausanne pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        6.63966,
+                        46.512563
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux du Grand-Pré",
+                  "text": "Un loc de joacă primitor în Lausanne, cu diverse echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.602771,
+                        46.533946
+                  ]
             }
       ],
       "en": [
@@ -7626,6 +9804,96 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.642958,
                         46.516675
+                  ]
+            },
+            {
+                  "name": "Lake Geneva",
+                  "text": "Lake Geneva near Lausanne offers a magnificent backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Lac de Sauvabelin",
+                  "text": "An idyllic small lake in a park in Lausanne, ideal for families.",
+                  "category": "natural",
+                  "coords": [
+                        6.63814,
+                        46.537599
+                  ]
+            },
+            {
+                  "name": "Étang de la Bressonne",
+                  "text": "A peaceful lake in Lausanne, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.699861,
+                        46.572755
+                  ]
+            },
+            {
+                  "name": "The Jump Spot",
+                  "text": "This trampoline park in Lausanne offers active jumping fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.61063,
+                        46.525365
+                  ]
+            },
+            {
+                  "name": "Terrain d'Aventure de Malley",
+                  "text": "A varied playground in Lausanne offering children plenty of space for adventure.",
+                  "category": "family",
+                  "coords": [
+                        6.603857,
+                        46.523127
+                  ]
+            },
+            {
+                  "name": "Parc des Faverges",
+                  "text": "A friendly neighborhood playground in Lausanne for outdoor play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        6.645918,
+                        46.513683
+                  ]
+            },
+            {
+                  "name": "Minigolf Club Lausanne",
+                  "text": "This miniature golf course in Lausanne offers leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.612025,
+                        46.511943
+                  ]
+            },
+            {
+                  "name": "La Dune de Malley",
+                  "text": "A modern playground in Lausanne that invites climbing and active play.",
+                  "category": "family",
+                  "coords": [
+                        6.604182,
+                        46.524429
+                  ]
+            },
+            {
+                  "name": "Chandieu",
+                  "text": "A nice play area in Lausanne for families with children.",
+                  "category": "family",
+                  "coords": [
+                        6.63966,
+                        46.512563
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux du Grand-Pré",
+                  "text": "An inviting playground in Lausanne with various equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        6.602771,
+                        46.533946
                   ]
             }
       ]
@@ -8218,6 +10486,132 @@ export const switzerlandRegions: POI[] = [
                         8.308782,
                         47.043989
                   ]
+            },
+            {
+                  "name": "Vierwaldstättersee",
+                  "text": "Der Vierwaldstättersee bei Luzern bietet eine spektakuläre Kulisse für Ausflüge und Wassersport.",
+                  "category": "natural",
+                  "coords": [
+                        8.451902,
+                        46.985428
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "Der Rotsee bei Luzern ist bekannt für seine natürliche Schönheit und als Austragungsort für Ruderregatten.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "Der Spielplatz Militärstrasse in Luzern bietet Kindern Raum für Bewegung und Spiel im Stadtviertel.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "Der Lidospielplatz in Luzern liegt direkt am See und bietet Kindern attraktive Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "Dammgärtli in Luzern ist ein kleiner, freundlicher Spielplatz für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "Der Spielplatz Inseli in Luzern bietet Kindern Spielspaß mit direktem Blick auf den See.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "Der Spielplatz Bleichergärtli in Luzern bietet vielfältige Klettermöglichkeiten und Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Sonnenberg",
+                  "text": "Die Minigolfanlage Sonnenberg in Luzern bietet Freizeitvergnügen für die ganze Familie mit schöner Aussicht.",
+                  "category": "family",
+                  "coords": [
+                        8.274031,
+                        47.044089
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reusszopf",
+                  "text": "Der Spielplatz Reusszopf in Luzern bietet Kindern attraktive Spielmöglichkeiten direkt am Flussufer.",
+                  "category": "family",
+                  "coords": [
+                        8.284702,
+                        47.064697
+                  ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "Das Parkbad in Luzern bietet neben dem Schwimmbereich auch Spielflächen für Kinder an Land.",
+                  "category": "family",
+                  "coords": [
+                        8.285817,
+                        47.030659
+                  ]
+            },
+            {
+                  "name": "Gabeldingen",
+                  "text": "Gabeldingen in Luzern bietet einen Spielplatz in ruhiger Lage für entspanntes Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.280641,
+                        47.040751
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "Lido Minigolf in Luzern bietet Freizeitspaß für die ganze Familie beim Minigolfspiel.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Spielplatz Täschmatt",
+                  "text": "Der Spielplatz Täschmatt in Luzern ist ein schönes Ziel für einen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.280752,
+                        47.065147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Spielplatz Mettlen in Luzern bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.285053,
+                        47.029287
+                  ]
             }
       ],
       "hu": [
@@ -8669,6 +11063,132 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.308782,
                         47.043989
+                  ]
+            },
+            {
+                  "name": "Vierwaldstättersee",
+                  "text": "A Luzern melletti Vierwaldstätter-tó látványos környezetet biztosít a kirándulásokhoz és vízi sportokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.451902,
+                        46.985428
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "A Luzern melletti Rotsee természeti szépségéről és evezős versenyeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "A luzerni Militärstrasse játszótér helyet biztosít a gyerekeknek a játékhoz és mozgáshoz a városnegyedben.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "A luzerni Lidospielplatz közvetlenül a tóparton található, és vonzó játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "A luzerni Dammgärtli egy kicsi, barátságos játszótér a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "A luzerni Inseli játszótér közvetlen tóparti kilátással kínál játékélményt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "A luzerni Bleichergärtli játszótér változatos mászófalakat és játékeszközöket kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Sonnenberg",
+                  "text": "A luzerni Sonnenberg minigolfpálya szép kilátással kínál kikapcsolódást az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        8.274031,
+                        47.044089
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reusszopf",
+                  "text": "A luzerni Reusszopf játszótér vonzó játéklehetőségeket kínál a gyerekeknek közvetlenül a folyóparton.",
+                  "category": "family",
+                  "coords": [
+                        8.284702,
+                        47.064697
+                  ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "A luzerni Parkbad az úszófelület mellett szárazföldi játszóhelyeket is biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.285817,
+                        47.030659
+                  ]
+            },
+            {
+                  "name": "Gabeldingen",
+                  "text": "A luzerni Gabeldingen csendes helyen lévő játszóteret kínál a nyugodt szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.280641,
+                        47.040751
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "A luzerni Lido Minigolf remek kikapcsolódást nyújt az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Spielplatz Täschmatt",
+                  "text": "A luzerni Spielplatz Täschmatt ideális helyszín egy családi kikapcsolódáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.280752,
+                        47.065147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "A luzerni Spielplatz Mettlen változatos játéklehetőségeket kínál a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.285053,
+                        47.029287
                   ]
             }
       ],
@@ -9122,6 +11642,132 @@ export const switzerlandRegions: POI[] = [
                         8.308782,
                         47.043989
                   ]
+            },
+            {
+                  "name": "Vierwaldstättersee",
+                  "text": "Lacul Lucerna de lângă Lucerna oferă un cadru spectaculos pentru excursii și sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        8.451902,
+                        46.985428
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "Rotsee de lângă Lucerna este cunoscut pentru frumusețea sa naturală și ca loc de desfășurare pentru regate de canotaj.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "Locul de joacă Militärstrasse din Lucerna oferă copiilor spațiu pentru mișcare și joacă în cartier.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "Locul de joacă Lido din Lucerna este situat direct pe malul lacului și oferă copiilor echipamente atractive.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "Dammgärtli din Lucerna este un loc de joacă mic și primitor pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "Locul de joacă Inseli din Lucerna oferă copiilor distracție cu vedere directă la lac.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "Locul de joacă Bleichergärtli din Lucerna oferă diverse posibilități de cățărare și echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Sonnenberg",
+                  "text": "Terenul de minigolf Sonnenberg din Lucerna oferă distracție pentru întreaga familie, având o priveliște frumoasă.",
+                  "category": "family",
+                  "coords": [
+                        8.274031,
+                        47.044089
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reusszopf",
+                  "text": "Locul de joacă Reusszopf din Lucerna oferă copiilor posibilități atractive de joacă direct pe malul râului.",
+                  "category": "family",
+                  "coords": [
+                        8.284702,
+                        47.064697
+                  ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "Parkbad din Lucerna oferă, pe lângă zona de înot, și spații de joacă pentru copii pe uscat.",
+                  "category": "family",
+                  "coords": [
+                        8.285817,
+                        47.030659
+                  ]
+            },
+            {
+                  "name": "Gabeldingen",
+                  "text": "Gabeldingen din Lucerna oferă un loc de joacă într-o locație liniștită pentru joacă relaxată în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.280641,
+                        47.040751
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "Lido Minigolf din Lucerna oferă distracție pentru întreaga familie cu o partidă de minigolf.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Spielplatz Täschmatt",
+                  "text": "Locul de joacă Täschmatt din Lucerna este o destinație frumoasă pentru o ieșire în familie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        8.280752,
+                        47.065147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Locul de joacă Mettlen din Lucerna oferă diverse posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.285053,
+                        47.029287
+                  ]
             }
       ],
       "en": [
@@ -9573,6 +12219,132 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.308782,
                         47.043989
+                  ]
+            },
+            {
+                  "name": "Lake Lucerne",
+                  "text": "Lake Lucerne near Lucerne offers a spectacular setting for outings and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        8.451902,
+                        46.985428
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "Rotsee near Lucerne is known for its natural beauty and as a venue for rowing regattas.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "The Militärstrasse playground in Lucerne offers children space for exercise and play in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "The Lido playground in Lucerne is located right by the lake and offers attractive play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "Dammgärtli in Lucerne is a small, friendly playground for children from the area.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "The Inseli playground in Lucerne offers children play fun with a direct view of the lake.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "The Bleichergärtli playground in Lucerne offers various climbing opportunities and play equipment.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Sonnenberg",
+                  "text": "The Sonnenberg miniature golf course in Lucerne offers leisure fun for the whole family with a beautiful view.",
+                  "category": "family",
+                  "coords": [
+                        8.274031,
+                        47.044089
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reusszopf",
+                  "text": "The Reusszopf playground in Lucerne offers children attractive play opportunities right on the riverbank.",
+                  "category": "family",
+                  "coords": [
+                        8.284702,
+                        47.064697
+                  ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "The Parkbad in Lucerne offers play areas for children on land alongside the swimming area.",
+                  "category": "family",
+                  "coords": [
+                        8.285817,
+                        47.030659
+                  ]
+            },
+            {
+                  "name": "Gabeldingen",
+                  "text": "Gabeldingen in Lucerne offers a playground in a quiet location for relaxed outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        8.280641,
+                        47.040751
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "Lido Minigolf in Lucerne offers leisure fun for the whole family with a game of minigolf.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Spielplatz Täschmatt",
+                  "text": "The Spielplatz Täschmatt in Lucerne is a lovely destination for a family outing with children.",
+                  "category": "family",
+                  "coords": [
+                        8.280752,
+                        47.065147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Spielplatz Mettlen in Lucerne offers various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        8.285053,
+                        47.029287
                   ]
             }
       ]
@@ -10073,7 +12845,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Wildpark Bruderhaus",
                   "text": "Ein beliebtes Ausflugsziel mit einheimischen Wildtieren in weitläufigen Gehegen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.72589,
                         47.477185
@@ -10122,6 +12894,195 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.718338,
                         47.501175
+                  ]
+            },
+            {
+                  "name": "Gurisee",
+                  "text": "Ein idyllisches Gewässer in Winterthur, das Ruhe und Entspannung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.747363,
+                        47.560182
+                  ]
+            },
+            {
+                  "name": "120'000l",
+                  "text": "Ein lokales Gewässer in Winterthur, das zu einem kurzen Spaziergang am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.768212,
+                        47.496005
+                  ]
+            },
+            {
+                  "name": "Piratolino Kinder Spiel Paradies",
+                  "text": "Ein Spielparadies für Kinder in Winterthur, das wetterunabhängigen Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.746007,
+                        47.496371
+                  ]
+            },
+            {
+                  "name": "Spielkiosk Eulachpark",
+                  "text": "Ein lebendiger Spielbereich in Winterthur, der Kindern viel Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.762284,
+                        47.504535
+                  ]
+            },
+            {
+                  "name": "Camping Schützenweiher",
+                  "text": "Ein Spielplatz in Winterthur, der besonders für Gäste und Besucher attraktiv ist.",
+                  "category": "family",
+                  "coords": [
+                        8.71625,
+                        47.519835
+                  ]
+            },
+            {
+                  "name": "Schulhaus Schönengrund Pavillon",
+                  "text": "Ein geschützter Spielort in Winterthur, der Kindern eine sichere Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.737069,
+                        47.495236
+                  ]
+            },
+            {
+                  "name": "KG Wallrüti",
+                  "text": "Ein kleinerer Spielbereich in Winterthur, der zum Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.759901,
+                        47.51832
+                  ]
+            },
+            {
+                  "name": "KG Eigenheim",
+                  "text": "Ein freundlich gestalteter Spielplatz in Winterthur für Kinder der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        8.743239,
+                        47.496186
+                  ]
+            },
+            {
+                  "name": "KG Feldstrasse",
+                  "text": "Ein zentral gelegener Spielplatz in Winterthur, der ideal für eine kurze Pause ist.",
+                  "category": "family",
+                  "coords": [
+                        8.717033,
+                        47.508267
+                  ]
+            },
+            {
+                  "name": "SH Mattenbach SchuBe",
+                  "text": "Ein Spielbereich in Winterthur, der Kindern Freude an der Bewegung vermittelt.",
+                  "category": "family",
+                  "coords": [
+                        8.742096,
+                        47.489545
+                  ]
+            },
+            {
+                  "name": "SH Brühlberg",
+                  "text": "Ein schön gelegener Spielort in Winterthur, der von Familien geschätzt wird.",
+                  "category": "family",
+                  "coords": [
+                        8.712633,
+                        47.496035
+                  ]
+            },
+            {
+                  "name": "SH Ausserdorf",
+                  "text": "Ein abwechslungsreicher Spielplatz in Winterthur für kleine und große Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.691133,
+                        47.507536
+                  ]
+            },
+            {
+                  "name": "KG Unterwegli",
+                  "text": "Ein sicher gestalteter Spielplatz in Winterthur, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.752886,
+                        47.504152
+                  ]
+            },
+            {
+                  "name": "KG Gerzler",
+                  "text": "Ein schöner Spielplatz für Kinder in Winterthur.",
+                  "category": "family",
+                  "coords": [
+                        8.754552,
+                        47.512505
+                  ]
+            },
+            {
+                  "name": "SH Talhof",
+                  "text": "Dieser Spielplatz in Winterthur bietet Kindern Raum zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        8.702196,
+                        47.510724
+                  ]
+            },
+            {
+                  "name": "Juchpark",
+                  "text": "Ein kinderfreundlicher Park in Winterthur mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        8.721613,
+                        47.506937
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Breite",
+                  "text": "Eine Minigolfanlage in Winterthur für Spaß mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.724711,
+                        47.489694
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Schützenweiher",
+                  "text": "Diese Minigolfanlage in Winterthur ist ein ideales Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        8.717521,
+                        47.519995
+                  ]
+            },
+            {
+                  "name": "Spielplatz Talwiesen",
+                  "text": "Ein abwechslungsreicher Spielplatz in Winterthur für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.750122,
+                        47.501058
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hermann Götz-Strasse",
+                  "text": "Ein städtischer Spielplatz in Winterthur, der zum Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.733725,
+                        47.503943
+                  ]
+            },
+            {
+                  "name": "Steglitobel",
+                  "text": "Ein idyllisch gelegener Spielplatz in Winterthur für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        8.734075,
+                        47.488638
                   ]
             }
       ],
@@ -10480,7 +13441,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Wildpark Bruderhaus",
                   "text": "Népszerű kirándulóhely őshonos vadállatokkal, tágas kifutókban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.72589,
                         47.477185
@@ -10529,6 +13490,195 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.718338,
                         47.501175
+                  ]
+            },
+            {
+                  "name": "Gurisee",
+                  "text": "Idilli vízfelület Winterthurban, amely nyugalmat és kikapcsolódást nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.747363,
+                        47.560182
+                  ]
+            },
+            {
+                  "name": "120'000l",
+                  "text": "Helyi vízfelület Winterthurban, amely egy rövid vízparti sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.768212,
+                        47.496005
+                  ]
+            },
+            {
+                  "name": "Piratolino Kinder Spiel Paradies",
+                  "text": "Játékparadicsom gyerekeknek Winterthurban, amely időjárástól független szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.746007,
+                        47.496371
+                  ]
+            },
+            {
+                  "name": "Spielkiosk Eulachpark",
+                  "text": "Élettel teli játszóterület Winterthurban, amely sok változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.762284,
+                        47.504535
+                  ]
+            },
+            {
+                  "name": "Camping Schützenweiher",
+                  "text": "Játszótér Winterthurban, amely különösen vonzó a vendégek és látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        8.71625,
+                        47.519835
+                  ]
+            },
+            {
+                  "name": "Schulhaus Schönengrund Pavillon",
+                  "text": "Védett játszóhely Winterthurban, amely biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.737069,
+                        47.495236
+                  ]
+            },
+            {
+                  "name": "KG Wallrüti",
+                  "text": "Kisebb játszóterület Winterthurban, amely szabadtéri játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.759901,
+                        47.51832
+                  ]
+            },
+            {
+                  "name": "KG Eigenheim",
+                  "text": "Barátságosan kialakított játszótér Winterthurban a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.743239,
+                        47.496186
+                  ]
+            },
+            {
+                  "name": "KG Feldstrasse",
+                  "text": "Központi fekvésű játszótér Winterthurban, amely ideális egy rövid szünetre.",
+                  "category": "family",
+                  "coords": [
+                        8.717033,
+                        47.508267
+                  ]
+            },
+            {
+                  "name": "SH Mattenbach SchuBe",
+                  "text": "Játszóterület Winterthurban, amely átadja a mozgás örömét a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.742096,
+                        47.489545
+                  ]
+            },
+            {
+                  "name": "SH Brühlberg",
+                  "text": "Szép fekvésű játszóhely Winterthurban, amelyet nagyra értékelnek a családok.",
+                  "category": "family",
+                  "coords": [
+                        8.712633,
+                        47.496035
+                  ]
+            },
+            {
+                  "name": "SH Ausserdorf",
+                  "text": "Változatos játszótér Winterthurban kicsi és nagy gyerekeknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        8.691133,
+                        47.507536
+                  ]
+            },
+            {
+                  "name": "KG Unterwegli",
+                  "text": "Biztonságosan kialakított játszótér Winterthurban, amely felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        8.752886,
+                        47.504152
+                  ]
+            },
+            {
+                  "name": "KG Gerzler",
+                  "text": "Szép játszótér gyerekeknek Winterthurban.",
+                  "category": "family",
+                  "coords": [
+                        8.754552,
+                        47.512505
+                  ]
+            },
+            {
+                  "name": "SH Talhof",
+                  "text": "Ez a winterthuri játszótér teret biztosít a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.702196,
+                        47.510724
+                  ]
+            },
+            {
+                  "name": "Juchpark",
+                  "text": "Gyerekbarát park Winterthurban különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.721613,
+                        47.506937
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Breite",
+                  "text": "Minigolfpálya Winterthurban a család közös kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        8.724711,
+                        47.489694
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Schützenweiher",
+                  "text": "Ez a winterthuri minigolfpálya ideális célpont egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.717521,
+                        47.519995
+                  ]
+            },
+            {
+                  "name": "Spielplatz Talwiesen",
+                  "text": "Változatos játszótér Winterthurban családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.750122,
+                        47.501058
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hermann Götz-Strasse",
+                  "text": "Városi játszótér Winterthurban, amely hancúrozásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.733725,
+                        47.503943
+                  ]
+            },
+            {
+                  "name": "Steglitobel",
+                  "text": "Idilli fekvésű játszótér Winterthurban a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        8.734075,
+                        47.488638
                   ]
             }
       ],
@@ -10887,7 +14037,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Wildpark Bruderhaus",
                   "text": "O destinație populară cu animale sălbatice native în țarcuri spațioase.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.72589,
                         47.477185
@@ -10936,6 +14086,195 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.718338,
                         47.501175
+                  ]
+            },
+            {
+                  "name": "Gurisee",
+                  "text": "O apă idilică în Winterthur, care oferă liniște și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.747363,
+                        47.560182
+                  ]
+            },
+            {
+                  "name": "120'000l",
+                  "text": "O apă locală în Winterthur, care invită la o scurtă plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.768212,
+                        47.496005
+                  ]
+            },
+            {
+                  "name": "Piratolino Kinder Spiel Paradies",
+                  "text": "Un paradis al jocurilor pentru copii în Winterthur, care oferă distracție indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        8.746007,
+                        47.496371
+                  ]
+            },
+            {
+                  "name": "Spielkiosk Eulachpark",
+                  "text": "O zonă de joacă plină de viață în Winterthur, care le oferă copiilor multă varietate.",
+                  "category": "family",
+                  "coords": [
+                        8.762284,
+                        47.504535
+                  ]
+            },
+            {
+                  "name": "Camping Schützenweiher",
+                  "text": "Un teren de joacă în Winterthur, deosebit de atractiv pentru oaspeți și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        8.71625,
+                        47.519835
+                  ]
+            },
+            {
+                  "name": "Schulhaus Schönengrund Pavillon",
+                  "text": "Un loc de joacă protejat în Winterthur, care le oferă copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.737069,
+                        47.495236
+                  ]
+            },
+            {
+                  "name": "KG Wallrüti",
+                  "text": "O zonă de joacă mai mică în Winterthur, care invită la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.759901,
+                        47.51832
+                  ]
+            },
+            {
+                  "name": "KG Eigenheim",
+                  "text": "Un teren de joacă amenajat prietenos în Winterthur pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        8.743239,
+                        47.496186
+                  ]
+            },
+            {
+                  "name": "KG Feldstrasse",
+                  "text": "Un teren de joacă situat central în Winterthur, ideal pentru o scurtă pauză.",
+                  "category": "family",
+                  "coords": [
+                        8.717033,
+                        47.508267
+                  ]
+            },
+            {
+                  "name": "SH Mattenbach SchuBe",
+                  "text": "O zonă de joacă în Winterthur, care le transmite copiilor bucuria mișcării.",
+                  "category": "family",
+                  "coords": [
+                        8.742096,
+                        47.489545
+                  ]
+            },
+            {
+                  "name": "SH Brühlberg",
+                  "text": "Un loc de joacă frumos situat în Winterthur, apreciat de familii.",
+                  "category": "family",
+                  "coords": [
+                        8.712633,
+                        47.496035
+                  ]
+            },
+            {
+                  "name": "SH Ausserdorf",
+                  "text": "Un teren de joacă variat în Winterthur pentru copii mici și mari.",
+                  "category": "family",
+                  "coords": [
+                        8.691133,
+                        47.507536
+                  ]
+            },
+            {
+                  "name": "KG Unterwegli",
+                  "text": "Un teren de joacă amenajat în siguranță în Winterthur, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.752886,
+                        47.504152
+                  ]
+            },
+            {
+                  "name": "KG Gerzler",
+                  "text": "Un loc de joacă frumos pentru copii în Winterthur.",
+                  "category": "family",
+                  "coords": [
+                        8.754552,
+                        47.512505
+                  ]
+            },
+            {
+                  "name": "SH Talhof",
+                  "text": "Acest loc de joacă din Winterthur oferă copiilor spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        8.702196,
+                        47.510724
+                  ]
+            },
+            {
+                  "name": "Juchpark",
+                  "text": "Un parc prietenos cu copiii în Winterthur, cu diverse facilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.721613,
+                        47.506937
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Breite",
+                  "text": "Un teren de minigolf în Winterthur pentru distracție cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.724711,
+                        47.489694
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Schützenweiher",
+                  "text": "Acest teren de minigolf din Winterthur este o destinație ideală pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.717521,
+                        47.519995
+                  ]
+            },
+            {
+                  "name": "Spielplatz Talwiesen",
+                  "text": "Un loc de joacă variat în Winterthur pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        8.750122,
+                        47.501058
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hermann Götz-Strasse",
+                  "text": "Un loc de joacă urban în Winterthur care invită la mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.733725,
+                        47.503943
+                  ]
+            },
+            {
+                  "name": "Steglitobel",
+                  "text": "Un loc de joacă situat idilic în Winterthur pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        8.734075,
+                        47.488638
                   ]
             }
       ],
@@ -11294,7 +14633,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Wildpark Bruderhaus",
                   "text": "A popular destination featuring native wildlife in spacious enclosures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.72589,
                         47.477185
@@ -11343,6 +14682,195 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.718338,
                         47.501175
+                  ]
+            },
+            {
+                  "name": "Gurisee",
+                  "text": "An idyllic body of water in Winterthur offering peace and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.747363,
+                        47.560182
+                  ]
+            },
+            {
+                  "name": "120'000l",
+                  "text": "A local body of water in Winterthur inviting a short walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.768212,
+                        47.496005
+                  ]
+            },
+            {
+                  "name": "Piratolino Kinder Spiel Paradies",
+                  "text": "A play paradise for children in Winterthur offering fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        8.746007,
+                        47.496371
+                  ]
+            },
+            {
+                  "name": "Spielkiosk Eulachpark",
+                  "text": "A lively play area in Winterthur offering children plenty of variety.",
+                  "category": "family",
+                  "coords": [
+                        8.762284,
+                        47.504535
+                  ]
+            },
+            {
+                  "name": "Camping Schützenweiher",
+                  "text": "A playground in Winterthur that is particularly attractive for guests and visitors.",
+                  "category": "family",
+                  "coords": [
+                        8.71625,
+                        47.519835
+                  ]
+            },
+            {
+                  "name": "Schulhaus Schönengrund Pavillon",
+                  "text": "A sheltered play spot in Winterthur offering children a safe environment for play.",
+                  "category": "family",
+                  "coords": [
+                        8.737069,
+                        47.495236
+                  ]
+            },
+            {
+                  "name": "KG Wallrüti",
+                  "text": "A smaller play area in Winterthur inviting outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        8.759901,
+                        47.51832
+                  ]
+            },
+            {
+                  "name": "KG Eigenheim",
+                  "text": "A friendly designed playground in Winterthur for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        8.743239,
+                        47.496186
+                  ]
+            },
+            {
+                  "name": "KG Feldstrasse",
+                  "text": "A centrally located playground in Winterthur, ideal for a short break.",
+                  "category": "family",
+                  "coords": [
+                        8.717033,
+                        47.508267
+                  ]
+            },
+            {
+                  "name": "SH Mattenbach SchuBe",
+                  "text": "A play area in Winterthur that conveys the joy of movement to children.",
+                  "category": "family",
+                  "coords": [
+                        8.742096,
+                        47.489545
+                  ]
+            },
+            {
+                  "name": "SH Brühlberg",
+                  "text": "A beautifully located play spot in Winterthur appreciated by families.",
+                  "category": "family",
+                  "coords": [
+                        8.712633,
+                        47.496035
+                  ]
+            },
+            {
+                  "name": "SH Ausserdorf",
+                  "text": "A varied playground in Winterthur for small and big children alike.",
+                  "category": "family",
+                  "coords": [
+                        8.691133,
+                        47.507536
+                  ]
+            },
+            {
+                  "name": "KG Unterwegli",
+                  "text": "A safely designed playground in Winterthur inviting discovery and play.",
+                  "category": "family",
+                  "coords": [
+                        8.752886,
+                        47.504152
+                  ]
+            },
+            {
+                  "name": "KG Gerzler",
+                  "text": "A nice playground for children in Winterthur.",
+                  "category": "family",
+                  "coords": [
+                        8.754552,
+                        47.512505
+                  ]
+            },
+            {
+                  "name": "SH Talhof",
+                  "text": "This playground in Winterthur offers children space for playing and exploring.",
+                  "category": "family",
+                  "coords": [
+                        8.702196,
+                        47.510724
+                  ]
+            },
+            {
+                  "name": "Juchpark",
+                  "text": "A child-friendly park in Winterthur with various play options.",
+                  "category": "family",
+                  "coords": [
+                        8.721613,
+                        47.506937
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Breite",
+                  "text": "A miniature golf course in Winterthur for family fun.",
+                  "category": "family",
+                  "coords": [
+                        8.724711,
+                        47.489694
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Schützenweiher",
+                  "text": "This miniature golf course in Winterthur is an ideal destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.717521,
+                        47.519995
+                  ]
+            },
+            {
+                  "name": "Spielplatz Talwiesen",
+                  "text": "A varied playground in Winterthur for families with children.",
+                  "category": "family",
+                  "coords": [
+                        8.750122,
+                        47.501058
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hermann Götz-Strasse",
+                  "text": "A municipal playground in Winterthur that invites children to run and play.",
+                  "category": "family",
+                  "coords": [
+                        8.733725,
+                        47.503943
+                  ]
+            },
+            {
+                  "name": "Steglitobel",
+                  "text": "An idyllically located playground in Winterthur for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        8.734075,
+                        47.488638
                   ]
             }
       ]
@@ -11627,6 +15155,51 @@ export const switzerlandCities: POI[] = [
                         9.543518,
                         46.846365
                   ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "Ein Badesee bei Chur, der an warmen Tagen zur Abkühlung und Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.534457,
+                        46.891125
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quader",
+                  "text": "Ein zentral gelegener Spielplatz in Chur mit vielseitigen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        9.535092,
+                        46.852862
+                  ]
+            },
+            {
+                  "name": "Fortuna",
+                  "text": "Ein kinderfreundlicher Spielplatz in Chur für Spielspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.517415,
+                        46.857419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Altes Stadtspital",
+                  "text": "Ein geschützter Spielplatz in Chur, der Kindern Raum zum Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.524672,
+                        46.847688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Loë",
+                  "text": "Ein attraktiver Spielplatz in Chur für Familienausflüge in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        9.541591,
+                        46.864176
+                  ]
             }
       ],
       "hu": [
@@ -11835,6 +15408,51 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         9.543518,
                         46.846365
+                  ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "Fürdőtó Chur közelében, amely a meleg napokon hűsölésre és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.534457,
+                        46.891125
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quader",
+                  "text": "Központi fekvésű játszótér Churban, sokoldalú játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.535092,
+                        46.852862
+                  ]
+            },
+            {
+                  "name": "Fortuna",
+                  "text": "Gyerekbarát játszótér Churban a szabadtéri játékélményért.",
+                  "category": "family",
+                  "coords": [
+                        9.517415,
+                        46.857419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Altes Stadtspital",
+                  "text": "Védett játszótér Churban, amely teret ad a gyerekeknek a felfedezésre.",
+                  "category": "family",
+                  "coords": [
+                        9.524672,
+                        46.847688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Loë",
+                  "text": "Vonzó játszótér Churban a városi családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.541591,
+                        46.864176
                   ]
             }
       ],
@@ -12045,6 +15663,51 @@ export const switzerlandCities: POI[] = [
                         9.543518,
                         46.846365
                   ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "Un lac pentru scăldat lângă Chur, ideal pentru răcorire și relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.534457,
+                        46.891125
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quader",
+                  "text": "Un loc de joacă situat central în Chur, cu posibilități variate de distracție.",
+                  "category": "family",
+                  "coords": [
+                        9.535092,
+                        46.852862
+                  ]
+            },
+            {
+                  "name": "Fortuna",
+                  "text": "Un loc de joacă prietenos pentru copii în Chur, pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.517415,
+                        46.857419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Altes Stadtspital",
+                  "text": "Un loc de joacă protejat în Chur, care oferă copiilor spațiu pentru explorare.",
+                  "category": "family",
+                  "coords": [
+                        9.524672,
+                        46.847688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Loë",
+                  "text": "Un loc de joacă atractiv în Chur pentru ieșiri cu familia în oraș.",
+                  "category": "family",
+                  "coords": [
+                        9.541591,
+                        46.864176
+                  ]
             }
       ],
       "en": [
@@ -12253,6 +15916,51 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         9.543518,
                         46.846365
+                  ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "A swimming lake near Chur, perfect for cooling off and relaxing on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.534457,
+                        46.891125
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quader",
+                  "text": "A centrally located playground in Chur with versatile play options.",
+                  "category": "family",
+                  "coords": [
+                        9.535092,
+                        46.852862
+                  ]
+            },
+            {
+                  "name": "Fortuna",
+                  "text": "A child-friendly playground in Chur for outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        9.517415,
+                        46.857419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Altes Stadtspital",
+                  "text": "A sheltered playground in Chur offering children space to explore.",
+                  "category": "family",
+                  "coords": [
+                        9.524672,
+                        46.847688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Loë",
+                  "text": "An attractive playground in Chur for family outings in the city.",
+                  "category": "family",
+                  "coords": [
+                        9.541591,
+                        46.864176
                   ]
             }
       ]
@@ -12789,6 +16497,69 @@ export const switzerlandCities: POI[] = [
                         8.951329,
                         46.003367
                   ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "Der Laghetto di Muzzano bei Lugano ist ein malerischer See, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Laghetto di Origlio",
+                  "text": "Der Laghetto di Origlio in Lugano bietet eine ruhige Atmosphäre und schöne Natur.",
+                  "category": "natural",
+                  "coords": [
+                        8.942752,
+                        46.050666
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "Der Lago di Caslé ist ein ruhiges Gewässer in der Nähe von Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Acquedotto di Ponte Capriasca",
+                  "text": "Der Acquedotto di Ponte Capriasca ist ein lokales Gewässer in der Region Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        8.955354,
+                        46.06346
+                  ]
+            },
+            {
+                  "name": "Luganersee",
+                  "text": "Der Luganersee besticht durch seine beeindruckende Kulisse und vielfältige Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "Der Parco Giochi Barzaghi in Lugano ist ein idealer Ort für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "Parco Giochi Zorzi bietet in Lugano einen sicheren und freundlichen Spielbereich für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
             }
       ],
       "hu": [
@@ -13249,6 +17020,69 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.951329,
                         46.003367
+                  ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "A Lugano melletti Laghetto di Muzzano egy festői tó, amely kellemes sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Laghetto di Origlio",
+                  "text": "A luganói Laghetto di Origlio nyugodt légkört és szép természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        8.942752,
+                        46.050666
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "A Lago di Caslé egy csendes tó Lugano közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Acquedotto di Ponte Capriasca",
+                  "text": "Az Acquedotto di Ponte Capriasca egy helyi tó Lugano régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        8.955354,
+                        46.06346
+                  ]
+            },
+            {
+                  "name": "Lago di Lugano",
+                  "text": "A Luganói-tó lenyűgöző látványával és változatos kikapcsolódási lehetőségeivel várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "A luganói Parco Giochi Barzaghi ideális hely a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "A luganói Parco Giochi Zorzi biztonságos és barátságos játszóteret kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
                   ]
             }
       ],
@@ -13711,6 +17545,69 @@ export const switzerlandCities: POI[] = [
                         8.951329,
                         46.003367
                   ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "Laghetto di Muzzano de lângă Lugano este un lac pitoresc, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Laghetto di Origlio",
+                  "text": "Laghetto di Origlio din Lugano oferă o atmosferă liniștită și natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        8.942752,
+                        46.050666
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "Lago di Caslé este un lac liniștit situat în apropiere de Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Acquedotto di Ponte Capriasca",
+                  "text": "Acquedotto di Ponte Capriasca este un ochi de apă local în regiunea Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        8.955354,
+                        46.06346
+                  ]
+            },
+            {
+                  "name": "Lago di Lugano",
+                  "text": "Lacul Lugano impresionează prin peisajul său spectaculos și oportunitățile diverse de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "Parco Giochi Barzaghi din Lugano este un loc ideal pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "Parco Giochi Zorzi din Lugano oferă o zonă de joacă sigură și prietenoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
             }
       ],
       "en": [
@@ -14172,6 +18069,69 @@ export const switzerlandCities: POI[] = [
                         8.951329,
                         46.003367
                   ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "The Laghetto di Muzzano near Lugano is a picturesque lake perfect for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Laghetto di Origlio",
+                  "text": "The Laghetto di Origlio in Lugano offers a peaceful atmosphere and beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.942752,
+                        46.050666
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "Lago di Caslé is a quiet lake located near Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Acquedotto di Ponte Capriasca",
+                  "text": "The Acquedotto di Ponte Capriasca is a local body of water in the Lugano region.",
+                  "category": "natural",
+                  "coords": [
+                        8.955354,
+                        46.06346
+                  ]
+            },
+            {
+                  "name": "Lago di Lugano",
+                  "text": "Lake Lugano impresses with its stunning scenery and diverse recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "Parco Giochi Barzaghi in Lugano is an ideal place for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "Parco Giochi Zorzi in Lugano offers a safe and friendly play area for families.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
             }
       ]
 },
@@ -14247,7 +18207,412 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-st-gallen",
+    id: "city-st-gallen", "sights": {
+      "de": [
+            {
+                  "name": "Brandweiher",
+                  "text": "Ein ruhiger See in St. Gallen, ideal für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        9.383615,
+                        47.414524
+                  ]
+            },
+            {
+                  "name": "Stauweiher Bellonatal",
+                  "text": "Ein künstlich angelegtes Gewässer in St. Gallen für Erholung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.330503,
+                        47.420376
+                  ]
+            },
+            {
+                  "name": "Rückstau Wehranlage List",
+                  "text": "Ein Gewässer in St. Gallen, das eine friedliche Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.36374,
+                        47.360151
+                  ]
+            },
+            {
+                  "name": "Gübsensee",
+                  "text": "Ein idyllischer Stausee in St. Gallen, der zu Wanderungen und Naturbeobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.314419,
+                        47.39864
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lerchenfeld",
+                  "text": "Ein schöner Spielplatz in St. Gallen für Kinder aller Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        9.342893,
+                        47.415901
+                  ]
+            },
+            {
+                  "name": "Iddastrasse",
+                  "text": "Ein gut erreichbarer Spielplatz in St. Gallen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.387152,
+                        47.437429
+                  ]
+            },
+            {
+                  "name": "Kindergarten",
+                  "text": "Ein kinderfreundlicher Spielbereich in St. Gallen für tägliches Spielvergnügen.",
+                  "category": "family",
+                  "coords": [
+                        9.383634,
+                        47.426533
+                  ]
+            },
+            {
+                  "name": "Scheibenackerweg",
+                  "text": "Ein kleiner Spielplatz in St. Gallen, ideal für eine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.392039,
+                        47.429189
+                  ]
+            },
+            {
+                  "name": "Minigolf Dreilinden",
+                  "text": "Eine Minigolfanlage in St. Gallen für gesellige Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.391303,
+                        47.423317
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achslenweg",
+                  "text": "Ein abwechslungsreicher Kinderspielplatz in St. Gallen für aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.410764,
+                        47.435166
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "Ein kreativer Spielplatz in St. Gallen, der zum Bauen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.391074,
+                        47.435372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brandweiher",
+                  "text": "Nyugodt tó St. Gallenben, ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.383615,
+                        47.414524
+                  ]
+            },
+            {
+                  "name": "Stauweiher Bellonatal",
+                  "text": "Mesterséges állóvíz St. Gallenben a zöldövezeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.330503,
+                        47.420376
+                  ]
+            },
+            {
+                  "name": "Rückstau Wehranlage List",
+                  "text": "St. Gallen-i állóvíz, amely békés környezetet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.36374,
+                        47.360151
+                  ]
+            },
+            {
+                  "name": "Gübsensee",
+                  "text": "Idilli víztározó St. Gallenben, amely túrázásra és természetfigyelésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.314419,
+                        47.39864
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lerchenfeld",
+                  "text": "Szép játszótér St. Gallenben minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        9.342893,
+                        47.415901
+                  ]
+            },
+            {
+                  "name": "Iddastrasse",
+                  "text": "Könnyen megközelíthető játszótér St. Gallenben családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.387152,
+                        47.437429
+                  ]
+            },
+            {
+                  "name": "Kindergarten",
+                  "text": "Gyerekbarát játszóhely St. Gallenben a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.383634,
+                        47.426533
+                  ]
+            },
+            {
+                  "name": "Scheibenackerweg",
+                  "text": "Kisebb játszótér St. Gallenben, ideális egy kis pihenőre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.392039,
+                        47.429189
+                  ]
+            },
+            {
+                  "name": "Minigolf Dreilinden",
+                  "text": "Minigolfpálya St. Gallenben a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.391303,
+                        47.423317
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achslenweg",
+                  "text": "Változatos gyermekjátszótér St. Gallenben az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.410764,
+                        47.435166
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "Kreatív játszótér St. Gallenben, amely építésre és felfedezésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        9.391074,
+                        47.435372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brandweiher",
+                  "text": "Un lac liniștit în St. Gallen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.383615,
+                        47.414524
+                  ]
+            },
+            {
+                  "name": "Stauweiher Bellonatal",
+                  "text": "O întindere de apă artificială în St. Gallen pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.330503,
+                        47.420376
+                  ]
+            },
+            {
+                  "name": "Rückstau Wehranlage List",
+                  "text": "O zonă cu apă în St. Gallen care oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.36374,
+                        47.360151
+                  ]
+            },
+            {
+                  "name": "Gübsensee",
+                  "text": "Un lac de acumulare idilic în St. Gallen, care invită la drumeții și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.314419,
+                        47.39864
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lerchenfeld",
+                  "text": "Un loc de joacă frumos în St. Gallen pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.342893,
+                        47.415901
+                  ]
+            },
+            {
+                  "name": "Iddastrasse",
+                  "text": "Un loc de joacă ușor accesibil în St. Gallen pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.387152,
+                        47.437429
+                  ]
+            },
+            {
+                  "name": "Kindergarten",
+                  "text": "O zonă de joacă prietenoasă în St. Gallen pentru distracția zilnică a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.383634,
+                        47.426533
+                  ]
+            },
+            {
+                  "name": "Scheibenackerweg",
+                  "text": "Un mic loc de joacă în St. Gallen, ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        9.392039,
+                        47.429189
+                  ]
+            },
+            {
+                  "name": "Minigolf Dreilinden",
+                  "text": "Un teren de minigolf în St. Gallen pentru momente plăcute cu familia.",
+                  "category": "family",
+                  "coords": [
+                        9.391303,
+                        47.423317
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achslenweg",
+                  "text": "Un loc de joacă variat pentru copii în St. Gallen pentru joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        9.410764,
+                        47.435166
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "Un loc de joacă creativ în St. Gallen care invită la construit și explorat.",
+                  "category": "family",
+                  "coords": [
+                        9.391074,
+                        47.435372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brandweiher",
+                  "text": "A peaceful lake in St. Gallen, ideal for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.383615,
+                        47.414524
+                  ]
+            },
+            {
+                  "name": "Stauweiher Bellonatal",
+                  "text": "A man-made body of water in St. Gallen for recreation in green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.330503,
+                        47.420376
+                  ]
+            },
+            {
+                  "name": "Rückstau Wehranlage List",
+                  "text": "A body of water in St. Gallen offering a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.36374,
+                        47.360151
+                  ]
+            },
+            {
+                  "name": "Gübsensee",
+                  "text": "An idyllic reservoir in St. Gallen inviting for hikes and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.314419,
+                        47.39864
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lerchenfeld",
+                  "text": "A nice playground in St. Gallen for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.342893,
+                        47.415901
+                  ]
+            },
+            {
+                  "name": "Iddastrasse",
+                  "text": "An easily accessible playground in St. Gallen for families.",
+                  "category": "family",
+                  "coords": [
+                        9.387152,
+                        47.437429
+                  ]
+            },
+            {
+                  "name": "Kindergarten",
+                  "text": "A child-friendly play area in St. Gallen for daily play fun.",
+                  "category": "family",
+                  "coords": [
+                        9.383634,
+                        47.426533
+                  ]
+            },
+            {
+                  "name": "Scheibenackerweg",
+                  "text": "A small playground in St. Gallen, ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        9.392039,
+                        47.429189
+                  ]
+            },
+            {
+                  "name": "Minigolf Dreilinden",
+                  "text": "A miniature golf course in St. Gallen for social hours with the family.",
+                  "category": "family",
+                  "coords": [
+                        9.391303,
+                        47.423317
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achslenweg",
+                  "text": "A varied children's playground in St. Gallen for active play.",
+                  "category": "family",
+                  "coords": [
+                        9.410764,
+                        47.435166
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "A creative playground in St. Gallen inviting children to build and discover.",
+                  "category": "family",
+                  "coords": [
+                        9.391074,
+                        47.435372
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [9.3767, 47.4245],
@@ -14424,7 +18789,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Tierpark Biel",
                   "text": "Ein Tierpark in Biel, in dem einheimische Wildtiere in natürlicher Umgebung beobachtet werden können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.267529,
                         47.157947
@@ -14609,6 +18974,96 @@ export const switzerlandCities: POI[] = [
                         7.255544,
                         47.117257
                   ]
+            },
+            {
+                  "name": "Meienriedseeli",
+                  "text": "Ein kleiner, idyllischer See bei Biel Bienne, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        7.342581,
+                        47.140659
+                  ]
+            },
+            {
+                  "name": "Bielersee",
+                  "text": "Der Bielersee bietet vielfältige Wassersportmöglichkeiten und malerische Uferwege.",
+                  "category": "natural",
+                  "coords": [
+                        7.154441,
+                        47.086077
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Strandweg",
+                  "text": "Ein sicherer Spielplatz am Strandweg in Biel Bienne für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        7.238715,
+                        47.124344
+                  ]
+            },
+            {
+                  "name": "Pianohof",
+                  "text": "Ein städtischer Spielbereich in Biel Bienne für Spiel und Begegnung.",
+                  "category": "family",
+                  "coords": [
+                        7.255827,
+                        47.13606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jahu",
+                  "text": "Ein beliebter Treffpunkt für Kinder in Biel Bienne mit tollen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        7.258703,
+                        47.125874
+                  ]
+            },
+            {
+                  "name": "Place de jeux de Malvaux (La Pépinière)",
+                  "text": "Ein weitläufiger Spielplatz in Biel Bienne, der viel Platz zum Bewegen bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.237772,
+                        47.153481
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "Ein kreativer Spielplatz in Biel Bienne, auf dem Kinder selbst bauen und gestalten können.",
+                  "category": "family",
+                  "coords": [
+                        7.261599,
+                        47.146183
+                  ]
+            },
+            {
+                  "name": "La Vue",
+                  "text": "Ein Spielplatz in Biel Bienne mit schöner Aussicht und modernen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        7.245781,
+                        47.144901
+                  ]
+            },
+            {
+                  "name": "FamiPlus",
+                  "text": "Ein familienorientierter Spielbereich in Biel Bienne für gemeinsames Erleben.",
+                  "category": "family",
+                  "coords": [
+                        7.237785,
+                        47.133762
+                  ]
+            },
+            {
+                  "name": "Robinsonspielwiese",
+                  "text": "Ein naturnaher Abenteuerspielplatz in Biel Bienne für freies Spiel.",
+                  "category": "family",
+                  "coords": [
+                        7.24691,
+                        47.126817
+                  ]
             }
       ],
       "hu": [
@@ -14714,7 +19169,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Tierpark Biel / Parc Zoologique Bienne",
                   "text": "Vadaspark Bielben, ahol őshonos vadon élő állatok figyelhetők meg természetes környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.267529,
                         47.157947
@@ -14899,6 +19354,96 @@ export const switzerlandCities: POI[] = [
                         7.255544,
                         47.117257
                   ]
+            },
+            {
+                  "name": "Meienriedseeli",
+                  "text": "Kicsi, idilli tó Biel Bienne közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        7.342581,
+                        47.140659
+                  ]
+            },
+            {
+                  "name": "Bielersee / Lac de Bienne",
+                  "text": "A Bielersee változatos vízisport-lehetőségeket és festői parti utakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        7.154441,
+                        47.086077
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Strandweg",
+                  "text": "Biztonságos játszótér a Strandwegen Biel Bienne-ben a legkisebb látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        7.238715,
+                        47.124344
+                  ]
+            },
+            {
+                  "name": "Pianohof",
+                  "text": "Városi játszóterület Biel Bienne-ben a játékhoz és találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.255827,
+                        47.13606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jahu",
+                  "text": "Népszerű találkozóhely gyerekeknek Biel Bienne-ben, remek játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        7.258703,
+                        47.125874
+                  ]
+            },
+            {
+                  "name": "Place de jeux de Malvaux (La Pépinière)",
+                  "text": "Tágas játszótér Biel Bienne-ben, amely sok helyet kínál a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.237772,
+                        47.153481
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "Kreatív játszótér Biel Bienne-ben, ahol a gyerekek maguk építhetnek és alkothatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.261599,
+                        47.146183
+                  ]
+            },
+            {
+                  "name": "La Vue",
+                  "text": "Játszótér Biel Bienne-ben szép kilátással és modern játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        7.245781,
+                        47.144901
+                  ]
+            },
+            {
+                  "name": "FamiPlus",
+                  "text": "Családközpontú játszóterület Biel Bienne-ben a közös élményekért.",
+                  "category": "family",
+                  "coords": [
+                        7.237785,
+                        47.133762
+                  ]
+            },
+            {
+                  "name": "Robinsonspielwiese",
+                  "text": "Természetközeli kalandjátszótér Biel Bienne-ben a szabad játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.24691,
+                        47.126817
+                  ]
             }
       ],
       "ro": [
@@ -15004,7 +19549,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Tierpark Biel / Parc Zoologique Bienne",
                   "text": "Un parc zoologic din Biel unde pot fi observate animale sălbatice locale în mediul lor natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.267529,
                         47.157947
@@ -15189,6 +19734,96 @@ export const switzerlandCities: POI[] = [
                         7.255544,
                         47.117257
                   ]
+            },
+            {
+                  "name": "Meienriedseeli",
+                  "text": "Un lac mic și idilic lângă Biel Bienne, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.342581,
+                        47.140659
+                  ]
+            },
+            {
+                  "name": "Bielersee / Lac de Bienne",
+                  "text": "Lacul Bienne oferă diverse posibilități pentru sporturi nautice și poteci pitorești pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        7.154441,
+                        47.086077
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Strandweg",
+                  "text": "Un loc de joacă sigur pe Strandweg în Biel Bienne pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        7.238715,
+                        47.124344
+                  ]
+            },
+            {
+                  "name": "Pianohof",
+                  "text": "O zonă de joacă urbană în Biel Bienne pentru joacă și socializare.",
+                  "category": "family",
+                  "coords": [
+                        7.255827,
+                        47.13606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jahu",
+                  "text": "Un loc popular de întâlnire pentru copiii din Biel Bienne, cu echipamente de joacă grozave.",
+                  "category": "family",
+                  "coords": [
+                        7.258703,
+                        47.125874
+                  ]
+            },
+            {
+                  "name": "Place de jeux de Malvaux (La Pépinière)",
+                  "text": "Un loc de joacă spațios în Biel Bienne, care oferă mult spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        7.237772,
+                        47.153481
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "Un loc de joacă creativ în Biel Bienne, unde copiii pot construi și crea singuri.",
+                  "category": "family",
+                  "coords": [
+                        7.261599,
+                        47.146183
+                  ]
+            },
+            {
+                  "name": "La Vue",
+                  "text": "Un loc de joacă în Biel Bienne cu o priveliște frumoasă și echipamente moderne.",
+                  "category": "family",
+                  "coords": [
+                        7.245781,
+                        47.144901
+                  ]
+            },
+            {
+                  "name": "FamiPlus",
+                  "text": "O zonă de joacă orientată spre familie în Biel Bienne pentru experiențe comune.",
+                  "category": "family",
+                  "coords": [
+                        7.237785,
+                        47.133762
+                  ]
+            },
+            {
+                  "name": "Robinsonspielwiese",
+                  "text": "Un loc de joacă de aventură aproape de natură în Biel Bienne pentru joc liber.",
+                  "category": "family",
+                  "coords": [
+                        7.24691,
+                        47.126817
+                  ]
             }
       ],
       "en": [
@@ -15294,7 +19929,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Tierpark Biel / Parc Zoologique Bienne",
                   "text": "A zoo in Biel where local wildlife can be observed in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.267529,
                         47.157947
@@ -15479,6 +20114,96 @@ export const switzerlandCities: POI[] = [
                         7.255544,
                         47.117257
                   ]
+            },
+            {
+                  "name": "Meienriedseeli",
+                  "text": "A small, idyllic lake near Biel Bienne, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        7.342581,
+                        47.140659
+                  ]
+            },
+            {
+                  "name": "Lake Bienne",
+                  "text": "Lake Bienne offers diverse water sports opportunities and scenic lakeside paths.",
+                  "category": "natural",
+                  "coords": [
+                        7.154441,
+                        47.086077
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Strandweg",
+                  "text": "A safe playground on Strandweg in Biel Bienne for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        7.238715,
+                        47.124344
+                  ]
+            },
+            {
+                  "name": "Pianohof",
+                  "text": "An urban play area in Biel Bienne for play and interaction.",
+                  "category": "family",
+                  "coords": [
+                        7.255827,
+                        47.13606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jahu",
+                  "text": "A popular meeting spot for children in Biel Bienne with great play equipment.",
+                  "category": "family",
+                  "coords": [
+                        7.258703,
+                        47.125874
+                  ]
+            },
+            {
+                  "name": "Place de jeux de Malvaux (La Pépinière)",
+                  "text": "A spacious playground in Biel Bienne offering plenty of room for movement.",
+                  "category": "family",
+                  "coords": [
+                        7.237772,
+                        47.153481
+                  ]
+            },
+            {
+                  "name": "Kinderbaustelle",
+                  "text": "A creative playground in Biel Bienne where children can build and create themselves.",
+                  "category": "family",
+                  "coords": [
+                        7.261599,
+                        47.146183
+                  ]
+            },
+            {
+                  "name": "La Vue",
+                  "text": "A playground in Biel Bienne with a nice view and modern equipment.",
+                  "category": "family",
+                  "coords": [
+                        7.245781,
+                        47.144901
+                  ]
+            },
+            {
+                  "name": "FamiPlus",
+                  "text": "A family-oriented play area in Biel Bienne for shared experiences.",
+                  "category": "family",
+                  "coords": [
+                        7.237785,
+                        47.133762
+                  ]
+            },
+            {
+                  "name": "Robinsonspielwiese",
+                  "text": "A nature-based adventure playground in Biel Bienne for free play.",
+                  "category": "family",
+                  "coords": [
+                        7.24691,
+                        47.126817
+                  ]
             }
       ]
 },
@@ -15631,7 +20356,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Vogelhaus",
                   "text": "Ein Vogelhaus im Tierpark von Thun zur Beobachtung verschiedener Vogelarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.623158,
                         46.762354
@@ -15640,7 +20365,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Hünegg",
                   "text": "Ein Wasserpark in Thun, der Erholung und Freizeitaktivitäten am Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
@@ -15852,6 +20577,105 @@ export const switzerlandCities: POI[] = [
                         7.632357,
                         46.73731
                   ]
+            },
+            {
+                  "name": "Dittligsee",
+                  "text": "Der Dittligsee bei Thun ist ein idyllisches Gewässer in einer naturnahen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        7.533645,
+                        46.756096
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Weiher",
+                  "text": "Der Feuerwehr-Weiher in Thun ist ein kleiner, lokaler See.",
+                  "category": "natural",
+                  "coords": [
+                        7.67553,
+                        46.812622
+                  ]
+            },
+            {
+                  "name": "Thunersee",
+                  "text": "Der Thunersee ist bekannt für sein klares Wasser und die umliegende Alpenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.729975,
+                        46.705622
+                  ]
+            },
+            {
+                  "name": "Stauweiher",
+                  "text": "Der Stauweiher in Thun dient als ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        7.663323,
+                        46.689729
+                  ]
+            },
+            {
+                  "name": "Amsoldinger See",
+                  "text": "Der Amsoldinger See bei Thun ist ein geschütztes Naturjuwel mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        7.57675,
+                        46.724748
+                  ]
+            },
+            {
+                  "name": "KITA Aare",
+                  "text": "KITA Aare in Thun bietet einen freundlichen Spielplatz für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.609668,
+                        46.765589
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünegg",
+                  "text": "Der Spielplatz Hünegg in Thun ist ein beliebtes Ziel für Familien in der Region.",
+                  "category": "family",
+                  "coords": [
+                        7.654949,
+                        46.739681
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünibach",
+                  "text": "Der Spielplatz Hünibach in Thun lädt Familien zu einem entspannten Nachmittag ein.",
+                  "category": "family",
+                  "coords": [
+                        7.642991,
+                        46.744237
+                  ]
+            },
+            {
+                  "name": "Funland",
+                  "text": "Funland in Thun bietet abwechslungsreiche Spielgeräte für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        7.596971,
+                        46.74617
+                  ]
+            },
+            {
+                  "name": "Spielplatz Aarefeld",
+                  "text": "Der Spielplatz Aarefeld in Thun ist ein moderner Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.607322,
+                        46.769685
+                  ]
+            },
+            {
+                  "name": "Eichbühl",
+                  "text": "Eichbühl in Thun ist ein schöner Ort für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        7.651732,
+                        46.743299
+                  ]
             }
       ],
       "hu": [
@@ -15930,7 +20754,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Vogelhaus",
                   "text": "Madárház a thuni állatkertben, ahol különféle madárfajok láthatóak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.623158,
                         46.762354
@@ -15939,7 +20763,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Hünegg",
                   "text": "Vízi park Thunban, amely kikapcsolódást és szabadidős tevékenységeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
@@ -16151,6 +20975,105 @@ export const switzerlandCities: POI[] = [
                         7.632357,
                         46.73731
                   ]
+            },
+            {
+                  "name": "Dittligsee",
+                  "text": "A Thun melletti Dittligsee egy idilli tó természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.533645,
+                        46.756096
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Weiher",
+                  "text": "A thuni Feuerwehr-Weiher egy apró helyi tavacska.",
+                  "category": "natural",
+                  "coords": [
+                        7.67553,
+                        46.812622
+                  ]
+            },
+            {
+                  "name": "Thunersee",
+                  "text": "A Thuni-tó tiszta vizéről és az azt körülölelő alpesi tájról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.729975,
+                        46.705622
+                  ]
+            },
+            {
+                  "name": "Stauweiher",
+                  "text": "A thuni Stauweiher nyugodt helyszínt biztosít a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        7.663323,
+                        46.689729
+                  ]
+            },
+            {
+                  "name": "Amsoldinger See",
+                  "text": "A Thun melletti Amsoldinger See egy védett természeti érték szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        7.57675,
+                        46.724748
+                  ]
+            },
+            {
+                  "name": "KITA Aare",
+                  "text": "A thuni KITA Aare barátságos játszóteret biztosít a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        7.609668,
+                        46.765589
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünegg",
+                  "text": "A thuni Spielplatz Hünegg a környékbeli családok kedvelt célpontja.",
+                  "category": "family",
+                  "coords": [
+                        7.654949,
+                        46.739681
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünibach",
+                  "text": "A thuni Spielplatz Hünibach pihentető délutánra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        7.642991,
+                        46.744237
+                  ]
+            },
+            {
+                  "name": "Funland",
+                  "text": "A thuni Funland változatos játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        7.596971,
+                        46.74617
+                  ]
+            },
+            {
+                  "name": "Spielplatz Aarefeld",
+                  "text": "A thuni Spielplatz Aarefeld modern találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.607322,
+                        46.769685
+                  ]
+            },
+            {
+                  "name": "Eichbühl",
+                  "text": "A thuni Eichbühl remek hely a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        7.651732,
+                        46.743299
+                  ]
             }
       ],
       "ro": [
@@ -16229,7 +21152,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Vogelhaus",
                   "text": "O casă a păsărilor în parcul zoologic din Thun pentru observarea diferitelor specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.623158,
                         46.762354
@@ -16238,7 +21161,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Hünegg",
                   "text": "Un parc acvatic în Thun, care oferă relaxare și activități de agrement pe apă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
@@ -16450,6 +21373,105 @@ export const switzerlandCities: POI[] = [
                         7.632357,
                         46.73731
                   ]
+            },
+            {
+                  "name": "Dittligsee",
+                  "text": "Dittligsee de lângă Thun este un lac idilic într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        7.533645,
+                        46.756096
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Weiher",
+                  "text": "Feuerwehr-Weiher din Thun este un mic lac local.",
+                  "category": "natural",
+                  "coords": [
+                        7.67553,
+                        46.812622
+                  ]
+            },
+            {
+                  "name": "Thunersee",
+                  "text": "Lacul Thun este cunoscut pentru apele sale limpezi și peisajul alpin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        7.729975,
+                        46.705622
+                  ]
+            },
+            {
+                  "name": "Stauweiher",
+                  "text": "Stauweiher din Thun servește ca un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        7.663323,
+                        46.689729
+                  ]
+            },
+            {
+                  "name": "Amsoldinger See",
+                  "text": "Amsoldinger See de lângă Thun este o bijuterie naturală protejată, cu priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        7.57675,
+                        46.724748
+                  ]
+            },
+            {
+                  "name": "KITA Aare",
+                  "text": "KITA Aare din Thun oferă un loc de joacă prietenos pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        7.609668,
+                        46.765589
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünegg",
+                  "text": "Locul de joacă Hünegg din Thun este o destinație populară pentru familiile din regiune.",
+                  "category": "family",
+                  "coords": [
+                        7.654949,
+                        46.739681
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünibach",
+                  "text": "Locul de joacă Hünibach din Thun invită familiile la o după-amiază relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        7.642991,
+                        46.744237
+                  ]
+            },
+            {
+                  "name": "Funland",
+                  "text": "Funland din Thun oferă diverse echipamente de joacă pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        7.596971,
+                        46.74617
+                  ]
+            },
+            {
+                  "name": "Spielplatz Aarefeld",
+                  "text": "Locul de joacă Aarefeld din Thun este un punct de întâlnire modern pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.607322,
+                        46.769685
+                  ]
+            },
+            {
+                  "name": "Eichbühl",
+                  "text": "Eichbühl din Thun este un loc frumos pentru copii să se joace și să exploreze.",
+                  "category": "family",
+                  "coords": [
+                        7.651732,
+                        46.743299
+                  ]
             }
       ],
       "en": [
@@ -16528,7 +21550,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Vogelhaus",
                   "text": "A bird house in the Thun zoo for observing various bird species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.623158,
                         46.762354
@@ -16537,7 +21559,7 @@ export const switzerlandCities: POI[] = [
             {
                   "name": "Hünegg",
                   "text": "A water park in Thun offering relaxation and leisure activities by the water.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
@@ -16748,6 +21770,105 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.632357,
                         46.73731
+                  ]
+            },
+            {
+                  "name": "Dittligsee",
+                  "text": "The Dittligsee near Thun is an idyllic lake in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        7.533645,
+                        46.756096
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Weiher",
+                  "text": "The Feuerwehr-Weiher in Thun is a small local lake.",
+                  "category": "natural",
+                  "coords": [
+                        7.67553,
+                        46.812622
+                  ]
+            },
+            {
+                  "name": "Thunersee",
+                  "text": "Lake Thun is known for its clear water and the surrounding Alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.729975,
+                        46.705622
+                  ]
+            },
+            {
+                  "name": "Stauweiher",
+                  "text": "The Stauweiher in Thun serves as a peaceful spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        7.663323,
+                        46.689729
+                  ]
+            },
+            {
+                  "name": "Amsoldinger See",
+                  "text": "The Amsoldinger See near Thun is a protected natural gem with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        7.57675,
+                        46.724748
+                  ]
+            },
+            {
+                  "name": "KITA Aare",
+                  "text": "KITA Aare in Thun provides a friendly playground for young children.",
+                  "category": "family",
+                  "coords": [
+                        7.609668,
+                        46.765589
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünegg",
+                  "text": "The Spielplatz Hünegg in Thun is a popular destination for families in the region.",
+                  "category": "family",
+                  "coords": [
+                        7.654949,
+                        46.739681
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hünibach",
+                  "text": "The Spielplatz Hünibach in Thun invites families for a relaxing afternoon.",
+                  "category": "family",
+                  "coords": [
+                        7.642991,
+                        46.744237
+                  ]
+            },
+            {
+                  "name": "Funland",
+                  "text": "Funland in Thun offers various play equipment for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        7.596971,
+                        46.74617
+                  ]
+            },
+            {
+                  "name": "Spielplatz Aarefeld",
+                  "text": "The Spielplatz Aarefeld in Thun is a modern meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        7.607322,
+                        46.769685
+                  ]
+            },
+            {
+                  "name": "Eichbühl",
+                  "text": "Eichbühl in Thun is a lovely place for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        7.651732,
+                        46.743299
                   ]
             }
       ]
@@ -17248,6 +22369,204 @@ export const switzerlandCities: POI[] = [
                         8.612654,
                         47.680181
                   ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "Ein malerischer Weiher in Schaffhausen, der zur Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "Ein weitläufiger Spielplatz in Schaffhausen für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "Ein schöner Spielplatz in Schaffhausen für Kinder zum Klettern und Toben.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "Ein idyllischer Waldspielplatz in Schaffhausen für naturnahes Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "Ein städtischer Spielplatz in Schaffhausen für eine spielerische Auszeit.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen mit verschiedenen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "Ein Spielplatz auf einem Schulhof in Schaffhausen für Spiel und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "Ein gut ausgestatteter Spielplatz in Schaffhausen für aktiven Kinderspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "Ein zentral gelegener Spielplatz in Schaffhausen für kleine Pausen.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "Ein kinderfreundlicher Spielplatz in Schaffhausen in einer angenehmen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "Ein attraktiver Spielbereich in Schaffhausen für Nachmittage im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "Ein kleinerer Spielplatz in Schaffhausen, ideal für Familien in der Nähe.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "Ein öffentlicher Spielplatz in Schaffhausen, der Kindern Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "Ein abwechslungsreicher Kinderspielplatz in Schaffhausen für vielseitigen Spaß.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "Ein kinderfreundlicher Ort in Schaffhausen für Spiel und Begegnung.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "Ein schön gelegener Spielplatz in Schaffhausen mit Blick auf die Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "Ein städtischer Spielplatz in Schaffhausen für Kinder zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "Ein kleiner Spielplatz in Schaffhausen, der zum kurzen Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "Ein schöner Spielplatz in Schaffhausen für Spielspaß an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "Ein gut ausgestatteter Spielplatz in Schaffhausen für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen für abwechslungsreiche Stunden.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "Ein kinderfreundlicher Spielbereich in Schaffhausen für gemeinsames Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
+                  ]
             }
       ],
       "hu": [
@@ -17672,6 +22991,204 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.612654,
                         47.680181
+                  ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "Festői tó Schaffhausenben, amely természeti kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "Tágas játszótér Schaffhausenben családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "Szép játszótér Schaffhausenben mászáshoz és hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "Idilli erdei játszótér Schaffhausenben a természetközeli játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "Városi játszótér Schaffhausenben egy kis játékos kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "Közterületi gyermekjátszótér Schaffhausenben különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "Iskolai udvari játszótér Schaffhausenben játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "Jól felszerelt játszótér Schaffhausenben az aktív gyerekjátékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "Központi fekvésű játszótér Schaffhausenben rövid pihenőkhöz.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "Gyerekbarát játszótér Schaffhausenben kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "Vonzó játszóhely Schaffhausenben a szabadban töltött délutánokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "Kisebb játszótér Schaffhausenben, ideális a közelben lakó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "Közterületi játszótér Schaffhausenben, amely teret ad a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "Változatos gyermekjátszótér Schaffhausenben a sokszínű szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "Gyerekbarát hely Schaffhausenben játékhoz és találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "Szép fekvésű játszótér Schaffhausenben kilátással a környékre.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "Városi játszótér Schaffhausenben a felfedezni vágyó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "Kisebb játszótér Schaffhausenben, amely rövid pihenőre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "Szép játszótér Schaffhausenben a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "Jól felszerelt játszótér Schaffhausenben a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "Közterületi gyermekjátszótér Schaffhausenben a változatos időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "Gyerekbarát játszóhely Schaffhausenben a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
                   ]
             }
       ],
@@ -18098,6 +23615,204 @@ export const switzerlandCities: POI[] = [
                         8.612654,
                         47.680181
                   ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "Un lac pitoresc în Schaffhausen care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "Un loc de joacă spațios în Schaffhausen pentru ieșiri cu familia.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "Un loc de joacă frumos în Schaffhausen pentru copii, pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "Un loc de joacă idilic în pădure în Schaffhausen pentru joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "Un loc de joacă urban în Schaffhausen pentru o pauză distractivă.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "Un loc de joacă public pentru copii în Schaffhausen cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "Un loc de joacă în curtea unei școli din Schaffhausen pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "Un loc de joacă bine echipat în Schaffhausen pentru distracția activă a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "Un loc de joacă situat central în Schaffhausen pentru scurte pauze.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "Un loc de joacă prietenos cu copiii în Schaffhausen, într-un mediu plăcut.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "O zonă de joacă atractivă în Schaffhausen pentru după-amiezi în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "Un loc de joacă mai mic în Schaffhausen, ideal pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "Un loc de joacă public în Schaffhausen care oferă copiilor spațiu de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "Un loc de joacă variat pentru copii în Schaffhausen pentru distracție diversă.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "Un loc prietenos cu copiii în Schaffhausen pentru joacă și socializare.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "Un loc de joacă frumos situat în Schaffhausen cu vedere spre împrejurimi.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "Un loc de joacă urban în Schaffhausen pentru copii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "Un mic loc de joacă în Schaffhausen care invită la o scurtă oprire.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "Un loc de joacă frumos în Schaffhausen pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "Un loc de joacă bine echipat în Schaffhausen pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "Un loc de joacă public pentru copii în Schaffhausen pentru ore variate de distracție.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "O zonă de joacă prietenoasă cu copiii în Schaffhausen pentru joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
+                  ]
             }
       ],
       "en": [
@@ -18522,6 +24237,204 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.612654,
                         47.680181
+                  ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "A picturesque lake in Schaffhausen inviting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "A spacious playground in Schaffhausen for family outings.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "A nice playground in Schaffhausen for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "An idyllic forest playground in Schaffhausen for nature-oriented play.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "A municipal playground in Schaffhausen for a playful break.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "A public children's playground in Schaffhausen with various equipment.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "A playground on a schoolyard in Schaffhausen for play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "A well-equipped playground in Schaffhausen for active children's fun.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "A centrally located playground in Schaffhausen for short breaks.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "A child-friendly playground in Schaffhausen in a pleasant environment.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "An attractive play area in Schaffhausen for afternoons outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "A smaller playground in Schaffhausen, ideal for local families.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "A public playground in Schaffhausen offering children space to run and play.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "A varied children's playground in Schaffhausen for versatile fun.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "A child-friendly place in Schaffhausen for play and meeting.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "A beautifully located playground in Schaffhausen with views of the surroundings.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "A municipal playground in Schaffhausen for children to discover.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "A small playground in Schaffhausen inviting for a short stay.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "A nice playground in Schaffhausen for fun in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "A well-equipped playground in Schaffhausen for children to let off steam.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "A public children's playground in Schaffhausen for varied hours of fun.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "A child-friendly play area in Schaffhausen for playing together.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
                   ]
             }
       ]
@@ -19031,6 +24944,141 @@ export const switzerlandCities: POI[] = [
                         7.157342,
                         46.791539
                   ]
+            },
+            {
+                  "name": "Schiffenensee",
+                  "text": "Ein Stausee bei Fribourg, bekannt für seine beeindruckende Landschaft und Wassersportmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        7.167615,
+                        46.849885
+                  ]
+            },
+            {
+                  "name": "Hole 18",
+                  "text": "Die 18. Bahn der Minigolfanlage in Fribourg bietet eine letzte sportliche Herausforderung.",
+                  "category": "family",
+                  "coords": [
+                        7.154839,
+                        46.802371
+                  ]
+            },
+            {
+                  "name": "Hole 2",
+                  "text": "Eine der abwechslungsreichen Bahnen auf dem Minigolfplatz in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.162975,
+                        46.804447
+                  ]
+            },
+            {
+                  "name": "Hole 4",
+                  "text": "Ein weiteres Hindernis auf der Minigolfanlage in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.157732,
+                        46.799322
+                  ]
+            },
+            {
+                  "name": "Hole 5",
+                  "text": "Diese Bahn ist Teil des beliebten Minigolf-Angebots in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.162928,
+                        46.801127
+                  ]
+            },
+            {
+                  "name": "Hole 6",
+                  "text": "Herausfordernde Bahn auf dem Minigolfgelände in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.164167,
+                        46.803266
+                  ]
+            },
+            {
+                  "name": "Hole 10",
+                  "text": "Bahn 10 bietet Spielspaß für Besucher der Minigolfanlage in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.166998,
+                        46.806882
+                  ]
+            },
+            {
+                  "name": "Hole 12",
+                  "text": "Ein Teil des sportlichen Freizeitvergnügens in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.165304,
+                        46.806377
+                  ]
+            },
+            {
+                  "name": "Hole 16",
+                  "text": "Ein weiteres Ziel für Minigolf-Begeisterte in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.158481,
+                        46.807735
+                  ]
+            },
+            {
+                  "name": "Hole 17",
+                  "text": "Vorletzte Bahn auf dem Minigolfplatz in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.154384,
+                        46.805815
+                  ]
+            },
+            {
+                  "name": "Hole 1",
+                  "text": "Die Startbahn der Minigolfanlage in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.156527,
+                        46.804029
+                  ]
+            },
+            {
+                  "name": "Minigolf du Jura",
+                  "text": "Ein schöner Minigolfplatz in Fribourg für entspannte Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.139656,
+                        46.810625
+                  ]
+            },
+            {
+                  "name": "Cour de la Vignettaz",
+                  "text": "Ein Schulspielplatz in Fribourg, der auch in der Freizeit zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.144083,
+                        46.798004
+                  ]
+            },
+            {
+                  "name": "Le parcours de l'aventure d'Hubert Audriaz",
+                  "text": "Ein erlebnisreicher Abenteuerpfad in Fribourg, gestaltet für fantasievolles Spiel.",
+                  "category": "family",
+                  "coords": [
+                        7.163744,
+                        46.807091
+                  ]
+            },
+            {
+                  "name": "Maggenberg",
+                  "text": "Ein Quartiersspielplatz in Fribourg mit Platz zum Rennen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.180407,
+                        46.807822
+                  ]
             }
       ],
       "hu": [
@@ -19464,6 +25512,141 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.157342,
                         46.791539
+                  ]
+            },
+            {
+                  "name": "Schiffenensee",
+                  "text": "Fribourg közeli víztározó, amely lenyűgöző tájáról és vízisport-lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.167615,
+                        46.849885
+                  ]
+            },
+            {
+                  "name": "Hole 18",
+                  "text": "A fribourgi minigolfpálya 18. lyuka egy utolsó sportos kihívást kínál.",
+                  "category": "family",
+                  "coords": [
+                        7.154839,
+                        46.802371
+                  ]
+            },
+            {
+                  "name": "Hole 2",
+                  "text": "A fribourgi minigolfpálya egyik változatos szakasza.",
+                  "category": "family",
+                  "coords": [
+                        7.162975,
+                        46.804447
+                  ]
+            },
+            {
+                  "name": "Hole 4",
+                  "text": "Egy újabb akadály a fribourgi minigolfpályán.",
+                  "category": "family",
+                  "coords": [
+                        7.157732,
+                        46.799322
+                  ]
+            },
+            {
+                  "name": "Hole 5",
+                  "text": "Ez a pálya része a népszerű fribourgi minigolf kínálatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.162928,
+                        46.801127
+                  ]
+            },
+            {
+                  "name": "Hole 6",
+                  "text": "Kihívást jelentő pálya a fribourgi minigolf területén.",
+                  "category": "family",
+                  "coords": [
+                        7.164167,
+                        46.803266
+                  ]
+            },
+            {
+                  "name": "Hole 10",
+                  "text": "A 10-es pálya játékos szórakozást kínál a fribourgi minigolfpálya látogatóinak.",
+                  "category": "family",
+                  "coords": [
+                        7.166998,
+                        46.806882
+                  ]
+            },
+            {
+                  "name": "Hole 12",
+                  "text": "A fribourgi sportos szabadidős szórakozás része.",
+                  "category": "family",
+                  "coords": [
+                        7.165304,
+                        46.806377
+                  ]
+            },
+            {
+                  "name": "Hole 16",
+                  "text": "Újabb célpont a minigolf kedvelőinek Fribourgban.",
+                  "category": "family",
+                  "coords": [
+                        7.158481,
+                        46.807735
+                  ]
+            },
+            {
+                  "name": "Hole 17",
+                  "text": "Utolsó előtti pálya a fribourgi minigolfpályán.",
+                  "category": "family",
+                  "coords": [
+                        7.154384,
+                        46.805815
+                  ]
+            },
+            {
+                  "name": "Hole 1",
+                  "text": "A fribourgi minigolfpálya kezdő szakasza.",
+                  "category": "family",
+                  "coords": [
+                        7.156527,
+                        46.804029
+                  ]
+            },
+            {
+                  "name": "Minigolf du Jura",
+                  "text": "Szép minigolfpálya Fribourgban a családdal töltött kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.139656,
+                        46.810625
+                  ]
+            },
+            {
+                  "name": "Cour de la Vignettaz",
+                  "text": "Iskolai játszótér Fribourgban, amely szabadidőben is játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        7.144083,
+                        46.798004
+                  ]
+            },
+            {
+                  "name": "Le parcours de l'aventure d'Hubert Audriaz",
+                  "text": "Élménydús kalandösvény Fribourgban, a fantáziadús játékra tervezve.",
+                  "category": "family",
+                  "coords": [
+                        7.163744,
+                        46.807091
+                  ]
+            },
+            {
+                  "name": "Maggenberg",
+                  "text": "Környékbeli játszótér Fribourgban, ahol bőven van hely a szaladgáláshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.180407,
+                        46.807822
                   ]
             }
       ],
@@ -19899,6 +26082,141 @@ export const switzerlandCities: POI[] = [
                         7.157342,
                         46.791539
                   ]
+            },
+            {
+                  "name": "Schiffenensee",
+                  "text": "Un lac de acumulare lângă Fribourg, cunoscut pentru peisajul impresionant și sporturile nautice.",
+                  "category": "natural",
+                  "coords": [
+                        7.167615,
+                        46.849885
+                  ]
+            },
+            {
+                  "name": "Hole 18",
+                  "text": "Găura 18 a terenului de minigolf din Fribourg oferă o ultimă provocare sportivă.",
+                  "category": "family",
+                  "coords": [
+                        7.154839,
+                        46.802371
+                  ]
+            },
+            {
+                  "name": "Hole 2",
+                  "text": "Una dintre pistele variate ale terenului de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.162975,
+                        46.804447
+                  ]
+            },
+            {
+                  "name": "Hole 4",
+                  "text": "Un alt obstacol pe terenul de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.157732,
+                        46.799322
+                  ]
+            },
+            {
+                  "name": "Hole 5",
+                  "text": "Această pistă face parte din populara ofertă de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.162928,
+                        46.801127
+                  ]
+            },
+            {
+                  "name": "Hole 6",
+                  "text": "O pistă provocatoare pe terenul de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.164167,
+                        46.803266
+                  ]
+            },
+            {
+                  "name": "Hole 10",
+                  "text": "Găura 10 oferă distracție vizitatorilor terenului de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.166998,
+                        46.806882
+                  ]
+            },
+            {
+                  "name": "Hole 12",
+                  "text": "O parte a distracției sportive în aer liber din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.165304,
+                        46.806377
+                  ]
+            },
+            {
+                  "name": "Hole 16",
+                  "text": "O altă destinație pentru pasionații de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.158481,
+                        46.807735
+                  ]
+            },
+            {
+                  "name": "Hole 17",
+                  "text": "Penultima pistă de pe terenul de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.154384,
+                        46.805815
+                  ]
+            },
+            {
+                  "name": "Hole 1",
+                  "text": "Pista de start a terenului de minigolf din Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.156527,
+                        46.804029
+                  ]
+            },
+            {
+                  "name": "Minigolf du Jura",
+                  "text": "Un teren frumos de minigolf în Fribourg pentru ore relaxante cu familia.",
+                  "category": "family",
+                  "coords": [
+                        7.139656,
+                        46.810625
+                  ]
+            },
+            {
+                  "name": "Cour de la Vignettaz",
+                  "text": "Un loc de joacă școlar în Fribourg, care invită la joacă și în timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        7.144083,
+                        46.798004
+                  ]
+            },
+            {
+                  "name": "Le parcours de l'aventure d'Hubert Audriaz",
+                  "text": "Un traseu de aventură plin de experiențe în Fribourg, creat pentru joc plin de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        7.163744,
+                        46.807091
+                  ]
+            },
+            {
+                  "name": "Maggenberg",
+                  "text": "Un loc de joacă de cartier în Fribourg, cu spațiu pentru alergat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.180407,
+                        46.807822
+                  ]
             }
       ],
       "en": [
@@ -20333,6 +26651,141 @@ export const switzerlandCities: POI[] = [
                         7.157342,
                         46.791539
                   ]
+            },
+            {
+                  "name": "Schiffenensee",
+                  "text": "A reservoir near Fribourg known for its impressive scenery and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        7.167615,
+                        46.849885
+                  ]
+            },
+            {
+                  "name": "Hole 18",
+                  "text": "The 18th hole of the miniature golf course in Fribourg offers a final sporting challenge.",
+                  "category": "family",
+                  "coords": [
+                        7.154839,
+                        46.802371
+                  ]
+            },
+            {
+                  "name": "Hole 2",
+                  "text": "One of the varied holes on the miniature golf course in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.162975,
+                        46.804447
+                  ]
+            },
+            {
+                  "name": "Hole 4",
+                  "text": "Another obstacle on the miniature golf course in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.157732,
+                        46.799322
+                  ]
+            },
+            {
+                  "name": "Hole 5",
+                  "text": "This hole is part of the popular miniature golf offering in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.162928,
+                        46.801127
+                  ]
+            },
+            {
+                  "name": "Hole 6",
+                  "text": "A challenging hole on the miniature golf grounds in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.164167,
+                        46.803266
+                  ]
+            },
+            {
+                  "name": "Hole 10",
+                  "text": "Hole 10 offers play fun for visitors to the miniature golf course in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.166998,
+                        46.806882
+                  ]
+            },
+            {
+                  "name": "Hole 12",
+                  "text": "A part of the sporting leisure fun in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.165304,
+                        46.806377
+                  ]
+            },
+            {
+                  "name": "Hole 16",
+                  "text": "Another target for miniature golf enthusiasts in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.158481,
+                        46.807735
+                  ]
+            },
+            {
+                  "name": "Hole 17",
+                  "text": "The penultimate hole on the miniature golf course in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.154384,
+                        46.805815
+                  ]
+            },
+            {
+                  "name": "Hole 1",
+                  "text": "The starting hole of the miniature golf course in Fribourg.",
+                  "category": "family",
+                  "coords": [
+                        7.156527,
+                        46.804029
+                  ]
+            },
+            {
+                  "name": "Minigolf du Jura",
+                  "text": "A nice miniature golf course in Fribourg for relaxing hours with the family.",
+                  "category": "family",
+                  "coords": [
+                        7.139656,
+                        46.810625
+                  ]
+            },
+            {
+                  "name": "Cour de la Vignettaz",
+                  "text": "A school playground in Fribourg that invites children to play during leisure time.",
+                  "category": "family",
+                  "coords": [
+                        7.144083,
+                        46.798004
+                  ]
+            },
+            {
+                  "name": "Le parcours de l'aventure d'Hubert Audriaz",
+                  "text": "An eventful adventure path in Fribourg designed for imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        7.163744,
+                        46.807091
+                  ]
+            },
+            {
+                  "name": "Maggenberg",
+                  "text": "A neighborhood playground in Fribourg with space to run and play.",
+                  "category": "family",
+                  "coords": [
+                        7.180407,
+                        46.807822
+                  ]
             }
       ]
 },
@@ -20643,6 +27096,78 @@ export const switzerlandCities: POI[] = [
                         7.349594,
                         46.250667
                   ]
+            },
+            {
+                  "name": "Lac de la Corne",
+                  "text": "Der Lac de la Corne bei Sion ist ein ruhiger Bergsee in schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.441529,
+                        46.250149
+                  ]
+            },
+            {
+                  "name": "Etang des Rochers",
+                  "text": "Der Etang des Rochers in Sion ist ein kleiner See, ideal für einen kurzen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        7.354673,
+                        46.262507
+                  ]
+            },
+            {
+                  "name": "Etang d'Arvisi",
+                  "text": "Etang d'Arvisi ist ein naturbelassener Teich in der Umgebung von Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.35426,
+                        46.263727
+                  ]
+            },
+            {
+                  "name": "Etang de Binii",
+                  "text": "Der Etang de Binii in Sion bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        7.345398,
+                        46.260395
+                  ]
+            },
+            {
+                  "name": "Lac des Bousses",
+                  "text": "Lac des Bousses ist ein klares Gewässer in der Region Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.455407,
+                        46.255062
+                  ]
+            },
+            {
+                  "name": "Etang de Motone",
+                  "text": "Der Etang de Motone ist ein idyllischer Weiher in der Nähe von Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.347041,
+                        46.259422
+                  ]
+            },
+            {
+                  "name": "Mur de grimpe",
+                  "text": "Mur de grimpe in Sion ist ein Kletterspielplatz für aktive Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.332384,
+                        46.214188
+                  ]
+            },
+            {
+                  "name": "Place de la meunière",
+                  "text": "Place de la meunière in Sion ist ein kinderfreundlicher Spielplatz im Stadtgebiet.",
+                  "category": "family",
+                  "coords": [
+                        7.379003,
+                        46.229053
+                  ]
             }
       ],
       "hu": [
@@ -20878,6 +27403,78 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.349594,
                         46.250667
+                  ]
+            },
+            {
+                  "name": "Lac de la Corne",
+                  "text": "A Sion melletti Lac de la Corne egy csendes hegyi tó szép környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.441529,
+                        46.250149
+                  ]
+            },
+            {
+                  "name": "Etang des Rochers",
+                  "text": "A sioni Etang des Rochers egy kis tó, ideális egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        7.354673,
+                        46.262507
+                  ]
+            },
+            {
+                  "name": "Etang d'Arvisi",
+                  "text": "Az Etang d'Arvisi egy természetes tavacska Sion környékén.",
+                  "category": "natural",
+                  "coords": [
+                        7.35426,
+                        46.263727
+                  ]
+            },
+            {
+                  "name": "Etang de Binii",
+                  "text": "A sioni Etang de Binii békés hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        7.345398,
+                        46.260395
+                  ]
+            },
+            {
+                  "name": "Lac des Bousses",
+                  "text": "A Lac des Bousses egy tiszta vizű tó Sion régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        7.455407,
+                        46.255062
+                  ]
+            },
+            {
+                  "name": "Etang de Motone",
+                  "text": "Az Etang de Motone egy idilli tavacska Sion közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.347041,
+                        46.259422
+                  ]
+            },
+            {
+                  "name": "Mur de grimpe",
+                  "text": "A sioni Mur de grimpe egy mászásra kialakított játszótér aktív családoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.332384,
+                        46.214188
+                  ]
+            },
+            {
+                  "name": "Place de la meunière",
+                  "text": "A sioni Place de la meunière egy gyerekbarát játszótér a városban.",
+                  "category": "family",
+                  "coords": [
+                        7.379003,
+                        46.229053
                   ]
             }
       ],
@@ -21115,6 +27712,78 @@ export const switzerlandCities: POI[] = [
                         7.349594,
                         46.250667
                   ]
+            },
+            {
+                  "name": "Lac de la Corne",
+                  "text": "Lac de la Corne de lângă Sion este un lac montan liniștit într-un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        7.441529,
+                        46.250149
+                  ]
+            },
+            {
+                  "name": "Etang des Rochers",
+                  "text": "Etang des Rochers din Sion este un lac mic, ideal pentru o plimbare scurtă.",
+                  "category": "natural",
+                  "coords": [
+                        7.354673,
+                        46.262507
+                  ]
+            },
+            {
+                  "name": "Etang d'Arvisi",
+                  "text": "Etang d'Arvisi este un iaz natural în împrejurimile orașului Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.35426,
+                        46.263727
+                  ]
+            },
+            {
+                  "name": "Etang de Binii",
+                  "text": "Etang de Binii din Sion oferă o atmosferă liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        7.345398,
+                        46.260395
+                  ]
+            },
+            {
+                  "name": "Lac des Bousses",
+                  "text": "Lac des Bousses este un lac cu ape limpezi în regiunea Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.455407,
+                        46.255062
+                  ]
+            },
+            {
+                  "name": "Etang de Motone",
+                  "text": "Etang de Motone este un iaz idilic în apropiere de Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.347041,
+                        46.259422
+                  ]
+            },
+            {
+                  "name": "Mur de grimpe",
+                  "text": "Mur de grimpe din Sion este un loc de joacă pentru cățărat, ideal pentru familii active.",
+                  "category": "family",
+                  "coords": [
+                        7.332384,
+                        46.214188
+                  ]
+            },
+            {
+                  "name": "Place de la meunière",
+                  "text": "Place de la meunière din Sion este un loc de joacă primitor pentru copii în oraș.",
+                  "category": "family",
+                  "coords": [
+                        7.379003,
+                        46.229053
+                  ]
             }
       ],
       "en": [
@@ -21351,6 +28020,78 @@ export const switzerlandCities: POI[] = [
                         7.349594,
                         46.250667
                   ]
+            },
+            {
+                  "name": "Lac de la Corne",
+                  "text": "The Lac de la Corne near Sion is a peaceful mountain lake in a beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.441529,
+                        46.250149
+                  ]
+            },
+            {
+                  "name": "Etang des Rochers",
+                  "text": "The Etang des Rochers in Sion is a small lake, ideal for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        7.354673,
+                        46.262507
+                  ]
+            },
+            {
+                  "name": "Etang d'Arvisi",
+                  "text": "Etang d'Arvisi is a natural pond in the surroundings of Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.35426,
+                        46.263727
+                  ]
+            },
+            {
+                  "name": "Etang de Binii",
+                  "text": "The Etang de Binii in Sion offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.345398,
+                        46.260395
+                  ]
+            },
+            {
+                  "name": "Lac des Bousses",
+                  "text": "Lac des Bousses is a clear body of water in the Sion region.",
+                  "category": "natural",
+                  "coords": [
+                        7.455407,
+                        46.255062
+                  ]
+            },
+            {
+                  "name": "Etang de Motone",
+                  "text": "The Etang de Motone is an idyllic pond near Sion.",
+                  "category": "natural",
+                  "coords": [
+                        7.347041,
+                        46.259422
+                  ]
+            },
+            {
+                  "name": "Mur de grimpe",
+                  "text": "Mur de grimpe in Sion is a climbing playground for active families.",
+                  "category": "family",
+                  "coords": [
+                        7.332384,
+                        46.214188
+                  ]
+            },
+            {
+                  "name": "Place de la meunière",
+                  "text": "Place de la meunière in Sion is a child-friendly playground in the city.",
+                  "category": "family",
+                  "coords": [
+                        7.379003,
+                        46.229053
+                  ]
             }
       ]
 },
@@ -21571,6 +28312,33 @@ export const switzerlandCities: POI[] = [
                         6.904261,
                         46.4401
                   ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "Ein ruhiger See in Montreux, der zu einem entspannten Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.995991,
+                        46.389031
+                  ]
+            },
+            {
+                  "name": "Genfersee",
+                  "text": "Der Genfersee bei Montreux bietet beeindruckende Ausblicke und Möglichkeiten für Uferspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Place de jeux parc Nicole-Clarens",
+                  "text": "Ein gut gelegener Spielplatz in Montreux für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.890724,
+                        46.439825
+                  ]
             }
       ],
       "hu": [
@@ -21716,6 +28484,33 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         6.904261,
                         46.4401
+                  ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "Nyugodt tó Montreux-ben, amely egy pihentető sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        6.995991,
+                        46.389031
+                  ]
+            },
+            {
+                  "name": "Genfi-tó",
+                  "text": "A Genfi-tó Montreux-nél lenyűgöző kilátást és parti sétalehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Place de jeux parc Nicole-Clarens",
+                  "text": "Jó fekvésű játszótér Montreux-ben szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.890724,
+                        46.439825
                   ]
             }
       ],
@@ -21863,6 +28658,33 @@ export const switzerlandCities: POI[] = [
                         6.904261,
                         46.4401
                   ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "Un lac liniștit în Montreux care invită la o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.995991,
+                        46.389031
+                  ]
+            },
+            {
+                  "name": "Le Léman",
+                  "text": "Lacul Leman la Montreux oferă vederi impresionante și posibilități de plimbare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Place de jeux parc Nicole-Clarens",
+                  "text": "Un loc de joacă bine situat în Montreux pentru copii pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.890724,
+                        46.439825
+                  ]
             }
       ],
       "en": [
@@ -22008,6 +28830,33 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         6.904261,
                         46.4401
+                  ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "A peaceful lake in Montreux inviting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        6.995991,
+                        46.389031
+                  ]
+            },
+            {
+                  "name": "Lake Geneva",
+                  "text": "Lake Geneva at Montreux offers impressive views and opportunities for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        6.539468,
+                        46.361359
+                  ]
+            },
+            {
+                  "name": "Place de jeux parc Nicole-Clarens",
+                  "text": "A well-located playground in Montreux for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        6.890724,
+                        46.439825
                   ]
             }
       ]

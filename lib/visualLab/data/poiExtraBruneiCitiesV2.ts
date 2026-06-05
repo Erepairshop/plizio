@@ -1052,7 +1052,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             {
                   "name": "JP Waterpark",
                   "text": "Der JP Waterpark ist ein Wasserpark in Jerudong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.835802,
                         4.939965
@@ -1099,7 +1099,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             {
                   "name": "JP Waterpark",
                   "text": "A JP Waterpark egy élményfürdő Jerudongban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.835802,
                         4.939965
@@ -1146,7 +1146,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             {
                   "name": "JP Waterpark",
                   "text": "JP Waterpark este un parc acvatic aflat în Jerudong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.835802,
                         4.939965
@@ -1193,7 +1193,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
             {
                   "name": "JP Waterpark",
                   "text": "JP Waterpark is an aquatic amusement park situated in Jerudong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.835802,
                         4.939965

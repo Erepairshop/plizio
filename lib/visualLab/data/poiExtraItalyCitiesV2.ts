@@ -2492,7 +2492,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Le Caprette - Piccolo zoo",
                   "text": "Kleiner Stadtzoo und Parkbereich, ein beliebtes Ausflugsziel für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.623311,
                         44.681167
@@ -2710,7 +2710,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Le Caprette - Piccolo zoo",
                   "text": "Kis városi állatkert és park, amely népszerű kirándulóhely a családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.623311,
                         44.681167
@@ -2928,7 +2928,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Le Caprette - Piccolo zoo",
                   "text": "Mică grădină zoologică urbană și zonă de parc, o destinație populară pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.623311,
                         44.681167
@@ -3146,7 +3146,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Le Caprette - Piccolo zoo",
                   "text": "Small urban zoo and park area, a popular destination for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.623311,
                         44.681167
@@ -5246,7 +5246,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Bozner Lido",
                   "text": "Ein großes öffentliches Freibad und Freizeitzentrum in Bozen mit verschiedenen Schwimmbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.344255,
                         46.490674
@@ -5482,7 +5482,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Lido Bolzano- Bozner Lido",
                   "text": "Bozen nagy nyilvános strandja és szabadidőközpontja, amely több úszómedencével várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.344255,
                         46.490674
@@ -5718,7 +5718,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Lido Bolzano- Bozner Lido",
                   "text": "Un ștrand public și centru de agrement mare din Bolzano, cu diverse bazine de înot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.344255,
                         46.490674
@@ -5954,7 +5954,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Lido Bolzano- Bozner Lido",
                   "text": "A large public outdoor pool and leisure center in Bolzano featuring several swimming pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.344255,
                         46.490674
@@ -23895,7 +23895,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Luna Parck Pesaro",
                   "text": "Ein lokaler Vergnügungspark in Pesaro, der verschiedene Fahrgeschäfte für Familien bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.909729,
                         43.919194
@@ -24131,7 +24131,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Luna Parck Pesaro",
                   "text": "Helyi vidámpark Pesaróban, amely különféle játékkal és attrakcióval várja a családokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.909729,
                         43.919194
@@ -24367,7 +24367,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Luna Parck Pesaro",
                   "text": "Un parc de distracții local în Pesaro, care oferă diverse atracții pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.909729,
                         43.919194
@@ -24603,7 +24603,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Luna Parck Pesaro",
                   "text": "A local amusement park in Pesaro featuring various rides and attractions for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.909729,
                         43.919194
@@ -25398,7 +25398,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Acquapark ScivoSplash",
                   "text": "Ein beliebter Wasserpark mit Rutschen und Schwimmbecken, der Freizeitspaß für die ganze Familie bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.874688,
                         41.469909
@@ -25463,7 +25463,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Acquapark ScivoSplash",
                   "text": "Népszerű vízipark csúszdákkal és medencékkel, amely kikapcsolódást nyújt az egész családnak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.874688,
                         41.469909
@@ -25528,7 +25528,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Acquapark ScivoSplash",
                   "text": "Un parc acvatic popular cu tobogane și piscine, care oferă distracție pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.874688,
                         41.469909
@@ -25593,7 +25593,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Acquapark ScivoSplash",
                   "text": "A popular water park with slides and pools, offering leisure and fun for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.874688,
                         41.469909
@@ -26253,7 +26253,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Valle dell'Orso",
                   "text": "Ein beliebter Wasserpark in Torre del Greco mit verschiedenen Pools und Rutschen für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.408633,
                         40.778066
@@ -26262,7 +26262,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Adventure Land di F.lli Manna",
                   "text": "Ein Abenteuerpark in Torre del Greco, der verschiedene Outdoor-Aktivitäten und Kletterparcours bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.397938,
                         40.758734
@@ -26327,7 +26327,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Valle dell'Orso",
                   "text": "Népszerű vízipark Torre del Greco városában, amely medencékkel és csúszdákkal várja a családokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.408633,
                         40.778066
@@ -26336,7 +26336,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Adventure Land di F.lli Manna",
                   "text": "Kalandpark Torre del Greco területén, amely szabadtéri pályákkal és ügyességi játékokkal várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.397938,
                         40.758734
@@ -26401,7 +26401,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Valle dell'Orso",
                   "text": "Un parc acvatic popular în Torre del Greco, oferind diverse piscine și tobogane pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.408633,
                         40.778066
@@ -26410,7 +26410,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Adventure Land di F.lli Manna",
                   "text": "Un parc de aventură în Torre del Greco, care oferă diverse activități în aer liber și trasee de cățărare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.397938,
                         40.758734
@@ -26475,7 +26475,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Valle dell'Orso",
                   "text": "A popular water park in Torre del Greco featuring various pools and slides for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.408633,
                         40.778066
@@ -26484,7 +26484,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Adventure Land di F.lli Manna",
                   "text": "An adventure park in Torre del Greco offering various outdoor activities and climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.397938,
                         40.758734
@@ -34506,7 +34506,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Haway Park",
                   "text": "Wasserpark in Cassino mit Schwimmbecken und Freizeiteinrichtungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.831814,
                         41.508801
@@ -34571,7 +34571,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Haway Park",
                   "text": "Vízi park Cassinóban, úszómedencékkel és szabadidős létesítményekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.831814,
                         41.508801
@@ -34636,7 +34636,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Haway Park",
                   "text": "Parc acvatic în Cassino cu piscine și facilități de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.831814,
                         41.508801
@@ -34701,7 +34701,7 @@ export const italyCitiesV2: POI[] = [
             {
                   "name": "Haway Park",
                   "text": "Water park in Cassino featuring swimming pools and recreational facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.831814,
                         41.508801

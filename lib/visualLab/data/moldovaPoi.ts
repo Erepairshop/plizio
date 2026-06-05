@@ -568,7 +568,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Остров удовольствий",
                   "text": "Ein örtlicher Wasserpark mit Pools und Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.604008,
                         46.834263
@@ -586,7 +586,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Джунгли Парк",
                   "text": "Ein örtlicher Themenpark mit Fahrgeschäften und Attraktionen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.638225,
                         46.837148
@@ -604,7 +604,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Чудо-град",
                   "text": "Ein bunter Themenpark, der für Kinder und Familien konzipiert wurde.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.609699,
                         46.83715
@@ -777,7 +777,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Остров удовольствий",
                   "text": "Helyi vízipark medencékkel és szabadidős tevékenységekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.604008,
                         46.834263
@@ -795,7 +795,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Джунгли Парк",
                   "text": "Helyi vidámpark játékokkal és látnivalókkal családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.638225,
                         46.837148
@@ -813,7 +813,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Чудо-град",
                   "text": "Színes vidámpark gyerekeknek és családoknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.609699,
                         46.83715
@@ -986,7 +986,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Остров удовольствий",
                   "text": "Un parc acvatic local care oferă piscine și activități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.604008,
                         46.834263
@@ -1004,7 +1004,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Джунгли Парк",
                   "text": "Un parc tematic local cu atracții pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.638225,
                         46.837148
@@ -1022,7 +1022,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Чудо-град",
                   "text": "Un parc tematic colorat, conceput pentru copii și familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.609699,
                         46.83715
@@ -1195,7 +1195,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Остров удовольствий",
                   "text": "A local water park offering pools and recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.604008,
                         46.834263
@@ -1213,7 +1213,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Jungle Park",
                   "text": "A local theme park with rides and attractions for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.638225,
                         46.837148
@@ -1231,7 +1231,7 @@ export const moldovaPoi: POI[] = [
             {
                   "name": "Чудо-град",
                   "text": "A colorful theme park designed for children and families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.609699,
                         46.83715

@@ -805,7 +805,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             {
                   "name": "حسن موسى",
                   "text": "حسن موسى ist ein lebhafter Wasserpark in Mongo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.684019,
                         12.166761
@@ -825,7 +825,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             {
                   "name": "حسن موسى",
                   "text": "A حسن موسى egy élénk vízi park Mongóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.684019,
                         12.166761
@@ -845,7 +845,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             {
                   "name": "حسن موسى",
                   "text": "حسن موسى este un parc acvatic plin de viață situat în Mongo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.684019,
                         12.166761
@@ -865,7 +865,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             {
                   "name": "حسن موسى",
                   "text": "حسن موسى is a lively water park located in Mongo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.684019,
                         12.166761

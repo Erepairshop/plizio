@@ -1432,7 +1432,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Laguna",
                   "text": "Laguna ist ein Wasserpark in der Nähe des jüdischen Viertels von Třebíč, der Möglichkeiten zum Schwimmen und für Wassersport bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.886541,
                         49.220827
@@ -1486,7 +1486,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Zábavní park Labyrint",
                   "text": "Labyrint ist ein familienorientierter Freizeitpark in der Nähe des jüdischen Viertels in Třebíč.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.871478,
                         49.217376
@@ -1722,7 +1722,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Laguna",
                   "text": "A Laguna egy vízipark, amely rekreációs úszást és vízi tevékenységeket kínál a třebíči zsidó negyed közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.886541,
                         49.220827
@@ -1776,7 +1776,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Zábavní park Labyrint",
                   "text": "A Labyrint egy családbarát vidámpark a třebíči zsidó negyed közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.871478,
                         49.217376
@@ -2012,7 +2012,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Laguna",
                   "text": "Laguna este un parc acvatic care oferă activități recreative și de înot lângă Cartierul Evreiesc din Třebíč.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.886541,
                         49.220827
@@ -2066,7 +2066,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Zábavní park Labyrint",
                   "text": "Labyrint este un parc de distracții destinat familiilor, situat lângă Cartierul Evreiesc din Třebíč.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.871478,
                         49.217376
@@ -2302,7 +2302,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Laguna",
                   "text": "Laguna is a water park providing recreational swimming and water activities near Třebíč's Jewish Quarter.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.886541,
                         49.220827
@@ -2356,7 +2356,7 @@ export const czechrepublicHistoryV2: POI[] = [
             {
                   "name": "Zábavní park Labyrint",
                   "text": "Labyrint is a family-oriented amusement park located near the Jewish Quarter in Třebíč.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.871478,
                         49.217376

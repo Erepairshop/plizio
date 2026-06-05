@@ -55,7 +55,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
                   "text": "Freizeitpark in Budhanilkantha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.366308,
                         27.762091
@@ -84,7 +84,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
                   "text": "Vidámpark Budhanilkanthában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.366308,
                         27.762091
@@ -113,7 +113,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
                   "text": "Parc de distracții în Budhanilkantha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.366308,
                         27.762091
@@ -142,7 +142,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
                   "text": "Theme park in Budhanilkantha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.366308,
                         27.762091
@@ -1086,7 +1086,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "The Aquarium World",
                   "text": "The Aquarium World ist ein lokales Aquarium in Tokha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.335544,
                         27.747153
@@ -1151,7 +1151,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "The Aquarium World",
                   "text": "A The Aquarium World egy helyi akvárium Tokha városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.335544,
                         27.747153
@@ -1216,7 +1216,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "The Aquarium World",
                   "text": "The Aquarium World este un acvariu local situat în Tokha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.335544,
                         27.747153
@@ -1281,7 +1281,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "The Aquarium World",
                   "text": "The Aquarium World is a local aquarium situated in Tokha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.335544,
                         27.747153
@@ -1676,7 +1676,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Kausaltar Aquarium House",
                   "text": "Kausaltar Aquarium House ist ein Aquarium in Madhyapur Thimi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.365199,
                         27.674145
@@ -1703,7 +1703,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Namuna Park",
                   "text": "Ein Freizeitpark in der Stadt Madhyapur Thimi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.363913,
                         27.688741
@@ -1840,7 +1840,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Kausaltar Aquarium House",
                   "text": "A Kausaltar Aquarium House egy akvárium Madhyapur Thimiben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.365199,
                         27.674145
@@ -1867,7 +1867,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Namuna Park",
                   "text": "Egy vidámpark Madhyapur Thimi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.363913,
                         27.688741
@@ -2004,7 +2004,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Kausaltar Aquarium House",
                   "text": "Kausaltar Aquarium House este un acvariu situat în Madhyapur Thimi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.365199,
                         27.674145
@@ -2031,7 +2031,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Namuna Park",
                   "text": "Un parc de distracții situat în orașul Madhyapur Thimi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.363913,
                         27.688741
@@ -2168,7 +2168,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Kausaltar Aquarium House",
                   "text": "Kausaltar Aquarium House is an aquarium located in Madhyapur Thimi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.365199,
                         27.674145
@@ -2195,7 +2195,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Namuna Park",
                   "text": "A theme park located in the city of Madhyapur Thimi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         85.363913,
                         27.688741
@@ -2433,7 +2433,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Heaven Water Park",
                   "text": "Heaven Water Park ist ein Wasserpark in Birtamod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         87.971172,
                         26.625254
@@ -2462,7 +2462,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Heaven Water Park",
                   "text": "A Heaven Water Park egy élményfürdő Birtamod városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         87.971172,
                         26.625254
@@ -2491,7 +2491,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Heaven Water Park",
                   "text": "Heaven Water Park este un parc acvatic situat în Birtamod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         87.971172,
                         26.625254
@@ -2520,7 +2520,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             {
                   "name": "Heaven Water Park",
                   "text": "Heaven Water Park is an aquatic amusement park located in Birtamod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         87.971172,
                         26.625254

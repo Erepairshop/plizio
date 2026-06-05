@@ -1902,7 +1902,7 @@ export const poiExtraSloveniaCities: POI[] = [
             {
                   "name": "Akvarij - terarij Maribor",
                   "text": "Ein Aquarium und Terrarium in Maribor, das eine Vielzahl von Fischen und Reptilien zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.649563,
                         46.564788
@@ -2237,7 +2237,7 @@ export const poiExtraSloveniaCities: POI[] = [
             {
                   "name": "Akvarij - terarij Maribor",
                   "text": "Akvárium és terrárium Mariborban, ahol különféle halakat és hüllőket mutatnak be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.649563,
                         46.564788
@@ -2572,7 +2572,7 @@ export const poiExtraSloveniaCities: POI[] = [
             {
                   "name": "Akvarij - terarij Maribor",
                   "text": "Un acvariu și terariu din Maribor care prezintă o varietate de pești și reptile.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.649563,
                         46.564788
@@ -2907,7 +2907,7 @@ export const poiExtraSloveniaCities: POI[] = [
             {
                   "name": "Akvarij - terarij Maribor",
                   "text": "An aquarium and terrarium in Maribor featuring a variety of fish and reptiles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.649563,
                         46.564788

@@ -539,7 +539,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark in Ventoso mit verschiedenen Kletterparcours.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -649,7 +649,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Kalandpark Ventoso településen, különféle mászópályákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -759,7 +759,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în Ventoso cu diverse trasee de cățărare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -869,7 +869,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in Ventoso featuring various climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1070,7 +1070,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark in San Marino mit Kletterparcours und Outdoor-Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1180,7 +1180,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Kalandpark San Marinóban kötélpályákkal és szabadtéri tevékenységekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1290,7 +1290,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în San Marino, oferind trasee suspendate și activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1400,7 +1400,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in San Marino offering rope courses and outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -3176,7 +3176,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark in Casole mit Outdoor-Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -3331,7 +3331,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Kültéri tevékenységeket kínáló kalandpark Casoléban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -3486,7 +3486,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură din Casole care oferă activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -3641,7 +3641,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in Casole offering outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -5804,7 +5804,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Outdoor-Abenteuerpark in Paderna mit verschiedenen Kletterparcours.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -5950,7 +5950,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Szabadtéri kalandpark Padernában különféle mászópályákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -6096,7 +6096,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în aer liber din Paderna, cu diverse trasee de cățărare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -6242,7 +6242,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An outdoor adventure park in Paderna with various climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -6434,7 +6434,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark in Poggiale mit verschiedenen Kletterparcours im Freien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -6589,7 +6589,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Kalandpark Poggiale városában, különféle szabadtéri mászópályákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -6744,7 +6744,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în Poggiale cu diverse trasee de cățărare în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -6899,7 +6899,7 @@ export const sanmarinoCitiesV2: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in Poggiale featuring various outdoor climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831

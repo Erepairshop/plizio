@@ -395,7 +395,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
             {
                   "name": "Mickey Land",
                   "text": "Mickey Land ist ein Freizeitpark in Thiès.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -16.92554,
                         14.791908
@@ -442,7 +442,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
             {
                   "name": "Mickey Land",
                   "text": "A Mickey Land egy vidámpark Thiès városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -16.92554,
                         14.791908
@@ -489,7 +489,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
             {
                   "name": "Mickey Land",
                   "text": "Mickey Land este un parc tematic în Thiès.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -16.92554,
                         14.791908
@@ -536,7 +536,7 @@ export const poiExtraSenegalCitiesV2: POI[] = [
             {
                   "name": "Mickey Land",
                   "text": "Mickey Land is a theme park located in Thiès.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -16.92554,
                         14.791908

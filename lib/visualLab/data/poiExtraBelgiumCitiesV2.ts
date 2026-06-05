@@ -422,7 +422,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Zoo Antwerpen",
                   "text": "Einer der ältesten und bekanntesten Zoos der Welt, direkt neben dem Hauptbahnhof gelegen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.42357,
                         51.216258
@@ -489,6 +489,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.415088,
                         51.197066
+                  ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "Der Put van Ekeren in Antwerpen ist ein beliebter See für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "Antwerp Amusement Center",
+                  "text": "Ein Unterhaltungszentrum in Antwerpen mit verschiedenen Spielautomaten.",
+                  "category": "family",
+                  "coords": [
+                        4.369274,
+                        51.217873
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate in Antwerpen bietet moderne Arcade-Spiele für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        4.41732,
+                        51.218188
+                  ]
+            },
+            {
+                  "name": "Jos Verhelstplein",
+                  "text": "Ein zentral gelegener Spielplatz am Jos Verhelstplein in Antwerpen.",
+                  "category": "family",
+                  "coords": [
+                        4.433066,
+                        51.227539
+                  ]
+            },
+            {
+                  "name": "Maarschalk Montgomeryplein",
+                  "text": "Der Spielplatz am Maarschalk Montgomeryplein ist ein Treffpunkt für Kinder in Antwerpen.",
+                  "category": "family",
+                  "coords": [
+                        4.438002,
+                        51.211599
+                  ]
+            },
+            {
+                  "name": "Minigolf Beatrijs",
+                  "text": "Minigolf Beatrijs bietet Freizeitspaß unter freiem Himmel in Antwerpen.",
+                  "category": "family",
+                  "coords": [
+                        4.38744,
+                        51.21953
+                  ]
+            },
+            {
+                  "name": "Speeltuintje Balansstraat",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in der Balansstraat in Antwerpen.",
+                  "category": "family",
+                  "coords": [
+                        4.393702,
+                        51.202234
+                  ]
+            },
+            {
+                  "name": "Boomstamparcours",
+                  "text": "Das Boomstamparcours ist ein origineller Spielbereich für Kinder in Antwerpen.",
+                  "category": "family",
+                  "coords": [
+                        4.381721,
+                        51.207081
                   ]
             }
       ],
@@ -910,7 +982,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Zoo Antwerpen",
                   "text": "A világ egyik legrégebbi és legismertebb állatkertje, közvetlenül a főpályaudvar mellett.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.42357,
                         51.216258
@@ -977,6 +1049,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.415088,
                         51.197066
+                  ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "Az antwerpeni Put van Ekeren népszerű tó a természetbarátok körében.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "Antwerp Amusement Center",
+                  "text": "Egy antwerpeni szórakoztató központ különféle játékgépekkel.",
+                  "category": "family",
+                  "coords": [
+                        4.369274,
+                        51.217873
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Az antwerpeni Gamestate modern arcade játékokat kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        4.41732,
+                        51.218188
+                  ]
+            },
+            {
+                  "name": "Jos Verhelstplein",
+                  "text": "Egy központi fekvésű játszótér az antwerpeni Jos Verhelstpleinen.",
+                  "category": "family",
+                  "coords": [
+                        4.433066,
+                        51.227539
+                  ]
+            },
+            {
+                  "name": "Maarschalk Montgomeryplein",
+                  "text": "A Maarschalk Montgomeryplein játszótere kedvelt találkozóhely az antwerpeni gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.438002,
+                        51.211599
+                  ]
+            },
+            {
+                  "name": "Minigolf Beatrijs",
+                  "text": "A Minigolf Beatrijs szabadtéri kikapcsolódást kínál Antwerpenben.",
+                  "category": "family",
+                  "coords": [
+                        4.38744,
+                        51.21953
+                  ]
+            },
+            {
+                  "name": "Speeltuintje Balansstraat",
+                  "text": "Egy kicsi, barátságos játszótér az antwerpeni Balansstraatban.",
+                  "category": "family",
+                  "coords": [
+                        4.393702,
+                        51.202234
+                  ]
+            },
+            {
+                  "name": "Boomstamparcours",
+                  "text": "A Boomstamparcours egy eredeti játszóterület gyerekeknek Antwerpenben.",
+                  "category": "family",
+                  "coords": [
+                        4.381721,
+                        51.207081
                   ]
             }
       ],
@@ -1398,7 +1542,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Zoo Antwerpen",
                   "text": "Una dintre cele mai vechi și cunoscute grădini zoologice din lume, situată chiar lângă Gara Centrală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.42357,
                         51.216258
@@ -1465,6 +1609,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.415088,
                         51.197066
+                  ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "Put van Ekeren din Anvers este un lac popular pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "Antwerp Amusement Center",
+                  "text": "Un centru de divertisment în Anvers cu diverse aparate de jocuri.",
+                  "category": "family",
+                  "coords": [
+                        4.369274,
+                        51.217873
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate din Anvers oferă jocuri arcade moderne pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.41732,
+                        51.218188
+                  ]
+            },
+            {
+                  "name": "Jos Verhelstplein",
+                  "text": "Un loc de joacă central pe Jos Verhelstplein în Anvers.",
+                  "category": "family",
+                  "coords": [
+                        4.433066,
+                        51.227539
+                  ]
+            },
+            {
+                  "name": "Maarschalk Montgomeryplein",
+                  "text": "Locul de joacă de pe Maarschalk Montgomeryplein este un punct de întâlnire pentru copiii din Anvers.",
+                  "category": "family",
+                  "coords": [
+                        4.438002,
+                        51.211599
+                  ]
+            },
+            {
+                  "name": "Minigolf Beatrijs",
+                  "text": "Minigolf Beatrijs oferă distracție în aer liber în Anvers.",
+                  "category": "family",
+                  "coords": [
+                        4.38744,
+                        51.21953
+                  ]
+            },
+            {
+                  "name": "Speeltuintje Balansstraat",
+                  "text": "Un loc de joacă mic și primitor pe Balansstraat în Anvers.",
+                  "category": "family",
+                  "coords": [
+                        4.393702,
+                        51.202234
+                  ]
+            },
+            {
+                  "name": "Boomstamparcours",
+                  "text": "Boomstamparcours este o zonă de joacă originală pentru copii în Anvers.",
+                  "category": "family",
+                  "coords": [
+                        4.381721,
+                        51.207081
                   ]
             }
       ],
@@ -1886,7 +2102,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Zoo Antwerpen",
                   "text": "One of the oldest and most famous zoos in the world, located right next to the Central Station.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.42357,
                         51.216258
@@ -1953,6 +2169,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.415088,
                         51.197066
+                  ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "The Put van Ekeren in Antwerp is a popular lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "Antwerp Amusement Center",
+                  "text": "An entertainment center in Antwerp with various gaming machines.",
+                  "category": "family",
+                  "coords": [
+                        4.369274,
+                        51.217873
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate in Antwerp offers modern arcade games for all age groups.",
+                  "category": "family",
+                  "coords": [
+                        4.41732,
+                        51.218188
+                  ]
+            },
+            {
+                  "name": "Jos Verhelstplein",
+                  "text": "A centrally located playground at Jos Verhelstplein in Antwerp.",
+                  "category": "family",
+                  "coords": [
+                        4.433066,
+                        51.227539
+                  ]
+            },
+            {
+                  "name": "Maarschalk Montgomeryplein",
+                  "text": "The playground at Maarschalk Montgomeryplein is a meeting point for children in Antwerp.",
+                  "category": "family",
+                  "coords": [
+                        4.438002,
+                        51.211599
+                  ]
+            },
+            {
+                  "name": "Minigolf Beatrijs",
+                  "text": "Minigolf Beatrijs offers outdoor leisure fun in Antwerp.",
+                  "category": "family",
+                  "coords": [
+                        4.38744,
+                        51.21953
+                  ]
+            },
+            {
+                  "name": "Speeltuintje Balansstraat",
+                  "text": "A small, cozy playground in the Balansstraat in Antwerp.",
+                  "category": "family",
+                  "coords": [
+                        4.393702,
+                        51.202234
+                  ]
+            },
+            {
+                  "name": "Boomstamparcours",
+                  "text": "The Boomstamparcours is an original play area for children in Antwerp.",
+                  "category": "family",
+                  "coords": [
+                        4.381721,
+                        51.207081
                   ]
             }
       ]
@@ -2479,6 +2767,168 @@ export const belgiumCitiesV2: POI[] = [
                         3.753191,
                         51.064453
                   ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "Das Damvalleimeer in Ghent ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Bioreactor",
+                  "text": "Der Bioreactor in Ghent bietet eine interessante Kulisse für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        3.682974,
+                        51.055461
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Das Oud Vliegveld in Ghent ist ein Seeareal, das Natur und Erholung verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Afgraving",
+                  "text": "Die Afgraving in Ghent ist ein Gewässer in einer ruhigen, naturnahen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        3.668327,
+                        51.059152
+                  ]
+            },
+            {
+                  "name": "Krekenplas",
+                  "text": "Der Krekenplas in Ghent lädt zu entspannten Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        3.689156,
+                        51.04343
+                  ]
+            },
+            {
+                  "name": "Kokerpark",
+                  "text": "Der Kokerpark in Ghent bietet moderne Spielbereiche für Kinder in einer urbanen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        3.698817,
+                        51.057883
+                  ]
+            },
+            {
+                  "name": "Speelterrein binnenweg",
+                  "text": "Das Speelterrein binnenweg in Ghent ist ein familienfreundlicher Treffpunkt mit vielen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        3.740693,
+                        51.034938
+                  ]
+            },
+            {
+                  "name": "Speelterrein Moriaanstraat",
+                  "text": "Das Speelterrein Moriaanstraat in Ghent ist ein beliebter Ort für Kinder zum Spielen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        3.744417,
+                        51.033741
+                  ]
+            },
+            {
+                  "name": "Meierij",
+                  "text": "Die Meierij in Ghent bietet einen abwechslungsreichen Spielplatz für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        3.737181,
+                        51.031264
+                  ]
+            },
+            {
+                  "name": "The Park Playground",
+                  "text": "The Park Playground in Ghent bietet moderne Unterhaltungsmöglichkeiten für spielfreudige Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.732953,
+                        51.066534
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate in Ghent ist ein modernes Spielezentrum mit vielfältigen Unterhaltungsangeboten.",
+                  "category": "family",
+                  "coords": [
+                        3.72222,
+                        51.055388
+                  ]
+            },
+            {
+                  "name": "Graskuip",
+                  "text": "Die Graskuip in Ghent ist ein weitläufiger Spielbereich für Kinder im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.721644,
+                        51.038805
+                  ]
+            },
+            {
+                  "name": "Avantura Bar",
+                  "text": "Die Avantura Bar in Ghent verbindet Unterhaltung und Spielspaß in gemütlicher Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        3.726182,
+                        51.064793
+                  ]
+            },
+            {
+                  "name": "Speeltuin Godshammeke",
+                  "text": "Die Speeltuin Godshammeke in Ghent bietet klassisches Spielvergnügen für die jüngsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        3.727958,
+                        51.061516
+                  ]
+            },
+            {
+                  "name": "Viperparkje",
+                  "text": "Das Viperparkje in Ghent ist ein kleiner, aber feiner Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        3.745224,
+                        51.061267
+                  ]
+            },
+            {
+                  "name": "Zonnestraal",
+                  "text": "Der Zonnestraal in Ghent ist ein freundlicher Spielplatz für Kinder und ihre Begleiter.",
+                  "category": "family",
+                  "coords": [
+                        3.706179,
+                        51.063161
+                  ]
+            },
+            {
+                  "name": "Speeltuin Flamingostraat",
+                  "text": "Die Speeltuin Flamingostraat in Ghent bietet vielfältige Klettermöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.707177,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Buitenspeeltuin Bijgaardepark",
+                  "text": "Der Buitenspeeltuin Bijgaardepark in Ghent lädt zum aktiven Spielen im Park ein.",
+                  "category": "family",
+                  "coords": [
+                        3.74397,
+                        51.049774
+                  ]
             }
       ],
       "hu": [
@@ -2957,6 +3407,168 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.753191,
                         51.064453
+                  ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "A genti Damvalleimeer egy nyugodt tó, amely a természetben való időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Bioreactor",
+                  "text": "A genti Bioreactor érdekes környezetet biztosít egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        3.682974,
+                        51.055461
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "A genti Oud Vliegveld egy tóterület, amely ötvözi a természetet és a pihenést.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Afgraving",
+                  "text": "A genti Afgraving egy tó nyugodt, természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        3.668327,
+                        51.059152
+                  ]
+            },
+            {
+                  "name": "Krekenplas",
+                  "text": "A genti Krekenplas pihentető pillanatokra hív a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        3.689156,
+                        51.04343
+                  ]
+            },
+            {
+                  "name": "Kokerpark",
+                  "text": "A genti Kokerpark modern játszótereket kínál a gyerekeknek városi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        3.698817,
+                        51.057883
+                  ]
+            },
+            {
+                  "name": "Speelterrein binnenweg",
+                  "text": "A genti Speelterrein binnenweg egy családbarát találkozóhely sok játékkal.",
+                  "category": "family",
+                  "coords": [
+                        3.740693,
+                        51.034938
+                  ]
+            },
+            {
+                  "name": "Speelterrein Moriaanstraat",
+                  "text": "A genti Speelterrein Moriaanstraat népszerű hely a gyerekek körében a játékra.",
+                  "category": "family",
+                  "coords": [
+                        3.744417,
+                        51.033741
+                  ]
+            },
+            {
+                  "name": "Meierij",
+                  "text": "A genti Meierij változatos játszóteret kínál a családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.737181,
+                        51.031264
+                  ]
+            },
+            {
+                  "name": "The Park Playground",
+                  "text": "A genti The Park Playground modern szórakozási lehetőségeket kínál a játékos kedvű családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.732953,
+                        51.066534
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "A genti Gamestate egy modern játékközpont változatos szórakozási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        3.72222,
+                        51.055388
+                  ]
+            },
+            {
+                  "name": "Graskuip",
+                  "text": "A genti Graskuip egy tágas szabadtéri játszóhely a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        3.721644,
+                        51.038805
+                  ]
+            },
+            {
+                  "name": "Avantura Bar",
+                  "text": "A genti Avantura Bar szórakozást és játékélményt kínál kellemes hangulatban.",
+                  "category": "family",
+                  "coords": [
+                        3.726182,
+                        51.064793
+                  ]
+            },
+            {
+                  "name": "Speeltuin Godshammeke",
+                  "text": "A genti Speeltuin Godshammeke klasszikus játékélményt nyújt a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.727958,
+                        51.061516
+                  ]
+            },
+            {
+                  "name": "Viperparkje",
+                  "text": "A genti Viperparkje egy kicsi, de kedves hely a gyerekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        3.745224,
+                        51.061267
+                  ]
+            },
+            {
+                  "name": "Zonnestraal",
+                  "text": "A genti Zonnestraal egy barátságos játszótér a gyerekek és kísérőik számára.",
+                  "category": "family",
+                  "coords": [
+                        3.706179,
+                        51.063161
+                  ]
+            },
+            {
+                  "name": "Speeltuin Flamingostraat",
+                  "text": "A genti Speeltuin Flamingostraat változatos mászási lehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.707177,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Buitenspeeltuin Bijgaardepark",
+                  "text": "A genti Buitenspeeltuin Bijgaardepark aktív játékra hív a parkban.",
+                  "category": "family",
+                  "coords": [
+                        3.74397,
+                        51.049774
                   ]
             }
       ],
@@ -3437,6 +4049,168 @@ export const belgiumCitiesV2: POI[] = [
                         3.753191,
                         51.064453
                   ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "Damvalleimeer din Ghent este un lac liniștit care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Bioreactor",
+                  "text": "Bioreactor din Ghent oferă un cadru interesant pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        3.682974,
+                        51.055461
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Oud Vliegveld din Ghent este o zonă cu lacuri care îmbină natura cu recreerea.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Afgraving",
+                  "text": "Afgraving din Ghent este un lac într-un mediu liniștit, aproape de natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.668327,
+                        51.059152
+                  ]
+            },
+            {
+                  "name": "Krekenplas",
+                  "text": "Krekenplas din Ghent invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        3.689156,
+                        51.04343
+                  ]
+            },
+            {
+                  "name": "Kokerpark",
+                  "text": "Kokerpark din Ghent oferă zone de joacă moderne pentru copii într-un cadru urban.",
+                  "category": "family",
+                  "coords": [
+                        3.698817,
+                        51.057883
+                  ]
+            },
+            {
+                  "name": "Speelterrein binnenweg",
+                  "text": "Speelterrein binnenweg din Ghent este un loc de întâlnire pentru familii, dotat cu multe echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.740693,
+                        51.034938
+                  ]
+            },
+            {
+                  "name": "Speelterrein Moriaanstraat",
+                  "text": "Speelterrein Moriaanstraat din Ghent este un loc popular pentru copii, ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.744417,
+                        51.033741
+                  ]
+            },
+            {
+                  "name": "Meierij",
+                  "text": "Meierij din Ghent oferă un loc de joacă variat pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.737181,
+                        51.031264
+                  ]
+            },
+            {
+                  "name": "The Park Playground",
+                  "text": "The Park Playground din Ghent oferă opțiuni moderne de divertisment pentru familiile amatoare de jocuri.",
+                  "category": "family",
+                  "coords": [
+                        3.732953,
+                        51.066534
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate din Ghent este un centru de jocuri modern cu diverse oferte de divertisment.",
+                  "category": "family",
+                  "coords": [
+                        3.72222,
+                        51.055388
+                  ]
+            },
+            {
+                  "name": "Graskuip",
+                  "text": "Graskuip din Ghent este o zonă de joacă spațioasă în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.721644,
+                        51.038805
+                  ]
+            },
+            {
+                  "name": "Avantura Bar",
+                  "text": "Avantura Bar din Ghent îmbină divertismentul cu joaca într-o atmosferă primitoare.",
+                  "category": "family",
+                  "coords": [
+                        3.726182,
+                        51.064793
+                  ]
+            },
+            {
+                  "name": "Speeltuin Godshammeke",
+                  "text": "Speeltuin Godshammeke din Ghent oferă distracție clasică pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        3.727958,
+                        51.061516
+                  ]
+            },
+            {
+                  "name": "Viperparkje",
+                  "text": "Viperparkje din Ghent este un loc mic, dar plăcut, unde copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        3.745224,
+                        51.061267
+                  ]
+            },
+            {
+                  "name": "Zonnestraal",
+                  "text": "Zonnestraal din Ghent este un loc de joacă primitor pentru copii și însoțitorii lor.",
+                  "category": "family",
+                  "coords": [
+                        3.706179,
+                        51.063161
+                  ]
+            },
+            {
+                  "name": "Speeltuin Flamingostraat",
+                  "text": "Speeltuin Flamingostraat din Ghent oferă diverse opțiuni de cățărat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.707177,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Buitenspeeltuin Bijgaardepark",
+                  "text": "Buitenspeeltuin Bijgaardepark din Ghent invită la joacă activă în parc.",
+                  "category": "family",
+                  "coords": [
+                        3.74397,
+                        51.049774
+                  ]
             }
       ],
       "en": [
@@ -3915,6 +4689,168 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.753191,
                         51.064453
+                  ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "Damvalleimeer in Ghent is a quiet lake that invites visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Bioreactor",
+                  "text": "The Bioreactor in Ghent offers an interesting backdrop for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        3.682974,
+                        51.055461
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Oud Vliegveld in Ghent is a lake area that combines nature and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Afgraving",
+                  "text": "Afgraving in Ghent is a body of water in a quiet, natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        3.668327,
+                        51.059152
+                  ]
+            },
+            {
+                  "name": "Krekenplas",
+                  "text": "Krekenplas in Ghent invites visitors to enjoy relaxed moments on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        3.689156,
+                        51.04343
+                  ]
+            },
+            {
+                  "name": "Kokerpark",
+                  "text": "Kokerpark in Ghent offers modern play areas for children in an urban setting.",
+                  "category": "family",
+                  "coords": [
+                        3.698817,
+                        51.057883
+                  ]
+            },
+            {
+                  "name": "Speelterrein binnenweg",
+                  "text": "Speelterrein binnenweg in Ghent is a family-friendly meeting spot with plenty of play equipment.",
+                  "category": "family",
+                  "coords": [
+                        3.740693,
+                        51.034938
+                  ]
+            },
+            {
+                  "name": "Speelterrein Moriaanstraat",
+                  "text": "Speelterrein Moriaanstraat in Ghent is a popular spot for children to play and run around.",
+                  "category": "family",
+                  "coords": [
+                        3.744417,
+                        51.033741
+                  ]
+            },
+            {
+                  "name": "Meierij",
+                  "text": "Meierij in Ghent offers a diverse playground for family outings.",
+                  "category": "family",
+                  "coords": [
+                        3.737181,
+                        51.031264
+                  ]
+            },
+            {
+                  "name": "The Park Playground",
+                  "text": "The Park Playground in Ghent offers modern entertainment options for playful families.",
+                  "category": "family",
+                  "coords": [
+                        3.732953,
+                        51.066534
+                  ]
+            },
+            {
+                  "name": "Gamestate",
+                  "text": "Gamestate in Ghent is a modern gaming center with a wide range of entertainment options.",
+                  "category": "family",
+                  "coords": [
+                        3.72222,
+                        51.055388
+                  ]
+            },
+            {
+                  "name": "Graskuip",
+                  "text": "Graskuip in Ghent is an extensive outdoor play area for children.",
+                  "category": "family",
+                  "coords": [
+                        3.721644,
+                        51.038805
+                  ]
+            },
+            {
+                  "name": "Avantura Bar",
+                  "text": "Avantura Bar in Ghent combines entertainment and gaming fun in a cozy atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        3.726182,
+                        51.064793
+                  ]
+            },
+            {
+                  "name": "Speeltuin Godshammeke",
+                  "text": "Speeltuin Godshammeke in Ghent offers classic play fun for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        3.727958,
+                        51.061516
+                  ]
+            },
+            {
+                  "name": "Viperparkje",
+                  "text": "Viperparkje in Ghent is a small but charming spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.745224,
+                        51.061267
+                  ]
+            },
+            {
+                  "name": "Zonnestraal",
+                  "text": "Zonnestraal in Ghent is a friendly playground for children and their companions.",
+                  "category": "family",
+                  "coords": [
+                        3.706179,
+                        51.063161
+                  ]
+            },
+            {
+                  "name": "Speeltuin Flamingostraat",
+                  "text": "Speeltuin Flamingostraat in Ghent offers various climbing opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        3.707177,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Buitenspeeltuin Bijgaardepark",
+                  "text": "Buitenspeeltuin Bijgaardepark in Ghent invites active play in the park.",
+                  "category": "family",
+                  "coords": [
+                        3.74397,
+                        51.049774
                   ]
             }
       ]
@@ -6241,6 +7177,78 @@ export const belgiumCitiesV2: POI[] = [
                         5.561893,
                         50.62248
                   ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Ein ruhiger See in der Nähe von Lüttich, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Die Mare aux Chevreuils ist ein kleiner, idyllischer See bei Lüttich.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Ein Gewässer in der Region Lüttich, das zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Ein Regenrückhaltebecken in Lüttich, das als kleiner See wahrgenommen wird.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "Ein weiteres Wasserbecken in Lüttich, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Liège Karting",
+                  "text": "Liège Karting bietet actionreiche Unterhaltung für Fans von Rennspielen.",
+                  "category": "family",
+                  "coords": [
+                        5.602166,
+                        50.630888
+                  ]
+            },
+            {
+                  "name": "Péville",
+                  "text": "Ein Spielplatz im Bereich Péville für die lokale Gemeinschaft in Lüttich.",
+                  "category": "family",
+                  "coords": [
+                        5.599126,
+                        50.629341
+                  ]
+            },
+            {
+                  "name": "Plaine des Arts",
+                  "text": "Die Plaine des Arts ist ein kreativ gestalteter Spielplatz in Lüttich.",
+                  "category": "family",
+                  "coords": [
+                        5.590728,
+                        50.644693
+                  ]
             }
       ],
       "hu": [
@@ -6737,6 +7745,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.561893,
                         50.62248
+                  ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Egy csendes tó Liège közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "A Mare aux Chevreuils egy kicsi, idilli tó Liège mellett.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Egy vízfelület Liège régiójában, amely sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Egy záportározó Liège-ben, amely kis tóként funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "Egy másik víztározó Liège-ben, természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Liège Karting",
+                  "text": "A Liège Karting akciódús szórakozást kínál a versenyjátékok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        5.602166,
+                        50.630888
+                  ]
+            },
+            {
+                  "name": "Péville",
+                  "text": "Egy játszótér a Péville környékén a liège-i közösség számára.",
+                  "category": "family",
+                  "coords": [
+                        5.599126,
+                        50.629341
+                  ]
+            },
+            {
+                  "name": "Plaine des Arts",
+                  "text": "A Plaine des Arts egy kreatívan kialakított játszótér Liège-ben.",
+                  "category": "family",
+                  "coords": [
+                        5.590728,
+                        50.644693
                   ]
             }
       ],
@@ -7235,6 +8315,78 @@ export const belgiumCitiesV2: POI[] = [
                         5.561893,
                         50.62248
                   ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Un lac liniștit lângă Liège, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Mare aux Chevreuils este un lac mic și idilic lângă Liège.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Un ochi de apă în regiunea Liège, care invită la plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Un bazin de retenție în Liège, care poate fi văzut ca un mic lac.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "Un alt bazin de apă în Liège, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Liège Karting",
+                  "text": "Liège Karting oferă divertisment plin de acțiune pentru fanii jocurilor de curse.",
+                  "category": "family",
+                  "coords": [
+                        5.602166,
+                        50.630888
+                  ]
+            },
+            {
+                  "name": "Péville",
+                  "text": "Un loc de joacă în zona Péville pentru comunitatea locală din Liège.",
+                  "category": "family",
+                  "coords": [
+                        5.599126,
+                        50.629341
+                  ]
+            },
+            {
+                  "name": "Plaine des Arts",
+                  "text": "Plaine des Arts este un loc de joacă creativ în Liège.",
+                  "category": "family",
+                  "coords": [
+                        5.590728,
+                        50.644693
+                  ]
             }
       ],
       "en": [
@@ -7731,6 +8883,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.561893,
                         50.62248
+                  ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "A peaceful lake near Liege, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "The Mare aux Chevreuils is a small, idyllic lake near Liege.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "A body of water in the Liege region that invites visitors for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "A retention basin in Liege that serves as a small lake.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "Another water basin in Liege, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Liège Karting",
+                  "text": "Liège Karting offers action-packed entertainment for fans of racing games.",
+                  "category": "family",
+                  "coords": [
+                        5.602166,
+                        50.630888
+                  ]
+            },
+            {
+                  "name": "Péville",
+                  "text": "A playground in the Péville area for the local community in Liege.",
+                  "category": "family",
+                  "coords": [
+                        5.599126,
+                        50.629341
+                  ]
+            },
+            {
+                  "name": "Plaine des Arts",
+                  "text": "The Plaine des Arts is a creatively designed playground in Liege.",
+                  "category": "family",
+                  "coords": [
+                        5.590728,
+                        50.644693
                   ]
             }
       ]
@@ -10145,6 +11369,204 @@ export const belgiumCitiesV2: POI[] = [
                         4.695817,
                         50.879058
                   ]
+            },
+            {
+                  "name": "Bellefroid vijver",
+                  "text": "Der Bellefroid vijver in Leuven ist ein ruhiges Gewässer, das zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.702552,
+                        50.90594
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sint-Donatuspark",
+                  "text": "Der Speeltuin Sint-Donatuspark in Leuven ist ein schöner Ort für Kinder im Herzen der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        4.701445,
+                        50.874755
+                  ]
+            },
+            {
+                  "name": "Educatieve waterspeeltuin",
+                  "text": "Die Educatieve waterspeeltuin in Leuven verbindet spielerisches Lernen mit Wasservergnügen.",
+                  "category": "family",
+                  "coords": [
+                        4.721835,
+                        50.89269
+                  ]
+            },
+            {
+                  "name": "Bleydenbergh",
+                  "text": "Der Bleydenbergh in Leuven bietet Kindern viel Platz zum Spielen in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        4.700581,
+                        50.893746
+                  ]
+            },
+            {
+                  "name": "Speelterrein Philipsplein",
+                  "text": "Das Speelterrein Philipsplein in Leuven bietet Spielmöglichkeiten für Familien im Wohnviertel.",
+                  "category": "family",
+                  "coords": [
+                        4.711409,
+                        50.870032
+                  ]
+            },
+            {
+                  "name": "Groefplein",
+                  "text": "Das Groefplein in Leuven ist ein gemütlicher Spielplatz für den täglichen Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.684415,
+                        50.879334
+                  ]
+            },
+            {
+                  "name": "'t Celestijntje",
+                  "text": "'t Celestijntje in Leuven ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        4.676876,
+                        50.872053
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekweide",
+                  "text": "Das Speelterrein Vlierbeekweide in Leuven bietet eine weite Fläche zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.735361,
+                        50.890413
+                  ]
+            },
+            {
+                  "name": "Verkeerspark",
+                  "text": "Der Verkeerspark in Leuven bietet Kindern die Möglichkeit, Verkehrsregeln spielerisch zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        4.721872,
+                        50.891075
+                  ]
+            },
+            {
+                  "name": "Waterspeeltuin Sluispark",
+                  "text": "Der Waterspeeltuin Sluispark in Leuven sorgt für spritzige Abkühlung an warmen Tagen.",
+                  "category": "family",
+                  "coords": [
+                        4.699732,
+                        50.886347
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekveld",
+                  "text": "Das Speelterrein Vlierbeekveld in Leuven ist ein naturnaher Spielort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.738018,
+                        50.889496
+                  ]
+            },
+            {
+                  "name": "Rustoordlaan",
+                  "text": "Die Rustoordlaan in Leuven bietet einen kleinen Spielplatz für die Anwohner.",
+                  "category": "family",
+                  "coords": [
+                        4.729627,
+                        50.886454
+                  ]
+            },
+            {
+                  "name": "Verkeerspark Heverlee",
+                  "text": "Der Verkeerspark Heverlee in Leuven ist ideal zum Üben von Fahrradfahren und Verkehrsregeln.",
+                  "category": "family",
+                  "coords": [
+                        4.68973,
+                        50.853518
+                  ]
+            },
+            {
+                  "name": "Speeltuin bij kinderziekenhuis",
+                  "text": "Der Speiltuin bij kinderziekenhuis in Leuven bietet Ablenkung und Freude für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        4.670447,
+                        50.876748
+                  ]
+            },
+            {
+                  "name": "speeltuin lovanium",
+                  "text": "Der Speeltuin Lovanium in Leuven ist ein moderner Spielbereich für Kinder der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        4.680682,
+                        50.885497
+                  ]
+            },
+            {
+                  "name": "Speeltuin eenmeilaan",
+                  "text": "Die Speeltuin eenmeilaan in Leuven bietet Raum für Spiel und Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.717605,
+                        50.897607
+                  ]
+            },
+            {
+                  "name": "Groenplaats De Bron",
+                  "text": "Ein familienfreundlicher Spielplatz in Leuven, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.734042,
+                        50.865606
+                  ]
+            },
+            {
+                  "name": "René Verbeeckplein",
+                  "text": "Ein familienfreundlicher Spielplatz in Leuven, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.702861,
+                        50.895153
+                  ]
+            },
+            {
+                  "name": "speelweide",
+                  "text": "Ein familienfreundlicher Spielplatz in Leuven, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.668338,
+                        50.875822
+                  ]
+            },
+            {
+                  "name": "Speelterrein Terbank",
+                  "text": "Ein familienfreundlicher Spielplatz in Leuven, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.67357,
+                        50.867612
+                  ]
+            },
+            {
+                  "name": "Mechelsevest",
+                  "text": "Ein familienfreundlicher Spielplatz in Leuven, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.694322,
+                        50.888562
+                  ]
+            },
+            {
+                  "name": "Speelterrein Zwaluwenlaan",
+                  "text": "Ein familienfreundlicher Spielplatz in Leuven, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.693803,
+                        50.858931
+                  ]
             }
       ],
       "hu": [
@@ -10587,6 +12009,204 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.695817,
                         50.879058
+                  ]
+            },
+            {
+                  "name": "Bellefroid vijver",
+                  "text": "A leuveni Bellefroid vijver egy nyugodt tó, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        4.702552,
+                        50.90594
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sint-Donatuspark",
+                  "text": "A leuveni Sint-Donatuspark játszótere kedves hely a gyerekeknek a város szívében.",
+                  "category": "family",
+                  "coords": [
+                        4.701445,
+                        50.874755
+                  ]
+            },
+            {
+                  "name": "Educatieve waterspeeltuin",
+                  "text": "A leuveni Educatieve waterspeeltuin ötvözi a játékos tanulást a vizes szórakozással.",
+                  "category": "family",
+                  "coords": [
+                        4.721835,
+                        50.89269
+                  ]
+            },
+            {
+                  "name": "Bleydenbergh",
+                  "text": "A leuveni Bleydenbergh tágas teret biztosít a gyerekeknek a játékhoz biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        4.700581,
+                        50.893746
+                  ]
+            },
+            {
+                  "name": "Speelterrein Philipsplein",
+                  "text": "A leuveni Speelterrein Philipsplein játéklehetőséget kínál a családoknak a lakónegyedben.",
+                  "category": "family",
+                  "coords": [
+                        4.711409,
+                        50.870032
+                  ]
+            },
+            {
+                  "name": "Groefplein",
+                  "text": "A leuveni Groefplein egy barátságos játszótér a napi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.684415,
+                        50.879334
+                  ]
+            },
+            {
+                  "name": "'t Celestijntje",
+                  "text": "A leuveni 't Celestijntje népszerű találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.676876,
+                        50.872053
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekweide",
+                  "text": "A leuveni Speelterrein Vlierbeekweide tágas területet kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.735361,
+                        50.890413
+                  ]
+            },
+            {
+                  "name": "Verkeerspark",
+                  "text": "A leuveni Verkeerspark lehetőséget nyújt a gyerekeknek a közlekedési szabályok játékos elsajátítására.",
+                  "category": "family",
+                  "coords": [
+                        4.721872,
+                        50.891075
+                  ]
+            },
+            {
+                  "name": "Waterspeeltuin Sluispark",
+                  "text": "A leuveni Waterspeeltuin Sluispark frissítő kikapcsolódást nyújt a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        4.699732,
+                        50.886347
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekveld",
+                  "text": "A leuveni Speelterrein Vlierbeekveld egy természetközeli játszóhely családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.738018,
+                        50.889496
+                  ]
+            },
+            {
+                  "name": "Rustoordlaan",
+                  "text": "A leuveni Rustoordlaan egy kis játszóteret kínál a környéken lakóknak.",
+                  "category": "family",
+                  "coords": [
+                        4.729627,
+                        50.886454
+                  ]
+            },
+            {
+                  "name": "Verkeerspark Heverlee",
+                  "text": "A leuveni Verkeerspark Heverlee ideális a kerékpározás és a közlekedési szabályok gyakorlására.",
+                  "category": "family",
+                  "coords": [
+                        4.68973,
+                        50.853518
+                  ]
+            },
+            {
+                  "name": "Speeltuin bij kinderziekenhuis",
+                  "text": "A leuveni gyermekkórház melletti játszótér kikapcsolódást és örömet nyújt a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        4.670447,
+                        50.876748
+                  ]
+            },
+            {
+                  "name": "speeltuin lovanium",
+                  "text": "A leuveni Speeltuin Lovanium egy modern játszótér a városi gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.680682,
+                        50.885497
+                  ]
+            },
+            {
+                  "name": "Speeltuin eenmeilaan",
+                  "text": "A leuveni Speeltuin eenmeilaan helyet biztosít a szabadtéri játéknak és mozgásnak.",
+                  "category": "family",
+                  "coords": [
+                        4.717605,
+                        50.897607
+                  ]
+            },
+            {
+                  "name": "Groenplaats De Bron",
+                  "text": "Családbarát játszótér Leuven városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.734042,
+                        50.865606
+                  ]
+            },
+            {
+                  "name": "René Verbeeckplein",
+                  "text": "Családbarát játszótér Leuven városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.702861,
+                        50.895153
+                  ]
+            },
+            {
+                  "name": "speelweide",
+                  "text": "Családbarát játszótér Leuven városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.668338,
+                        50.875822
+                  ]
+            },
+            {
+                  "name": "Speelterrein Terbank",
+                  "text": "Családbarát játszótér Leuven városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.67357,
+                        50.867612
+                  ]
+            },
+            {
+                  "name": "Mechelsevest",
+                  "text": "Családbarát játszótér Leuven városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.694322,
+                        50.888562
+                  ]
+            },
+            {
+                  "name": "Speelterrein Zwaluwenlaan",
+                  "text": "Családbarát játszótér Leuven városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.693803,
+                        50.858931
                   ]
             }
       ],
@@ -11031,6 +12651,204 @@ export const belgiumCitiesV2: POI[] = [
                         4.695817,
                         50.879058
                   ]
+            },
+            {
+                  "name": "Bellefroid vijver",
+                  "text": "Bellefroid vijver din Leuven este un lac liniștit care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.702552,
+                        50.90594
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sint-Donatuspark",
+                  "text": "Speeltuin Sint-Donatuspark din Leuven este un loc frumos pentru copii în inima orașului.",
+                  "category": "family",
+                  "coords": [
+                        4.701445,
+                        50.874755
+                  ]
+            },
+            {
+                  "name": "Educatieve waterspeeltuin",
+                  "text": "Educatieve waterspeeltuin din Leuven îmbină învățarea prin joc cu distracția în apă.",
+                  "category": "family",
+                  "coords": [
+                        4.721835,
+                        50.89269
+                  ]
+            },
+            {
+                  "name": "Bleydenbergh",
+                  "text": "Bleydenbergh din Leuven oferă copiilor mult spațiu de joacă într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        4.700581,
+                        50.893746
+                  ]
+            },
+            {
+                  "name": "Speelterrein Philipsplein",
+                  "text": "Speelterrein Philipsplein din Leuven oferă posibilități de joacă pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        4.711409,
+                        50.870032
+                  ]
+            },
+            {
+                  "name": "Groefplein",
+                  "text": "Groefplein din Leuven este un loc de joacă primitor pentru distracția de zi cu zi.",
+                  "category": "family",
+                  "coords": [
+                        4.684415,
+                        50.879334
+                  ]
+            },
+            {
+                  "name": "'t Celestijntje",
+                  "text": "'t Celestijntje din Leuven este un loc de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        4.676876,
+                        50.872053
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekweide",
+                  "text": "Speelterrein Vlierbeekweide din Leuven oferă o suprafață mare pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.735361,
+                        50.890413
+                  ]
+            },
+            {
+                  "name": "Verkeerspark",
+                  "text": "Verkeerspark din Leuven oferă copiilor ocazia de a învăța regulile de circulație prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.721872,
+                        50.891075
+                  ]
+            },
+            {
+                  "name": "Waterspeeltuin Sluispark",
+                  "text": "Waterspeeltuin Sluispark din Leuven oferă o răcorire plăcută în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        4.699732,
+                        50.886347
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekveld",
+                  "text": "Speelterrein Vlierbeekveld din Leuven este un loc de joacă natural pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.738018,
+                        50.889496
+                  ]
+            },
+            {
+                  "name": "Rustoordlaan",
+                  "text": "Rustoordlaan din Leuven oferă un mic loc de joacă pentru locuitorii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        4.729627,
+                        50.886454
+                  ]
+            },
+            {
+                  "name": "Verkeerspark Heverlee",
+                  "text": "Verkeerspark Heverlee din Leuven este ideal pentru exersarea mersului pe bicicletă și învățarea regulilor de circulație.",
+                  "category": "family",
+                  "coords": [
+                        4.68973,
+                        50.853518
+                  ]
+            },
+            {
+                  "name": "Speeltuin bij kinderziekenhuis",
+                  "text": "Locul de joacă de lângă spitalul de copii din Leuven oferă momente de bucurie micilor vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        4.670447,
+                        50.876748
+                  ]
+            },
+            {
+                  "name": "speeltuin lovanium",
+                  "text": "Speeltuin Lovanium din Leuven este o zonă de joacă modernă pentru copiii din oraș.",
+                  "category": "family",
+                  "coords": [
+                        4.680682,
+                        50.885497
+                  ]
+            },
+            {
+                  "name": "Speeltuin eenmeilaan",
+                  "text": "Speeltuin eenmeilaan din Leuven oferă spațiu pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.717605,
+                        50.897607
+                  ]
+            },
+            {
+                  "name": "Groenplaats De Bron",
+                  "text": "Un loc de joacă pentru familii în Leuven, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.734042,
+                        50.865606
+                  ]
+            },
+            {
+                  "name": "René Verbeeckplein",
+                  "text": "Un loc de joacă pentru familii în Leuven, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.702861,
+                        50.895153
+                  ]
+            },
+            {
+                  "name": "speelweide",
+                  "text": "Un loc de joacă pentru familii în Leuven, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.668338,
+                        50.875822
+                  ]
+            },
+            {
+                  "name": "Speelterrein Terbank",
+                  "text": "Un loc de joacă pentru familii în Leuven, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.67357,
+                        50.867612
+                  ]
+            },
+            {
+                  "name": "Mechelsevest",
+                  "text": "Un loc de joacă pentru familii în Leuven, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.694322,
+                        50.888562
+                  ]
+            },
+            {
+                  "name": "Speelterrein Zwaluwenlaan",
+                  "text": "Un loc de joacă pentru familii în Leuven, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.693803,
+                        50.858931
+                  ]
             }
       ],
       "en": [
@@ -11474,6 +13292,204 @@ export const belgiumCitiesV2: POI[] = [
                         4.695817,
                         50.879058
                   ]
+            },
+            {
+                  "name": "Bellefroid vijver",
+                  "text": "Bellefroid vijver in Leuven is a quiet body of water that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        4.702552,
+                        50.90594
+                  ]
+            },
+            {
+                  "name": "Speeltuin Sint-Donatuspark",
+                  "text": "Speeltuin Sint-Donatuspark in Leuven is a lovely spot for children in the heart of the city.",
+                  "category": "family",
+                  "coords": [
+                        4.701445,
+                        50.874755
+                  ]
+            },
+            {
+                  "name": "Educatieve waterspeeltuin",
+                  "text": "The Educatieve waterspeeltuin in Leuven combines playful learning with water fun.",
+                  "category": "family",
+                  "coords": [
+                        4.721835,
+                        50.89269
+                  ]
+            },
+            {
+                  "name": "Bleydenbergh",
+                  "text": "Bleydenbergh in Leuven offers children plenty of space to play in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        4.700581,
+                        50.893746
+                  ]
+            },
+            {
+                  "name": "Speelterrein Philipsplein",
+                  "text": "Speelterrein Philipsplein in Leuven offers play opportunities for families in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        4.711409,
+                        50.870032
+                  ]
+            },
+            {
+                  "name": "Groefplein",
+                  "text": "Groefplein in Leuven is a cozy playground for everyday leisure fun.",
+                  "category": "family",
+                  "coords": [
+                        4.684415,
+                        50.879334
+                  ]
+            },
+            {
+                  "name": "'t Celestijntje",
+                  "text": "'t Celestijntje in Leuven is a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        4.676876,
+                        50.872053
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekweide",
+                  "text": "Speelterrein Vlierbeekweide in Leuven offers a wide area for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        4.735361,
+                        50.890413
+                  ]
+            },
+            {
+                  "name": "Verkeerspark",
+                  "text": "The Verkeerspark in Leuven offers children the opportunity to learn traffic rules through play.",
+                  "category": "family",
+                  "coords": [
+                        4.721872,
+                        50.891075
+                  ]
+            },
+            {
+                  "name": "Waterspeeltuin Sluispark",
+                  "text": "Waterspeeltuin Sluispark in Leuven provides a refreshing cool-down on warm days.",
+                  "category": "family",
+                  "coords": [
+                        4.699732,
+                        50.886347
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlierbeekveld",
+                  "text": "Speelterrein Vlierbeekveld in Leuven is a nature-oriented play area for families.",
+                  "category": "family",
+                  "coords": [
+                        4.738018,
+                        50.889496
+                  ]
+            },
+            {
+                  "name": "Rustoordlaan",
+                  "text": "Rustoordlaan in Leuven offers a small playground for local residents.",
+                  "category": "family",
+                  "coords": [
+                        4.729627,
+                        50.886454
+                  ]
+            },
+            {
+                  "name": "Verkeerspark Heverlee",
+                  "text": "Verkeerspark Heverlee in Leuven is ideal for practicing cycling and learning traffic rules.",
+                  "category": "family",
+                  "coords": [
+                        4.68973,
+                        50.853518
+                  ]
+            },
+            {
+                  "name": "Speeltuin bij kinderziekenhuis",
+                  "text": "The playground by the children's hospital in Leuven offers distraction and joy for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        4.670447,
+                        50.876748
+                  ]
+            },
+            {
+                  "name": "speeltuin lovanium",
+                  "text": "Speeltuin Lovanium in Leuven is a modern play area for children in the city.",
+                  "category": "family",
+                  "coords": [
+                        4.680682,
+                        50.885497
+                  ]
+            },
+            {
+                  "name": "Speeltuin eenmeilaan",
+                  "text": "Speeltuin eenmeilaan in Leuven offers space for outdoor play and physical activity.",
+                  "category": "family",
+                  "coords": [
+                        4.717605,
+                        50.897607
+                  ]
+            },
+            {
+                  "name": "Groenplaats De Bron",
+                  "text": "A family-friendly playground in Leuven offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.734042,
+                        50.865606
+                  ]
+            },
+            {
+                  "name": "René Verbeeckplein",
+                  "text": "A family-friendly playground in Leuven offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.702861,
+                        50.895153
+                  ]
+            },
+            {
+                  "name": "speelweide",
+                  "text": "A family-friendly playground in Leuven offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.668338,
+                        50.875822
+                  ]
+            },
+            {
+                  "name": "Speelterrein Terbank",
+                  "text": "A family-friendly playground in Leuven offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.67357,
+                        50.867612
+                  ]
+            },
+            {
+                  "name": "Mechelsevest",
+                  "text": "A family-friendly playground in Leuven offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.694322,
+                        50.888562
+                  ]
+            },
+            {
+                  "name": "Speelterrein Zwaluwenlaan",
+                  "text": "A family-friendly playground in Leuven offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.693803,
+                        50.858931
+                  ]
             }
       ]
 },
@@ -11521,7 +13537,160 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["La KU Leuven, fondée en 1425, est l'une des plus anciennes universités d'Europe", "Siège mondial d'AB InBev, le premier brasseur au monde", "L'Hôtel de Ville sur la Grand-Place est orné de 236 statues", "Le Oude Markt aligne plus de 40 cafés sans interruption", "La brasserie Stella Artois y produit de la bière depuis 1366", "Le Grand Béguinage est inscrit au patrimoine mondial de l'UNESCO", "Ville étudiante majeure avec une population particulièrement jeune"],
     }, image: "/poi-images/belgium-leuven-cities-v2.webp"},
   {
-    id: "belgium-mons-cities-v2",
+    id: "belgium-mons-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imagipark",
+                  "text": "Imagipark in Mons ist ein großer Indoor-Spielplatz, der ideal für einen Familienausflug ist.",
+                  "category": "family",
+                  "coords": [
+                        3.935248,
+                        50.469672
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "Goolfy in Mons bietet eine farbenfrohe Minigolfanlage für unterhaltsame Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.92567,
+                        50.467028
+                  ]
+            },
+            {
+                  "name": "S'pace Mons",
+                  "text": "S'pace Mons bietet eine breite Auswahl an Spielen für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        3.950905,
+                        50.452772
+                  ]
+            },
+            {
+                  "name": "Espace Vert Jean-Claude Carpentier",
+                  "text": "Der Espace Vert Jean-Claude Carpentier bietet einen erholsamen Bereich mit Spielmöglichkeiten in Mons.",
+                  "category": "family",
+                  "coords": [
+                        3.964926,
+                        50.469122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imagipark",
+                  "text": "A mons-i Imagipark egy nagy fedett játszótér, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        3.935248,
+                        50.469672
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "A mons-i Goolfy színes minigolfpályája szórakoztató órákat kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        3.92567,
+                        50.467028
+                  ]
+            },
+            {
+                  "name": "S'pace Mons",
+                  "text": "A mons-i S'pace játékok széles választékát kínálja minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        3.950905,
+                        50.452772
+                  ]
+            },
+            {
+                  "name": "Espace Vert Jean-Claude Carpentier",
+                  "text": "Az Espace Vert Jean-Claude Carpentier pihentető területet és játéklehetőségeket kínál Mons-ban.",
+                  "category": "family",
+                  "coords": [
+                        3.964926,
+                        50.469122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imagipark",
+                  "text": "Imagipark din Mons este un spațiu de joacă interior mare, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        3.935248,
+                        50.469672
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "Goolfy din Mons oferă un teren de minigolf colorat pentru ore distractive cu familia.",
+                  "category": "family",
+                  "coords": [
+                        3.92567,
+                        50.467028
+                  ]
+            },
+            {
+                  "name": "S'pace Mons",
+                  "text": "S'pace Mons oferă o selecție largă de jocuri pentru vizitatori de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        3.950905,
+                        50.452772
+                  ]
+            },
+            {
+                  "name": "Espace Vert Jean-Claude Carpentier",
+                  "text": "Espace Vert Jean-Claude Carpentier oferă o zonă relaxantă cu posibilități de joacă în Mons.",
+                  "category": "family",
+                  "coords": [
+                        3.964926,
+                        50.469122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imagipark",
+                  "text": "Imagipark in Mons is a large indoor playground, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        3.935248,
+                        50.469672
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "Goolfy in Mons offers a colorful miniature golf course for entertaining hours with the family.",
+                  "category": "family",
+                  "coords": [
+                        3.92567,
+                        50.467028
+                  ]
+            },
+            {
+                  "name": "S'pace Mons",
+                  "text": "S'pace Mons offers a wide selection of games for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        3.950905,
+                        50.452772
+                  ]
+            },
+            {
+                  "name": "Espace Vert Jean-Claude Carpentier",
+                  "text": "Espace Vert Jean-Claude Carpentier offers a relaxing area with play facilities in Mons.",
+                  "category": "family",
+                  "coords": [
+                        3.964926,
+                        50.469122
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Mons", hu: "Mons", ro: "Mons", en: "Mons"},
@@ -11566,7 +13735,52 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["Capitale européenne de la culture en 2015 aux côtés de Plzeň", "Le beffroi baroque mesure 87 mètres de haut et est classé à l'UNESCO", "A accueilli la première bataille entre les forces britanniques et allemandes lors de la Première Guerre mondiale en 1914", "Le Grand Quartier général des puissances alliées en Europe (SHAPE) est situé près de Mons depuis 1967", "Le festival de la Ducasse de Mons (Doudou) remonte au XIVe siècle", "Les minières néolithiques de silex de Spiennes s'étendent sur plus de 100 hectares", "Lieu de naissance de l'influent compositeur Roland de Lassus"],
     }, image: "/poi-images/belgium-mons-cities-v2.webp"},
   {
-    id: "belgium-charleroi-cities-v2",
+    id: "belgium-charleroi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mi12",
+                  "text": "Mi12 in Charleroi bietet modernste Spielautomaten und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mi12",
+                  "text": "A Charleroi-ban található Mi12 modern játékgépeket és családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mi12",
+                  "text": "Mi12 din Charleroi oferă aparate de jocuri moderne și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mi12",
+                  "text": "Mi12 in Charleroi offers state-of-the-art gaming machines and family fun.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Charleroi", hu: "Charleroi", ro: "Charleroi", en: "Charleroi"},
@@ -11611,7 +13825,268 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["Plus grande ville de la Région wallonne par sa superficie et sa population", "Le site minier du Bois du Cazier a connu une catastrophe tragique en 1956 faisant 262 victimes", "L'aéroport de Bruxelles-Sud Charleroi est le deuxième plus fréquenté de Belgique", "Siège de la maison d'édition de bandes dessinées Dupuis depuis 1922", "Souvent appelée la « capitale du Pays Noir » en raison des mines de charbon", "Abrite le Musée de la Photographie, l'un des plus grands d'Europe", "Fait actuellement l'objet d'un vaste projet de rénovation urbaine nommé 'Charleroi District Center'"],
     }, image: "/poi-images/belgium-charleroi-cities-v2.webp"},
   {
-    id: "belgium-mechelen-cities-v2",
+    id: "belgium-mechelen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "Ein lokaler See in Mechelen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "Ein lokaler See in Mechelen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "Ein familienfreundlicher Spielplatz in Mechelen, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "Ein familienfreundlicher Spielplatz in Mechelen, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "Ein familienfreundlicher Spielplatz in Mechelen, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Ein familienfreundlicher Spielplatz in Mechelen, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "Ein familienfreundlicher Spielplatz in Mechelen, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "Helyi tó Mechelen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "Helyi tó Mechelen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "Családbarát játszótér Mechelen városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "Családbarát játszótér Mechelen városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "Családbarát játszótér Mechelen városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Családbarát játszótér Mechelen városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "Családbarát játszótér Mechelen városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "Un lac local în Mechelen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "Un lac local în Mechelen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "Un loc de joacă pentru familii în Mechelen, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "Un loc de joacă pentru familii în Mechelen, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "Un loc de joacă pentru familii în Mechelen, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Un loc de joacă pentru familii în Mechelen, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "Un loc de joacă pentru familii în Mechelen, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "A local lake in Mechelen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "A local lake in Mechelen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "A family-friendly playground in Mechelen offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "A family-friendly playground in Mechelen offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "A family-friendly playground in Mechelen offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "A family-friendly playground in Mechelen offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "A family-friendly playground in Mechelen offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Mechelen", hu: "Mechelen", ro: "Mechelen", en: "Mechelen"},
@@ -11656,7 +14131,268 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["A servi de capitale des Pays-Bas habsbourgeois sous Marguerite d'Autriche au début du XVIe siècle", "La cathédrale Saint-Rombaut possède une tour inachevée de 97 mètres de haut", "Siège de l'école royale de carillon « Jef Denyn », fondée en 1922", "Le centre-ville compte plus de 300 monuments historiques protégés", "Historiquement célèbre pour la dentelle de Malines et la sculpture sur bois", "La Manufacture Royale De Wit restaure des tapisseries pour les musées du monde entier", "Le musée du camp de transit de la Caserne Dossin commémore la déportation de la Seconde Guerre mondiale"],
     }, image: "/poi-images/belgium-mechelen-cities-v2.webp"},
   {
-    id: "belgium-aalst-cities-v2",
+    id: "belgium-aalst-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Brigge",
+                  "text": "De Brigge in Aalst ist ein freundlicher Spielplatz für Kinder in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        4.059398,
+                        50.920182
+                  ]
+            },
+            {
+                  "name": "Speelveld Klein Parksken",
+                  "text": "Speelveld Klein Parksken bietet eine gepflegte Fläche für Spiel und Bewegung in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.028923,
+                        50.938528
+                  ]
+            },
+            {
+                  "name": "De Speelerij",
+                  "text": "De Speelerij in Aalst lädt Kinder zu abwechslungsreichem Spielspaß im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.04873,
+                        50.927974
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kerrebroek",
+                  "text": "Der Speeltuin Kerrebroek bietet verschiedene Spielmöglichkeiten für Familien in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.025555,
+                        50.948434
+                  ]
+            },
+            {
+                  "name": "Hoveniersplein",
+                  "text": "Hoveniersplein ist ein zentraler Treffpunkt für Kinder mit Spielgeräten in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.046276,
+                        50.94121
+                  ]
+            },
+            {
+                  "name": "Lijnzaadstraat",
+                  "text": "Die Lijnzaadstraat verfügt über einen Spielbereich, der Kindern in Aalst Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        4.065597,
+                        50.952637
+                  ]
+            },
+            {
+                  "name": "Speelterrein Beukenhof",
+                  "text": "Speelterrein Beukenhof bietet eine schöne Umgebung für Kinder zum Austoben in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.060782,
+                        50.941791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Brigge",
+                  "text": "Az aalsti De Brigge egy barátságos játszótér a környékbeli gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.059398,
+                        50.920182
+                  ]
+            },
+            {
+                  "name": "Speelveld Klein Parksken",
+                  "text": "A Speelveld Klein Parksken gondozott területet kínál a játékhoz és mozgáshoz Aalstban.",
+                  "category": "family",
+                  "coords": [
+                        4.028923,
+                        50.938528
+                  ]
+            },
+            {
+                  "name": "De Speelerij",
+                  "text": "Az aalsti De Speelerij változatos szabadtéri játékra hívja a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.04873,
+                        50.927974
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kerrebroek",
+                  "text": "A Kerrebroek játszótér különféle játéklehetőségeket kínál a családoknak Aalstban.",
+                  "category": "family",
+                  "coords": [
+                        4.025555,
+                        50.948434
+                  ]
+            },
+            {
+                  "name": "Hoveniersplein",
+                  "text": "A Hoveniersplein egy központi találkozóhely a gyermekeknek játékeszközökkel Aalstban.",
+                  "category": "family",
+                  "coords": [
+                        4.046276,
+                        50.94121
+                  ]
+            },
+            {
+                  "name": "Lijnzaadstraat",
+                  "text": "A Lijnzaadstraat játszóterülettel rendelkezik, amely örömet szerez az aalsti gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.065597,
+                        50.952637
+                  ]
+            },
+            {
+                  "name": "Speelterrein Beukenhof",
+                  "text": "A Beukenhof játszótér szép környezetet biztosít a gyerekeknek a mozgáshoz Aalstban.",
+                  "category": "family",
+                  "coords": [
+                        4.060782,
+                        50.941791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Brigge",
+                  "text": "De Brigge din Aalst este un loc de joacă plăcut pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        4.059398,
+                        50.920182
+                  ]
+            },
+            {
+                  "name": "Speelveld Klein Parksken",
+                  "text": "Speelveld Klein Parksken oferă un spațiu bine întreținut pentru joacă și mișcare în Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.028923,
+                        50.938528
+                  ]
+            },
+            {
+                  "name": "De Speelerij",
+                  "text": "De Speelerij din Aalst invită copiii la activități recreative variate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.04873,
+                        50.927974
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kerrebroek",
+                  "text": "Locul de joacă Kerrebroek oferă diverse posibilități de joacă pentru familiile din Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.025555,
+                        50.948434
+                  ]
+            },
+            {
+                  "name": "Hoveniersplein",
+                  "text": "Hoveniersplein este un punct de întâlnire central pentru copii, dotat cu echipamente de joacă în Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.046276,
+                        50.94121
+                  ]
+            },
+            {
+                  "name": "Lijnzaadstraat",
+                  "text": "Lijnzaadstraat dispune de o zonă de joacă care aduce bucurie copiilor din Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.065597,
+                        50.952637
+                  ]
+            },
+            {
+                  "name": "Speelterrein Beukenhof",
+                  "text": "Speelterrein Beukenhof oferă un cadru plăcut pentru joaca copiilor în Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.060782,
+                        50.941791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Brigge",
+                  "text": "De Brigge in Aalst is a friendly neighborhood playground for children.",
+                  "category": "family",
+                  "coords": [
+                        4.059398,
+                        50.920182
+                  ]
+            },
+            {
+                  "name": "Speelveld Klein Parksken",
+                  "text": "Speelveld Klein Parksken offers a well-kept area for play and exercise in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.028923,
+                        50.938528
+                  ]
+            },
+            {
+                  "name": "De Speelerij",
+                  "text": "De Speelerij in Aalst invites children to enjoy diverse outdoor play activities.",
+                  "category": "family",
+                  "coords": [
+                        4.04873,
+                        50.927974
+                  ]
+            },
+            {
+                  "name": "Speeltuin Kerrebroek",
+                  "text": "The playground Kerrebroek offers various play opportunities for families in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.025555,
+                        50.948434
+                  ]
+            },
+            {
+                  "name": "Hoveniersplein",
+                  "text": "Hoveniersplein is a central meeting point for children with play equipment in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.046276,
+                        50.94121
+                  ]
+            },
+            {
+                  "name": "Lijnzaadstraat",
+                  "text": "Lijnzaadstraat features a play area that brings joy to children in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.065597,
+                        50.952637
+                  ]
+            },
+            {
+                  "name": "Speelterrein Beukenhof",
+                  "text": "Speelterrein Beukenhof offers a nice environment for children to play in Aalst.",
+                  "category": "family",
+                  "coords": [
+                        4.060782,
+                        50.941791
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Aalst", hu: "Aalst", ro: "Aalst", en: "Aalst"},
@@ -11855,6 +14591,42 @@ export const belgiumCitiesV2: POI[] = [
                         4.175837,
                         50.487486
                   ]
+            },
+            {
+                  "name": "Le 300 Gaming Space",
+                  "text": "Ein Gaming-Bereich in La Louviere für begeisterte Spieler.",
+                  "category": "family",
+                  "coords": [
+                        4.15723,
+                        50.487567
+                  ]
+            },
+            {
+                  "name": "Foumi le Pirate",
+                  "text": "Ein thematischer Spielplatz in La Louviere, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.180353,
+                        50.480544
+                  ]
+            },
+            {
+                  "name": "You Jump!",
+                  "text": "Ein Trampolinpark in La Louviere für sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        4.191864,
+                        50.484569
+                  ]
+            },
+            {
+                  "name": "Park Mini-Jones",
+                  "text": "Der Park Mini-Jones ist ein kleiner Spielbereich für Kinder in La Louviere.",
+                  "category": "family",
+                  "coords": [
+                        4.198333,
+                        50.484406
+                  ]
             }
       ],
       "hu": [
@@ -12009,6 +14781,42 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.175837,
                         50.487486
+                  ]
+            },
+            {
+                  "name": "Le 300 Gaming Space",
+                  "text": "Egy játékterület La Louviere-ben a lelkes játékosok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.15723,
+                        50.487567
+                  ]
+            },
+            {
+                  "name": "Foumi le Pirate",
+                  "text": "Egy tematikus játszótér La Louviere-ben, amely felfedezésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        4.180353,
+                        50.480544
+                  ]
+            },
+            {
+                  "name": "You Jump!",
+                  "text": "Egy trambulinpark La Louviere-ben a sportos időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        4.191864,
+                        50.484569
+                  ]
+            },
+            {
+                  "name": "Park Mini-Jones",
+                  "text": "A Park Mini-Jones egy kis játszóterület gyerekeknek La Louviere-ben.",
+                  "category": "family",
+                  "coords": [
+                        4.198333,
+                        50.484406
                   ]
             }
       ],
@@ -12165,6 +14973,42 @@ export const belgiumCitiesV2: POI[] = [
                         4.175837,
                         50.487486
                   ]
+            },
+            {
+                  "name": "Le 300 Gaming Space",
+                  "text": "O zonă de gaming în La Louviere pentru jucătorii pasionați.",
+                  "category": "family",
+                  "coords": [
+                        4.15723,
+                        50.487567
+                  ]
+            },
+            {
+                  "name": "Foumi le Pirate",
+                  "text": "Un loc de joacă tematic în La Louviere, care invită la explorare.",
+                  "category": "family",
+                  "coords": [
+                        4.180353,
+                        50.480544
+                  ]
+            },
+            {
+                  "name": "You Jump!",
+                  "text": "Un parc de trambuline în La Louviere pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        4.191864,
+                        50.484569
+                  ]
+            },
+            {
+                  "name": "Park Mini-Jones",
+                  "text": "Park Mini-Jones este o mică zonă de joacă pentru copii în La Louviere.",
+                  "category": "family",
+                  "coords": [
+                        4.198333,
+                        50.484406
+                  ]
             }
       ],
       "en": [
@@ -12320,6 +15164,42 @@ export const belgiumCitiesV2: POI[] = [
                         4.175837,
                         50.487486
                   ]
+            },
+            {
+                  "name": "Le 300 Gaming Space",
+                  "text": "A gaming space in La Louviere for enthusiastic players.",
+                  "category": "family",
+                  "coords": [
+                        4.15723,
+                        50.487567
+                  ]
+            },
+            {
+                  "name": "Foumi le Pirate",
+                  "text": "A themed playground in La Louviere that invites children to explore.",
+                  "category": "family",
+                  "coords": [
+                        4.180353,
+                        50.480544
+                  ]
+            },
+            {
+                  "name": "You Jump!",
+                  "text": "A trampoline park in La Louviere for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        4.191864,
+                        50.484569
+                  ]
+            },
+            {
+                  "name": "Park Mini-Jones",
+                  "text": "Park Mini-Jones is a small play area for children in La Louviere.",
+                  "category": "family",
+                  "coords": [
+                        4.198333,
+                        50.484406
+                  ]
             }
       ]
 },
@@ -12444,7 +15324,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Lago Abdijkaai",
                   "text": "Ein modernes Erlebnisbad und Wellnesszentrum in Kortrijk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.273357,
                         50.834512
@@ -12791,6 +15671,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.259885,
                         50.830449
                   ]
+            },
+            {
+                  "name": "Gavermeer",
+                  "text": "Ein lokaler See in Kortrijk, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.322358,
+                        50.842351
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "Ein familienfreundlicher Spielplatz in Kortrijk, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.290234,
+                        50.817027
+                  ]
+            },
+            {
+                  "name": "De Warande",
+                  "text": "Ein familienfreundlicher Spielplatz in Kortrijk, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.257253,
+                        50.847069
+                  ]
+            },
+            {
+                  "name": "Speelplein Sportpark",
+                  "text": "Ein familienfreundlicher Spielplatz in Kortrijk, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.274604,
+                        50.85247
+                  ]
+            },
+            {
+                  "name": "Drie Hofsteden",
+                  "text": "Ein familienfreundlicher Spielplatz in Kortrijk, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.283706,
+                        50.824492
+                  ]
             }
       ],
       "hu": [
@@ -12869,7 +15794,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Lago Abdijkaai",
                   "text": "Modern élményfürdő és wellnessközpont Kortrijkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.273357,
                         50.834512
@@ -13216,6 +16141,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.259885,
                         50.830449
                   ]
+            },
+            {
+                  "name": "Gavermeer",
+                  "text": "Helyi tó Kortrijk területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.322358,
+                        50.842351
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "Családbarát játszótér Kortrijk városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.290234,
+                        50.817027
+                  ]
+            },
+            {
+                  "name": "De Warande",
+                  "text": "Családbarát játszótér Kortrijk városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.257253,
+                        50.847069
+                  ]
+            },
+            {
+                  "name": "Speelplein Sportpark",
+                  "text": "Családbarát játszótér Kortrijk városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.274604,
+                        50.85247
+                  ]
+            },
+            {
+                  "name": "Drie Hofsteden",
+                  "text": "Családbarát játszótér Kortrijk városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.283706,
+                        50.824492
+                  ]
             }
       ],
       "ro": [
@@ -13294,7 +16264,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Lago Abdijkaai",
                   "text": "Un parc acvatic modern și centru de wellness în Kortrijk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.273357,
                         50.834512
@@ -13641,6 +16611,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.259885,
                         50.830449
                   ]
+            },
+            {
+                  "name": "Gavermeer",
+                  "text": "Un lac local în Kortrijk, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.322358,
+                        50.842351
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "Un loc de joacă pentru familii în Kortrijk, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.290234,
+                        50.817027
+                  ]
+            },
+            {
+                  "name": "De Warande",
+                  "text": "Un loc de joacă pentru familii în Kortrijk, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.257253,
+                        50.847069
+                  ]
+            },
+            {
+                  "name": "Speelplein Sportpark",
+                  "text": "Un loc de joacă pentru familii in Kortrijk, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.274604,
+                        50.85247
+                  ]
+            },
+            {
+                  "name": "Drie Hofsteden",
+                  "text": "Un loc de joacă pentru familii în Kortrijk, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.283706,
+                        50.824492
+                  ]
             }
       ],
       "en": [
@@ -13719,7 +16734,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Lago Abdijkaai",
                   "text": "A modern water park and wellness center in Kortrijk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.273357,
                         50.834512
@@ -14066,6 +17081,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.259885,
                         50.830449
                   ]
+            },
+            {
+                  "name": "Gavermeer",
+                  "text": "A local lake in Kortrijk, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        3.322358,
+                        50.842351
+                  ]
+            },
+            {
+                  "name": "Kabouterbos",
+                  "text": "A family-friendly playground in Kortrijk offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.290234,
+                        50.817027
+                  ]
+            },
+            {
+                  "name": "De Warande",
+                  "text": "A family-friendly playground in Kortrijk offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.257253,
+                        50.847069
+                  ]
+            },
+            {
+                  "name": "Speelplein Sportpark",
+                  "text": "A family-friendly playground in Kortrijk offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.274604,
+                        50.85247
+                  ]
+            },
+            {
+                  "name": "Drie Hofsteden",
+                  "text": "A family-friendly playground in Kortrijk offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.283706,
+                        50.824492
+                  ]
             }
       ]
 },
@@ -14235,7 +17295,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Plopsa Indoor Hasselt",
                   "text": "Großer Indoor-Freizeitpark für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.362324,
                         50.932719
@@ -14474,6 +17534,60 @@ export const belgiumCitiesV2: POI[] = [
                         5.338263,
                         50.927991
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "Der Bronnenvijver in Hasselt ist ein ruhig gelegener See, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "Der Zwemvijver in Hasselt ist ein Gewässer, das zur Erfrischung und Erholung genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "Groot Wijven ist ein See bei Hasselt, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "Der Sint-Jansvijver in Hasselt bietet eine natürliche Kulisse für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Speelplein Kanunnik Melinlaan",
+                  "text": "Der Spielplatz in der Kanunnik Melinlaan bietet Kindern in Hasselt Raum für Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        5.320757,
+                        50.920583
+                  ]
+            },
+            {
+                  "name": "Speelplein Vettersweidestraat",
+                  "text": "Der Spielplatz Vettersweidestraat bietet Kindern in Hasselt eine sichere Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.308253,
+                        50.947891
+                  ]
             }
       ],
       "hu": [
@@ -14597,7 +17711,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Plopsa Indoor Hasselt",
                   "text": "Nagy fedett vidámpark családoknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.362324,
                         50.932719
@@ -14836,6 +17950,60 @@ export const belgiumCitiesV2: POI[] = [
                         5.338263,
                         50.927991
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "A Hasseltben található Bronnenvijver egy csendes tó, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "A hasselti Zwemvijver egy tó, amelyet felfrissülésre és kikapcsolódásra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "A Groot Wijven egy tó Hasselt mellett, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "A hasselti Sint-Jansvijver természetes környezetet biztosít a csendes szabadtéri percekhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Speelplein Kanunnik Melinlaan",
+                  "text": "A Kanunnik Melinlaan játszótere helyet biztosít a gyermekeknek a szabadidős szórakozáshoz Hasseltben.",
+                  "category": "family",
+                  "coords": [
+                        5.320757,
+                        50.920583
+                  ]
+            },
+            {
+                  "name": "Speelplein Vettersweidestraat",
+                  "text": "A Vettersweidestraat játszótere biztonságos környezetet kínál a játékhoz Hasseltben.",
+                  "category": "family",
+                  "coords": [
+                        5.308253,
+                        50.947891
+                  ]
             }
       ],
       "ro": [
@@ -14959,7 +18127,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Plopsa Indoor Hasselt",
                   "text": "Parc de distracții interior mare pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.362324,
                         50.932719
@@ -15198,6 +18366,60 @@ export const belgiumCitiesV2: POI[] = [
                         5.338263,
                         50.927991
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "Bronnenvijver din Hasselt este un lac liniștit care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "Zwemvijver din Hasselt este un lac utilizat pentru împrospătare și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "Groot Wijven este un lac de lângă Hasselt care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "Sint-Jansvijver din Hasselt oferă un cadru natural pentru momente de liniște în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Speelplein Kanunnik Melinlaan",
+                  "text": "Locul de joacă din Kanunnik Melinlaan oferă copiilor spațiu pentru distracție în Hasselt.",
+                  "category": "family",
+                  "coords": [
+                        5.320757,
+                        50.920583
+                  ]
+            },
+            {
+                  "name": "Speelplein Vettersweidestraat",
+                  "text": "Locul de joacă din Vettersweidestraat oferă copiilor un mediu sigur pentru joacă în Hasselt.",
+                  "category": "family",
+                  "coords": [
+                        5.308253,
+                        50.947891
+                  ]
             }
       ],
       "en": [
@@ -15321,7 +18543,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Plopsa Indoor Hasselt",
                   "text": "A large indoor theme park for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.362324,
                         50.932719
@@ -15559,6 +18781,60 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.338263,
                         50.927991
+                  ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "Bronnenvijver in Hasselt is a peaceful lake that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "Zwemvijver in Hasselt is a body of water used for refreshment and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "Groot Wijven is a lake near Hasselt that blends harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "Sint-Jansvijver in Hasselt provides a natural backdrop for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Speelplein Kanunnik Melinlaan",
+                  "text": "The playground in Kanunnik Melinlaan provides space for children's leisure fun in Hasselt.",
+                  "category": "family",
+                  "coords": [
+                        5.320757,
+                        50.920583
+                  ]
+            },
+            {
+                  "name": "Speelplein Vettersweidestraat",
+                  "text": "The playground Vettersweidestraat offers children a safe environment to play in Hasselt.",
+                  "category": "family",
+                  "coords": [
+                        5.308253,
+                        50.947891
                   ]
             }
       ]
@@ -16449,7 +19725,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Kinderboerderij \"De Lange Schuur\"",
                   "text": "Ein pädagogischer Bauernhof für Kinder in Ostende.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.928597,
                         51.199685
@@ -16715,6 +19991,42 @@ export const belgiumCitiesV2: POI[] = [
                         2.920196,
                         51.234046
                   ]
+            },
+            {
+                  "name": "Spuikom",
+                  "text": "Ein lokaler See in Ostend, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        2.951739,
+                        51.228391
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "Ein Trampolinpark in Ostend für aktiven Familienspaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        2.939354,
+                        51.238368
+                  ]
+            },
+            {
+                  "name": "Speelplein Schaperij",
+                  "text": "Ein familienfreundlicher Spielplatz in Ostend, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.936274,
+                        51.215162
+                  ]
+            },
+            {
+                  "name": "speelplein bosje",
+                  "text": "Ein familienfreundlicher Spielplatz in Ostend, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.923629,
+                        51.218858
+                  ]
             }
       ],
       "hu": [
@@ -16784,7 +20096,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Kinderboerderij \"De Lange Schuur\"",
                   "text": "Oktató jellegű gyermekfarm Ostendében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.928597,
                         51.199685
@@ -17050,6 +20362,42 @@ export const belgiumCitiesV2: POI[] = [
                         2.920196,
                         51.234046
                   ]
+            },
+            {
+                  "name": "Spuikom",
+                  "text": "Helyi tó Ostende területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        2.951739,
+                        51.228391
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "Aktív családi szórakozást kínáló trambulinpark Ostende városában.",
+                  "category": "family",
+                  "coords": [
+                        2.939354,
+                        51.238368
+                  ]
+            },
+            {
+                  "name": "Speelplein Schaperij",
+                  "text": "Családbarát játszótér Ostende városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.936274,
+                        51.215162
+                  ]
+            },
+            {
+                  "name": "speelplein bosje",
+                  "text": "Családbarát játszótér Ostende városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.923629,
+                        51.218858
+                  ]
             }
       ],
       "ro": [
@@ -17119,7 +20467,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Kinderboerderij \"De Lange Schuur\"",
                   "text": "O fermă educațională pentru copii în Oostende.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.928597,
                         51.199685
@@ -17385,6 +20733,42 @@ export const belgiumCitiesV2: POI[] = [
                         2.920196,
                         51.234046
                   ]
+            },
+            {
+                  "name": "Spuikom",
+                  "text": "Un lac local în Ostende, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        2.951739,
+                        51.228391
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "Un parc de trambuline în Ostende pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        2.939354,
+                        51.238368
+                  ]
+            },
+            {
+                  "name": "Speelplein Schaperij",
+                  "text": "Un loc de joacă pentru familii în Ostende, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.936274,
+                        51.215162
+                  ]
+            },
+            {
+                  "name": "speelplein bosje",
+                  "text": "Un loc de joacă pentru familii în Ostende, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.923629,
+                        51.218858
+                  ]
             }
       ],
       "en": [
@@ -17454,7 +20838,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Kinderboerderij \"De Lange Schuur\"",
                   "text": "An educational children's farm in Ostend.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.928597,
                         51.199685
@@ -17720,6 +21104,42 @@ export const belgiumCitiesV2: POI[] = [
                         2.920196,
                         51.234046
                   ]
+            },
+            {
+                  "name": "Spuikom",
+                  "text": "A local lake in Ostend, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        2.951739,
+                        51.228391
+                  ]
+            },
+            {
+                  "name": "You Jump",
+                  "text": "A trampoline park in Ostend offering active family fun and exercise.",
+                  "category": "family",
+                  "coords": [
+                        2.939354,
+                        51.238368
+                  ]
+            },
+            {
+                  "name": "Speelplein Schaperij",
+                  "text": "A family-friendly playground in Ostend offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        2.936274,
+                        51.215162
+                  ]
+            },
+            {
+                  "name": "speelplein bosje",
+                  "text": "A family-friendly playground in Ostend offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        2.923629,
+                        51.218858
+                  ]
             }
       ]
 },
@@ -17880,7 +21300,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Jungle City",
                   "text": "Ein Freizeitpark für Kinder und Familien in Tournai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.381482,
                         50.620394
@@ -18056,6 +21476,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.392508,
                         50.60467
                   ]
+            },
+            {
+                  "name": "Ancienne carrière Dumon",
+                  "text": "Die Ancienne carrière Dumon in Tournai ist ein ehemaliger Steinbruch, der heute als See dient.",
+                  "category": "natural",
+                  "coords": [
+                        3.401789,
+                        50.594234
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière du Cornet",
+                  "text": "Die Ancienne carrière du Cornet ist ein Gewässer in Tournai, das durch früheren Abbau entstanden ist.",
+                  "category": "natural",
+                  "coords": [
+                        3.405229,
+                        50.590246
+                  ]
+            },
+            {
+                  "name": "Bassin de décantation",
+                  "text": "Das Bassin de décantation in Tournai ist ein funktionales Gewässer in der lokalen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        3.471261,
+                        50.609161
+                  ]
+            },
+            {
+                  "name": "Ancienne Carrière de la CCB",
+                  "text": "Die Ancienne Carrière de la CCB ist ein See in Tournai, der einen Einblick in die Industriegeschichte bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.478609,
+                        50.604167
+                  ]
+            },
+            {
+                  "name": "Air Jump",
+                  "text": "Air Jump in Tournai bietet actionreichen Trampolinspaß für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        3.376836,
+                        50.621898
+                  ]
             }
       ],
       "hu": [
@@ -18170,7 +21635,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Jungle City",
                   "text": "Gyermekeknek és családoknak szóló vidámpark Tournai-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.381482,
                         50.620394
@@ -18346,6 +21811,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.392508,
                         50.60467
                   ]
+            },
+            {
+                  "name": "Ancienne carrière Dumon",
+                  "text": "A Tournai-ban található Ancienne carrière Dumon egy egykori kőfejtő, amely ma tóként funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        3.401789,
+                        50.594234
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière du Cornet",
+                  "text": "Az Ancienne carrière du Cornet egy tó Tournai-ban, amely korábbi bányászat során keletkezett.",
+                  "category": "natural",
+                  "coords": [
+                        3.405229,
+                        50.590246
+                  ]
+            },
+            {
+                  "name": "Bassin de décantation",
+                  "text": "A Tournai-ban található Bassin de décantation egy funkcionális tározó a helyi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        3.471261,
+                        50.609161
+                  ]
+            },
+            {
+                  "name": "Ancienne Carrière de la CCB",
+                  "text": "Az Ancienne Carrière de la CCB egy tó Tournai-ban, amely betekintést nyújt az ipartörténetbe.",
+                  "category": "natural",
+                  "coords": [
+                        3.478609,
+                        50.604167
+                  ]
+            },
+            {
+                  "name": "Air Jump",
+                  "text": "A tournai-i Air Jump akciódús trambulinozást kínál gyermekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        3.376836,
+                        50.621898
+                  ]
             }
       ],
       "ro": [
@@ -18460,7 +21970,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Jungle City",
                   "text": "Un parc de distracții pentru copii și familii situat în Tournai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.381482,
                         50.620394
@@ -18636,6 +22146,51 @@ export const belgiumCitiesV2: POI[] = [
                         3.392508,
                         50.60467
                   ]
+            },
+            {
+                  "name": "Ancienne carrière Dumon",
+                  "text": "Ancienne carrière Dumon din Tournai este o fostă carieră care astăzi servește ca lac.",
+                  "category": "natural",
+                  "coords": [
+                        3.401789,
+                        50.594234
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière du Cornet",
+                  "text": "Ancienne carrière du Cornet este o apă din Tournai formată în urma activităților miniere anterioare.",
+                  "category": "natural",
+                  "coords": [
+                        3.405229,
+                        50.590246
+                  ]
+            },
+            {
+                  "name": "Bassin de décantation",
+                  "text": "Bassin de décantation din Tournai este un bazin funcțional în mediul local.",
+                  "category": "natural",
+                  "coords": [
+                        3.471261,
+                        50.609161
+                  ]
+            },
+            {
+                  "name": "Ancienne Carrière de la CCB",
+                  "text": "Ancienne Carrière de la CCB este un lac din Tournai care oferă o privire asupra istoriei industriale.",
+                  "category": "natural",
+                  "coords": [
+                        3.478609,
+                        50.604167
+                  ]
+            },
+            {
+                  "name": "Air Jump",
+                  "text": "Air Jump din Tournai oferă distracție plină de acțiune pe trambulină pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        3.376836,
+                        50.621898
+                  ]
             }
       ],
       "en": [
@@ -18750,7 +22305,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Jungle City",
                   "text": "An amusement park for children and families located in Tournai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.381482,
                         50.620394
@@ -18925,6 +22480,51 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.392508,
                         50.60467
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière Dumon",
+                  "text": "Ancienne carrière Dumon in Tournai is a former quarry that now serves as a lake.",
+                  "category": "natural",
+                  "coords": [
+                        3.401789,
+                        50.594234
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière du Cornet",
+                  "text": "Ancienne carrière du Cornet is a body of water in Tournai formed by former mining activities.",
+                  "category": "natural",
+                  "coords": [
+                        3.405229,
+                        50.590246
+                  ]
+            },
+            {
+                  "name": "Bassin de décantation",
+                  "text": "Bassin de décantation in Tournai is a functional body of water in the local environment.",
+                  "category": "natural",
+                  "coords": [
+                        3.471261,
+                        50.609161
+                  ]
+            },
+            {
+                  "name": "Ancienne Carrière de la CCB",
+                  "text": "Ancienne Carrière de la CCB is a lake in Tournai that offers a glimpse into industrial history.",
+                  "category": "natural",
+                  "coords": [
+                        3.478609,
+                        50.604167
+                  ]
+            },
+            {
+                  "name": "Air Jump",
+                  "text": "Air Jump in Tournai offers action-packed trampoline fun for children and young people.",
+                  "category": "family",
+                  "coords": [
+                        3.376836,
+                        50.621898
                   ]
             }
       ]
@@ -19163,6 +22763,51 @@ export const belgiumCitiesV2: POI[] = [
                         5.491135,
                         50.982091
                   ]
+            },
+            {
+                  "name": "Kriekelbos speelzone",
+                  "text": "Eine Spielzone im Kriekelbos für Naturabenteuer in Genk.",
+                  "category": "family",
+                  "coords": [
+                        5.481695,
+                        50.969122
+                  ]
+            },
+            {
+                  "name": "Action Valley",
+                  "text": "Action Valley in Genk bietet verschiedene Unterhaltungsmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.511475,
+                        50.946701
+                  ]
+            },
+            {
+                  "name": "Speelplein Melberg",
+                  "text": "Der Speelplein Melberg ist ein Treffpunkt für Kinder in Genk.",
+                  "category": "family",
+                  "coords": [
+                        5.486548,
+                        50.953543
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboog",
+                  "text": "Dieser Spielplatz in Genk ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        5.465695,
+                        50.976808
+                  ]
+            },
+            {
+                  "name": "Speelterrein De Boomhut",
+                  "text": "Dieser Spielplatz in Genk bietet einen sicheren und angenehmen Raum für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.492616,
+                        50.97525
+                  ]
             }
       ],
       "hu": [
@@ -19353,6 +22998,51 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.491135,
                         50.982091
+                  ]
+            },
+            {
+                  "name": "Kriekelbos speelzone",
+                  "text": "Egy játszóövezet a Kriekelbosban erdei kalandokhoz Genkben.",
+                  "category": "family",
+                  "coords": [
+                        5.481695,
+                        50.969122
+                  ]
+            },
+            {
+                  "name": "Action Valley",
+                  "text": "A genki Action Valley különféle szórakozási lehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.511475,
+                        50.946701
+                  ]
+            },
+            {
+                  "name": "Speelplein Melberg",
+                  "text": "A genki Speelplein Melberg a gyerekek kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        5.486548,
+                        50.953543
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboog",
+                  "text": "Ez a genki játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        5.465695,
+                        50.976808
+                  ]
+            },
+            {
+                  "name": "Speelterrein De Boomhut",
+                  "text": "Ez a genki játszótér biztonságos és élvezetes helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.492616,
+                        50.97525
                   ]
             }
       ],
@@ -19545,6 +23235,51 @@ export const belgiumCitiesV2: POI[] = [
                         5.491135,
                         50.982091
                   ]
+            },
+            {
+                  "name": "Kriekelbos speelzone",
+                  "text": "O zonă de joacă în Kriekelbos pentru aventuri în natură în Genk.",
+                  "category": "family",
+                  "coords": [
+                        5.481695,
+                        50.969122
+                  ]
+            },
+            {
+                  "name": "Action Valley",
+                  "text": "Action Valley din Genk oferă diverse posibilități de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.511475,
+                        50.946701
+                  ]
+            },
+            {
+                  "name": "Speelplein Melberg",
+                  "text": "Speelplein Melberg este un punct de întâlnire pentru copiii din Genk.",
+                  "category": "family",
+                  "coords": [
+                        5.486548,
+                        50.953543
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboog",
+                  "text": "Acest loc de joacă din Genk este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
+                  "category": "family",
+                  "coords": [
+                        5.465695,
+                        50.976808
+                  ]
+            },
+            {
+                  "name": "Speelterrein De Boomhut",
+                  "text": "Acest loc de joacă din Genk oferă un spațiu sigur și plăcut pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.492616,
+                        50.97525
+                  ]
             }
       ],
       "en": [
@@ -19736,6 +23471,51 @@ export const belgiumCitiesV2: POI[] = [
                         5.491135,
                         50.982091
                   ]
+            },
+            {
+                  "name": "Kriekelbos speelzone",
+                  "text": "A play zone in Kriekelbos for nature adventures in Genk.",
+                  "category": "family",
+                  "coords": [
+                        5.481695,
+                        50.969122
+                  ]
+            },
+            {
+                  "name": "Action Valley",
+                  "text": "Action Valley in Genk offers various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        5.511475,
+                        50.946701
+                  ]
+            },
+            {
+                  "name": "Speelplein Melberg",
+                  "text": "The Speelplein Melberg is a meeting point for children in Genk.",
+                  "category": "family",
+                  "coords": [
+                        5.486548,
+                        50.953543
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboog",
+                  "text": "This playground in Genk is a great spot for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        5.465695,
+                        50.976808
+                  ]
+            },
+            {
+                  "name": "Speelterrein De Boomhut",
+                  "text": "This playground in Genk provides a safe and enjoyable space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.492616,
+                        50.97525
+                  ]
             }
       ]
 },
@@ -19783,7 +23563,124 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["A exploité trois mines de charbon majeures (Winterslag, Waterschei, Zwartberg) au XXe siècle", "Les mines de charbon employaient des travailleurs de plus de 85 nationalités différentes", "C-Mine comprend une tour de puits de mine restaurée que les visiteurs peuvent escalader", "Le parc national de la Haute Campine s'étend sur plus de 5 700 hectares", "Le musée de plein air de Bokrijk abrite plus de 100 bâtiments historiques", "Ford Motor Company a exploité une usine d'assemblage majeure à Genk jusqu'en 2014", "Siège du club de football KRC Genk, une équipe majeure de la Pro League belge"],
     }, image: "/poi-images/belgium-genk-cities-v2.webp"},
   {
-    id: "belgium-seraing-cities-v2",
+    id: "belgium-seraing-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Ein lokaler See in Seraing, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Ein lokaler See in Seraing, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Ein lokaler See in Seraing, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Helyi tó Seraing területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Helyi tó Seraing területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Helyi tó Seraing területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Un lac local în Seraing, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Un lac local în Seraing, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Un lac local în Seraing, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "A local lake in Seraing, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "A local lake in Seraing, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "A local lake in Seraing, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Seraing", hu: "Seraing", ro: "Seraing", en: "Seraing"},
@@ -20027,6 +23924,42 @@ export const belgiumCitiesV2: POI[] = [
                         3.116604,
                         50.921002
                   ]
+            },
+            {
+                  "name": "Mini World",
+                  "text": "Mini World in Roeselare ist ein fantasievoller Spielplatz, der Kinder zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        3.117822,
+                        50.963362
+                  ]
+            },
+            {
+                  "name": "Wallemeers",
+                  "text": "Wallemeers in Roeselare bietet eine weitläufige Fläche für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.129124,
+                        50.935067
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboogstraat - Sterrenstraat",
+                  "text": "Der Spielplatz in der Regenboogstraat bietet Kindern in Roeselare eine bunte Spielumgebung.",
+                  "category": "family",
+                  "coords": [
+                        3.126393,
+                        50.930107
+                  ]
+            },
+            {
+                  "name": "Speelplein Jezuïtengoed",
+                  "text": "Der Spielplatz Jezuïtengoed in Roeselare ist ein schöner Ort für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        3.108682,
+                        50.945733
+                  ]
             }
       ],
       "hu": [
@@ -20226,6 +24159,42 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.116604,
                         50.921002
+                  ]
+            },
+            {
+                  "name": "Mini World",
+                  "text": "A roeselare-i Mini World egy fantáziadús játszótér, amely felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        3.117822,
+                        50.963362
+                  ]
+            },
+            {
+                  "name": "Wallemeers",
+                  "text": "A roeselare-i Wallemeers tágas területet biztosít a gyermekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.129124,
+                        50.935067
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboogstraat - Sterrenstraat",
+                  "text": "A Regenboogstraat játszótere színes környezetet biztosít a játékhoz Roeselare-ben.",
+                  "category": "family",
+                  "coords": [
+                        3.126393,
+                        50.930107
+                  ]
+            },
+            {
+                  "name": "Speelplein Jezuïtengoed",
+                  "text": "A Jezuïtengoed játszótér Roeselare-ben egy kellemes hely a napi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        3.108682,
+                        50.945733
                   ]
             }
       ],
@@ -20427,6 +24396,42 @@ export const belgiumCitiesV2: POI[] = [
                         3.116604,
                         50.921002
                   ]
+            },
+            {
+                  "name": "Mini World",
+                  "text": "Mini World din Roeselare este un loc de joacă plin de fantezie care invită copiii la explorare.",
+                  "category": "family",
+                  "coords": [
+                        3.117822,
+                        50.963362
+                  ]
+            },
+            {
+                  "name": "Wallemeers",
+                  "text": "Wallemeers din Roeselare oferă un spațiu vast pentru copiii care se joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.129124,
+                        50.935067
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboogstraat - Sterrenstraat",
+                  "text": "Locul de joacă din Regenboogstraat oferă copiilor un mediu de joacă colorat în Roeselare.",
+                  "category": "family",
+                  "coords": [
+                        3.126393,
+                        50.930107
+                  ]
+            },
+            {
+                  "name": "Speelplein Jezuïtengoed",
+                  "text": "Locul de joacă Jezuïtengoed din Roeselare este un loc plăcut pentru activități recreative zilnice.",
+                  "category": "family",
+                  "coords": [
+                        3.108682,
+                        50.945733
+                  ]
             }
       ],
       "en": [
@@ -20627,6 +24632,42 @@ export const belgiumCitiesV2: POI[] = [
                         3.116604,
                         50.921002
                   ]
+            },
+            {
+                  "name": "Mini World",
+                  "text": "Mini World in Roeselare is an imaginative playground that invites children to explore.",
+                  "category": "family",
+                  "coords": [
+                        3.117822,
+                        50.963362
+                  ]
+            },
+            {
+                  "name": "Wallemeers",
+                  "text": "Wallemeers in Roeselare offers an extensive area for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.129124,
+                        50.935067
+                  ]
+            },
+            {
+                  "name": "Speelplein Regenboogstraat - Sterrenstraat",
+                  "text": "The playground in Regenboogstraat provides a colorful play environment for children in Roeselare.",
+                  "category": "family",
+                  "coords": [
+                        3.126393,
+                        50.930107
+                  ]
+            },
+            {
+                  "name": "Speelplein Jezuïtengoed",
+                  "text": "The playground Jezuïtengoed in Roeselare is a nice spot for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        3.108682,
+                        50.945733
+                  ]
             }
       ]
 },
@@ -20751,7 +24792,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Virtual Park",
                   "text": "Ein großer Themenpark in Mouscron, der der virtuellen Realität und digitalen Erlebnissen gewidmet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.236898,
                         50.748541
@@ -20818,6 +24859,51 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.198643,
                         50.728762
+                  ]
+            },
+            {
+                  "name": "Hall Terroir",
+                  "text": "Dieser See in Mouscron bietet eine malerische und ruhige Umgebung für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.211946,
+                        50.731023
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (zone Est) - Uitbreiding van het Spiere (oost zone)",
+                  "text": "Dieses Seegebiet in Mouscron bietet eine wunderschöne Landschaft für einen ruhigen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.292973,
+                        50.737864
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (Ouest)",
+                  "text": "Dieser See in Mouscron bietet eine ruhige und malerische Umgebung für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        3.289131,
+                        50.738391
+                  ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "Dieser See in Mouscron bietet eine malerische Kulisse für einen ruhigen Spaziergang und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "Flipper",
+                  "text": "Dieser Spielplatz in Mouscron bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.234869,
+                        50.746924
                   ]
             }
       ],
@@ -20897,7 +24983,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Virtual Park",
                   "text": "Virtuális valóságnak és digitális élményeknek szentelt vidámpark Mouscronban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.236898,
                         50.748541
@@ -20964,6 +25050,51 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.198643,
                         50.728762
+                  ]
+            },
+            {
+                  "name": "Hall Terroir",
+                  "text": "Ez a mouscroni tó festői és nyugodt környezetet biztosít egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        3.211946,
+                        50.731023
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (zone Est) - Uitbreiding van het Spiere (oost zone)",
+                  "text": "Ez a mouscroni tóparti terület gyönyörű tájat kínál egy csendes természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        3.292973,
+                        50.737864
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (Ouest)",
+                  "text": "Ez a mouscroni tó nyugodt és festői környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        3.289131,
+                        50.738391
+                  ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "Ez a mouscroni tó festői hátteret biztosít egy csendes sétához és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "Flipper",
+                  "text": "Ez a mouscroni játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        3.234869,
+                        50.746924
                   ]
             }
       ],
@@ -21043,7 +25174,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Virtual Park",
                   "text": "Un parc tematic din Mouscron dedicat realității virtuale și experiențelor digitale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.236898,
                         50.748541
@@ -21110,6 +25241,51 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.198643,
                         50.728762
+                  ]
+            },
+            {
+                  "name": "Hall Terroir",
+                  "text": "Acest lac din Mouscron oferă un cadru pitoresc și liniștit pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.211946,
+                        50.731023
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (zone Est) - Uitbreiding van het Spiere (oost zone)",
+                  "text": "Această zonă de lac din Mouscron oferă un peisaj frumos pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.292973,
+                        50.737864
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (Ouest)",
+                  "text": "Acest lac din Mouscron oferă un mediu calm și pitoresc pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        3.289131,
+                        50.738391
+                  ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "Acest lac din Mouscron oferă un cadru pitoresc pentru o plimbare liniștită și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "Flipper",
+                  "text": "Acest loc de joacă din Mouscron oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.234869,
+                        50.746924
                   ]
             }
       ],
@@ -21189,7 +25365,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Virtual Park",
                   "text": "A large theme park in Mouscron dedicated to virtual reality and digital experiences.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.236898,
                         50.748541
@@ -21256,6 +25432,51 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.198643,
                         50.728762
+                  ]
+            },
+            {
+                  "name": "Hall Terroir",
+                  "text": "This lake in Mouscron provides a scenic and peaceful environment for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.211946,
+                        50.731023
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (zone Est) - Uitbreiding van het Spiere (oost zone)",
+                  "text": "This lake area in Mouscron features a beautiful landscape for a peaceful stroll in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.292973,
+                        50.737864
+                  ]
+            },
+            {
+                  "name": "Elargissement de l'Espierres (Ouest)",
+                  "text": "This lake in Mouscron provides a calm and scenic environment for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        3.289131,
+                        50.738391
+                  ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "This lake in Mouscron offers a scenic backdrop for a quiet walk and enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "Flipper",
+                  "text": "This playground in Mouscron offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.234869,
+                        50.746924
                   ]
             }
       ]
@@ -21629,6 +25850,42 @@ export const belgiumCitiesV2: POI[] = [
                         5.857971,
                         50.593199
                   ]
+            },
+            {
+                  "name": "Gileppe Stausee",
+                  "text": "Ein lokaler See in Verviers, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Plaine de Rouheid",
+                  "text": "Ein familienfreundlicher Spielplatz in Verviers, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.882912,
+                        50.574182
+                  ]
+            },
+            {
+                  "name": "Espace Bauwens",
+                  "text": "Ein familienfreundlicher Spielplatz in Verviers, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.869411,
+                        50.591569
+                  ]
+            },
+            {
+                  "name": "Plaine du Grand Théâtre",
+                  "text": "Ein familienfreundlicher Spielplatz in Verviers, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.858448,
+                        50.590259
+                  ]
             }
       ],
       "hu": [
@@ -21954,6 +26211,42 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.857971,
                         50.593199
+                  ]
+            },
+            {
+                  "name": "Lac de la Gileppe",
+                  "text": "Helyi tó Verviers területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Plaine de Rouheid",
+                  "text": "Családbarát játszótér Verviers városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.882912,
+                        50.574182
+                  ]
+            },
+            {
+                  "name": "Espace Bauwens",
+                  "text": "Családbarát játszótér Verviers városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.869411,
+                        50.591569
+                  ]
+            },
+            {
+                  "name": "Plaine du Grand Théâtre",
+                  "text": "Családbarát játszótér Verviers városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.858448,
+                        50.590259
                   ]
             }
       ],
@@ -22281,6 +26574,42 @@ export const belgiumCitiesV2: POI[] = [
                         5.857971,
                         50.593199
                   ]
+            },
+            {
+                  "name": "Lac de la Gileppe",
+                  "text": "Un lac local în Verviers, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Plaine de Rouheid",
+                  "text": "Un loc de joacă pentru familii în Verviers, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.882912,
+                        50.574182
+                  ]
+            },
+            {
+                  "name": "Espace Bauwens",
+                  "text": "Un loc de joacă pentru familii în Verviers, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.869411,
+                        50.591569
+                  ]
+            },
+            {
+                  "name": "Plaine du Grand Théâtre",
+                  "text": "Un loc de joacă pentru familii în Verviers, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.858448,
+                        50.590259
+                  ]
             }
       ],
       "en": [
@@ -22606,6 +26935,42 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.857971,
                         50.593199
+                  ]
+            },
+            {
+                  "name": "Lake Gileppe",
+                  "text": "A local lake in Verviers, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Plaine de Rouheid",
+                  "text": "A family-friendly playground in Verviers offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        5.882912,
+                        50.574182
+                  ]
+            },
+            {
+                  "name": "Espace Bauwens",
+                  "text": "A family-friendly playground in Verviers offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        5.869411,
+                        50.591569
+                  ]
+            },
+            {
+                  "name": "Plaine du Grand Théâtre",
+                  "text": "A family-friendly playground in Verviers offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        5.858448,
+                        50.590259
                   ]
             }
       ]
@@ -23365,7 +27730,160 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["Le légendaire cortège du Ros Beiaard n'a lieu qu'une fois tous les 10 ans.", "Le beffroi de la ville est classé au patrimoine mondial de l'UNESCO et domine la Grand-Place.", "Le béguinage Saint-Alexis comprend 61 maisons et date de 1288.", "Située précisément au confluent de la Dendre et de l'Escaut.", "Siège d'une abbaye bénédictine préservée, l'abbaye des Saints-Pierre-et-Paul.", "La halle aux draps médiévale a été transformée en l'actuel hôtel de ville gothique.", "Les fortifications de la ville ont été modernisées par Wellington au XIXe siècle."],
     }, image: "/poi-images/belgium-dendermonde-cities-v2.webp"},
   {
-    id: "belgium-vilvoorde-cities-v2",
+    id: "belgium-vilvoorde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Ein lokaler See in Vilvoorde, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Kleine Vijver",
+                  "text": "Ein lokaler See in Vilvoorde, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.470301,
+                        50.863769
+                  ]
+            },
+            {
+                  "name": "Millenniumpark",
+                  "text": "Ein familienfreundlicher Spielplatz in Vilvoorde, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.400281,
+                        50.916455
+                  ]
+            },
+            {
+                  "name": "Speeltuin Hanssenspark",
+                  "text": "Ein familienfreundlicher Spielplatz in Vilvoorde, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.429451,
+                        50.923552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Helyi tó Vilvoorde területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Kleine Vijver",
+                  "text": "Helyi tó Vilvoorde területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.470301,
+                        50.863769
+                  ]
+            },
+            {
+                  "name": "Millenniumpark",
+                  "text": "Családbarát játszótér Vilvoorde városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.400281,
+                        50.916455
+                  ]
+            },
+            {
+                  "name": "Speeltuin Hanssenspark",
+                  "text": "Családbarát játszótér Vilvoorde városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.429451,
+                        50.923552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Un lac local în Vilvoorde, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Kleine Vijver",
+                  "text": "Un lac local în Vilvoorde, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.470301,
+                        50.863769
+                  ]
+            },
+            {
+                  "name": "Millenniumpark",
+                  "text": "Un loc de joacă pentru familii în Vilvoorde, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.400281,
+                        50.916455
+                  ]
+            },
+            {
+                  "name": "Speeltuin Hanssenspark",
+                  "text": "Un loc de joacă pentru familii în Vilvoorde, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.429451,
+                        50.923552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "A local lake in Vilvoorde, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Small Pond",
+                  "text": "A local lake in Vilvoorde, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.470301,
+                        50.863769
+                  ]
+            },
+            {
+                  "name": "Millenniumpark",
+                  "text": "A family-friendly playground in Vilvoorde offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.400281,
+                        50.916455
+                  ]
+            },
+            {
+                  "name": "Speeltuin Hanssenspark",
+                  "text": "A family-friendly playground in Vilvoorde offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.429451,
+                        50.923552
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Vilvoorde", hu: "Vilvoorde", ro: "Vilvoorde", en: "Vilvoorde"},
@@ -23487,7 +28005,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Stadsboerderij",
                   "text": "Ein städtischer Bauernhof in Turnhout, der Besuchern Einblicke in das Landleben bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.935443,
                         51.333697
@@ -23523,7 +28041,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Dierenweide",
                   "text": "Ein Tiergehege in Turnhout, in dem Besucher heimische Tiere aus nächster Nähe sehen können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.944671,
                         51.307355
@@ -23663,6 +28181,222 @@ export const belgiumCitiesV2: POI[] = [
                         4.955464,
                         51.3215
                   ]
+            },
+            {
+                  "name": "Treskes vijver",
+                  "text": "Der See Treskes vijver in Turnhout bietet eine ruhige Umgebung für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.934915,
+                        51.288835
+                  ]
+            },
+            {
+                  "name": "Kievits Venneken",
+                  "text": "Der See Kievits Venneken in Turnhout lädt zu entspannten Momenten in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        4.865396,
+                        51.299419
+                  ]
+            },
+            {
+                  "name": "Bluswatervoorraad",
+                  "text": "Das Gewässer Bluswatervoorraad in Turnhout bietet eine naturnahe Kulisse für Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        4.934638,
+                        51.295803
+                  ]
+            },
+            {
+                  "name": "Speelplein Schobbard",
+                  "text": "Der Spielplatz Speelplein Schobbard in Turnhout ist ein ideales Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.959927,
+                        51.306403
+                  ]
+            },
+            {
+                  "name": "Den Brand",
+                  "text": "Der Spielplatz Den Brand in Turnhout bietet Kindern viel Platz zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.960547,
+                        51.308569
+                  ]
+            },
+            {
+                  "name": "De Blaas",
+                  "text": "Der Spielplatz De Blaas in Turnhout ist ein schöner Ort für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        4.92725,
+                        51.325199
+                  ]
+            },
+            {
+                  "name": "Buurtplein Oranjemolenstraat",
+                  "text": "Der Spielplatz Buurtplein Oranjemolenstraat in Turnhout bietet familienfreundliche Unterhaltung im Quartier.",
+                  "category": "family",
+                  "coords": [
+                        4.962918,
+                        51.322879
+                  ]
+            },
+            {
+                  "name": "Speelplein Pottenbakkersstraat",
+                  "text": "Der Spielplatz Speelplein Pottenbakkersstraat in Turnhout ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.952739,
+                        51.30227
+                  ]
+            },
+            {
+                  "name": "Buurtplein Pater Verschuerenstraat",
+                  "text": "Der Spielplatz Buurtplein Pater Verschuerenstraat in Turnhout lädt Kinder zum Spielen in der Nachbarschaft ein.",
+                  "category": "family",
+                  "coords": [
+                        4.934015,
+                        51.315645
+                  ]
+            },
+            {
+                  "name": "Buurtplein Rood Kruisstraat",
+                  "text": "Der Spielplatz Buurtplein Rood Kruisstraat in Turnhout ist ein familienfreundliches Ziel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.932316,
+                        51.331093
+                  ]
+            },
+            {
+                  "name": "Buurtplein Groenplein",
+                  "text": "Der Spielplatz Buurtplein Groenplein in Turnhout bietet eine angenehme Atmosphäre für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.947555,
+                        51.329859
+                  ]
+            },
+            {
+                  "name": "Raf & Otje",
+                  "text": "Der Spielplatz Raf & Otje in Turnhout ist ein abwechslungsreicher Ort für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        4.957326,
+                        51.322003
+                  ]
+            },
+            {
+                  "name": "Mini Golf Stadspark",
+                  "text": "Die Minigolfanlage Mini Golf Stadspark in Turnhout bietet Freizeitspaß für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        4.948008,
+                        51.308905
+                  ]
+            },
+            {
+                  "name": "Buurtplein Hollandsestraat",
+                  "text": "Der Spielplatz Buurtplein Hollandsestraat in Turnhout lädt zu aktiven Stunden im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.940235,
+                        51.327772
+                  ]
+            },
+            {
+                  "name": "De Koekoek",
+                  "text": "Der Spielplatz De Koekoek in Turnhout ist ein schönes Ziel für Familien in der Region.",
+                  "category": "family",
+                  "coords": [
+                        4.916348,
+                        51.335112
+                  ]
+            },
+            {
+                  "name": "speelplek Loechtenberg",
+                  "text": "Der Spielplatz speelplek Loechtenberg in Turnhout bietet Kindern vielfältige Möglichkeiten zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.938553,
+                        51.319759
+                  ]
+            },
+            {
+                  "name": "ontmoetingsruimte Meuletiende",
+                  "text": "Der Spielplatz ontmoetingsruimte Meuletiende in Turnhout ist ein familienfreundlicher Treffpunkt.",
+                  "category": "family",
+                  "coords": [
+                        4.957019,
+                        51.32908
+                  ]
+            },
+            {
+                  "name": "ontmoetingsplein Tijl- en Nelestraat",
+                  "text": "Der Spielplatz ontmoetingsplein Tijl- en Nelestraat in Turnhout bietet Raum für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        4.961826,
+                        51.325994
+                  ]
+            },
+            {
+                  "name": "Speelplein Swat Engelenstraat",
+                  "text": "Der Spielplatz Speelplein Swat Engelenstraat in Turnhout ist ein toller Ort für Kinder zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        4.92489,
+                        51.315483
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klaverhof",
+                  "text": "Der Spielplatz Speeltuin Klaverhof in Turnhout lädt Familien zum gemeinsamen Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        4.929188,
+                        51.327175
+                  ]
+            },
+            {
+                  "name": "Buurtplein Heizijdse Velden",
+                  "text": "Der Spielplatz Buurtplein Heizijdse Velden in Turnhout ist ein attraktives Ziel für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        4.93653,
+                        51.33124
+                  ]
+            },
+            {
+                  "name": "Speelplein Lindestraat",
+                  "text": "Der Spielplatz Speelplein Lindestraat in Turnhout bietet klassische Spielgeräte für den Nachwuchs.",
+                  "category": "family",
+                  "coords": [
+                        4.944408,
+                        51.327995
+                  ]
+            },
+            {
+                  "name": "Buurtplein Technico",
+                  "text": "Der Spielplatz Buurtplein Technico in Turnhout ist ein moderner Treffpunkt für Familien im Quartier.",
+                  "category": "family",
+                  "coords": [
+                        4.945338,
+                        51.315313
+                  ]
+            },
+            {
+                  "name": "Speelpleintje Teuntjeswijk",
+                  "text": "Der Spielplatz Speelpleintje Teuntjeswijk in Turnhout bietet Kindern eine schöne Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.97472,
+                        51.3398
+                  ]
             }
       ],
       "hu": [
@@ -23741,7 +28475,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Stadsboerderij",
                   "text": "Városi tanya Turnhoutban, amely bepillantást enged a vidéki életbe a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.935443,
                         51.333697
@@ -23777,7 +28511,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Dierenweide",
                   "text": "Állatkifutó Turnhoutban, ahol a látogatók közelről láthatnak különféle háziállatokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.944671,
                         51.307355
@@ -23917,6 +28651,222 @@ export const belgiumCitiesV2: POI[] = [
                         4.955464,
                         51.3215
                   ]
+            },
+            {
+                  "name": "Treskes vijver",
+                  "text": "A Turnhout városában található Treskes vijver tó kellemes helyszínt biztosít a természetközeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.934915,
+                        51.288835
+                  ]
+            },
+            {
+                  "name": "Kievits Venneken",
+                  "text": "A turnhouti Kievits Venneken tó nyugodt környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.865396,
+                        51.299419
+                  ]
+            },
+            {
+                  "name": "Bluswatervoorraad",
+                  "text": "A Turnhout városában fekvő Bluswatervoorraad tó nyugodt környezetet biztosít a sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.934638,
+                        51.295803
+                  ]
+            },
+            {
+                  "name": "Speelplein Schobbard",
+                  "text": "A turnhouti Speelplein Schobbard játszótér kiváló úti cél a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.959927,
+                        51.306403
+                  ]
+            },
+            {
+                  "name": "Den Brand",
+                  "text": "A Turnhout városában található Den Brand játszótér bőséges teret kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.960547,
+                        51.308569
+                  ]
+            },
+            {
+                  "name": "De Blaas",
+                  "text": "A turnhouti De Blaas játszótér remek hely a gyermekek számára a mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.92725,
+                        51.325199
+                  ]
+            },
+            {
+                  "name": "Buurtplein Oranjemolenstraat",
+                  "text": "A Turnhout városában lévő Buurtplein Oranjemolenstraat játszótér barátságos környezetet biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.962918,
+                        51.322879
+                  ]
+            },
+            {
+                  "name": "Speelplein Pottenbakkersstraat",
+                  "text": "A turnhouti Speelplein Pottenbakkersstraat játszótér népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.952739,
+                        51.30227
+                  ]
+            },
+            {
+                  "name": "Buurtplein Pater Verschuerenstraat",
+                  "text": "A Turnhoutban található Buurtplein Pater Verschuerenstraat játszótér remek kikapcsolódást nyújt a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.934015,
+                        51.315645
+                  ]
+            },
+            {
+                  "name": "Buurtplein Rood Kruisstraat",
+                  "text": "A turnhouti Buurtplein Rood Kruisstraat játszótér családbarát környezetben várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.932316,
+                        51.331093
+                  ]
+            },
+            {
+                  "name": "Buurtplein Groenplein",
+                  "text": "A Turnhout városában lévő Buurtplein Groenplein játszótér kellemes környezetet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.947555,
+                        51.329859
+                  ]
+            },
+            {
+                  "name": "Raf & Otje",
+                  "text": "A turnhouti Raf & Otje játszótér változatos játéklehetőségeket kínál a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.957326,
+                        51.322003
+                  ]
+            },
+            {
+                  "name": "Mini Golf Stadspark",
+                  "text": "A turnhouti Mini Golf Stadspark minigolfpálya szórakoztató kikapcsolódást ígér az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.948008,
+                        51.308905
+                  ]
+            },
+            {
+                  "name": "Buurtplein Hollandsestraat",
+                  "text": "A Turnhout városában található Buurtplein Hollandsestraat játszótér aktív kikapcsolódást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.940235,
+                        51.327772
+                  ]
+            },
+            {
+                  "name": "De Koekoek",
+                  "text": "A turnhouti De Koekoek játszótér kedvelt célpont a környéken élő családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.916348,
+                        51.335112
+                  ]
+            },
+            {
+                  "name": "speelplek Loechtenberg",
+                  "text": "A Turnhoutban fekvő speelplek Loechtenberg játszótér változatos játéklehetőségeket nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.938553,
+                        51.319759
+                  ]
+            },
+            {
+                  "name": "ontmoetingsruimte Meuletiende",
+                  "text": "A turnhouti ontmoetingsruimte Meuletiende játszótér családbarát találkozóhelyként szolgál.",
+                  "category": "family",
+                  "coords": [
+                        4.957019,
+                        51.32908
+                  ]
+            },
+            {
+                  "name": "ontmoetingsplein Tijl- en Nelestraat",
+                  "text": "A Turnhoutban található ontmoetingsplein Tijl- en Nelestraat játszótér teret ad a mozgásnak és a játéknak.",
+                  "category": "family",
+                  "coords": [
+                        4.961826,
+                        51.325994
+                  ]
+            },
+            {
+                  "name": "Speelplein Swat Engelenstraat",
+                  "text": "A turnhouti Speelplein Swat Engelenstraat játszótér nagyszerű hely a gyerekeknek a felfedezésre.",
+                  "category": "family",
+                  "coords": [
+                        4.92489,
+                        51.315483
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klaverhof",
+                  "text": "A turnhouti Speeltuin Klaverhof játszótér hívogató környezetet biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.929188,
+                        51.327175
+                  ]
+            },
+            {
+                  "name": "Buurtplein Heizijdse Velden",
+                  "text": "A Turnhoutban található Buurtplein Heizijdse Velden játszótér vonzó célpont minden korosztályú gyermeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.93653,
+                        51.33124
+                  ]
+            },
+            {
+                  "name": "Speelplein Lindestraat",
+                  "text": "A turnhouti Speelplein Lindestraat játszótér klasszikus játékokkal várja a legkisebbeket.",
+                  "category": "family",
+                  "coords": [
+                        4.944408,
+                        51.327995
+                  ]
+            },
+            {
+                  "name": "Buurtplein Technico",
+                  "text": "A Turnhoutban fekvő Buurtplein Technico játszótér modern közösségi tér a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.945338,
+                        51.315313
+                  ]
+            },
+            {
+                  "name": "Speelpleintje Teuntjeswijk",
+                  "text": "A turnhouti Speelpleintje Teuntjeswijk játszótér kellemes környezetben várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.97472,
+                        51.3398
+                  ]
             }
       ],
       "ro": [
@@ -23995,7 +28945,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Stadsboerderij",
                   "text": "O fermă urbană în Turnhout, care oferă vizitatorilor o privire asupra vieții rurale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.935443,
                         51.333697
@@ -24031,7 +28981,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Dierenweide",
                   "text": "Un țarc de animale în Turnhout, unde vizitatorii pot vedea de aproape diverse animale domestice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.944671,
                         51.307355
@@ -24171,6 +29121,222 @@ export const belgiumCitiesV2: POI[] = [
                         4.955464,
                         51.3215
                   ]
+            },
+            {
+                  "name": "Treskes vijver",
+                  "text": "Lacul Treskes vijver din Turnhout oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.934915,
+                        51.288835
+                  ]
+            },
+            {
+                  "name": "Kievits Venneken",
+                  "text": "Lacul Kievits Venneken din Turnhout invită la momente de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.865396,
+                        51.299419
+                  ]
+            },
+            {
+                  "name": "Bluswatervoorraad",
+                  "text": "Lacul Bluswatervoorraad din Turnhout oferă un cadru natural pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        4.934638,
+                        51.295803
+                  ]
+            },
+            {
+                  "name": "Speelplein Schobbard",
+                  "text": "Locul de joacă Speelplein Schobbard din Turnhout este o destinație ideală pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        4.959927,
+                        51.306403
+                  ]
+            },
+            {
+                  "name": "Den Brand",
+                  "text": "Locul de joacă Den Brand din Turnhout oferă copiilor mult spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.960547,
+                        51.308569
+                  ]
+            },
+            {
+                  "name": "De Blaas",
+                  "text": "Locul de joacă De Blaas din Turnhout este un spațiu plăcut unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        4.92725,
+                        51.325199
+                  ]
+            },
+            {
+                  "name": "Buurtplein Oranjemolenstraat",
+                  "text": "Locul de joacă Buurtplein Oranjemolenstraat din Turnhout oferă divertisment pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        4.962918,
+                        51.322879
+                  ]
+            },
+            {
+                  "name": "Speelplein Pottenbakkersstraat",
+                  "text": "Locul de joacă Speelplein Pottenbakkersstraat din Turnhout este un punct de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.952739,
+                        51.30227
+                  ]
+            },
+            {
+                  "name": "Buurtplein Pater Verschuerenstraat",
+                  "text": "Locul de joacă Buurtplein Pater Verschuerenstraat din Turnhout invită copiii la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.934015,
+                        51.315645
+                  ]
+            },
+            {
+                  "name": "Buurtplein Rood Kruisstraat",
+                  "text": "Locul de joacă Buurtplein Rood Kruisstraat din Turnhout este o destinație prietenoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.932316,
+                        51.331093
+                  ]
+            },
+            {
+                  "name": "Buurtplein Groenplein",
+                  "text": "Locul de joacă Buurtplein Groenplein din Turnhout oferă o atmosferă plăcută pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.947555,
+                        51.329859
+                  ]
+            },
+            {
+                  "name": "Raf & Otje",
+                  "text": "Locul de joacă Raf & Otje din Turnhout este un spațiu recreativ variat pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        4.957326,
+                        51.322003
+                  ]
+            },
+            {
+                  "name": "Mini Golf Stadspark",
+                  "text": "Terenul de minigolf Mini Golf Stadspark din Turnhout oferă distracție recreativă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.948008,
+                        51.308905
+                  ]
+            },
+            {
+                  "name": "Buurtplein Hollandsestraat",
+                  "text": "Locul de joacă Buurtplein Hollandsestraat din Turnhout invită copiii la ore de activitate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.940235,
+                        51.327772
+                  ]
+            },
+            {
+                  "name": "De Koekoek",
+                  "text": "Locul de joacă De Koekoek din Turnhout este o destinație frumoasă pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        4.916348,
+                        51.335112
+                  ]
+            },
+            {
+                  "name": "speelplek Loechtenberg",
+                  "text": "Locul de joacă Loechtenberg din Turnhout oferă copiilor multiple opțiuni de distracție.",
+                  "category": "family",
+                  "coords": [
+                        4.938553,
+                        51.319759
+                  ]
+            },
+            {
+                  "name": "ontmoetingsruimte Meuletiende",
+                  "text": "Locul de joacă Meuletiende din Turnhout este un punct de întâlnire prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.957019,
+                        51.32908
+                  ]
+            },
+            {
+                  "name": "ontmoetingsplein Tijl- en Nelestraat",
+                  "text": "Locul de joacă Tijl- en Nelestraat din Turnhout oferă spațiu pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        4.961826,
+                        51.325994
+                  ]
+            },
+            {
+                  "name": "Speelplein Swat Engelenstraat",
+                  "text": "Locul de joacă Speelplein Swat Engelenstraat din Turnhout este un loc excelent pentru explorare.",
+                  "category": "family",
+                  "coords": [
+                        4.92489,
+                        51.315483
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klaverhof",
+                  "text": "Locul de joacă Speeltuin Klaverhof din Turnhout invită familiile să petreacă timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        4.929188,
+                        51.327175
+                  ]
+            },
+            {
+                  "name": "Buurtplein Heizijdse Velden",
+                  "text": "Locul de joacă Buurtplein Heizijdse Velden din Turnhout este o atracție pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.93653,
+                        51.33124
+                  ]
+            },
+            {
+                  "name": "Speelplein Lindestraat",
+                  "text": "Locul de joacă Speelplein Lindestraat din Turnhout oferă echipamente de joacă clasice pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        4.944408,
+                        51.327995
+                  ]
+            },
+            {
+                  "name": "Buurtplein Technico",
+                  "text": "Locul de joacă Buurtplein Technico din Turnhout este un spațiu modern de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.945338,
+                        51.315313
+                  ]
+            },
+            {
+                  "name": "Speelpleintje Teuntjeswijk",
+                  "text": "Locul de joacă Speelpleintje Teuntjeswijk din Turnhout oferă un mediu frumos pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.97472,
+                        51.3398
+                  ]
             }
       ],
       "en": [
@@ -24249,7 +29415,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Stadsboerderij",
                   "text": "A city farm in Turnhout offering visitors a glimpse into rural and farm life.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.935443,
                         51.333697
@@ -24285,7 +29451,7 @@ export const belgiumCitiesV2: POI[] = [
             {
                   "name": "Dierenweide",
                   "text": "An animal enclosure in Turnhout where visitors can see domestic animals up close.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.944671,
                         51.307355
@@ -24425,6 +29591,222 @@ export const belgiumCitiesV2: POI[] = [
                         4.955464,
                         51.3215
                   ]
+            },
+            {
+                  "name": "Treskes vijver",
+                  "text": "The Treskes vijver lake in Turnhout offers a peaceful setting for walks and nature scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.934915,
+                        51.288835
+                  ]
+            },
+            {
+                  "name": "Kievits Venneken",
+                  "text": "The Kievits Venneken lake in Turnhout is a serene spot for relaxation and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.865396,
+                        51.299419
+                  ]
+            },
+            {
+                  "name": "Bluswatervoorraad",
+                  "text": "The Bluswatervoorraad lake in Turnhout provides a natural backdrop for a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        4.934638,
+                        51.295803
+                  ]
+            },
+            {
+                  "name": "Speelplein Schobbard",
+                  "text": "The Speelplein Schobbard playground in Turnhout is an ideal destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.959927,
+                        51.306403
+                  ]
+            },
+            {
+                  "name": "Den Brand",
+                  "text": "The Den Brand playground in Turnhout offers children plenty of space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        4.960547,
+                        51.308569
+                  ]
+            },
+            {
+                  "name": "De Blaas",
+                  "text": "The De Blaas playground in Turnhout is a lovely spot for children to enjoy active play.",
+                  "category": "family",
+                  "coords": [
+                        4.92725,
+                        51.325199
+                  ]
+            },
+            {
+                  "name": "Buurtplein Oranjemolenstraat",
+                  "text": "The Buurtplein Oranjemolenstraat playground in Turnhout offers family-friendly recreation in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        4.962918,
+                        51.322879
+                  ]
+            },
+            {
+                  "name": "Speelplein Pottenbakkersstraat",
+                  "text": "The Speelplein Pottenbakkersstraat playground in Turnhout is a popular gathering spot for families.",
+                  "category": "family",
+                  "coords": [
+                        4.952739,
+                        51.30227
+                  ]
+            },
+            {
+                  "name": "Buurtplein Pater Verschuerenstraat",
+                  "text": "The Buurtplein Pater Verschuerenstraat playground in Turnhout invites local children for outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        4.934015,
+                        51.315645
+                  ]
+            },
+            {
+                  "name": "Buurtplein Rood Kruisstraat",
+                  "text": "The Buurtplein Rood Kruisstraat playground in Turnhout is a family-friendly outdoor destination.",
+                  "category": "family",
+                  "coords": [
+                        4.932316,
+                        51.331093
+                  ]
+            },
+            {
+                  "name": "Buurtplein Groenplein",
+                  "text": "The Buurtplein Groenplein playground in Turnhout provides a pleasant atmosphere for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.947555,
+                        51.329859
+                  ]
+            },
+            {
+                  "name": "Raf & Otje",
+                  "text": "The Raf & Otje playground in Turnhout is a diverse recreational spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        4.957326,
+                        51.322003
+                  ]
+            },
+            {
+                  "name": "Mini Golf Stadspark",
+                  "text": "The Mini Golf Stadspark in Turnhout provides miniature golf fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.948008,
+                        51.308905
+                  ]
+            },
+            {
+                  "name": "Buurtplein Hollandsestraat",
+                  "text": "The Buurtplein Hollandsestraat playground in Turnhout invites children for active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        4.940235,
+                        51.327772
+                  ]
+            },
+            {
+                  "name": "De Koekoek",
+                  "text": "The De Koekoek playground in Turnhout is a lovely destination for families in the area.",
+                  "category": "family",
+                  "coords": [
+                        4.916348,
+                        51.335112
+                  ]
+            },
+            {
+                  "name": "speelplek Loechtenberg",
+                  "text": "The Loechtenberg playground in Turnhout offers children various opportunities for fun and play.",
+                  "category": "family",
+                  "coords": [
+                        4.938553,
+                        51.319759
+                  ]
+            },
+            {
+                  "name": "ontmoetingsruimte Meuletiende",
+                  "text": "The Meuletiende playground in Turnhout serves as a family-friendly community gathering spot.",
+                  "category": "family",
+                  "coords": [
+                        4.957019,
+                        51.32908
+                  ]
+            },
+            {
+                  "name": "ontmoetingsplein Tijl- en Nelestraat",
+                  "text": "The Tijl- en Nelestraat playground in Turnhout provides space for activity and play.",
+                  "category": "family",
+                  "coords": [
+                        4.961826,
+                        51.325994
+                  ]
+            },
+            {
+                  "name": "Speelplein Swat Engelenstraat",
+                  "text": "The Speelplein Swat Engelenstraat playground in Turnhout is a great place for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        4.92489,
+                        51.315483
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klaverhof",
+                  "text": "The Speeltuin Klaverhof playground in Turnhout invites families to enjoy time together.",
+                  "category": "family",
+                  "coords": [
+                        4.929188,
+                        51.327175
+                  ]
+            },
+            {
+                  "name": "Buurtplein Heizijdse Velden",
+                  "text": "The Buurtplein Heizijdse Velden playground in Turnhout is an attractive spot for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        4.93653,
+                        51.33124
+                  ]
+            },
+            {
+                  "name": "Speelplein Lindestraat",
+                  "text": "The Speelplein Lindestraat playground in Turnhout features classic play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        4.944408,
+                        51.327995
+                  ]
+            },
+            {
+                  "name": "Buurtplein Technico",
+                  "text": "The Buurtplein Technico playground in Turnhout is a modern meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        4.945338,
+                        51.315313
+                  ]
+            },
+            {
+                  "name": "Speelpleintje Teuntjeswijk",
+                  "text": "The Speelpleintje Teuntjeswijk playground in Turnhout provides a nice environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.97472,
+                        51.3398
+                  ]
             }
       ]
 },
@@ -24472,7 +29854,196 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["Reconnue mondialement comme la capitale des cartes à jouer, produisant des milliards de jeux par an", "Carta Mundi, le plus grand fabricant de cartes à jouer au monde, y a son siège social", "Le château des ducs de Brabant date du XIIe siècle et sert aujourd'hui de palais de justice", "Le béguinage de Turnhout est un site de l'UNESCO fondé au XIIIe siècle", "Désignée ville principale de la région géographique de la Campine (Kempen)", "Le Musée Taxandria se consacre à l'histoire et au folklore de la région de la Campine", "Le Turnhoutse Vennengebied est une zone écologique majeure de 500 hectares"],
     }, image: "/poi-images/belgium-turnhout-cities-v2.webp"},
   {
-    id: "belgium-sint-truiden-cities-v2",
+    id: "belgium-sint-truiden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brouwerij Wilderen",
+                  "text": "Dieser Spielplatz in Sint Truiden bietet Spaß und Spiel im Freien für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.144795,
+                        50.818865
+                  ]
+            },
+            {
+                  "name": "Het Speelpark",
+                  "text": "Dieser Spielplatz in Sint Truiden ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        5.191121,
+                        50.824104
+                  ]
+            },
+            {
+                  "name": "Stedelijk Speelplein Het Bevingske",
+                  "text": "Dieser Spielplatz in Sint Truiden bietet einen sicheren und angenehmen Raum für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.175507,
+                        50.798569
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Diese Spielwiese in Sint Truiden bietet eine großzügige Außenfläche für Kinder zum Laufen und gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.164978,
+                        50.816872
+                  ]
+            },
+            {
+                  "name": "Het Burchtje",
+                  "text": "Dieser Spielplatz in Sint Truiden bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.217295,
+                        50.801545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brouwerij Wilderen",
+                  "text": "Ez a Sint Truiden-i játszótér szórakoztató tevékenységeket és szabadtéri játékot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        5.144795,
+                        50.818865
+                  ]
+            },
+            {
+                  "name": "Het Speelpark",
+                  "text": "Ez a Sint Truiden-i játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        5.191121,
+                        50.824104
+                  ]
+            },
+            {
+                  "name": "Stedelijk Speelplein Het Bevingske",
+                  "text": "Ez a Sint Truiden-i játszótér biztonságos és élvezetes helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.175507,
+                        50.798569
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Ez a Sint Truiden-i játszórét tágas szabadtéri területet biztosít a gyermekek számára a futkározáshoz és a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.164978,
+                        50.816872
+                  ]
+            },
+            {
+                  "name": "Het Burchtje",
+                  "text": "Ez a Sint Truiden-i játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        5.217295,
+                        50.801545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brouwerij Wilderen",
+                  "text": "Acest loc de joacă din Sint Truiden oferă activități distractive și joacă în aer liber pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.144795,
+                        50.818865
+                  ]
+            },
+            {
+                  "name": "Het Speelpark",
+                  "text": "Acest loc de joacă din Sint Truiden este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
+                  "category": "family",
+                  "coords": [
+                        5.191121,
+                        50.824104
+                  ]
+            },
+            {
+                  "name": "Stedelijk Speelplein Het Bevingske",
+                  "text": "Acest loc de joacă din Sint Truiden oferă un spațiu sigur și plăcut pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.175507,
+                        50.798569
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "Această pajiște de joacă din Sint Truiden oferă o zonă spațioasă în aer liber pentru copii, pentru a alerga și a se juca împreună.",
+                  "category": "family",
+                  "coords": [
+                        5.164978,
+                        50.816872
+                  ]
+            },
+            {
+                  "name": "Het Burchtje",
+                  "text": "Acest loc de joacă din Sint Truiden oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.217295,
+                        50.801545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brouwerij Wilderen",
+                  "text": "This playground in Sint Truiden offers fun activities and outdoor play for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.144795,
+                        50.818865
+                  ]
+            },
+            {
+                  "name": "Het Speelpark",
+                  "text": "This playground in Sint Truiden is a great spot for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        5.191121,
+                        50.824104
+                  ]
+            },
+            {
+                  "name": "Stedelijk Speelplein Het Bevingske",
+                  "text": "This playground in Sint Truiden provides a safe and enjoyable space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.175507,
+                        50.798569
+                  ]
+            },
+            {
+                  "name": "Speelweide",
+                  "text": "This play meadow in Sint Truiden provides a spacious outdoor area for children to run and play together.",
+                  "category": "family",
+                  "coords": [
+                        5.164978,
+                        50.816872
+                  ]
+            },
+            {
+                  "name": "Het Burchtje",
+                  "text": "This playground in Sint Truiden offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.217295,
+                        50.801545
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Sint-Truiden", hu: "Sint-Truiden", ro: "Sint-Truiden", en: "Sint-Truiden"},
@@ -24586,7 +30157,7 @@ imageHint: "Sint-Truiden Abbey tower",
             {
                   "name": "Dierentuin Stedelijk Bospark",
                   "text": "Ein kleiner Tierpark im Bospark von Lokeren, beliebt bei Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.004385,
                         51.112145
@@ -24690,6 +30261,78 @@ imageHint: "Sint-Truiden Abbey tower",
                         3.992449,
                         51.101958
                   ]
+            },
+            {
+                  "name": "Speeltuin Hoedhaarpark",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.992874,
+                        51.098524
+                  ]
+            },
+            {
+                  "name": "Speeltuin Veldstraat",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.993404,
+                        51.09976
+                  ]
+            },
+            {
+                  "name": "Speeltuin Molsbroekpark",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.005449,
+                        51.104181
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spoelepark",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.993171,
+                        51.090991
+                  ]
+            },
+            {
+                  "name": "Staaktestraat Speeltuin",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.966881,
+                        51.099954
+                  ]
+            },
+            {
+                  "name": "Speelplein Achter Sint-Anna",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.980484,
+                        51.100799
+                  ]
+            },
+            {
+                  "name": "Speeltuin Raemdonckpark",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.992749,
+                        51.111965
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlasdam",
+                  "text": "Ein familienfreundlicher Spielplatz in Lokeren, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.984385,
+                        51.103093
+                  ]
             }
       ],
       "hu": [
@@ -24759,7 +30402,7 @@ imageHint: "Sint-Truiden Abbey tower",
             {
                   "name": "Dierentuin Stedelijk Bospark",
                   "text": "Lokeren Bospark területén található kis állatkert, a családok kedvelt helye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.004385,
                         51.112145
@@ -24863,6 +30506,78 @@ imageHint: "Sint-Truiden Abbey tower",
                         3.992449,
                         51.101958
                   ]
+            },
+            {
+                  "name": "Speeltuin Hoedhaarpark",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.992874,
+                        51.098524
+                  ]
+            },
+            {
+                  "name": "Speeltuin Veldstraat",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.993404,
+                        51.09976
+                  ]
+            },
+            {
+                  "name": "Speeltuin Molsbroekpark",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.005449,
+                        51.104181
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spoelepark",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.993171,
+                        51.090991
+                  ]
+            },
+            {
+                  "name": "Staaktestraat Speeltuin",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.966881,
+                        51.099954
+                  ]
+            },
+            {
+                  "name": "Speelplein Achter Sint-Anna",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.980484,
+                        51.100799
+                  ]
+            },
+            {
+                  "name": "Speeltuin Raemdonckpark",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.992749,
+                        51.111965
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlasdam",
+                  "text": "Családbarát játszótér Lokeren városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.984385,
+                        51.103093
+                  ]
             }
       ],
       "ro": [
@@ -24932,7 +30647,7 @@ imageHint: "Sint-Truiden Abbey tower",
             {
                   "name": "Dierentuin Stedelijk Bospark",
                   "text": "O mică grădină zoologică în Bospark din Lokeren, populară printre familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.004385,
                         51.112145
@@ -25036,6 +30751,78 @@ imageHint: "Sint-Truiden Abbey tower",
                         3.992449,
                         51.101958
                   ]
+            },
+            {
+                  "name": "Speeltuin Hoedhaarpark",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.992874,
+                        51.098524
+                  ]
+            },
+            {
+                  "name": "Speeltuin Veldstraat",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.993404,
+                        51.09976
+                  ]
+            },
+            {
+                  "name": "Speeltuin Molsbroekpark",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.005449,
+                        51.104181
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spoelepark",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.993171,
+                        51.090991
+                  ]
+            },
+            {
+                  "name": "Staaktestraat Speeltuin",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.966881,
+                        51.099954
+                  ]
+            },
+            {
+                  "name": "Speelplein Achter Sint-Anna",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.980484,
+                        51.100799
+                  ]
+            },
+            {
+                  "name": "Speeltuin Raemdonckpark",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.992749,
+                        51.111965
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlasdam",
+                  "text": "Un loc de joacă pentru familii în Lokeren, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.984385,
+                        51.103093
+                  ]
             }
       ],
       "en": [
@@ -25105,7 +30892,7 @@ imageHint: "Sint-Truiden Abbey tower",
             {
                   "name": "Dierentuin Stedelijk Bospark",
                   "text": "A small zoo located in the Bospark of Lokeren, popular with families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.004385,
                         51.112145
@@ -25209,6 +30996,78 @@ imageHint: "Sint-Truiden Abbey tower",
                         3.992449,
                         51.101958
                   ]
+            },
+            {
+                  "name": "Speeltuin Hoedhaarpark",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.992874,
+                        51.098524
+                  ]
+            },
+            {
+                  "name": "Speeltuin Veldstraat",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.993404,
+                        51.09976
+                  ]
+            },
+            {
+                  "name": "Speeltuin Molsbroekpark",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.005449,
+                        51.104181
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spoelepark",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.993171,
+                        51.090991
+                  ]
+            },
+            {
+                  "name": "Staaktestraat Speeltuin",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.966881,
+                        51.099954
+                  ]
+            },
+            {
+                  "name": "Speelplein Achter Sint-Anna",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.980484,
+                        51.100799
+                  ]
+            },
+            {
+                  "name": "Speeltuin Raemdonckpark",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.992749,
+                        51.111965
+                  ]
+            },
+            {
+                  "name": "Speelterrein Vlasdam",
+                  "text": "A family-friendly playground in Lokeren offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.984385,
+                        51.103093
+                  ]
             }
       ]
 },
@@ -25289,7 +31148,7 @@ imageHint: "Lokeren city hall and square",
             {
                   "name": "Kinderboerderij De Bogaard",
                   "text": "Ein Streichelzoo und Bauernhof für Kinder in Geel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.99242,
                         51.156041
@@ -25384,6 +31243,222 @@ imageHint: "Lokeren city hall and square",
                         4.975695,
                         51.161932
                   ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "Der See Vierkante Vijver in Geel ist ein ruhiger Ort für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "The Arcades",
+                  "text": "Die Spielhalle The Arcades in Geel bietet Unterhaltung und Abwechslung für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        4.961841,
+                        51.14891
+                  ]
+            },
+            {
+                  "name": "De Waaiburg",
+                  "text": "Der Spielplatz De Waaiburg in Geel ist ein familienfreundliches Ziel für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.985711,
+                        51.160043
+                  ]
+            },
+            {
+                  "name": "Speelplein Eikevelden",
+                  "text": "Der Spielplatz Speelplein Eikevelden in Geel bietet Kindern viel Freude an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        5.001908,
+                        51.1554
+                  ]
+            },
+            {
+                  "name": "Speelbos Fien Geerinckxstraat",
+                  "text": "Der Naturspielplatz Speelbos Fien Geerinckxstraat in Geel lädt zu Abenteuern im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.99626,
+                        51.156116
+                  ]
+            },
+            {
+                  "name": "Armand Preud'Homme",
+                  "text": "Der Spielplatz Armand Preud'Homme in Geel ist ein schöner Ort für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        5.000986,
+                        51.167484
+                  ]
+            },
+            {
+                  "name": "Speelplein Pastoor Op de Beeckstraat",
+                  "text": "Der Spielplatz Speelplein Pastoor Op de Beeckstraat in Geel bietet abwechslungsreiche Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        4.991856,
+                        51.170739
+                  ]
+            },
+            {
+                  "name": "Buurtplein Dr. Verwaeststraat",
+                  "text": "Der Spielplatz Buurtplein Dr. Verwaeststraat in Geel ist ein gut erreichbares Ziel für den Nachwuchs.",
+                  "category": "family",
+                  "coords": [
+                        4.993342,
+                        51.166956
+                  ]
+            },
+            {
+                  "name": "Speelbos Engels Kamp",
+                  "text": "Der Naturspielplatz Speelbos Engels Kamp in Geel bietet spielerische Erlebnisse in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        5.020616,
+                        51.181927
+                  ]
+            },
+            {
+                  "name": "Speelplein Meidoornstraat",
+                  "text": "Der Spielplatz Speelplein Meidoornstraat in Geel lädt Kinder zum täglichen Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.979549,
+                        51.165545
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Pastoor Dergentstraat",
+                  "text": "Der Spielplatz Wijkspeelplein Pastoor Dergentstraat in Geel ist ein zentraler Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.998215,
+                        51.165727
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein Holvenseheide",
+                  "text": "Der Spielplatz Buurtspeelplein Holvenseheide in Geel bietet Raum für sportliche Betätigung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        4.99359,
+                        51.181553
+                  ]
+            },
+            {
+                  "name": "Speelplein Leschot",
+                  "text": "Der Spielplatz Speelplein Leschot in Geel ist ein beliebter Ort für Kinder in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        5.010879,
+                        51.167398
+                  ]
+            },
+            {
+                  "name": "Speelplein Korte Plek",
+                  "text": "Der Spielplatz Speelplein Korte Plek in Geel bietet einfache und sichere Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        4.969644,
+                        51.166156
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Brabantsblok",
+                  "text": "Der Spielplatz Brabantsblok in Geel lädt zu geselligem Spiel im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.981773,
+                        51.174398
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Leunen",
+                  "text": "Der Spielplatz Wijkspeelplein Leunen in Geel ist ein familienfreundliches Ausflugsziel im Viertel.",
+                  "category": "family",
+                  "coords": [
+                        4.97322,
+                        51.171654
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Scherpendries",
+                  "text": "Der Spielplatz Scherpendries in Geel bietet Kindern eine sichere Umgebung zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        5.00404,
+                        51.167421
+                  ]
+            },
+            {
+                  "name": "Buurtplein - Lupinenstraat",
+                  "text": "Der Spielplatz Buurtplein Lupinenstraat in Geel ist ein kleiner, feiner Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.987287,
+                        51.183303
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Velleke",
+                  "text": "Der Spielplatz Wijkspeelplein Velleke in Geel bietet abwechslungsreichen Spielspaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.982451,
+                        51.165023
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Woonzorgcentrum",
+                  "text": "Der Spielplatz beim Woonzorgcentrum in Geel ist ein einladender Ort für Generationen.",
+                  "category": "family",
+                  "coords": [
+                        4.997686,
+                        51.161794
+                  ]
+            },
+            {
+                  "name": "Speelplein Hollestraat",
+                  "text": "Der Spielplatz Speelplein Hollestraat in Geel lädt Kinder zu aktiven Stunden im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        5.007491,
+                        51.166248
+                  ]
+            },
+            {
+                  "name": "Speelplein Kempstraat",
+                  "text": "Der Spielplatz Speelplein Kempstraat in Geel bietet Kindern viel Platz zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.009653,
+                        51.167301
+                  ]
+            },
+            {
+                  "name": "Tuintje van meester Jan",
+                  "text": "Der Spielplatz Tuintje van meester Jan in Geel ist ein charmanter Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.98536,
+                        51.174704
+                  ]
+            },
+            {
+                  "name": "Straatplein Vidse",
+                  "text": "Der Spielplatz Straatplein Vidse in Geel bietet eine unkomplizierte Möglichkeit zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.977696,
+                        51.166949
+                  ]
             }
       ],
       "hu": [
@@ -25417,7 +31492,7 @@ imageHint: "Lokeren city hall and square",
             {
                   "name": "Kinderboerderij De Bogaard",
                   "text": "Állatsimogató és gyermekfarm Geelben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.99242,
                         51.156041
@@ -25512,6 +31587,222 @@ imageHint: "Lokeren city hall and square",
                         4.975695,
                         51.161932
                   ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "A Geel városában található Vierkante Vijver tó nyugodt helyszín a sétáláshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "The Arcades",
+                  "text": "A geeli The Arcades játékterem izgalmas kikapcsolódást és szórakozást kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        4.961841,
+                        51.14891
+                  ]
+            },
+            {
+                  "name": "De Waaiburg",
+                  "text": "A geeli De Waaiburg játszótér barátságos környezetben várja a játszani vágyó gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.985711,
+                        51.160043
+                  ]
+            },
+            {
+                  "name": "Speelplein Eikevelden",
+                  "text": "A Geel városában található Speelplein Eikevelden játszótér örömteli pillanatokat kínál a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        5.001908,
+                        51.1554
+                  ]
+            },
+            {
+                  "name": "Speelbos Fien Geerinckxstraat",
+                  "text": "A geeli Speelbos Fien Geerinckxstraat játszóerdő izgalmas kalandokat kínál a természetben.",
+                  "category": "family",
+                  "coords": [
+                        4.99626,
+                        51.156116
+                  ]
+            },
+            {
+                  "name": "Armand Preud'Homme",
+                  "text": "A Geel városában található Armand Preud'Homme játszótér kedvelt helyszín a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.000986,
+                        51.167484
+                  ]
+            },
+            {
+                  "name": "Speelplein Pastoor Op de Beeckstraat",
+                  "text": "A geeli Speelplein Pastoor Op de Beeckstraat játszótér változatos kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.991856,
+                        51.170739
+                  ]
+            },
+            {
+                  "name": "Buurtplein Dr. Verwaeststraat",
+                  "text": "A Geel városában fekvő Buurtplein Dr. Verwaeststraat játszótér könnyen megközelíthető a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.993342,
+                        51.166956
+                  ]
+            },
+            {
+                  "name": "Speelbos Engels Kamp",
+                  "text": "A geeli Speelbos Engels Kamp játszóerdő természetközeli élményeket nyújt a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        5.020616,
+                        51.181927
+                  ]
+            },
+            {
+                  "name": "Speelplein Meidoornstraat",
+                  "text": "A Geel városában található Speelplein Meidoornstraat játszótér mindennapi szórakozást biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.979549,
+                        51.165545
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Pastoor Dergentstraat",
+                  "text": "A geeli Wijkspeelplein Pastoor Dergentstraat játszótér központi találkozóhely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.998215,
+                        51.165727
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein Holvenseheide",
+                  "text": "A Geel városában lévő Buurtspeelplein Holvenseheide játszótér teret ad a sportnak és a játéknak.",
+                  "category": "family",
+                  "coords": [
+                        4.99359,
+                        51.181553
+                  ]
+            },
+            {
+                  "name": "Speelplein Leschot",
+                  "text": "A geeli Speelplein Leschot játszótér kedvelt helyszín a környékbeli gyerekek körében.",
+                  "category": "family",
+                  "coords": [
+                        5.010879,
+                        51.167398
+                  ]
+            },
+            {
+                  "name": "Speelplein Korte Plek",
+                  "text": "A Geel városában található Speelplein Korte Plek játszótér biztonságos játékokat kínál a kicsiknek.",
+                  "category": "family",
+                  "coords": [
+                        4.969644,
+                        51.166156
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Brabantsblok",
+                  "text": "A geeli Brabantsblok játszótér közösségi élményt és szabadtéri játékot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.981773,
+                        51.174398
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Leunen",
+                  "text": "A Geel városában fekvő Wijkspeelplein Leunen játszótér remek kikapcsolódás a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.97322,
+                        51.171654
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Scherpendries",
+                  "text": "A geeli Scherpendries játszótér biztonságos terepet nyújt a gyermekek mozgásigényének.",
+                  "category": "family",
+                  "coords": [
+                        5.00404,
+                        51.167421
+                  ]
+            },
+            {
+                  "name": "Buurtplein - Lupinenstraat",
+                  "text": "A Geel városában található Buurtplein Lupinenstraat játszótér kedves kis helyszín a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.987287,
+                        51.183303
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Velleke",
+                  "text": "A geeli Wijkspeelplein Velleke játszótér változatos szórakozást ígér a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.982451,
+                        51.165023
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Woonzorgcentrum",
+                  "text": "A geeli Woonzorgcentrum melletti játszótér hívogató közösségi tér a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.997686,
+                        51.161794
+                  ]
+            },
+            {
+                  "name": "Speelplein Hollestraat",
+                  "text": "A Geel városában lévő Speelplein Hollestraat játszótér aktív szabadtéri játékra csábít.",
+                  "category": "family",
+                  "coords": [
+                        5.007491,
+                        51.166248
+                  ]
+            },
+            {
+                  "name": "Speelplein Kempstraat",
+                  "text": "A geeli Speelplein Kempstraat játszótér tágas helyet biztosít a felfedezéshez és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.009653,
+                        51.167301
+                  ]
+            },
+            {
+                  "name": "Tuintje van meester Jan",
+                  "text": "A Geel városában található Tuintje van meester Jan játszótér hangulatos helyszín a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.98536,
+                        51.174704
+                  ]
+            },
+            {
+                  "name": "Straatplein Vidse",
+                  "text": "A geeli Straatplein Vidse játszótér egyszerű kikapcsolódást kínál a gyerekeknek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        4.977696,
+                        51.166949
+                  ]
             }
       ],
       "ro": [
@@ -25545,7 +31836,7 @@ imageHint: "Lokeren city hall and square",
             {
                   "name": "Kinderboerderij De Bogaard",
                   "text": "O grădină zoologică și fermă pentru copii în Geel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.99242,
                         51.156041
@@ -25640,6 +31931,222 @@ imageHint: "Lokeren city hall and square",
                         4.975695,
                         51.161932
                   ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "Lacul Vierkante Vijver din Geel este un loc liniștit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "The Arcades",
+                  "text": "Sala de jocuri The Arcades din Geel oferă divertisment și diverse jocuri pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        4.961841,
+                        51.14891
+                  ]
+            },
+            {
+                  "name": "De Waaiburg",
+                  "text": "Locul de joacă De Waaiburg din Geel este o destinație prietenoasă pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.985711,
+                        51.160043
+                  ]
+            },
+            {
+                  "name": "Speelplein Eikevelden",
+                  "text": "Locul de joacă Speelplein Eikevelden din Geel oferă copiilor bucuria de a se juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.001908,
+                        51.1554
+                  ]
+            },
+            {
+                  "name": "Speelbos Fien Geerinckxstraat",
+                  "text": "Locul de joacă natural Speelbos Fien Geerinckxstraat din Geel invită copiii la aventuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.99626,
+                        51.156116
+                  ]
+            },
+            {
+                  "name": "Armand Preud'Homme",
+                  "text": "Locul de joacă Armand Preud'Homme din Geel este un spațiu plăcut pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        5.000986,
+                        51.167484
+                  ]
+            },
+            {
+                  "name": "Speelplein Pastoor Op de Beeckstraat",
+                  "text": "Locul de joacă Pastoor Op de Beeckstraat din Geel oferă opțiuni variate de distracție.",
+                  "category": "family",
+                  "coords": [
+                        4.991856,
+                        51.170739
+                  ]
+            },
+            {
+                  "name": "Buurtplein Dr. Verwaeststraat",
+                  "text": "Locul de joacă Dr. Verwaeststraat din Geel este o destinație accesibilă pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        4.993342,
+                        51.166956
+                  ]
+            },
+            {
+                  "name": "Speelbos Engels Kamp",
+                  "text": "Locul de joacă natural Speelbos Engels Kamp din Geel oferă experiențe ludice în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        5.020616,
+                        51.181927
+                  ]
+            },
+            {
+                  "name": "Speelplein Meidoornstraat",
+                  "text": "Locul de joacă Speelplein Meidoornstraat din Geel invită copiii la joacă zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.979549,
+                        51.165545
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Pastoor Dergentstraat",
+                  "text": "Locul de joacă Pastoor Dergentstraat din Geel este un punct de întâlnire central pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.998215,
+                        51.165727
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein Holvenseheide",
+                  "text": "Locul de joacă Holvenseheide din Geel oferă spațiu pentru activități sportive și joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.99359,
+                        51.181553
+                  ]
+            },
+            {
+                  "name": "Speelplein Leschot",
+                  "text": "Locul de joacă Speelplein Leschot din Geel este un loc popular pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        5.010879,
+                        51.167398
+                  ]
+            },
+            {
+                  "name": "Speelplein Korte Plek",
+                  "text": "Locul de joacă Speelplein Korte Plek din Geel oferă echipamente de joacă simple și sigure.",
+                  "category": "family",
+                  "coords": [
+                        4.969644,
+                        51.166156
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Brabantsblok",
+                  "text": "Locul de joacă Brabantsblok din Geel invită la joacă socială în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.981773,
+                        51.174398
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Leunen",
+                  "text": "Locul de joacă Wijkspeelplein Leunen din Geel este o destinație prietenoasă în cartier.",
+                  "category": "family",
+                  "coords": [
+                        4.97322,
+                        51.171654
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Scherpendries",
+                  "text": "Locul de joacă Scherpendries din Geel oferă copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.00404,
+                        51.167421
+                  ]
+            },
+            {
+                  "name": "Buurtplein - Lupinenstraat",
+                  "text": "Locul de joacă Lupinenstraat din Geel este un spațiu mic și plăcut pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.987287,
+                        51.183303
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Velleke",
+                  "text": "Locul de joacă Wijkspeelplein Velleke din Geel oferă distracție variată pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.982451,
+                        51.165023
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Woonzorgcentrum",
+                  "text": "Locul de joacă de lângă Woonzorgcentrum din Geel este un spațiu primitor pentru toate generațiile.",
+                  "category": "family",
+                  "coords": [
+                        4.997686,
+                        51.161794
+                  ]
+            },
+            {
+                  "name": "Speelplein Hollestraat",
+                  "text": "Locul de joacă Speelplein Hollestraat din Geel invită copiii la ore active în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.007491,
+                        51.166248
+                  ]
+            },
+            {
+                  "name": "Speelplein Kempstraat",
+                  "text": "Locul de joacă Speelplein Kempstraat din Geel oferă mult spațiu pentru explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.009653,
+                        51.167301
+                  ]
+            },
+            {
+                  "name": "Tuintje van meester Jan",
+                  "text": "Locul de joacă Tuintje van meester Jan din Geel este un spațiu fermecător pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.98536,
+                        51.174704
+                  ]
+            },
+            {
+                  "name": "Straatplein Vidse",
+                  "text": "Locul de joacă Straatplein Vidse din Geel oferă o modalitate simplă de recreere în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.977696,
+                        51.166949
+                  ]
             }
       ],
       "en": [
@@ -25673,7 +32180,7 @@ imageHint: "Lokeren city hall and square",
             {
                   "name": "Kinderboerderij De Bogaard",
                   "text": "A petting zoo and children's farm in Geel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.99242,
                         51.156041
@@ -25767,6 +32274,222 @@ imageHint: "Lokeren city hall and square",
                   "coords": [
                         4.975695,
                         51.161932
+                  ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "The Vierkante Vijver lake in Geel is a quiet spot for nature walks and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "The Arcades",
+                  "text": "The Arcades amusement arcade in Geel offers entertainment and gaming fun for visitors.",
+                  "category": "family",
+                  "coords": [
+                        4.961841,
+                        51.14891
+                  ]
+            },
+            {
+                  "name": "De Waaiburg",
+                  "text": "The De Waaiburg playground in Geel is a family-friendly destination for children's play.",
+                  "category": "family",
+                  "coords": [
+                        4.985711,
+                        51.160043
+                  ]
+            },
+            {
+                  "name": "Speelplein Eikevelden",
+                  "text": "The Speelplein Eikevelden playground in Geel offers children plenty of outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        5.001908,
+                        51.1554
+                  ]
+            },
+            {
+                  "name": "Speelbos Fien Geerinckxstraat",
+                  "text": "The Speelbos Fien Geerinckxstraat play forest in Geel invites children to outdoor adventures.",
+                  "category": "family",
+                  "coords": [
+                        4.99626,
+                        51.156116
+                  ]
+            },
+            {
+                  "name": "Armand Preud'Homme",
+                  "text": "The Armand Preud'Homme playground in Geel is a lovely spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        5.000986,
+                        51.167484
+                  ]
+            },
+            {
+                  "name": "Speelplein Pastoor Op de Beeckstraat",
+                  "text": "The Speelplein Pastoor Op de Beeckstraat playground in Geel offers various play options.",
+                  "category": "family",
+                  "coords": [
+                        4.991856,
+                        51.170739
+                  ]
+            },
+            {
+                  "name": "Buurtplein Dr. Verwaeststraat",
+                  "text": "The Buurtplein Dr. Verwaeststraat playground in Geel is an accessible destination for children.",
+                  "category": "family",
+                  "coords": [
+                        4.993342,
+                        51.166956
+                  ]
+            },
+            {
+                  "name": "Speelbos Engels Kamp",
+                  "text": "The Speelbos Engels Kamp play forest in Geel offers playful experiences in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        5.020616,
+                        51.181927
+                  ]
+            },
+            {
+                  "name": "Speelplein Meidoornstraat",
+                  "text": "The Speelplein Meidoornstraat playground in Geel invites children for daily outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        4.979549,
+                        51.165545
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Pastoor Dergentstraat",
+                  "text": "The Wijkspeelplein Pastoor Dergentstraat playground in Geel is a central gathering spot for families.",
+                  "category": "family",
+                  "coords": [
+                        4.998215,
+                        51.165727
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein Holvenseheide",
+                  "text": "The Buurtspeelplein Holvenseheide playground in Geel provides space for sports and play.",
+                  "category": "family",
+                  "coords": [
+                        4.99359,
+                        51.181553
+                  ]
+            },
+            {
+                  "name": "Speelplein Leschot",
+                  "text": "The Speelplein Leschot playground in Geel is a popular spot for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        5.010879,
+                        51.167398
+                  ]
+            },
+            {
+                  "name": "Speelplein Korte Plek",
+                  "text": "The Speelplein Korte Plek playground in Geel features simple and safe play equipment.",
+                  "category": "family",
+                  "coords": [
+                        4.969644,
+                        51.166156
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Brabantsblok",
+                  "text": "The Brabantsblok playground in Geel invites children for social play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.981773,
+                        51.174398
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Leunen",
+                  "text": "The Wijkspeelplein Leunen playground in Geel is a family-friendly neighborhood destination.",
+                  "category": "family",
+                  "coords": [
+                        4.97322,
+                        51.171654
+                  ]
+            },
+            {
+                  "name": "Buurtspeelplein - Scherpendries",
+                  "text": "The Scherpendries playground in Geel offers a safe environment for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        5.00404,
+                        51.167421
+                  ]
+            },
+            {
+                  "name": "Buurtplein - Lupinenstraat",
+                  "text": "The Buurtplein Lupinenstraat playground in Geel is a charming spot for families.",
+                  "category": "family",
+                  "coords": [
+                        4.987287,
+                        51.183303
+                  ]
+            },
+            {
+                  "name": "Wijkspeelplein Velleke",
+                  "text": "The Wijkspeelplein Velleke playground in Geel provides varied fun for children.",
+                  "category": "family",
+                  "coords": [
+                        4.982451,
+                        51.165023
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Woonzorgcentrum",
+                  "text": "The playground at the Woonzorgcentrum in Geel is a welcoming spot for families.",
+                  "category": "family",
+                  "coords": [
+                        4.997686,
+                        51.161794
+                  ]
+            },
+            {
+                  "name": "Speelplein Hollestraat",
+                  "text": "The Speelplein Hollestraat playground in Geel invites children to enjoy active time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.007491,
+                        51.166248
+                  ]
+            },
+            {
+                  "name": "Speelplein Kempstraat",
+                  "text": "The Speelplein Kempstraat playground in Geel offers plenty of space for play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        5.009653,
+                        51.167301
+                  ]
+            },
+            {
+                  "name": "Tuintje van meester Jan",
+                  "text": "The Tuintje van meester Jan playground in Geel is a charming spot for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        4.98536,
+                        51.174704
+                  ]
+            },
+            {
+                  "name": "Straatplein Vidse",
+                  "text": "The Straatplein Vidse playground in Geel offers a simple way for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.977696,
+                        51.166949
                   ]
             }
       ]
@@ -26015,6 +32738,78 @@ imageHint: "Geel St. Dymphna Church",
                         4.238243,
                         50.732468
                   ]
+            },
+            {
+                  "name": "The Vex",
+                  "text": "Diese Spielhalle in Halle bietet eine Vielzahl von interaktiven Spielen und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        4.233242,
+                        50.73759
+                  ]
+            },
+            {
+                  "name": "Speelplein Joepie",
+                  "text": "Dieser Spielplatz in Halle bietet Spaß und Spiel im Freien für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.238936,
+                        50.724071
+                  ]
+            },
+            {
+                  "name": "Parkske",
+                  "text": "Dieser Spielplatz in Halle ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        4.235803,
+                        50.732639
+                  ]
+            },
+            {
+                  "name": "Gulden Erf",
+                  "text": "Dieser Spielplatz in Halle bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.26707,
+                        50.740896
+                  ]
+            },
+            {
+                  "name": "Windmolen",
+                  "text": "Dieser Spielplatz in Halle bietet einen sicheren und angenehmen Raum für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.221447,
+                        50.747877
+                  ]
+            },
+            {
+                  "name": "Lamme Guiche erf",
+                  "text": "Dieser Spielplatz in Halle ist ein wunderbarer Ort für Familien, um gemeinsam Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        4.224615,
+                        50.741414
+                  ]
+            },
+            {
+                  "name": "Speeltuin Mimosa",
+                  "text": "Dieser Spielplatz in Halle bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.220443,
+                        50.719504
+                  ]
+            },
+            {
+                  "name": "Speelbos Zavelput",
+                  "text": "Dieser Spielwald in Halle bietet eine natürliche Umgebung für Kinder zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.273569,
+                        50.728044
+                  ]
             }
       ],
       "hu": [
@@ -26214,6 +33009,78 @@ imageHint: "Geel St. Dymphna Church",
                   "coords": [
                         4.238243,
                         50.732468
+                  ]
+            },
+            {
+                  "name": "The Vex",
+                  "text": "Ez a hallei játékterem különféle interaktív játékokat és szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        4.233242,
+                        50.73759
+                  ]
+            },
+            {
+                  "name": "Speelplein Joepie",
+                  "text": "Ez a hallei játszótér szórakoztató tevékenységeket és szabadtéri játékot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.238936,
+                        50.724071
+                  ]
+            },
+            {
+                  "name": "Parkske",
+                  "text": "Ez a hallei játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        4.235803,
+                        50.732639
+                  ]
+            },
+            {
+                  "name": "Gulden Erf",
+                  "text": "Ez a hallei játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        4.26707,
+                        50.740896
+                  ]
+            },
+            {
+                  "name": "Windmolen",
+                  "text": "Ez a hallei játszótér biztonságos és élvezetes helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.221447,
+                        50.747877
+                  ]
+            },
+            {
+                  "name": "Lamme Guiche erf",
+                  "text": "Ez a hallei játszótér csodálatos hely a családok számára a közös szabadtéri időtöltésre.",
+                  "category": "family",
+                  "coords": [
+                        4.224615,
+                        50.741414
+                  ]
+            },
+            {
+                  "name": "Speeltuin Mimosa",
+                  "text": "Ez a hallei játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        4.220443,
+                        50.719504
+                  ]
+            },
+            {
+                  "name": "Speelbos Zavelput",
+                  "text": "Ez a hallei játszóerdő természetes környezetet kínál a gyerekeknek a felfedezéshez és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.273569,
+                        50.728044
                   ]
             }
       ],
@@ -26415,6 +33282,78 @@ imageHint: "Geel St. Dymphna Church",
                         4.238243,
                         50.732468
                   ]
+            },
+            {
+                  "name": "The Vex",
+                  "text": "Această sală de jocuri din Halle oferă o varietate de jocuri interactive și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.233242,
+                        50.73759
+                  ]
+            },
+            {
+                  "name": "Speelplein Joepie",
+                  "text": "Acest loc de joacă din Halle oferă activități distractive și joacă în aer liber pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.238936,
+                        50.724071
+                  ]
+            },
+            {
+                  "name": "Parkske",
+                  "text": "Acest loc de joacă din Halle este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
+                  "category": "family",
+                  "coords": [
+                        4.235803,
+                        50.732639
+                  ]
+            },
+            {
+                  "name": "Gulden Erf",
+                  "text": "Acest loc de joacă din Halle oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.26707,
+                        50.740896
+                  ]
+            },
+            {
+                  "name": "Windmolen",
+                  "text": "Acest loc de joacă din Halle oferă un spațiu sigur și plăcut pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.221447,
+                        50.747877
+                  ]
+            },
+            {
+                  "name": "Lamme Guiche erf",
+                  "text": "Acest loc de joacă din Halle este un loc minunat pentru familii să petreacă timp de calitate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.224615,
+                        50.741414
+                  ]
+            },
+            {
+                  "name": "Speeltuin Mimosa",
+                  "text": "Acest loc de joacă din Halle oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.220443,
+                        50.719504
+                  ]
+            },
+            {
+                  "name": "Speelbos Zavelput",
+                  "text": "Această pădure de joacă din Halle oferă un cadru natural pentru copii să exploreze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        4.273569,
+                        50.728044
+                  ]
             }
       ],
       "en": [
@@ -26615,6 +33554,78 @@ imageHint: "Geel St. Dymphna Church",
                         4.238243,
                         50.732468
                   ]
+            },
+            {
+                  "name": "The Vex",
+                  "text": "This amusement arcade in Halle offers a variety of interactive games and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        4.233242,
+                        50.73759
+                  ]
+            },
+            {
+                  "name": "Speelplein Joepie",
+                  "text": "This playground in Halle offers fun activities and outdoor play for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.238936,
+                        50.724071
+                  ]
+            },
+            {
+                  "name": "Parkske",
+                  "text": "This playground in Halle is a great spot for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        4.235803,
+                        50.732639
+                  ]
+            },
+            {
+                  "name": "Gulden Erf",
+                  "text": "This playground in Halle offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.26707,
+                        50.740896
+                  ]
+            },
+            {
+                  "name": "Windmolen",
+                  "text": "This playground in Halle provides a safe and enjoyable space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.221447,
+                        50.747877
+                  ]
+            },
+            {
+                  "name": "Lamme Guiche erf",
+                  "text": "This playground in Halle is a wonderful place for families to spend quality time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.224615,
+                        50.741414
+                  ]
+            },
+            {
+                  "name": "Speeltuin Mimosa",
+                  "text": "This playground in Halle offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.220443,
+                        50.719504
+                  ]
+            },
+            {
+                  "name": "Speelbos Zavelput",
+                  "text": "This play forest in Halle offers a natural setting for children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        4.273569,
+                        50.728044
+                  ]
             }
       ]
 },
@@ -26781,6 +33792,69 @@ imageHint: "Halle Basilica of Saint Martin",
                         3.429687,
                         50.91007
                   ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Maalbeek",
+                  "text": "Ein lokaler See in Waregem, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.443145,
+                        50.858435
+                  ]
+            },
+            {
+                  "name": "Game-INN",
+                  "text": "Eine Spielhalle in Waregem, die Unterhaltung für verschiedene Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.423595,
+                        50.896039
+                  ]
+            },
+            {
+                  "name": "Speelplein Smedenstraat",
+                  "text": "Ein familienfreundlicher Spielplatz in Waregem, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.425664,
+                        50.874697
+                  ]
+            },
+            {
+                  "name": "Speelplein Nieuwe Olm",
+                  "text": "Ein familienfreundlicher Spielplatz in Waregem, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.427464,
+                        50.890349
+                  ]
+            },
+            {
+                  "name": "meersblomme",
+                  "text": "Ein familienfreundlicher Spielplatz in Waregem, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.445203,
+                        50.887649
+                  ]
+            },
+            {
+                  "name": "Speelplein Gustaaf Desmetstraat",
+                  "text": "Ein familienfreundlicher Spielplatz in Waregem, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.441287,
+                        50.893133
+                  ]
+            },
+            {
+                  "name": "Speelplein Schakelstraat",
+                  "text": "Ein familienfreundlicher Spielplatz in Waregem, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.43245,
+                        50.88265
+                  ]
             }
       ],
       "hu": [
@@ -26899,6 +33973,69 @@ imageHint: "Halle Basilica of Saint Martin",
                   "coords": [
                         3.429687,
                         50.91007
+                  ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Maalbeek",
+                  "text": "Helyi tó Waregem területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.443145,
+                        50.858435
+                  ]
+            },
+            {
+                  "name": "Game-INN",
+                  "text": "Játékterem Waregem városában, amely szórakozást kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        3.423595,
+                        50.896039
+                  ]
+            },
+            {
+                  "name": "Speelplein Smedenstraat",
+                  "text": "Családbarát játszótér Waregem városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.425664,
+                        50.874697
+                  ]
+            },
+            {
+                  "name": "Speelplein Nieuwe Olm",
+                  "text": "Családbarát játszótér Waregem városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.427464,
+                        50.890349
+                  ]
+            },
+            {
+                  "name": "meersblomme",
+                  "text": "Családbarát játszótér Waregem városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.445203,
+                        50.887649
+                  ]
+            },
+            {
+                  "name": "Speelplein Gustaaf Desmetstraat",
+                  "text": "Családbarát játszótér Waregem városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.441287,
+                        50.893133
+                  ]
+            },
+            {
+                  "name": "Speelplein Schakelstraat",
+                  "text": "Családbarát játszótér Waregem városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.43245,
+                        50.88265
                   ]
             }
       ],
@@ -27019,6 +34156,69 @@ imageHint: "Halle Basilica of Saint Martin",
                         3.429687,
                         50.91007
                   ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Maalbeek",
+                  "text": "Un lac local în Waregem, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.443145,
+                        50.858435
+                  ]
+            },
+            {
+                  "name": "Game-INN",
+                  "text": "O sală de jocuri în Waregem, care oferă divertisment pentru diverse vârste.",
+                  "category": "family",
+                  "coords": [
+                        3.423595,
+                        50.896039
+                  ]
+            },
+            {
+                  "name": "Speelplein Smedenstraat",
+                  "text": "Un loc de joacă pentru familii în Waregem, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.425664,
+                        50.874697
+                  ]
+            },
+            {
+                  "name": "Speelplein Nieuwe Olm",
+                  "text": "Un loc de joacă pentru familii în Waregem, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.427464,
+                        50.890349
+                  ]
+            },
+            {
+                  "name": "meersblomme",
+                  "text": "Un loc de joacă pentru familii în Waregem, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.445203,
+                        50.887649
+                  ]
+            },
+            {
+                  "name": "Speelplein Gustaaf Desmetstraat",
+                  "text": "Un loc de joacă pentru familii în Waregem, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.441287,
+                        50.893133
+                  ]
+            },
+            {
+                  "name": "Speelplein Schakelstraat",
+                  "text": "Un loc de joacă pentru familii în Waregem, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.43245,
+                        50.88265
+                  ]
             }
       ],
       "en": [
@@ -27138,6 +34338,69 @@ imageHint: "Halle Basilica of Saint Martin",
                         3.429687,
                         50.91007
                   ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Maalbeek",
+                  "text": "A local lake in Waregem, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        3.443145,
+                        50.858435
+                  ]
+            },
+            {
+                  "name": "Game-INN",
+                  "text": "An amusement arcade in Waregem providing entertainment for various ages.",
+                  "category": "family",
+                  "coords": [
+                        3.423595,
+                        50.896039
+                  ]
+            },
+            {
+                  "name": "Speelplein Smedenstraat",
+                  "text": "A family-friendly playground in Waregem offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.425664,
+                        50.874697
+                  ]
+            },
+            {
+                  "name": "Speelplein Nieuwe Olm",
+                  "text": "A family-friendly playground in Waregem offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.427464,
+                        50.890349
+                  ]
+            },
+            {
+                  "name": "meersblomme",
+                  "text": "A family-friendly playground in Waregem offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.445203,
+                        50.887649
+                  ]
+            },
+            {
+                  "name": "Speelplein Gustaaf Desmetstraat",
+                  "text": "A family-friendly playground in Waregem offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.441287,
+                        50.893133
+                  ]
+            },
+            {
+                  "name": "Speelplein Schakelstraat",
+                  "text": "A family-friendly playground in Waregem offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.43245,
+                        50.88265
+                  ]
             }
       ]
 },
@@ -27241,6 +34504,15 @@ imageHint: "Waregem horse racing stadium",
                         4.5436,
                         50.418189
                   ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Der Spielplatz Le Repaire des Arsouilles in Chatelet ist ein beliebtes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
+                  ]
             }
       ],
       "hu": [
@@ -27296,6 +34568,15 @@ imageHint: "Waregem horse racing stadium",
                   "coords": [
                         4.5436,
                         50.418189
+                  ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "A Chatelet városában található Le Repaire des Arsouilles játszótér népszerű a családok körében.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
                   ]
             }
       ],
@@ -27353,6 +34634,15 @@ imageHint: "Waregem horse racing stadium",
                         4.5436,
                         50.418189
                   ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Locul de joacă Le Repaire des Arsouilles din Chatelet este o destinație populară pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
+                  ]
             }
       ],
       "en": [
@@ -27408,6 +34698,15 @@ imageHint: "Waregem horse racing stadium",
                   "coords": [
                         4.5436,
                         50.418189
+                  ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "The Le Repaire des Arsouilles playground in Chatelet is a popular destination for families.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
                   ]
             }
       ]
@@ -27611,6 +34910,105 @@ imageHint: "Châtelet city view and Sambre river",
                         5.137059,
                         51.169891
                   ]
+            },
+            {
+                  "name": "Kanaalmeer",
+                  "text": "Dieser See in Mol bietet eine malerische und ruhige Umgebung für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.173505,
+                        51.229754
+                  ]
+            },
+            {
+                  "name": "Miramar",
+                  "text": "Dieser See in Mol bietet eine wunderschöne Landschaft für einen ruhigen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.126874,
+                        51.220159
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "Dieser See in Mol bietet eine ruhige und malerische Umgebung für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        5.103212,
+                        51.219223
+                  ]
+            },
+            {
+                  "name": "Oude Zandput",
+                  "text": "Dieser See in Mol bietet eine malerische Kulisse für einen ruhigen Spaziergang und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.152133,
+                        51.228487
+                  ]
+            },
+            {
+                  "name": "Zilvermeer",
+                  "text": "Dieser See in Mol bietet eine wunderschöne Naturlandschaft, die sich ideal für einen erholsamen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        5.17206,
+                        51.223471
+                  ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "Dieser See in Mol bietet eine malerische und ruhige Umgebung für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "Nuclea",
+                  "text": "Dieser See in Mol bietet eine ruhige Umgebung für Spaziergänge und zum Genießen der lokalen Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.093708,
+                        51.220137
+                  ]
+            },
+            {
+                  "name": "Speelplein Rijtenhof",
+                  "text": "Dieser Spielplatz in Mol bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.075399,
+                        51.185856
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwanenhof",
+                  "text": "Dieser Spielplatz in Mol ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        5.082065,
+                        51.190964
+                  ]
+            },
+            {
+                  "name": "Verkeerseducatief Centrum",
+                  "text": "Dieser Verkehrserziehungsspielplatz in Mol bietet Kindern eine spielerische Möglichkeit, im Freien zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        5.120188,
+                        51.182984
+                  ]
+            },
+            {
+                  "name": "Het Pauluspleintje",
+                  "text": "Dieser Spielplatz in Mol bietet einen sicheren und angenehmen Raum für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.113232,
+                        51.18907
+                  ]
             }
       ],
       "hu": [
@@ -27765,6 +35163,105 @@ imageHint: "Châtelet city view and Sambre river",
                   "coords": [
                         5.137059,
                         51.169891
+                  ]
+            },
+            {
+                  "name": "Kanaalmeer",
+                  "text": "Ez a moli tó festői és nyugodt környezetet biztosít egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        5.173505,
+                        51.229754
+                  ]
+            },
+            {
+                  "name": "Miramar",
+                  "text": "Ez a moli tó gyönyörű tájat kínál egy csendes természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        5.126874,
+                        51.220159
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "Ez a moli tó nyugodt és festői környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        5.103212,
+                        51.219223
+                  ]
+            },
+            {
+                  "name": "Oude Zandput",
+                  "text": "Ez a moli tó festői hátteret biztosít egy csendes sétához és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.152133,
+                        51.228487
+                  ]
+            },
+            {
+                  "name": "Zilvermeer",
+                  "text": "Ez a moli tó gyönyörű természeti tájat kínál, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        5.17206,
+                        51.223471
+                  ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "Ez a moli tó festői és nyugodt környezetet biztosít egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "Nuclea",
+                  "text": "Ez a moli tó nyugodt környezetet biztosít a sétákhoz és a helyi természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.093708,
+                        51.220137
+                  ]
+            },
+            {
+                  "name": "Speelplein Rijtenhof",
+                  "text": "Ez a moli játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        5.075399,
+                        51.185856
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwanenhof",
+                  "text": "Ez a moli játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        5.082065,
+                        51.190964
+                  ]
+            },
+            {
+                  "name": "Verkeerseducatief Centrum",
+                  "text": "Ez a moli közlekedési játszótér szórakoztató módot kínál a gyerekeknek a tanulásra a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        5.120188,
+                        51.182984
+                  ]
+            },
+            {
+                  "name": "Het Pauluspleintje",
+                  "text": "Ez a moli játszótér biztonságos és élvezetes helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.113232,
+                        51.18907
                   ]
             }
       ],
@@ -27921,6 +35418,105 @@ imageHint: "Châtelet city view and Sambre river",
                         5.137059,
                         51.169891
                   ]
+            },
+            {
+                  "name": "Kanaalmeer",
+                  "text": "Acest lac din Mol oferă un cadru pitoresc și liniștit pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.173505,
+                        51.229754
+                  ]
+            },
+            {
+                  "name": "Miramar",
+                  "text": "Acest lac din Mol oferă un peisaj frumos pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.126874,
+                        51.220159
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "Acest lac din Mol oferă un mediu calm și pitoresc pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        5.103212,
+                        51.219223
+                  ]
+            },
+            {
+                  "name": "Oude Zandput",
+                  "text": "Acest lac din Mol oferă un cadru pitoresc pentru o plimbare liniștită și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.152133,
+                        51.228487
+                  ]
+            },
+            {
+                  "name": "Zilvermeer",
+                  "text": "Acest lac din Mol oferă un peisaj natural frumos, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        5.17206,
+                        51.223471
+                  ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "Acest lac din Mol oferă un cadru pitoresc și liniștit pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "Nuclea",
+                  "text": "Acest lac din Mol oferă un mediu liniștit pentru plimbări și pentru a te bucura de natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        5.093708,
+                        51.220137
+                  ]
+            },
+            {
+                  "name": "Speelplein Rijtenhof",
+                  "text": "Acest loc de joacă din Mol oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.075399,
+                        51.185856
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwanenhof",
+                  "text": "Acest loc de joacă din Mol este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
+                  "category": "family",
+                  "coords": [
+                        5.082065,
+                        51.190964
+                  ]
+            },
+            {
+                  "name": "Verkeerseducatief Centrum",
+                  "text": "Acest loc de joacă pentru educație rutieră din Mol oferă o modalitate distractivă pentru copii de a învăța în timp ce se joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.120188,
+                        51.182984
+                  ]
+            },
+            {
+                  "name": "Het Pauluspleintje",
+                  "text": "Acest loc de joacă din Mol oferă un spațiu sigur și plăcut pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.113232,
+                        51.18907
+                  ]
             }
       ],
       "en": [
@@ -28076,6 +35672,105 @@ imageHint: "Châtelet city view and Sambre river",
                         5.137059,
                         51.169891
                   ]
+            },
+            {
+                  "name": "Kanaalmeer",
+                  "text": "This lake in Mol provides a scenic and peaceful environment for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.173505,
+                        51.229754
+                  ]
+            },
+            {
+                  "name": "Miramar",
+                  "text": "This lake in Mol features a beautiful landscape for a peaceful stroll in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.126874,
+                        51.220159
+                  ]
+            },
+            {
+                  "name": "Lagune",
+                  "text": "This lake in Mol provides a calm and scenic environment for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        5.103212,
+                        51.219223
+                  ]
+            },
+            {
+                  "name": "Oude Zandput",
+                  "text": "This lake in Mol offers a scenic backdrop for a quiet walk and enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        5.152133,
+                        51.228487
+                  ]
+            },
+            {
+                  "name": "Zilvermeer",
+                  "text": "This lake in Mol provides a beautiful natural landscape ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        5.17206,
+                        51.223471
+                  ]
+            },
+            {
+                  "name": "Vierkante Vijver",
+                  "text": "This lake in Mol provides a scenic and peaceful environment for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.044762,
+                        51.224967
+                  ]
+            },
+            {
+                  "name": "Nuclea",
+                  "text": "This lake in Mol offers a peaceful setting for walking and enjoying the local nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.093708,
+                        51.220137
+                  ]
+            },
+            {
+                  "name": "Speelplein Rijtenhof",
+                  "text": "This playground in Mol offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.075399,
+                        51.185856
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwanenhof",
+                  "text": "This playground in Mol is a great spot for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        5.082065,
+                        51.190964
+                  ]
+            },
+            {
+                  "name": "Verkeerseducatief Centrum",
+                  "text": "This traffic education playground in Mol offers a fun way for children to learn while playing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.120188,
+                        51.182984
+                  ]
+            },
+            {
+                  "name": "Het Pauluspleintje",
+                  "text": "This playground in Mol provides a safe and enjoyable space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.113232,
+                        51.18907
+                  ]
             }
       ]
 },
@@ -28124,7 +35819,88 @@ imageHint: "Mol Postel Abbey architecture",
     },
     image: "/poi-images/belgium-mol-cities-v2.webp",
 },  {
-    id: "belgium-ypres-cities-v2",
+    id: "belgium-ypres-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dikkebusvijver",
+                  "text": "Ein lokaler See in Ypres, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        2.843962,
+                        50.818352
+                  ]
+            },
+            {
+                  "name": "Zillebekevijver",
+                  "text": "Ein lokaler See in Ypres, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        2.911633,
+                        50.838104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dikkebusvijver",
+                  "text": "Helyi tó Ypres területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        2.843962,
+                        50.818352
+                  ]
+            },
+            {
+                  "name": "Zillebekevijver",
+                  "text": "Helyi tó Ypres területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        2.911633,
+                        50.838104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dikkebusvijver",
+                  "text": "Un lac local în Ypres, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        2.843962,
+                        50.818352
+                  ]
+            },
+            {
+                  "name": "Zillebekevijver",
+                  "text": "Un lac local în Ypres, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        2.911633,
+                        50.838104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dikkebusvijver",
+                  "text": "A local lake in Ypres, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        2.843962,
+                        50.818352
+                  ]
+            },
+            {
+                  "name": "Zillebekevijver",
+                  "text": "A local lake in Ypres, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        2.911633,
+                        50.838104
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Ypern", hu: "Ypres (Ieper)", ro: "Ypres", en: "Ypres"},
@@ -28274,7 +36050,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             {
                   "name": "'t Struisvogelnest",
                   "text": "Ein kleiner Zoo und Bauernhof für Besucher in Lier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.578981,
                         51.112484
@@ -28513,6 +36289,42 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
                         4.572146,
                         51.137876
                   ]
+            },
+            {
+                  "name": "Spaarbekken Water-Link Broechem",
+                  "text": "Der See Spaarbekken Water-Link Broechem in Lier bietet eine weite Wasserfläche in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        4.606689,
+                        51.200563
+                  ]
+            },
+            {
+                  "name": "Grensweg",
+                  "text": "Der Spielplatz Grensweg in Lier ist ein familienfreundlicher Treffpunkt für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.572535,
+                        51.152174
+                  ]
+            },
+            {
+                  "name": "Acaciaplein",
+                  "text": "Der Spielplatz Acaciaplein in Lier bietet Raum für Spiel und Begegnung in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        4.556919,
+                        51.126061
+                  ]
+            },
+            {
+                  "name": "Waterschrans",
+                  "text": "Der Spielplatz Waterschrans in Lier lädt zu abwechslungsreichen Aktivitäten im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.5499,
+                        51.122126
+                  ]
             }
       ],
       "hu": [
@@ -28618,7 +36430,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             {
                   "name": "'t Struisvogelnest",
                   "text": "Kisebb állatkert és farm látogatók számára Lierben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.578981,
                         51.112484
@@ -28857,6 +36669,42 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
                         4.572146,
                         51.137876
                   ]
+            },
+            {
+                  "name": "Spaarbekken Water-Link Broechem",
+                  "text": "A lieri Spaarbekken Water-Link Broechem tó tágas vízfelületet és nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        4.606689,
+                        51.200563
+                  ]
+            },
+            {
+                  "name": "Grensweg",
+                  "text": "A lieri Grensweg játszótér barátságos találkozóhely a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.572535,
+                        51.152174
+                  ]
+            },
+            {
+                  "name": "Acaciaplein",
+                  "text": "A Lier városában található Acaciaplein játszótér teret ad a közösségi játéknak.",
+                  "category": "family",
+                  "coords": [
+                        4.556919,
+                        51.126061
+                  ]
+            },
+            {
+                  "name": "Waterschrans",
+                  "text": "A lieri Waterschrans játszótér változatos szabadtéri tevékenységekre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.5499,
+                        51.122126
+                  ]
             }
       ],
       "ro": [
@@ -28962,7 +36810,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             {
                   "name": "'t Struisvogelnest",
                   "text": "O mică grădină zoologică și fermă pentru vizitatori în Lier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.578981,
                         51.112484
@@ -29201,6 +37049,42 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
                         4.572146,
                         51.137876
                   ]
+            },
+            {
+                  "name": "Spaarbekken Water-Link Broechem",
+                  "text": "Lacul Spaarbekken Water-Link Broechem din Lier oferă o suprafață mare de apă într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        4.606689,
+                        51.200563
+                  ]
+            },
+            {
+                  "name": "Grensweg",
+                  "text": "Locul de joacă Grensweg din Lier este un punct de întâlnire prietenos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.572535,
+                        51.152174
+                  ]
+            },
+            {
+                  "name": "Acaciaplein",
+                  "text": "Locul de joacă Acaciaplein din Lier oferă spațiu pentru joacă și interacțiune socială.",
+                  "category": "family",
+                  "coords": [
+                        4.556919,
+                        51.126061
+                  ]
+            },
+            {
+                  "name": "Waterschrans",
+                  "text": "Locul de joacă Waterschrans din Lier invită la diverse activități recreative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.5499,
+                        51.122126
+                  ]
             }
       ],
       "en": [
@@ -29306,7 +37190,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
             {
                   "name": "'t Struisvogelnest",
                   "text": "A small zoo and farm for visitors in Lier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.578981,
                         51.112484
@@ -29545,6 +37429,42 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
                         4.572146,
                         51.137876
                   ]
+            },
+            {
+                  "name": "Spaarbekken Water-Link Broechem",
+                  "text": "The Spaarbekken Water-Link Broechem lake near Lier offers a large water surface in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        4.606689,
+                        51.200563
+                  ]
+            },
+            {
+                  "name": "Grensweg",
+                  "text": "The Grensweg playground in Lier is a family-friendly gathering spot for children.",
+                  "category": "family",
+                  "coords": [
+                        4.572535,
+                        51.152174
+                  ]
+            },
+            {
+                  "name": "Acaciaplein",
+                  "text": "The Acaciaplein playground in Lier provides space for community play and interaction.",
+                  "category": "family",
+                  "coords": [
+                        4.556919,
+                        51.126061
+                  ]
+            },
+            {
+                  "name": "Waterschrans",
+                  "text": "The Waterschrans playground in Lier invites children for various outdoor recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        4.5499,
+                        51.122126
+                  ]
             }
       ]
 },
@@ -29607,7 +37527,7 @@ imageHint: "Lier Zimmer Tower astronomical clock",
             {
                   "name": "Kinderbauernhof",
                   "text": "Ein familienfreundlicher Streichelzoo und Bauernhof in Lommel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.315129,
                         51.257166
@@ -29675,6 +37595,60 @@ imageHint: "Lier Zimmer Tower astronomical clock",
                         5.283405,
                         51.229067
                   ]
+            },
+            {
+                  "name": "Randvoorziening Schatersdijk",
+                  "text": "Dieses Seegebiet in Lommel bietet einen ruhigen Ort zum Wandern und Genießen der Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.334984,
+                        51.289864
+                  ]
+            },
+            {
+                  "name": "Dolfijn",
+                  "text": "Dieser Spielplatz in Lommel bietet verschiedene Aktivitäten für einen freudigen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        5.307087,
+                        51.243144
+                  ]
+            },
+            {
+                  "name": "Discovery Bay",
+                  "text": "Dieser Spielplatz in Lommel bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.320778,
+                        51.255854
+                  ]
+            },
+            {
+                  "name": "Speelweide Hemejo",
+                  "text": "Diese Spielwiese in Lommel bietet eine großzügige Außenfläche für Kinder zum Laufen und gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.346816,
+                        51.23984
+                  ]
+            },
+            {
+                  "name": "Speelbos Sahara",
+                  "text": "Dieser Spielwald in Lommel bietet eine natürliche und abenteuerliche Umgebung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.295105,
+                        51.246888
+                  ]
+            },
+            {
+                  "name": "De gladde slang",
+                  "text": "Dieser Spielplatz in Lommel ist ein wunderbarer Ort für Familien, um gemeinsam Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        5.293213,
+                        51.246512
+                  ]
             }
       ],
       "hu": [
@@ -29690,7 +37664,7 @@ imageHint: "Lier Zimmer Tower astronomical clock",
             {
                   "name": "Kids Farm",
                   "text": "Családbarát állatsimogató és tanyaélmény Lommelben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.315129,
                         51.257166
@@ -29758,6 +37732,60 @@ imageHint: "Lier Zimmer Tower astronomical clock",
                         5.283405,
                         51.229067
                   ]
+            },
+            {
+                  "name": "Randvoorziening Schatersdijk",
+                  "text": "Ez a lommeli tóparti terület csendes helyet biztosít a sétához és a kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.334984,
+                        51.289864
+                  ]
+            },
+            {
+                  "name": "Dolfijn",
+                  "text": "Ez a lommeli játszótér különféle tevékenységeket kínál egy vidám családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        5.307087,
+                        51.243144
+                  ]
+            },
+            {
+                  "name": "Discovery Bay",
+                  "text": "Ez a lommeli játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        5.320778,
+                        51.255854
+                  ]
+            },
+            {
+                  "name": "Speelweide Hemejo",
+                  "text": "Ez a lommeli játszórét tágas szabadtéri területet biztosít a gyermekek számára a futkározáshoz és a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.346816,
+                        51.23984
+                  ]
+            },
+            {
+                  "name": "Speelbos Sahara",
+                  "text": "Ez a lommeli játszóerdő természetes és kalandos környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.295105,
+                        51.246888
+                  ]
+            },
+            {
+                  "name": "De gladde slang",
+                  "text": "Ez a lommeli játszótér csodálatos hely a családok számára a közös szabadtéri időtöltésre.",
+                  "category": "family",
+                  "coords": [
+                        5.293213,
+                        51.246512
+                  ]
             }
       ],
       "ro": [
@@ -29773,7 +37801,7 @@ imageHint: "Lier Zimmer Tower astronomical clock",
             {
                   "name": "Kids Farm",
                   "text": "O fermă educațională și grădină zoologică pentru copii situată în Lommel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.315129,
                         51.257166
@@ -29841,6 +37869,60 @@ imageHint: "Lier Zimmer Tower astronomical clock",
                         5.283405,
                         51.229067
                   ]
+            },
+            {
+                  "name": "Randvoorziening Schatersdijk",
+                  "text": "Această zonă de lac din Lommel oferă un loc liniștit pentru plimbare și pentru a te bucura de priveliște.",
+                  "category": "natural",
+                  "coords": [
+                        5.334984,
+                        51.289864
+                  ]
+            },
+            {
+                  "name": "Dolfijn",
+                  "text": "Acest loc de joacă din Lommel oferă diverse activități pentru o zi de familie plină de bucurie.",
+                  "category": "family",
+                  "coords": [
+                        5.307087,
+                        51.243144
+                  ]
+            },
+            {
+                  "name": "Discovery Bay",
+                  "text": "Acest loc de joacă din Lommel oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.320778,
+                        51.255854
+                  ]
+            },
+            {
+                  "name": "Speelweide Hemejo",
+                  "text": "Această pajiște de joacă din Lommel oferă o zonă spațioasă în aer liber pentru copii, pentru a alerga și a se juca împreună.",
+                  "category": "family",
+                  "coords": [
+                        5.346816,
+                        51.23984
+                  ]
+            },
+            {
+                  "name": "Speelbos Sahara",
+                  "text": "Această pădure de joacă din Lommel oferă un mediu natural și aventuros pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.295105,
+                        51.246888
+                  ]
+            },
+            {
+                  "name": "De gladde slang",
+                  "text": "Acest loc de joacă din Lommel este un loc minunat pentru familii să petreacă timp de calitate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.293213,
+                        51.246512
+                  ]
             }
       ],
       "en": [
@@ -29856,7 +37938,7 @@ imageHint: "Lier Zimmer Tower astronomical clock",
             {
                   "name": "Kids Farm",
                   "text": "A family-friendly petting zoo and farm experience located in Lommel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.315129,
                         51.257166
@@ -29923,6 +38005,60 @@ imageHint: "Lier Zimmer Tower astronomical clock",
                   "coords": [
                         5.283405,
                         51.229067
+                  ]
+            },
+            {
+                  "name": "Randvoorziening Schatersdijk",
+                  "text": "This lake area in Lommel provides a quiet spot for walking and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        5.334984,
+                        51.289864
+                  ]
+            },
+            {
+                  "name": "Dolfijn",
+                  "text": "This playground in Lommel offers various activities for a joyful family day.",
+                  "category": "family",
+                  "coords": [
+                        5.307087,
+                        51.243144
+                  ]
+            },
+            {
+                  "name": "Discovery Bay",
+                  "text": "This playground in Lommel offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.320778,
+                        51.255854
+                  ]
+            },
+            {
+                  "name": "Speelweide Hemejo",
+                  "text": "This play meadow in Lommel provides a spacious outdoor area for children to run and play together.",
+                  "category": "family",
+                  "coords": [
+                        5.346816,
+                        51.23984
+                  ]
+            },
+            {
+                  "name": "Speelbos Sahara",
+                  "text": "This play forest in Lommel provides a natural and adventurous environment for kids.",
+                  "category": "family",
+                  "coords": [
+                        5.295105,
+                        51.246888
+                  ]
+            },
+            {
+                  "name": "De gladde slang",
+                  "text": "This playground in Lommel is a wonderful place for families to spend quality time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.293213,
+                        51.246512
                   ]
             }
       ]
@@ -30099,6 +38235,24 @@ imageHint: "Lommel Sahara dunes and lake",
                         4.32372,
                         50.597463
                   ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Ein familienfreundlicher Spielplatz in Nivelles, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.356395,
+                        50.598863
+                  ]
+            },
+            {
+                  "name": "Gate Ninety World",
+                  "text": "Eine Spielhalle in Nivelles, die Unterhaltung für verschiedene Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.359319,
+                        50.593997
+                  ]
             }
       ],
       "hu": [
@@ -30226,6 +38380,24 @@ imageHint: "Lommel Sahara dunes and lake",
                   "coords": [
                         4.32372,
                         50.597463
+                  ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Családbarát játszótér Nivelles városában, amely nagyszerű kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.356395,
+                        50.598863
+                  ]
+            },
+            {
+                  "name": "Gate Ninety World",
+                  "text": "Játékterem Nivelles városában, amely szórakozást kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        4.359319,
+                        50.593997
                   ]
             }
       ],
@@ -30355,6 +38527,24 @@ imageHint: "Lommel Sahara dunes and lake",
                         4.32372,
                         50.597463
                   ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Un loc de joacă pentru familii în Nivelles, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.356395,
+                        50.598863
+                  ]
+            },
+            {
+                  "name": "Gate Ninety World",
+                  "text": "O sală de jocuri în Nivelles, care oferă divertisment pentru diverse vârste.",
+                  "category": "family",
+                  "coords": [
+                        4.359319,
+                        50.593997
+                  ]
             }
       ],
       "en": [
@@ -30482,6 +38672,24 @@ imageHint: "Lommel Sahara dunes and lake",
                   "coords": [
                         4.32372,
                         50.597463
+                  ]
+            },
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "A family-friendly playground in Nivelles offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.356395,
+                        50.598863
+                  ]
+            },
+            {
+                  "name": "Gate Ninety World",
+                  "text": "An amusement arcade in Nivelles providing entertainment for various ages.",
+                  "category": "family",
+                  "coords": [
+                        4.359319,
+                        50.593997
                   ]
             }
       ]
@@ -31059,7 +39267,7 @@ imageHint: "Binche Carnival Gilles characters",
             {
                   "name": "Aqualibi",
                   "text": "Ein bekannter Indoor-Wasserpark in Waver mit zahlreichen Rutschen und Becken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.593697,
                         50.700982
@@ -31068,7 +39276,7 @@ imageHint: "Binche Carnival Gilles characters",
             {
                   "name": "Walibi Belgium",
                   "text": "Einer der größten Freizeitparks Belgiens mit einer Vielzahl von Fahrgeschäften und Attraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.590038,
                         50.698847
@@ -31289,13 +39497,40 @@ imageHint: "Binche Carnival Gilles characters",
                         4.611059,
                         50.717117
                   ]
+            },
+            {
+                  "name": "Lac de Genval - Meer van Genval",
+                  "text": "Dieser See in Wavre ist ein malerischer Ort, der sich ideal für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        4.517988,
+                        50.729226
+                  ]
+            },
+            {
+                  "name": "bassin d'orage",
+                  "text": "Dieses Wasserbecken in Wavre bietet eine ruhige Umgebung für einen kurzen Spaziergang und zum Betrachten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.554587,
+                        50.712561
+                  ]
+            },
+            {
+                  "name": "Lac de Louvain-la-Neuve",
+                  "text": "Dieser See in Wavre bietet eine malerische und ruhige Umgebung für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.605589,
+                        50.666197
+                  ]
             }
       ],
       "hu": [
             {
                   "name": "Aqualibi",
                   "text": "Ismert fedett vízipark Waverben, számos csúszdával és medencével.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.593697,
                         50.700982
@@ -31304,7 +39539,7 @@ imageHint: "Binche Carnival Gilles characters",
             {
                   "name": "Walibi Belgium",
                   "text": "Belgium egyik legnagyobb vidámparkja számos játékkal és látványossággal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.590038,
                         50.698847
@@ -31525,13 +39760,40 @@ imageHint: "Binche Carnival Gilles characters",
                         4.611059,
                         50.717117
                   ]
+            },
+            {
+                  "name": "Lac de Genval - Meer van Genval",
+                  "text": "Ez a wavre-i tó egy festői helyszín, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        4.517988,
+                        50.729226
+                  ]
+            },
+            {
+                  "name": "bassin d'orage",
+                  "text": "Ez a wavre-i víztározó nyugodt környezetet biztosít egy rövid sétához és a táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.554587,
+                        50.712561
+                  ]
+            },
+            {
+                  "name": "Lac de Louvain-la-Neuve",
+                  "text": "Ez a wavre-i tó festői és nyugodt környezetet biztosít egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        4.605589,
+                        50.666197
+                  ]
             }
       ],
       "ro": [
             {
                   "name": "Aqualibi",
                   "text": "Un cunoscut parc acvatic acoperit în Waver, cu numeroase tobogane și piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.593697,
                         50.700982
@@ -31540,7 +39802,7 @@ imageHint: "Binche Carnival Gilles characters",
             {
                   "name": "Walibi Belgium",
                   "text": "Unul dintre cele mai mari parcuri de distracții din Belgia, cu o varietate de atracții.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.590038,
                         50.698847
@@ -31761,13 +40023,40 @@ imageHint: "Binche Carnival Gilles characters",
                         4.611059,
                         50.717117
                   ]
+            },
+            {
+                  "name": "Lac de Genval - Meer van Genval",
+                  "text": "Acest lac din Wavre este o locație pitorească ideală pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        4.517988,
+                        50.729226
+                  ]
+            },
+            {
+                  "name": "bassin d'orage",
+                  "text": "Acest bazin de apă din Wavre oferă un cadru liniștit pentru o scurtă plimbare și pentru a privi peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        4.554587,
+                        50.712561
+                  ]
+            },
+            {
+                  "name": "Lac de Louvain-la-Neuve",
+                  "text": "Acest lac din Wavre oferă un cadru pitoresc și liniștit pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.605589,
+                        50.666197
+                  ]
             }
       ],
       "en": [
             {
                   "name": "Aqualibi",
                   "text": "A well-known indoor water park in Waver featuring numerous slides and pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.593697,
                         50.700982
@@ -31776,7 +40065,7 @@ imageHint: "Binche Carnival Gilles characters",
             {
                   "name": "Walibi Belgium",
                   "text": "One of Belgium's largest amusement parks with a variety of rides and attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.590038,
                         50.698847
@@ -31997,6 +40286,33 @@ imageHint: "Binche Carnival Gilles characters",
                         4.611059,
                         50.717117
                   ]
+            },
+            {
+                  "name": "Lac de Genval - Meer van Genval",
+                  "text": "This lake in Wavre is a scenic location ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        4.517988,
+                        50.729226
+                  ]
+            },
+            {
+                  "name": "bassin d'orage",
+                  "text": "This water basin in Wavre provides a quiet setting for a short walk and viewing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        4.554587,
+                        50.712561
+                  ]
+            },
+            {
+                  "name": "Lac de Louvain-la-Neuve",
+                  "text": "This lake in Wavre provides a scenic and peaceful environment for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        4.605589,
+                        50.666197
+                  ]
             }
       ]
 },
@@ -32163,6 +40479,15 @@ imageHint: "Wavre city hall and church",
                         5.818771,
                         49.683131
                   ]
+            },
+            {
+                  "name": "Stengeforter Weier",
+                  "text": "Ein lokaler See in Arlon, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.918324,
+                        49.657549
+                  ]
             }
       ],
       "hu": [
@@ -32281,6 +40606,15 @@ imageHint: "Wavre city hall and church",
                   "coords": [
                         5.818771,
                         49.683131
+                  ]
+            },
+            {
+                  "name": "Stengeforter Weier",
+                  "text": "Helyi tó Arlon területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.918324,
+                        49.657549
                   ]
             }
       ],
@@ -32401,6 +40735,15 @@ imageHint: "Wavre city hall and church",
                         5.818771,
                         49.683131
                   ]
+            },
+            {
+                  "name": "Stengeforter Weier",
+                  "text": "Un lac local în Arlon, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.918324,
+                        49.657549
+                  ]
             }
       ],
       "en": [
@@ -32519,6 +40862,15 @@ imageHint: "Wavre city hall and church",
                   "coords": [
                         5.818771,
                         49.683131
+                  ]
+            },
+            {
+                  "name": "Stengeforter Weier",
+                  "text": "A local lake in Arlon, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.918324,
+                        49.657549
                   ]
             }
       ]
@@ -33235,7 +41587,88 @@ imageHint: "Heist-op-den-Berg church on the hill",
     },
     image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp",
 },  {
-    id: "belgium-tongeren-cities-v2",
+    id: "belgium-tongeren-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Offelken",
+                  "text": "Der Spielplatz Offelken in Tongeren bietet Kindern vielfältige Möglichkeiten zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        5.461411,
+                        50.767208
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "Der Spielplatz Kinderparadijs in Tongeren ist ein wahres Paradies für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        5.445745,
+                        50.785909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Offelken",
+                  "text": "A tongereni Offelken játszótér változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.461411,
+                        50.767208
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "A tongereni Kinderparadijs játszótér igazi paradicsom a kis felfedezők számára.",
+                  "category": "family",
+                  "coords": [
+                        5.445745,
+                        50.785909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Offelken",
+                  "text": "Locul de joacă Offelken din Tongeren oferă copiilor multiple opțiuni de distracție.",
+                  "category": "family",
+                  "coords": [
+                        5.461411,
+                        50.767208
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "Locul de joacă Kinderparadijs din Tongeren este un adevărat paradis pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        5.445745,
+                        50.785909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Offelken",
+                  "text": "The Offelken playground in Tongeren provides children with various opportunities for active play.",
+                  "category": "family",
+                  "coords": [
+                        5.461411,
+                        50.767208
+                  ]
+            },
+            {
+                  "name": "Kinderparadijs",
+                  "text": "The Kinderparadijs playground in Tongeren is a true paradise for young explorers.",
+                  "category": "family",
+                  "coords": [
+                        5.445745,
+                        50.785909
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Tongeren", hu: "Tongeren", ro: "Tongres", en: "Tongeren"},
@@ -34053,7 +42486,7 @@ imageHint: "Bastogne Mardasson Memorial",
             {
                   "name": "LAGO Eupen Wetzlarbad",
                   "text": "Ein modernes Schwimmbad und Freizeitzentrum in Eupen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.046387,
                         50.61368
@@ -34166,6 +42599,114 @@ imageHint: "Bastogne Mardasson Memorial",
                         6.039391,
                         50.632487
                   ]
+            },
+            {
+                  "name": "Gileppe Stausee",
+                  "text": "Ein lokaler See in Eupen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Hillsperre",
+                  "text": "Ein lokaler See in Eupen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.101073,
+                        50.596264
+                  ]
+            },
+            {
+                  "name": "Prossent",
+                  "text": "Ein lokaler See in Eupen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.122616,
+                        50.657774
+                  ]
+            },
+            {
+                  "name": "Wesertalsperre",
+                  "text": "Ein lokaler See in Eupen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.109553,
+                        50.618727
+                  ]
+            },
+            {
+                  "name": "Weser",
+                  "text": "Die Weser in Eupen bietet eine malerische Kulisse für erholsame Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.038346,
+                        50.622263
+                  ]
+            },
+            {
+                  "name": "Hill",
+                  "text": "Der See Hill in Eupen lädt zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.042751,
+                        50.616973
+                  ]
+            },
+            {
+                  "name": "Klinkeshöfchen",
+                  "text": "Klinkeshöfchen ist ein schöner Spielplatz in Eupen für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        6.02714,
+                        50.630355
+                  ]
+            },
+            {
+                  "name": "Spielplatz Temsepark",
+                  "text": "Der Spielplatz Temsepark in Eupen bietet vielfältigen Spielspaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.041196,
+                        50.622155
+                  ]
+            },
+            {
+                  "name": "Hillpark",
+                  "text": "Der Hillpark in Eupen bietet eine tolle Umgebung für spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.042576,
+                        50.619335
+                  ]
+            },
+            {
+                  "name": "Spielplatz Limburger Weg",
+                  "text": "Der Spielplatz Limburger Weg in Eupen lädt Familien zum gemeinsamen Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        6.027401,
+                        50.621906
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Park Klinkeshöfchen",
+                  "text": "Die Minigolfanlage Park Klinkeshöfchen in Eupen bietet Freizeitspaß für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        6.028353,
+                        50.630412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Winkel",
+                  "text": "Der Spielplatz Im Winkel in Eupen ist ein schönes Ziel für einen Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        6.04395,
+                        50.644786
+                  ]
             }
       ],
       "hu": [
@@ -34262,7 +42803,7 @@ imageHint: "Bastogne Mardasson Memorial",
             {
                   "name": "LAGO Eupen Wetzlarbad",
                   "text": "Modern uszoda és szabadidőközpont Eupenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.046387,
                         50.61368
@@ -34375,6 +42916,114 @@ imageHint: "Bastogne Mardasson Memorial",
                         6.039391,
                         50.632487
                   ]
+            },
+            {
+                  "name": "Lac de la Gileppe",
+                  "text": "Helyi tó Eupen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Hillsperre",
+                  "text": "Helyi tó Eupen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.101073,
+                        50.596264
+                  ]
+            },
+            {
+                  "name": "Prossent",
+                  "text": "Helyi tó Eupen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.122616,
+                        50.657774
+                  ]
+            },
+            {
+                  "name": "Wesertalsperre",
+                  "text": "Helyi tó Eupen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.109553,
+                        50.618727
+                  ]
+            },
+            {
+                  "name": "Weser",
+                  "text": "A Weser Eupenben festői környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.038346,
+                        50.622263
+                  ]
+            },
+            {
+                  "name": "Hill",
+                  "text": "A Hill tó Eupenben kellemes kikapcsolódást nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.042751,
+                        50.616973
+                  ]
+            },
+            {
+                  "name": "Klinkeshöfchen",
+                  "text": "A Klinkeshöfchen egy kedves játszótér Eupenben, amely kiváló egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.02714,
+                        50.630355
+                  ]
+            },
+            {
+                  "name": "Spielplatz Temsepark",
+                  "text": "A Spielplatz Temsepark játszótér Eupenben változatos szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.041196,
+                        50.622155
+                  ]
+            },
+            {
+                  "name": "Hillpark",
+                  "text": "A Hillpark Eupenben remek környezetet biztosít a játszó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.042576,
+                        50.619335
+                  ]
+            },
+            {
+                  "name": "Spielplatz Limburger Weg",
+                  "text": "A Spielplatz Limburger Weg játszótér Eupenben közös játékra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        6.027401,
+                        50.621906
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Park Klinkeshöfchen",
+                  "text": "A Minigolfanlage Park Klinkeshöfchen minigolfpálya Eupenben szórakozást nyújt kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.028353,
+                        50.630412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Winkel",
+                  "text": "A Spielplatz Im Winkel játszótér Eupenben szép úti cél egy családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.04395,
+                        50.644786
+                  ]
             }
       ],
       "ro": [
@@ -34471,7 +43120,7 @@ imageHint: "Bastogne Mardasson Memorial",
             {
                   "name": "LAGO Eupen Wetzlarbad",
                   "text": "O piscină modernă și un centru de recreere în Eupen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.046387,
                         50.61368
@@ -34584,6 +43233,114 @@ imageHint: "Bastogne Mardasson Memorial",
                         6.039391,
                         50.632487
                   ]
+            },
+            {
+                  "name": "Lac de la Gileppe",
+                  "text": "Un lac local în Eupen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Hillsperre",
+                  "text": "Un lac local în Eupen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.101073,
+                        50.596264
+                  ]
+            },
+            {
+                  "name": "Prossent",
+                  "text": "Un lac local în Eupen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.122616,
+                        50.657774
+                  ]
+            },
+            {
+                  "name": "Wesertalsperre",
+                  "text": "Un lac local în Eupen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.109553,
+                        50.618727
+                  ]
+            },
+            {
+                  "name": "Weser",
+                  "text": "Weser din Eupen oferă un cadru pitoresc pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.038346,
+                        50.622263
+                  ]
+            },
+            {
+                  "name": "Hill",
+                  "text": "Lacul Hill din Eupen vă invită să petreceți timp în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.042751,
+                        50.616973
+                  ]
+            },
+            {
+                  "name": "Klinkeshöfchen",
+                  "text": "Klinkeshöfchen este un loc de joacă plăcut în Eupen pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        6.02714,
+                        50.630355
+                  ]
+            },
+            {
+                  "name": "Spielplatz Temsepark",
+                  "text": "Locul de joacă Temsepark din Eupen oferă distracție variată pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.041196,
+                        50.622155
+                  ]
+            },
+            {
+                  "name": "Hillpark",
+                  "text": "Hillpark din Eupen oferă un mediu minunat pentru copiii care vor să se joace.",
+                  "category": "family",
+                  "coords": [
+                        6.042576,
+                        50.619335
+                  ]
+            },
+            {
+                  "name": "Spielplatz Limburger Weg",
+                  "text": "Locul de joacă Limburger Weg din Eupen invită familiile la joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        6.027401,
+                        50.621906
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Park Klinkeshöfchen",
+                  "text": "Terenul de minigolf Park Klinkeshöfchen din Eupen oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.028353,
+                        50.630412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Winkel",
+                  "text": "Locul de joacă Im Winkel din Eupen este o destinație frumoasă pentru o după-amiază în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.04395,
+                        50.644786
+                  ]
             }
       ],
       "en": [
@@ -34680,7 +43437,7 @@ imageHint: "Bastogne Mardasson Memorial",
             {
                   "name": "LAGO Eupen Wetzlarbad",
                   "text": "A modern swimming pool and leisure center in Eupen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.046387,
                         50.61368
@@ -34793,6 +43550,114 @@ imageHint: "Bastogne Mardasson Memorial",
                         6.039391,
                         50.632487
                   ]
+            },
+            {
+                  "name": "Lake Gileppe",
+                  "text": "A local lake in Eupen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.989448,
+                        50.581705
+                  ]
+            },
+            {
+                  "name": "Hillsperre",
+                  "text": "A local lake in Eupen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.101073,
+                        50.596264
+                  ]
+            },
+            {
+                  "name": "Prossent",
+                  "text": "A local lake in Eupen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.122616,
+                        50.657774
+                  ]
+            },
+            {
+                  "name": "Wesertalsperre",
+                  "text": "A local lake in Eupen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.109553,
+                        50.618727
+                  ]
+            },
+            {
+                  "name": "Weser",
+                  "text": "The Weser in Eupen offers a picturesque setting for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.038346,
+                        50.622263
+                  ]
+            },
+            {
+                  "name": "Hill",
+                  "text": "Hill lake in Eupen invites you to enjoy the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.042751,
+                        50.616973
+                  ]
+            },
+            {
+                  "name": "Klinkeshöfchen",
+                  "text": "Klinkeshöfchen is a nice playground in Eupen for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        6.02714,
+                        50.630355
+                  ]
+            },
+            {
+                  "name": "Spielplatz Temsepark",
+                  "text": "Spielplatz Temsepark in Eupen provides various fun activities for children.",
+                  "category": "family",
+                  "coords": [
+                        6.041196,
+                        50.622155
+                  ]
+            },
+            {
+                  "name": "Hillpark",
+                  "text": "Hillpark in Eupen offers a great environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        6.042576,
+                        50.619335
+                  ]
+            },
+            {
+                  "name": "Spielplatz Limburger Weg",
+                  "text": "The playground at Limburger Weg in Eupen invites families for playtime together.",
+                  "category": "family",
+                  "coords": [
+                        6.027401,
+                        50.621906
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Park Klinkeshöfchen",
+                  "text": "The miniature golf course at Park Klinkeshöfchen in Eupen offers leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.028353,
+                        50.630412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Winkel",
+                  "text": "The playground Im Winkel in Eupen is a nice destination for a family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        6.04395,
+                        50.644786
+                  ]
             }
       ]
 },
@@ -34841,7 +43706,124 @@ imageHint: "Eupen town hall and Vesdre dam",
     },
     image: "/poi-images/belgium-eupen-cities-v2.webp",
 },  {
-    id: "belgium-herstal-cities-v2",
+    id: "belgium-herstal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Das Bassin d'orage in Herstal bietet eine ruhige Wasserfläche in der städtischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "Das Basin d'orage in Herstal ist ein funktionales Gewässer mit ruhiger Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Parc des armuriers",
+                  "text": "Der Spielplatz Parc des armuriers in Herstal bietet Erholung und Spielspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.621592,
+                        50.661671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bassin d'orage",
+                  "text": "A herstali Bassin d'orage tó nyugodt vízfelületet biztosít a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "A Herstal városában található Basin d'orage tó nyugodt hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Parc des armuriers",
+                  "text": "A herstali Parc des armuriers játszótér kikapcsolódást és szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.621592,
+                        50.661671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Bassin d'orage din Herstal oferă o suprafață liniștită de apă într-un cadru urban.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "Basin d'orage din Herstal este un luciu de apă ce oferă o atmosferă calmă.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Parc des armuriers",
+                  "text": "Locul de joacă Parc des armuriers din Herstal oferă relaxare și distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.621592,
+                        50.661671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bassin d'orage",
+                  "text": "The Bassin d'orage in Herstal provides a peaceful water area within the urban environment.",
+                  "category": "natural",
+                  "coords": [
+                        5.589341,
+                        50.673984
+                  ]
+            },
+            {
+                  "name": "Basin d'orage",
+                  "text": "The Basin d'orage in Herstal is a water body that offers a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        5.608827,
+                        50.675111
+                  ]
+            },
+            {
+                  "name": "Parc des armuriers",
+                  "text": "The Parc des armuriers playground in Herstal provides recreation and fun for families.",
+                  "category": "family",
+                  "coords": [
+                        5.621592,
+                        50.661671
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Herstal", hu: "Herstal", ro: "Herstal", en: "Herstal"},
@@ -34888,7 +43870,304 @@ imageHint: "Eupen town hall and Vesdre dam",
     },
   },
   {
-    id: "belgium-oudenaarde-cities-v2",
+    id: "belgium-oudenaarde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Speelnatuur Enamebos",
+                  "text": "Dieses Naturspielgebiet in Oudenaarde bietet Kindern eine natürliche Umgebung zum Spielen und Entdecken im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.642683,
+                        50.857144
+                  ]
+            },
+            {
+                  "name": "'t Stadsboerderijtje",
+                  "text": "Dieser kleine Stadtbauernhof-Spielplatz in Oudenaarde bietet einen angenehmen Außenbereich für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.601834,
+                        50.84885
+                  ]
+            },
+            {
+                  "name": "Speelplein Stuivegem",
+                  "text": "Dieser Spielplatz in Oudenaarde bietet einen angenehmen Außenbereich zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.618936,
+                        50.84082
+                  ]
+            },
+            {
+                  "name": "Speelplein Fonteintje",
+                  "text": "Dieser Spielplatz in Oudenaarde bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.608456,
+                        50.835515
+                  ]
+            },
+            {
+                  "name": "Speelplein Walleke",
+                  "text": "Dieser Spielplatz in Oudenaarde ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        3.634237,
+                        50.851793
+                  ]
+            },
+            {
+                  "name": "Speelplein Elfdagwandkouter",
+                  "text": "Dieser Spielplatz in Oudenaarde bietet einen sicheren und angenehmen Raum für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.637911,
+                        50.855749
+                  ]
+            },
+            {
+                  "name": "Speelplein Sint Anna",
+                  "text": "Dieser Spielplatz in Oudenaarde ist ein wunderbarer Ort für Familien, um gemeinsam Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        3.61537,
+                        50.862941
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwem.com",
+                  "text": "Dieser Spielplatz in Oudenaarde bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.614979,
+                        50.850536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Speelnatuur Enamebos",
+                  "text": "Ez az oudenaardei természetes játszóhely természetes környezetet kínál a gyerekeknek a szabadtéri játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        3.642683,
+                        50.857144
+                  ]
+            },
+            {
+                  "name": "'t Stadsboerderijtje",
+                  "text": "Ez a kis városi tanyasi játszótér Oudenaardeban kellemes szabadtéri területet biztosít a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        3.601834,
+                        50.84885
+                  ]
+            },
+            {
+                  "name": "Speelplein Stuivegem",
+                  "text": "Ez az oudenaardei játszótér kellemes szabadtéri területet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.618936,
+                        50.84082
+                  ]
+            },
+            {
+                  "name": "Speelplein Fonteintje",
+                  "text": "Ez az oudenaardei játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        3.608456,
+                        50.835515
+                  ]
+            },
+            {
+                  "name": "Speelplein Walleke",
+                  "text": "Ez az oudenaardei játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        3.634237,
+                        50.851793
+                  ]
+            },
+            {
+                  "name": "Speelplein Elfdagwandkouter",
+                  "text": "Ez az oudenaardei játszótér biztonságos és élvezetes helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.637911,
+                        50.855749
+                  ]
+            },
+            {
+                  "name": "Speelplein Sint Anna",
+                  "text": "Ez az oudenaardei játszótér csodálatos hely a családok számára a közös szabadtéri időtöltésre.",
+                  "category": "family",
+                  "coords": [
+                        3.61537,
+                        50.862941
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwem.com",
+                  "text": "Ez az oudenaardei játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        3.614979,
+                        50.850536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Speelnatuur Enamebos",
+                  "text": "Acest spațiu de joacă natural din Oudenaarde oferă copiilor un mediu natural pentru a se juca și a explora aerul liber.",
+                  "category": "family",
+                  "coords": [
+                        3.642683,
+                        50.857144
+                  ]
+            },
+            {
+                  "name": "'t Stadsboerderijtje",
+                  "text": "Acest mic loc de joacă de tip fermă urbană din Oudenaarde oferă o zonă plăcută în aer liber pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        3.601834,
+                        50.84885
+                  ]
+            },
+            {
+                  "name": "Speelplein Stuivegem",
+                  "text": "Acest loc de joacă din Oudenaarde oferă o zonă plăcută în aer liber pentru copii să se joace.",
+                  "category": "family",
+                  "coords": [
+                        3.618936,
+                        50.84082
+                  ]
+            },
+            {
+                  "name": "Speelplein Fonteintje",
+                  "text": "Acest loc de joacă din Oudenaarde oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.608456,
+                        50.835515
+                  ]
+            },
+            {
+                  "name": "Speelplein Walleke",
+                  "text": "Acest loc de joacă din Oudenaarde este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
+                  "category": "family",
+                  "coords": [
+                        3.634237,
+                        50.851793
+                  ]
+            },
+            {
+                  "name": "Speelplein Elfdagwandkouter",
+                  "text": "Acest loc de joacă din Oudenaarde oferă un spațiu sigur și plăcut pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.637911,
+                        50.855749
+                  ]
+            },
+            {
+                  "name": "Speelplein Sint Anna",
+                  "text": "Acest loc de joacă din Oudenaarde este un loc minunat pentru familii să petreacă timp de calitate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.61537,
+                        50.862941
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwem.com",
+                  "text": "Acest loc de joacă din Oudenaarde oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.614979,
+                        50.850536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Speelnatuur Enamebos",
+                  "text": "This nature play area in Oudenaarde offers a natural environment for children to play and explore the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.642683,
+                        50.857144
+                  ]
+            },
+            {
+                  "name": "'t Stadsboerderijtje",
+                  "text": "This small city farm playground in Oudenaarde offers a pleasant outdoor area for families and children.",
+                  "category": "family",
+                  "coords": [
+                        3.601834,
+                        50.84885
+                  ]
+            },
+            {
+                  "name": "Speelplein Stuivegem",
+                  "text": "This playground in Oudenaarde offers a pleasant outdoor area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.618936,
+                        50.84082
+                  ]
+            },
+            {
+                  "name": "Speelplein Fonteintje",
+                  "text": "This playground in Oudenaarde offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.608456,
+                        50.835515
+                  ]
+            },
+            {
+                  "name": "Speelplein Walleke",
+                  "text": "This playground in Oudenaarde is a great spot for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        3.634237,
+                        50.851793
+                  ]
+            },
+            {
+                  "name": "Speelplein Elfdagwandkouter",
+                  "text": "This playground in Oudenaarde provides a safe and enjoyable space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.637911,
+                        50.855749
+                  ]
+            },
+            {
+                  "name": "Speelplein Sint Anna",
+                  "text": "This playground in Oudenaarde is a wonderful place for families to spend quality time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.61537,
+                        50.862941
+                  ]
+            },
+            {
+                  "name": "Speelplein Zwem.com",
+                  "text": "This playground in Oudenaarde offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.614979,
+                        50.850536
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Oudenaarde", hu: "Oudenaarde", ro: "Audenarde", en: "Oudenaarde"},
@@ -34934,7 +44213,160 @@ imageHint: "Oudenaarde Town Hall Gothic architecture",
     },
     image: "/poi-images/belgium-oudenaarde-cities-v2.webp",
 },  {
-    id: "belgium-tienen-cities-v2",
+    id: "belgium-tienen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "'t Maantje",
+                  "text": "'t Maantje in Tienen ist ein freundlicher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.935714,
+                        50.798795
+                  ]
+            },
+            {
+                  "name": "Rakkersveld",
+                  "text": "Rakkersveld in Tienen bietet viel Platz zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.939881,
+                        50.799439
+                  ]
+            },
+            {
+                  "name": "Bloemenplein",
+                  "text": "Der Bloemenplein in Tienen ist ein schöner Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.952042,
+                        50.816761
+                  ]
+            },
+            {
+                  "name": "Heldenland",
+                  "text": "Heldenland in Tienen ist ein spannender Spielplatz für junge Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        4.931955,
+                        50.804375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "'t Maantje",
+                  "text": "A Tienen városában található 't Maantje egy barátságos játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.935714,
+                        50.798795
+                  ]
+            },
+            {
+                  "name": "Rakkersveld",
+                  "text": "A Rakkersveld Tienenben tágas teret biztosít a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.939881,
+                        50.799439
+                  ]
+            },
+            {
+                  "name": "Bloemenplein",
+                  "text": "A Bloemenplein Tienenben kellemes hely a gyerekek számára a játékra.",
+                  "category": "family",
+                  "coords": [
+                        4.952042,
+                        50.816761
+                  ]
+            },
+            {
+                  "name": "Heldenland",
+                  "text": "A Heldenland Tienenben izgalmas játszótér a kis kalandoroknak.",
+                  "category": "family",
+                  "coords": [
+                        4.931955,
+                        50.804375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "'t Maantje",
+                  "text": "'t Maantje din Tienen este un loc de joacă primitor pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.935714,
+                        50.798795
+                  ]
+            },
+            {
+                  "name": "Rakkersveld",
+                  "text": "Rakkersveld din Tienen oferă mult spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.939881,
+                        50.799439
+                  ]
+            },
+            {
+                  "name": "Bloemenplein",
+                  "text": "Bloemenplein din Tienen este un loc frumos unde copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        4.952042,
+                        50.816761
+                  ]
+            },
+            {
+                  "name": "Heldenland",
+                  "text": "Heldenland din Tienen este un loc de joacă captivant pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        4.931955,
+                        50.804375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "'t Maantje",
+                  "text": "'t Maantje in Tienen is a friendly playground for children.",
+                  "category": "family",
+                  "coords": [
+                        4.935714,
+                        50.798795
+                  ]
+            },
+            {
+                  "name": "Rakkersveld",
+                  "text": "Rakkersveld in Tienen offers plenty of space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        4.939881,
+                        50.799439
+                  ]
+            },
+            {
+                  "name": "Bloemenplein",
+                  "text": "Bloemenplein in Tienen is a lovely spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.952042,
+                        50.816761
+                  ]
+            },
+            {
+                  "name": "Heldenland",
+                  "text": "Heldenland in Tienen is an exciting playground for young adventurers.",
+                  "category": "family",
+                  "coords": [
+                        4.931955,
+                        50.804375
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Tienen", hu: "Tienen", ro: "Tirlemont", en: "Tienen"},
@@ -35170,6 +44602,51 @@ imageHint: "Tienen sugar refinery and church",
                         3.866887,
                         50.761657
                   ]
+            },
+            {
+                  "name": "Poelaertplas",
+                  "text": "Poelaertplas ist ein ruhiger See in Geraardsbergen, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.905989,
+                        50.792385
+                  ]
+            },
+            {
+                  "name": "Gaverplas",
+                  "text": "Gaverplas ist ein malerischer See in Geraardsbergen, der zu Erholung und Naturbeobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.916445,
+                        50.792759
+                  ]
+            },
+            {
+                  "name": "De Plage",
+                  "text": "Der Spielplatz De Plage in Geraardsbergen bietet Kindern tolle Möglichkeiten zum Spielen und Austoben.",
+                  "category": "family",
+                  "coords": [
+                        3.881867,
+                        50.76476
+                  ]
+            },
+            {
+                  "name": "Solleveld",
+                  "text": "Solleveld ist ein schöner Spielplatz in Geraardsbergen für einen unterhaltsamen Familienausflug im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.853933,
+                        50.77009
+                  ]
+            },
+            {
+                  "name": "De Grote Giraf",
+                  "text": "De Grote Giraf ist ein beliebter Spielplatz in Geraardsbergen, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        3.871468,
+                        50.774661
+                  ]
             }
       ],
       "hu": [
@@ -35360,6 +44837,51 @@ imageHint: "Tienen sugar refinery and church",
                   "coords": [
                         3.866887,
                         50.761657
+                  ]
+            },
+            {
+                  "name": "Poelaertplas",
+                  "text": "A Poelaertplas egy nyugodt tó Geraardsbergenben, amely kiválóan alkalmas erdei sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.905989,
+                        50.792385
+                  ]
+            },
+            {
+                  "name": "Gaverplas",
+                  "text": "A Gaverplas egy festői tó Geraardsbergenben, amely pihenésre és természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        3.916445,
+                        50.792759
+                  ]
+            },
+            {
+                  "name": "De Plage",
+                  "text": "A De Plage játszótér Geraardsbergenben remek lehetőséget nyújt a gyerekeknek a játékra és mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        3.881867,
+                        50.76476
+                  ]
+            },
+            {
+                  "name": "Solleveld",
+                  "text": "A Solleveld egy szép játszótér Geraardsbergenben, amely vidám szabadtéri kikapcsolódást nyújt a családnak.",
+                  "category": "family",
+                  "coords": [
+                        3.853933,
+                        50.77009
+                  ]
+            },
+            {
+                  "name": "De Grote Giraf",
+                  "text": "A De Grote Giraf egy népszerű játszótér Geraardsbergenben, amely felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        3.871468,
+                        50.774661
                   ]
             }
       ],
@@ -35552,6 +45074,51 @@ imageHint: "Tienen sugar refinery and church",
                         3.866887,
                         50.761657
                   ]
+            },
+            {
+                  "name": "Poelaertplas",
+                  "text": "Poelaertplas este un lac liniștit în Geraardsbergen, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.905989,
+                        50.792385
+                  ]
+            },
+            {
+                  "name": "Gaverplas",
+                  "text": "Gaverplas este un lac pitoresc în Geraardsbergen, care invită la relaxare și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        3.916445,
+                        50.792759
+                  ]
+            },
+            {
+                  "name": "De Plage",
+                  "text": "Terenul de joacă De Plage din Geraardsbergen oferă copiilor posibilități deosebite de joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        3.881867,
+                        50.76476
+                  ]
+            },
+            {
+                  "name": "Solleveld",
+                  "text": "Solleveld este un teren de joacă frumos în Geraardsbergen pentru o ieșire distractivă cu familia în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.853933,
+                        50.77009
+                  ]
+            },
+            {
+                  "name": "De Grote Giraf",
+                  "text": "De Grote Giraf este un teren de joacă popular în Geraardsbergen, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.871468,
+                        50.774661
+                  ]
             }
       ],
       "en": [
@@ -35742,6 +45309,51 @@ imageHint: "Tienen sugar refinery and church",
                   "coords": [
                         3.866887,
                         50.761657
+                  ]
+            },
+            {
+                  "name": "Poelaertplas",
+                  "text": "Poelaertplas is a peaceful lake in Geraardsbergen, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.905989,
+                        50.792385
+                  ]
+            },
+            {
+                  "name": "Gaverplas",
+                  "text": "Gaverplas is a scenic lake in Geraardsbergen, inviting relaxation and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        3.916445,
+                        50.792759
+                  ]
+            },
+            {
+                  "name": "De Plage",
+                  "text": "De Plage playground in Geraardsbergen offers children great opportunities for play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        3.881867,
+                        50.76476
+                  ]
+            },
+            {
+                  "name": "Solleveld",
+                  "text": "Solleveld is a lovely playground in Geraardsbergen for a fun family outing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.853933,
+                        50.77009
+                  ]
+            },
+            {
+                  "name": "De Grote Giraf",
+                  "text": "De Grote Giraf is a popular playground in Geraardsbergen that invites exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        3.871468,
+                        50.774661
                   ]
             }
       ]
@@ -36936,6 +46548,51 @@ imageHint: "Knokke-Heist beach and promenade",
                         3.152299,
                         50.80254
                   ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "Dieser See in Menen bietet eine ruhige Umgebung, um die lokale Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "jeugdsiter zuidstraat",
+                  "text": "Dieser Spielplatz in Menen bietet einen angenehmen Außenbereich zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.137591,
+                        50.789328
+                  ]
+            },
+            {
+                  "name": "Huppel De Pup",
+                  "text": "Dieser Spielplatz in Menen ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        3.13948,
+                        50.791372
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "Dieser Spielplatz in Menen bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.105001,
+                        50.803226
+                  ]
+            },
+            {
+                  "name": "AvonTUURKE",
+                  "text": "Dieser Spielplatz in Menen ist ein wunderbarer Ort für Familien, um gemeinsam Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        3.161005,
+                        50.793712
+                  ]
             }
       ],
       "hu": [
@@ -37090,6 +46747,51 @@ imageHint: "Knokke-Heist beach and promenade",
                   "coords": [
                         3.152299,
                         50.80254
+                  ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "Ez a meneni tó nyugodt környezetet biztosít a helyi természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "jeugdsiter zuidstraat",
+                  "text": "Ez a meneni játszótér kellemes szabadtéri területet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.137591,
+                        50.789328
+                  ]
+            },
+            {
+                  "name": "Huppel De Pup",
+                  "text": "Ez a meneni játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        3.13948,
+                        50.791372
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "Ez a meneni játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        3.105001,
+                        50.803226
+                  ]
+            },
+            {
+                  "name": "AvonTUURKE",
+                  "text": "Ez a meneni játszótér csodálatos hely a családok számára a közös szabadtéri időtöltésre.",
+                  "category": "family",
+                  "coords": [
+                        3.161005,
+                        50.793712
                   ]
             }
       ],
@@ -37246,6 +46948,51 @@ imageHint: "Knokke-Heist beach and promenade",
                         3.152299,
                         50.80254
                   ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "Acest lac din Menen oferă un cadru liniștit pentru a te bucura de natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "jeugdsiter zuidstraat",
+                  "text": "Acest loc de joacă din Menen oferă o zonă plăcută în aer liber pentru copii să se joace.",
+                  "category": "family",
+                  "coords": [
+                        3.137591,
+                        50.789328
+                  ]
+            },
+            {
+                  "name": "Huppel De Pup",
+                  "text": "Acest loc de joacă din Menen este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
+                  "category": "family",
+                  "coords": [
+                        3.13948,
+                        50.791372
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "Acest loc de joacă din Menen oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.105001,
+                        50.803226
+                  ]
+            },
+            {
+                  "name": "AvonTUURKE",
+                  "text": "Acest loc de joacă din Menen este un loc minunat pentru familii să petreacă timp de calitate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.161005,
+                        50.793712
+                  ]
             }
       ],
       "en": [
@@ -37401,6 +47148,51 @@ imageHint: "Knokke-Heist beach and promenade",
                         3.152299,
                         50.80254
                   ]
+            },
+            {
+                  "name": "Étang de la tuilerie",
+                  "text": "This lake in Menen provides a peaceful setting for enjoying the local nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.117026,
+                        50.774973
+                  ]
+            },
+            {
+                  "name": "jeugdsiter zuidstraat",
+                  "text": "This playground in Menen offers a pleasant outdoor area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.137591,
+                        50.789328
+                  ]
+            },
+            {
+                  "name": "Huppel De Pup",
+                  "text": "This playground in Menen is a great spot for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        3.13948,
+                        50.791372
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "This playground in Menen offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.105001,
+                        50.803226
+                  ]
+            },
+            {
+                  "name": "AvonTUURKE",
+                  "text": "This playground in Menen is a wonderful place for families to spend quality time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.161005,
+                        50.793712
+                  ]
             }
       ]
 },
@@ -37527,7 +47319,7 @@ imageHint: "Bilzen Alden Biesen Castle view",
             {
                   "name": "Tarzan & Jane",
                   "text": "Ein familienfreundlicher Freizeitpark in Houthalen-Helchteren mit verschiedenen Attraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.349609,
                         51.023634
@@ -37655,7 +47447,7 @@ imageHint: "Bilzen Alden Biesen Castle view",
             {
                   "name": "Tarzan & Jane",
                   "text": "Családbarát vidámpark Houthalen-Helchterenben, különféle látnivalókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.349609,
                         51.023634
@@ -37783,7 +47575,7 @@ imageHint: "Bilzen Alden Biesen Castle view",
             {
                   "name": "Tarzan & Jane",
                   "text": "Un parc de distracții pentru familii în Houthalen-Helchteren, cu diverse atracții.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.349609,
                         51.023634
@@ -37911,7 +47703,7 @@ imageHint: "Bilzen Alden Biesen Castle view",
             {
                   "name": "Tarzan & Jane",
                   "text": "A family-friendly theme park in Houthalen-Helchteren with various attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.349609,
                         51.023634
@@ -40569,6 +50361,42 @@ imageHint: "Grimbergen Abbey church",
                         4.826359,
                         51.16328
                   ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Der Speelbos in Herentals bietet ein naturnahes Spielerlebnis für abenteuerlustige Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.83983,
+                        51.181838
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spaans hof",
+                  "text": "Speeltuin Spaans hof ist ein einladender Spielplatz in Herentals, ideal für einen aktiven Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        4.843168,
+                        51.184243
+                  ]
+            },
+            {
+                  "name": "Minigolf Netepark",
+                  "text": "Minigolf Netepark in Herentals bietet Spielspaß für die ganze Familie auf einer gepflegten Anlage.",
+                  "category": "family",
+                  "coords": [
+                        4.831072,
+                        51.187111
+                  ]
+            },
+            {
+                  "name": "Ekelenberg",
+                  "text": "Ekelenberg ist ein charmanter Spielplatz in Herentals, auf dem sich Kinder sicher austoben können.",
+                  "category": "family",
+                  "coords": [
+                        4.813905,
+                        51.176755
+                  ]
             }
       ],
       "hu": [
@@ -40723,6 +50551,42 @@ imageHint: "Grimbergen Abbey church",
                   "coords": [
                         4.826359,
                         51.16328
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "A herentalsi Speelbos természetközeli játékélményt nyújt a kalandvágyó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.83983,
+                        51.181838
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spaans hof",
+                  "text": "A Speeltuin Spaans hof egy hívogató játszótér Herentalsban, ideális egy aktív délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.843168,
+                        51.184243
+                  ]
+            },
+            {
+                  "name": "Minigolf Netepark",
+                  "text": "A herentalsi Minigolf Netepark vidám minigolfozást kínál az egész családnak egy gondozott pályán.",
+                  "category": "family",
+                  "coords": [
+                        4.831072,
+                        51.187111
+                  ]
+            },
+            {
+                  "name": "Ekelenberg",
+                  "text": "Az Ekelenberg egy bájos játszótér Herentalsban, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        4.813905,
+                        51.176755
                   ]
             }
       ],
@@ -40879,6 +50743,42 @@ imageHint: "Grimbergen Abbey church",
                         4.826359,
                         51.16328
                   ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Speelbos din Herentals oferă o experiență de joacă în natură pentru familiile dornice de aventură.",
+                  "category": "family",
+                  "coords": [
+                        4.83983,
+                        51.181838
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spaans hof",
+                  "text": "Speeltuin Spaans hof este un teren de joacă primitor în Herentals, ideal pentru o după-amiază activă.",
+                  "category": "family",
+                  "coords": [
+                        4.843168,
+                        51.184243
+                  ]
+            },
+            {
+                  "name": "Minigolf Netepark",
+                  "text": "Minigolf Netepark din Herentals oferă distracție cu minigolf pentru întreaga familie pe un teren bine întreținut.",
+                  "category": "family",
+                  "coords": [
+                        4.831072,
+                        51.187111
+                  ]
+            },
+            {
+                  "name": "Ekelenberg",
+                  "text": "Ekelenberg este un teren de joacă fermecător în Herentals, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        4.813905,
+                        51.176755
+                  ]
             }
       ],
       "en": [
@@ -41033,6 +50933,42 @@ imageHint: "Grimbergen Abbey church",
                   "coords": [
                         4.826359,
                         51.16328
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Speelbos in Herentals offers a nature-based play experience for adventurous families.",
+                  "category": "family",
+                  "coords": [
+                        4.83983,
+                        51.181838
+                  ]
+            },
+            {
+                  "name": "Speeltuin Spaans hof",
+                  "text": "Speeltuin Spaans hof is an inviting playground in Herentals, ideal for an active afternoon.",
+                  "category": "family",
+                  "coords": [
+                        4.843168,
+                        51.184243
+                  ]
+            },
+            {
+                  "name": "Minigolf Netepark",
+                  "text": "Minigolf Netepark in Herentals offers minigolf fun for the whole family on a well-kept course.",
+                  "category": "family",
+                  "coords": [
+                        4.831072,
+                        51.187111
+                  ]
+            },
+            {
+                  "name": "Ekelenberg",
+                  "text": "Ekelenberg is a charming playground in Herentals where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        4.813905,
+                        51.176755
                   ]
             }
       ]
@@ -41592,7 +51528,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             {
                   "name": "DiReBoe",
                   "text": "DiReBoe ist ein kleiner Tierpark in Ninove, der sich für Familien eignet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.985524,
                         50.828177
@@ -41705,6 +51641,24 @@ imageHint: "Ronse St. Hermes Crypt architecture",
                         3.999854,
                         50.841514
                   ]
+            },
+            {
+                  "name": "The corner",
+                  "text": "The corner in Ninove bietet abwechslungsreiche Unterhaltung in einer Spielhalle.",
+                  "category": "family",
+                  "coords": [
+                        4.019655,
+                        50.836853
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bunkerweide Pamel",
+                  "text": "Speeltuin Bunkerweide Pamel in Ninove ist ein tolles Ausflugsziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.061855,
+                        50.839495
+                  ]
             }
       ],
       "hu": [
@@ -41729,7 +51683,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             {
                   "name": "DiReBoe",
                   "text": "A DiReBoe egy kis állatkert Ninove-ben, amely ideális családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.985524,
                         50.828177
@@ -41842,6 +51796,24 @@ imageHint: "Ronse St. Hermes Crypt architecture",
                         3.999854,
                         50.841514
                   ]
+            },
+            {
+                  "name": "The corner",
+                  "text": "A Ninove városában található The corner változatos szórakozást kínál a játékteremben.",
+                  "category": "family",
+                  "coords": [
+                        4.019655,
+                        50.836853
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bunkerweide Pamel",
+                  "text": "A Speeltuin Bunkerweide Pamel Ninove városában remek úti cél családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.061855,
+                        50.839495
+                  ]
             }
       ],
       "ro": [
@@ -41866,7 +51838,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             {
                   "name": "DiReBoe",
                   "text": "DiReBoe este un mic parc zoologic în Ninove, potrivit pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.985524,
                         50.828177
@@ -41979,6 +51951,24 @@ imageHint: "Ronse St. Hermes Crypt architecture",
                         3.999854,
                         50.841514
                   ]
+            },
+            {
+                  "name": "The corner",
+                  "text": "The corner din Ninove oferă divertisment variat într-o sală de jocuri.",
+                  "category": "family",
+                  "coords": [
+                        4.019655,
+                        50.836853
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bunkerweide Pamel",
+                  "text": "Speeltuin Bunkerweide Pamel din Ninove este o destinație excelentă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.061855,
+                        50.839495
+                  ]
             }
       ],
       "en": [
@@ -42003,7 +51993,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
             {
                   "name": "DiReBoe",
                   "text": "DiReBoe is a small zoo in Ninove that is suitable for family visits.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.985524,
                         50.828177
@@ -42115,6 +52105,24 @@ imageHint: "Ronse St. Hermes Crypt architecture",
                   "coords": [
                         3.999854,
                         50.841514
+                  ]
+            },
+            {
+                  "name": "The corner",
+                  "text": "The corner in Ninove offers diverse entertainment in an amusement arcade.",
+                  "category": "family",
+                  "coords": [
+                        4.019655,
+                        50.836853
+                  ]
+            },
+            {
+                  "name": "Speeltuin Bunkerweide Pamel",
+                  "text": "Speeltuin Bunkerweide Pamel in Ninove is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        4.061855,
+                        50.839495
                   ]
             }
       ]
@@ -42309,6 +52317,114 @@ imageHint: "Ninove abbey church facade",
                         3.231197,
                         50.922242
                   ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Hulstebeek",
+                  "text": "Das Hulstebeek in Izegem ist ein ruhiges Gewässer, das zur Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.312329,
+                        50.907556
+                  ]
+            },
+            {
+                  "name": "Speelplein Bosmolens",
+                  "text": "Speelplein Bosmolens ist ein großzügiger Spielplatz in Izegem mit vielen Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.198135,
+                        50.902336
+                  ]
+            },
+            {
+                  "name": "De speelplaneet",
+                  "text": "De speelplaneet in Izegem bietet eine bunte und abwechslungsreiche Spielumgebung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.226945,
+                        50.908694
+                  ]
+            },
+            {
+                  "name": "Speelplein Haverhof",
+                  "text": "Speelplein Haverhof ist ein freundlicher Spielplatz in Izegem, ideal für tägliche Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        3.188498,
+                        50.934058
+                  ]
+            },
+            {
+                  "name": "Speelterrein St. Tillo",
+                  "text": "Speelterrein St. Tillo bietet Kindern in Izegem einen sicheren Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.214458,
+                        50.915654
+                  ]
+            },
+            {
+                  "name": "De Linde",
+                  "text": "De Linde ist ein zentral gelegener Spielplatz in Izegem, der für Familien leicht erreichbar ist.",
+                  "category": "family",
+                  "coords": [
+                        3.194789,
+                        50.920296
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klein Harelbeke",
+                  "text": "Speeltuin Klein Harelbeke ist ein netter kleiner Spielplatz in Izegem für kurze Spielpausen.",
+                  "category": "family",
+                  "coords": [
+                        3.215005,
+                        50.907774
+                  ]
+            },
+            {
+                  "name": "Kabelbaan",
+                  "text": "Die Kabelbaan in Izegem bietet spannenden Spielspaß und Bewegung für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.184475,
+                        50.907967
+                  ]
+            },
+            {
+                  "name": "Speeltuin Merel",
+                  "text": "Speeltuin Merel ist ein ruhiger Spielplatz in Izegem, ideal für entspanntes Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.227391,
+                        50.928397
+                  ]
+            },
+            {
+                  "name": "Masteneik",
+                  "text": "Masteneik bietet Kindern in Izegem einen abwechslungsreichen Raum für kreatives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        3.223843,
+                        50.905241
+                  ]
+            },
+            {
+                  "name": "Speelplein Rebry",
+                  "text": "Speelplein Rebry ist ein gut ausgestatteter Spielplatz in Izegem für einen Nachmittag voller Action.",
+                  "category": "family",
+                  "coords": [
+                        3.203178,
+                        50.913083
+                  ]
+            },
+            {
+                  "name": "Lavendel",
+                  "text": "Lavendel ist ein moderner Spielplatz in Izegem, der zum Klettern und Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        3.192065,
+                        50.932564
+                  ]
             }
       ],
       "hu": [
@@ -42454,6 +52570,114 @@ imageHint: "Ninove abbey church facade",
                   "coords": [
                         3.231197,
                         50.922242
+                  ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Hulstebeek",
+                  "text": "Az izegemi Hulstebeek egy nyugodt vízfelület, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        3.312329,
+                        50.907556
+                  ]
+            },
+            {
+                  "name": "Speelplein Bosmolens",
+                  "text": "A Speelplein Bosmolens egy tágas játszótér Izegemben, számos játéklehetőséggel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        3.198135,
+                        50.902336
+                  ]
+            },
+            {
+                  "name": "De speelplaneet",
+                  "text": "Az izegemi De speelplaneet színes és változatos játékkörnyezetet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.226945,
+                        50.908694
+                  ]
+            },
+            {
+                  "name": "Speelplein Haverhof",
+                  "text": "A Speelplein Haverhof egy barátságos játszótér Izegemben, ideális a napi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        3.188498,
+                        50.934058
+                  ]
+            },
+            {
+                  "name": "Speelterrein St. Tillo",
+                  "text": "A Speelterrein St. Tillo biztonságos helyet biztosít az izegemi gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.214458,
+                        50.915654
+                  ]
+            },
+            {
+                  "name": "De Linde",
+                  "text": "A De Linde egy központi fekvésű játszótér Izegemben, amely könnyen elérhető a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        3.194789,
+                        50.920296
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klein Harelbeke",
+                  "text": "A Speeltuin Klein Harelbeke egy kedves kis játszótér Izegemben rövid játékidőkhöz.",
+                  "category": "family",
+                  "coords": [
+                        3.215005,
+                        50.907774
+                  ]
+            },
+            {
+                  "name": "Kabelbaan",
+                  "text": "Az izegemi Kabelbaan izgalmas játékot és mozgást kínál az aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.184475,
+                        50.907967
+                  ]
+            },
+            {
+                  "name": "Speeltuin Merel",
+                  "text": "A Speeltuin Merel egy nyugodt játszótér Izegemben, ideális a pihentető szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.227391,
+                        50.928397
+                  ]
+            },
+            {
+                  "name": "Masteneik",
+                  "text": "A Masteneik változatos teret kínál az izegemi gyerekeknek a kreatív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.223843,
+                        50.905241
+                  ]
+            },
+            {
+                  "name": "Speelplein Rebry",
+                  "text": "A Speelplein Rebry egy jól felszerelt játszótér Izegemben egy akciódús délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.203178,
+                        50.913083
+                  ]
+            },
+            {
+                  "name": "Lavendel",
+                  "text": "A Lavendel egy modern játszótér Izegemben, amely mászásra és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        3.192065,
+                        50.932564
                   ]
             }
       ],
@@ -42601,6 +52825,114 @@ imageHint: "Ninove abbey church facade",
                         3.231197,
                         50.922242
                   ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Hulstebeek",
+                  "text": "Hulstebeek din Izegem este o zonă cu apă liniștită, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.312329,
+                        50.907556
+                  ]
+            },
+            {
+                  "name": "Speelplein Bosmolens",
+                  "text": "Speelplein Bosmolens este un teren de joacă generos în Izegem, cu multe opțiuni de distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.198135,
+                        50.902336
+                  ]
+            },
+            {
+                  "name": "De speelplaneet",
+                  "text": "De speelplaneet din Izegem oferă un mediu de joacă colorat și variat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.226945,
+                        50.908694
+                  ]
+            },
+            {
+                  "name": "Speelplein Haverhof",
+                  "text": "Speelplein Haverhof este un teren de joacă prietenos în Izegem, ideal pentru activități recreative zilnice.",
+                  "category": "family",
+                  "coords": [
+                        3.188498,
+                        50.934058
+                  ]
+            },
+            {
+                  "name": "Speelterrein St. Tillo",
+                  "text": "Speelterrein St. Tillo oferă copiilor din Izegem un loc sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.214458,
+                        50.915654
+                  ]
+            },
+            {
+                  "name": "De Linde",
+                  "text": "De Linde este un teren de joacă situat central în Izegem, ușor accesibil pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.194789,
+                        50.920296
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klein Harelbeke",
+                  "text": "Speeltuin Klein Harelbeke este un teren de joacă mic și drăguț în Izegem pentru pauze scurte de joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.215005,
+                        50.907774
+                  ]
+            },
+            {
+                  "name": "Kabelbaan",
+                  "text": "Kabelbaan din Izegem oferă distracție palpitantă și mișcare pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        3.184475,
+                        50.907967
+                  ]
+            },
+            {
+                  "name": "Speeltuin Merel",
+                  "text": "Speeltuin Merel este un teren de joacă liniștit în Izegem, ideal pentru joacă relaxantă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.227391,
+                        50.928397
+                  ]
+            },
+            {
+                  "name": "Masteneik",
+                  "text": "Masteneik oferă copiilor din Izegem un spațiu variat pentru joacă creativă.",
+                  "category": "family",
+                  "coords": [
+                        3.223843,
+                        50.905241
+                  ]
+            },
+            {
+                  "name": "Speelplein Rebry",
+                  "text": "Speelplein Rebry este un teren de joacă bine echipat în Izegem pentru o după-amiază plină de acțiune.",
+                  "category": "family",
+                  "coords": [
+                        3.203178,
+                        50.913083
+                  ]
+            },
+            {
+                  "name": "Lavendel",
+                  "text": "Lavendel este un teren de joacă modern în Izegem, care invită la cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.192065,
+                        50.932564
+                  ]
             }
       ],
       "en": [
@@ -42747,6 +53079,114 @@ imageHint: "Ninove abbey church facade",
                         3.231197,
                         50.922242
                   ]
+            },
+            {
+                  "name": "Gecontroleerd overstromingsgebied Hulstebeek",
+                  "text": "Hulstebeek in Izegem is a peaceful body of water that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.312329,
+                        50.907556
+                  ]
+            },
+            {
+                  "name": "Speelplein Bosmolens",
+                  "text": "Speelplein Bosmolens is a spacious playground in Izegem with many play options for children.",
+                  "category": "family",
+                  "coords": [
+                        3.198135,
+                        50.902336
+                  ]
+            },
+            {
+                  "name": "De speelplaneet",
+                  "text": "De speelplaneet in Izegem offers a colorful and varied play environment for families.",
+                  "category": "family",
+                  "coords": [
+                        3.226945,
+                        50.908694
+                  ]
+            },
+            {
+                  "name": "Speelplein Haverhof",
+                  "text": "Speelplein Haverhof is a friendly playground in Izegem, ideal for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        3.188498,
+                        50.934058
+                  ]
+            },
+            {
+                  "name": "Speelterrein St. Tillo",
+                  "text": "Speelterrein St. Tillo provides children in Izegem with a safe place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        3.214458,
+                        50.915654
+                  ]
+            },
+            {
+                  "name": "De Linde",
+                  "text": "De Linde is a centrally located playground in Izegem, easily accessible for families.",
+                  "category": "family",
+                  "coords": [
+                        3.194789,
+                        50.920296
+                  ]
+            },
+            {
+                  "name": "Speeltuin Klein Harelbeke",
+                  "text": "Speeltuin Klein Harelbeke is a nice small playground in Izegem for short play breaks.",
+                  "category": "family",
+                  "coords": [
+                        3.215005,
+                        50.907774
+                  ]
+            },
+            {
+                  "name": "Kabelbaan",
+                  "text": "Kabelbaan in Izegem offers exciting play and movement for active children.",
+                  "category": "family",
+                  "coords": [
+                        3.184475,
+                        50.907967
+                  ]
+            },
+            {
+                  "name": "Speeltuin Merel",
+                  "text": "Speeltuin Merel is a quiet playground in Izegem, ideal for relaxed outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        3.227391,
+                        50.928397
+                  ]
+            },
+            {
+                  "name": "Masteneik",
+                  "text": "Masteneik offers children in Izegem a versatile space for creative play.",
+                  "category": "family",
+                  "coords": [
+                        3.223843,
+                        50.905241
+                  ]
+            },
+            {
+                  "name": "Speelplein Rebry",
+                  "text": "Speelplein Rebry is a well-equipped playground in Izegem for an afternoon full of action.",
+                  "category": "family",
+                  "coords": [
+                        3.203178,
+                        50.913083
+                  ]
+            },
+            {
+                  "name": "Lavendel",
+                  "text": "Lavendel is a modern playground in Izegem that invites climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        3.192065,
+                        50.932564
+                  ]
             }
       ]
 },
@@ -42891,7 +53331,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Sea-Life Blankenberge",
                   "text": "Ein großes Aquarium, das die faszinierende Unterwasserwelt der Nordsee und darüber hinaus zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.14522,
                         51.317601
@@ -43046,7 +53486,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Sea-Life Blankenberge",
                   "text": "Nagy akvárium, amely az Északi-tenger és más vizek lenyűgöző víz alatti világát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.14522,
                         51.317601
@@ -43201,7 +53641,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Sea-Life Blankenberge",
                   "text": "Un acvariu mare care prezintă lumea subacvatică fascinantă a Mării Nordului și nu numai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.14522,
                         51.317601
@@ -43356,7 +53796,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Sea-Life Blankenberge",
                   "text": "A large aquarium showcasing the fascinating underwater world of the North Sea and beyond.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.14522,
                         51.317601
@@ -43672,6 +54112,51 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.812062,
                         51.000041
                   ]
+            },
+            {
+                  "name": "Aquatreat glass piramid",
+                  "text": "Dieser See in Aarschot bietet eine ruhige Atmosphäre für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        4.814457,
+                        50.983687
+                  ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Dieses Wassergebiet in Aarschot bietet einen erfrischenden Ort für Erholung und zum Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.803486,
+                        50.927457
+                  ]
+            },
+            {
+                  "name": "Speeltuin Schoonhoven",
+                  "text": "Dieser Spielplatz in Aarschot bietet tolle Spielstrukturen für einen aktiven Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.854968,
+                        50.981328
+                  ]
+            },
+            {
+                  "name": "Binnen- en buitenspeeltuin Bekaf",
+                  "text": "Dieser Innen- und Außenspielplatz in Aarschot bietet unterhaltsame Aktivitäten und Spielbereiche für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.843224,
+                        50.986506
+                  ]
+            },
+            {
+                  "name": "Koesterspeeltuin 't Bijenspoor",
+                  "text": "Dieser Spielplatz in Aarschot bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.830689,
+                        51.004959
+                  ]
             }
       ],
       "hu": [
@@ -43835,6 +54320,51 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.812062,
                         51.000041
+                  ]
+            },
+            {
+                  "name": "Aquatreat glass piramid",
+                  "text": "Ez az aarschoti tó nyugodt légkört kínál egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        4.814457,
+                        50.983687
+                  ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Ez az aarschoti vízparti terület frissítő helyet biztosít a kikapcsolódáshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        4.803486,
+                        50.927457
+                  ]
+            },
+            {
+                  "name": "Speeltuin Schoonhoven",
+                  "text": "Ez az aarschoti játszótér szórakoztató játékstruktúrákkal várja az aktív családi kikapcsolódást.",
+                  "category": "family",
+                  "coords": [
+                        4.854968,
+                        50.981328
+                  ]
+            },
+            {
+                  "name": "Binnen- en buitenspeeltuin Bekaf",
+                  "text": "Ez az aarschoti beltéri és kültéri játszótér szórakoztató tevékenységeket és játéktereket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.843224,
+                        50.986506
+                  ]
+            },
+            {
+                  "name": "Koesterspeeltuin 't Bijenspoor",
+                  "text": "Ez az aarschoti játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        4.830689,
+                        51.004959
                   ]
             }
       ],
@@ -44000,6 +54530,51 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.812062,
                         51.000041
                   ]
+            },
+            {
+                  "name": "Aquatreat glass piramid",
+                  "text": "Acest lac din Aarschot oferă o atmosferă calmă pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        4.814457,
+                        50.983687
+                  ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Această zonă de apă din Aarschot oferă un loc răcoritor pentru recreere și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        4.803486,
+                        50.927457
+                  ]
+            },
+            {
+                  "name": "Speeltuin Schoonhoven",
+                  "text": "Acest loc de joacă din Aarschot dispune de structuri de joacă distractive pentru o ieșire activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.854968,
+                        50.981328
+                  ]
+            },
+            {
+                  "name": "Binnen- en buitenspeeltuin Bekaf",
+                  "text": "Acest loc de joacă interior și exterior din Aarschot oferă activități distractive și zone de joacă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.843224,
+                        50.986506
+                  ]
+            },
+            {
+                  "name": "Koesterspeeltuin 't Bijenspoor",
+                  "text": "Acest loc de joacă din Aarschot oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.830689,
+                        51.004959
+                  ]
             }
       ],
       "en": [
@@ -44163,6 +54738,51 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.812062,
                         51.000041
+                  ]
+            },
+            {
+                  "name": "Aquatreat glass piramid",
+                  "text": "This lake in Aarschot offers a calm atmosphere for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        4.814457,
+                        50.983687
+                  ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "This water area in Aarschot provides a refreshing spot for recreation and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.803486,
+                        50.927457
+                  ]
+            },
+            {
+                  "name": "Speeltuin Schoonhoven",
+                  "text": "This playground in Aarschot features fun play structures for an active family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.854968,
+                        50.981328
+                  ]
+            },
+            {
+                  "name": "Binnen- en buitenspeeltuin Bekaf",
+                  "text": "This indoor and outdoor playground in Aarschot offers fun activities and play areas for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.843224,
+                        50.986506
+                  ]
+            },
+            {
+                  "name": "Koesterspeeltuin 't Bijenspoor",
+                  "text": "This playground in Aarschot offers a variety of play equipment for a fun family day outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.830689,
+                        51.004959
                   ]
             }
       ]
@@ -44625,7 +55245,88 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-andenne-cities-v2.webp",
   },
   {
-    id: "belgium-ath-cities-v2",
+    id: "belgium-ath-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaine de jeux communale",
+                  "text": "Plaine de jeux communale in Ath ist ein schöner öffentlicher Spielplatz für den Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        3.803406,
+                        50.615812
+                  ]
+            },
+            {
+                  "name": "Casa des Géants",
+                  "text": "Casa des Géants bietet in Ath einen thematischen Spielbereich für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        3.790593,
+                        50.616405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaine de jeux communale",
+                  "text": "Az athi Plaine de jeux communale egy szép közösségi játszótér a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        3.803406,
+                        50.615812
+                  ]
+            },
+            {
+                  "name": "Casa des Géants",
+                  "text": "Az athi Casa des Géants tematikus játszóteret kínál a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        3.790593,
+                        50.616405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaine de jeux communale",
+                  "text": "Plaine de jeux communale din Ath este un teren de joacă public frumos pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        3.803406,
+                        50.615812
+                  ]
+            },
+            {
+                  "name": "Casa des Géants",
+                  "text": "Casa des Géants oferă în Ath o zonă de joacă tematică pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        3.790593,
+                        50.616405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaine de jeux communale",
+                  "text": "Plaine de jeux communale in Ath is a lovely public playground for family fun.",
+                  "category": "family",
+                  "coords": [
+                        3.803406,
+                        50.615812
+                  ]
+            },
+            {
+                  "name": "Casa des Géants",
+                  "text": "Casa des Géants offers a themed play area for little explorers in Ath.",
+                  "category": "family",
+                  "coords": [
+                        3.790593,
+                        50.616405
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Ath", hu: "Ath", ro: "Ath", en: "Ath" },
@@ -45175,6 +55876,24 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.794888,
                         50.43384
                   ]
+            },
+            {
+                  "name": "Étang Franquet",
+                  "text": "Der Étang Franquet in Boussu lädt zu ruhigen Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        3.773025,
+                        50.499584
+                  ]
+            },
+            {
+                  "name": "Étang du Meunier",
+                  "text": "Der Étang du Meunier in Boussu bietet eine entspannte Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.769327,
+                        50.492868
+                  ]
             }
       ],
       "hu": [
@@ -45302,6 +56021,24 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.794888,
                         50.43384
+                  ]
+            },
+            {
+                  "name": "Étang Franquet",
+                  "text": "Az Étang Franquet Boussuban nyugodt vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        3.773025,
+                        50.499584
+                  ]
+            },
+            {
+                  "name": "Étang du Meunier",
+                  "text": "Az Étang du Meunier Boussuban pihentető hangulatot áraszt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        3.769327,
+                        50.492868
                   ]
             }
       ],
@@ -45431,6 +56168,24 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.794888,
                         50.43384
                   ]
+            },
+            {
+                  "name": "Étang Franquet",
+                  "text": "Étang Franquet din Boussu invită la plimbări liniștite pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        3.773025,
+                        50.499584
+                  ]
+            },
+            {
+                  "name": "Étang du Meunier",
+                  "text": "Étang du Meunier din Boussu oferă o atmosferă relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.769327,
+                        50.492868
+                  ]
             }
       ],
       "en": [
@@ -45558,6 +56313,24 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.794888,
                         50.43384
+                  ]
+            },
+            {
+                  "name": "Étang Franquet",
+                  "text": "Étang Franquet in Boussu invites for peaceful walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        3.773025,
+                        50.499584
+                  ]
+            },
+            {
+                  "name": "Étang du Meunier",
+                  "text": "Étang du Meunier in Boussu offers a relaxing atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.769327,
+                        50.492868
                   ]
             }
       ]
@@ -46975,6 +57748,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.521278,
                         50.986602
                   ]
+            },
+            {
+                  "name": "Kallemoeie",
+                  "text": "Kallemoeie ist ein idyllischer See in Deinze, der sich hervorragend für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        3.547484,
+                        50.95167
+                  ]
+            },
+            {
+                  "name": "Kids Adventure",
+                  "text": "Kids Adventure in Deinze ist ein spannendes Ausflugsziel für Familien mit viel Bewegungsdrang.",
+                  "category": "family",
+                  "coords": [
+                        3.529108,
+                        50.979413
+                  ]
+            },
+            {
+                  "name": "ParaDeintje",
+                  "text": "ParaDeintje ist ein freundlicher Spielplatz in Deinze, der Kindern viel Vergnügen bereitet.",
+                  "category": "family",
+                  "coords": [
+                        3.533525,
+                        50.984728
+                  ]
             }
       ],
       "hu": [
@@ -47102,6 +57902,33 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.521278,
                         50.986602
+                  ]
+            },
+            {
+                  "name": "Kallemoeie",
+                  "text": "Kallemoeie egy idilli tó Deinze-ben, amely kiválóan alkalmas vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.547484,
+                        50.95167
+                  ]
+            },
+            {
+                  "name": "Kids Adventure",
+                  "text": "A deinze-i Kids Adventure izgalmas úti cél a mozgékony családok számára.",
+                  "category": "family",
+                  "coords": [
+                        3.529108,
+                        50.979413
+                  ]
+            },
+            {
+                  "name": "ParaDeintje",
+                  "text": "A ParaDeintje egy barátságos játszótér Deinze-ben, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.533525,
+                        50.984728
                   ]
             }
       ],
@@ -47231,6 +58058,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.521278,
                         50.986602
                   ]
+            },
+            {
+                  "name": "Kallemoeie",
+                  "text": "Kallemoeie este un lac idilic în Deinze, excelent pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        3.547484,
+                        50.95167
+                  ]
+            },
+            {
+                  "name": "Kids Adventure",
+                  "text": "Kids Adventure din Deinze este o destinație palpitantă pentru familiile active.",
+                  "category": "family",
+                  "coords": [
+                        3.529108,
+                        50.979413
+                  ]
+            },
+            {
+                  "name": "ParaDeintje",
+                  "text": "ParaDeintje este un teren de joacă prietenos în Deinze, care oferă multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        3.533525,
+                        50.984728
+                  ]
             }
       ],
       "en": [
@@ -47359,6 +58213,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.521278,
                         50.986602
                   ]
+            },
+            {
+                  "name": "Kallemoeie",
+                  "text": "Kallemoeie is an idyllic lake in Deinze, excellent for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        3.547484,
+                        50.95167
+                  ]
+            },
+            {
+                  "name": "Kids Adventure",
+                  "text": "Kids Adventure in Deinze is an exciting destination for active families.",
+                  "category": "family",
+                  "coords": [
+                        3.529108,
+                        50.979413
+                  ]
+            },
+            {
+                  "name": "ParaDeintje",
+                  "text": "ParaDeintje is a friendly playground in Deinze that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        3.533525,
+                        50.984728
+                  ]
             }
       ]
 },
@@ -47406,7 +58287,124 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-deinze-cities-v2.webp",
   },
   {
-    id: "belgium-diksmuide-cities-v2",
+    id: "belgium-diksmuide-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Speelplekke",
+                  "text": "De Speelplekke in Diksmuide ist ein tolles Ziel für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.866049,
+                        51.02304
+                  ]
+            },
+            {
+                  "name": "Basket-Voetbal-kinderspeeltuin",
+                  "text": "Basket-Voetbal-kinderspeeltuin in Diksmuide ist ein tolles Ziel für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.870043,
+                        51.03638
+                  ]
+            },
+            {
+                  "name": "Klein speelhuisje",
+                  "text": "Klein speelhuisje in Diksmuide ist ein tolles Ziel für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.869114,
+                        51.034812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Speelplekke",
+                  "text": "A De Speelplekke Diksmuide városában remek úticél a gyermekes családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.866049,
+                        51.02304
+                  ]
+            },
+            {
+                  "name": "Basket-Voetbal-kinderspeeltuin",
+                  "text": "A Basket-Voetbal-kinderspeeltuin Diksmuide városában remek úticél a gyermekes családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.870043,
+                        51.03638
+                  ]
+            },
+            {
+                  "name": "Klein speelhuisje",
+                  "text": "A Klein speelhuisje Diksmuide városában remek úticél a gyermekes családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.869114,
+                        51.034812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Speelplekke",
+                  "text": "De Speelplekke din Diksmuide este o destinație excelentă de joacă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        2.866049,
+                        51.02304
+                  ]
+            },
+            {
+                  "name": "Basket-Voetbal-kinderspeeltuin",
+                  "text": "Basket-Voetbal-kinderspeeltuin din Diksmuide este o destinație excelentă de joacă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        2.870043,
+                        51.03638
+                  ]
+            },
+            {
+                  "name": "Klein speelhuisje",
+                  "text": "Klein speelhuisje din Diksmuide este o destinație excelentă de joacă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        2.869114,
+                        51.034812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Speelplekke",
+                  "text": "De Speelplekke in Diksmuide is a great destination for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        2.866049,
+                        51.02304
+                  ]
+            },
+            {
+                  "name": "Basket-Voetbal-kinderspeeltuin",
+                  "text": "Basket-Voetbal-kinderspeeltuin in Diksmuide is a great destination for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        2.870043,
+                        51.03638
+                  ]
+            },
+            {
+                  "name": "Klein speelhuisje",
+                  "text": "Klein speelhuisje in Diksmuide is a great destination for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        2.869114,
+                        51.034812
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Diksmuide", hu: "Diksmuide", ro: "Diksmuide", en: "Diksmuide" },
@@ -47578,6 +58576,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.735815,
                         51.033642
                   ]
+            },
+            {
+                  "name": "Grote Plas",
+                  "text": "Grote Plas in Dilsen Stokkem ist ein See mit schöner Aussicht auf die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.679029,
+                        51.002295
+                  ]
             }
       ],
       "hu": [
@@ -47705,6 +58712,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.735815,
                         51.033642
+                  ]
+            },
+            {
+                  "name": "Grote Plas",
+                  "text": "A Grote Plas Dilsen Stokkemben szép kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.679029,
+                        51.002295
                   ]
             }
       ],
@@ -47834,6 +58850,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.735815,
                         51.033642
                   ]
+            },
+            {
+                  "name": "Grote Plas",
+                  "text": "Grote Plas din Dilsen Stokkem este un lac cu o priveliște frumoasă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        5.679029,
+                        51.002295
+                  ]
             }
       ],
       "en": [
@@ -47961,6 +58986,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.735815,
                         51.033642
+                  ]
+            },
+            {
+                  "name": "Grote Plas",
+                  "text": "Grote Plas in Dilsen Stokkem is a lake with a beautiful view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.679029,
+                        51.002295
                   ]
             }
       ]
@@ -48316,6 +59350,150 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.479218,
                         51.151668
                   ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Papayoe in Edegem bietet einen sicheren und unterhaltsamen Spielraum für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Nr 6 - 's Herenlei Kontich",
+                  "text": "Nr 6 - 's Herenlei Kontich ist ein kleiner lokaler Spielplatz in Edegem für Familien in der Nähe.",
+                  "category": "family",
+                  "coords": [
+                        4.451598,
+                        51.132428
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "De soeplepel ist ein origineller Spielplatz in Edegem, der zum fantasievollen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "Pieter van den Bemdenlaan bietet einen ruhigen Spielbereich für Kinder in einem Wohnviertel von Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "Gemeentelijk Speelplein ist der kommunale Spielplatz in Edegem mit verschiedenen Geräten zum Klettern.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "Hindernissenparcours in Edegem bietet Action und Spaß beim Überwinden verschiedener Barrieren.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "Das Vlot in Edegem ist ein spielerisches Element, das Kindern Freude an Bewegung vermittelt.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "Speelterrein Edmond Thieffrylaan ist ein einladender Treffpunkt für Familien in Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "Speelbos Dikke Bertha bietet ein abenteuerliches Naturerlebnis für spielende Kinder in Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Lintschveld",
+                  "text": "Lintschveld ist ein offener Spielplatz in Edegem mit viel Platz zum Laufen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.47588,
+                        51.132615
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Esplanade school bietet einen Spielbereich in Edegem, der besonders für Schulkinder geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "Speeltuin 't Meihof ist ein beliebter Familienort in Edegem mit vielen klassischen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speeltuin Elisabethstraat",
+                  "text": "Speeltuin Elisabethstraat bietet Kindern in Edegem eine schöne Möglichkeit zum täglichen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.43899,
+                        51.136174
+                  ]
+            },
+            {
+                  "name": "Speelplein 21 Transvaalstraat",
+                  "text": "Speelplein 21 Transvaalstraat ist ein kleiner, feiner Spielplatz für die Nachbarschaft in Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.44174,
+                        51.137713
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "Speelbos 't Meihof lädt zu spannenden Naturerkundungen und Spielen im Wald von Edegem ein.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "Speelterrein Ridder van Ranstlei ist ein sicherer Spielplatz für Kinder in einer ruhigen Zone von Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
+                  ]
             }
       ],
       "hu": [
@@ -48623,6 +59801,150 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.479218,
                         51.151668
+                  ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Az edegemi Papayoe biztonságos és szórakoztató játékteret kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Nr 6 - 's Herenlei Kontich",
+                  "text": "Az Nr 6 - 's Herenlei Kontich egy kis helyi játszótér Edegemben a közelben lakóknak.",
+                  "category": "family",
+                  "coords": [
+                        4.451598,
+                        51.132428
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "A De soeplepel egy eredeti játszótér Edegemben, amely fantáziadús játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "A Pieter van den Bemdenlaan nyugodt játszóhelyet kínál Edegem egyik lakóövezetében.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "A Gemeentelijk Speelplein Edegem önkormányzati játszótere különféle mászóeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "Az edegemi hindernissenparcours akciót és szórakozást kínál a különféle akadályok leküzdésekor.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "Az edegemi Vlot egy játékos elem, amely a mozgás örömét nyújtja a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "A Speelterrein Edmond Thieffrylaan egy barátságos találkozóhely az edegemi családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "A Speelbos Dikke Bertha kalandos természetközeli élményt nyújt a játszó gyerekeknek Edegemben.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Lintschveld",
+                  "text": "A Lintschveld egy nyitott játszótér Edegemben, nagy térrel a szaladgáláshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.47588,
+                        51.132615
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Az Esplanade school játszóhelyet kínál Edegemben, amely különösen iskolásoknak ajánlott.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "A Speeltuin 't Meihof egy népszerű családi hely Edegemben klasszikus játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speeltuin Elisabethstraat",
+                  "text": "A Speeltuin Elisabethstraat szép lehetőséget nyújt az edegemi gyerekeknek a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.43899,
+                        51.136174
+                  ]
+            },
+            {
+                  "name": "Speelplein 21 Transvaalstraat",
+                  "text": "A Speelplein 21 Transvaalstraat egy kedves kis játszótér az edegemi környéknek.",
+                  "category": "family",
+                  "coords": [
+                        4.44174,
+                        51.137713
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "A Speelbos 't Meihof izgalmas természetjárásra és játékra hív az edegemi erdőben.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "A Speelterrein Ridder van Ranstlei egy biztonságos játszótér Edegem egy csendes övezetében.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
                   ]
             }
       ],
@@ -48932,6 +60254,150 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.479218,
                         51.151668
                   ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Papayoe din Edegem oferă un spațiu de joacă sigur și distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Nr 6 - 's Herenlei Kontich",
+                  "text": "Nr 6 - 's Herenlei Kontich este un mic teren de joacă local în Edegem pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        4.451598,
+                        51.132428
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "De soeplepel este un teren de joacă original în Edegem, care invită la joacă plină de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "Pieter van den Bemdenlaan oferă o zonă de joacă liniștită pentru copii într-un cartier din Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "Gemeentelijk Speelplein este terenul de joacă municipal din Edegem, dotat cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "Hindernissenparcours din Edegem oferă acțiune și distracție la depășirea diverselor bariere.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "Vlot din Edegem este un element de joacă ce oferă copiilor bucuria mișcării.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "Speelterrein Edmond Thieffrylaan este un loc de întâlnire primitor pentru familiile din Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "Speelbos Dikke Bertha oferă o experiență de aventură în natură pentru copiii din Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Lintschveld",
+                  "text": "Lintschveld este un teren de joacă deschis în Edegem, cu mult spațiu pentru alergat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.47588,
+                        51.132615
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Esplanade school oferă o zonă de joacă în Edegem, potrivită în special pentru școlari.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "Speeltuin 't Meihof este un loc popular pentru familii în Edegem, cu multe jocuri clasice.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speeltuin Elisabethstraat",
+                  "text": "Speeltuin Elisabethstraat oferă copiilor din Edegem o modalitate frumoasă de joacă zilnică.",
+                  "category": "family",
+                  "coords": [
+                        4.43899,
+                        51.136174
+                  ]
+            },
+            {
+                  "name": "Speelplein 21 Transvaalstraat",
+                  "text": "Speelplein 21 Transvaalstraat este un teren de joacă mic și plăcut pentru cartierul din Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.44174,
+                        51.137713
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "Speelbos 't Meihof invită la explorări palpitante ale naturii și joacă în pădurea din Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "Speelterrein Ridder van Ranstlei este un teren de joacă sigur pentru copii într-o zonă liniștită din Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
+                  ]
             }
       ],
       "en": [
@@ -49240,6 +60706,150 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.479218,
                         51.151668
                   ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Papayoe in Edegem offers a safe and entertaining play space for children.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Nr 6 - 's Herenlei Kontich",
+                  "text": "Nr 6 - 's Herenlei Kontich is a small local playground in Edegem for nearby families.",
+                  "category": "family",
+                  "coords": [
+                        4.451598,
+                        51.132428
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "De soeplepel is an original playground in Edegem that invites imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "Pieter van den Bemdenlaan offers a quiet play area for children in an Edegem neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "Gemeentelijk Speelplein is the municipal playground in Edegem with various climbing equipment.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "The hindernissenparcours in Edegem offers action and fun while overcoming various barriers.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "The Vlot in Edegem is a playful element that gives children the joy of movement.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "Speelterrein Edmond Thieffrylaan is an inviting meeting spot for families in Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "Speelbos Dikke Bertha offers an adventurous nature experience for playing children in Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Lintschveld",
+                  "text": "Lintschveld is an open playground in Edegem with plenty of space for running and playing.",
+                  "category": "family",
+                  "coords": [
+                        4.47588,
+                        51.132615
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Esplanade school provides a play area in Edegem that is especially suitable for school children.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "Speeltuin 't Meihof is a popular family spot in Edegem with many classic play structures.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speeltuin Elisabethstraat",
+                  "text": "Speeltuin Elisabethstraat offers children in Edegem a nice opportunity for daily play.",
+                  "category": "family",
+                  "coords": [
+                        4.43899,
+                        51.136174
+                  ]
+            },
+            {
+                  "name": "Speelplein 21 Transvaalstraat",
+                  "text": "Speelplein 21 Transvaalstraat is a nice small playground for the neighborhood in Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.44174,
+                        51.137713
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "Speelbos 't Meihof invites exciting nature exploration and play in the Edegem woods.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "Speelterrein Ridder van Ranstlei is a safe playground for children in a quiet zone of Edegem.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
+                  ]
             }
       ]
 },
@@ -49531,6 +61141,51 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.569222,
                         50.533604
                   ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Étang du Blanc Gravier ist ein ruhiger Weiher in Esneux, perfekt für eine kurze Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Mare aux Chevreuils ist ein kleiner, naturbelassener See in Esneux, ideal für Beobachtungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière de Lillé",
+                  "text": "Ancienne carrière de Lillé ist ein wassergefüllter Steinbruch in Esneux mit besonderer landschaftlicher Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        5.648361,
+                        50.501477
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Étang des Prairies Basses ist ein friedlicher See in Esneux, der zu entspannten Momenten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Mini-golf du Panorama",
+                  "text": "Mini-golf du Panorama in Esneux bietet Freizeitspaß mit einer schönen Aussicht für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.568663,
+                        50.536932
+                  ]
             }
       ],
       "hu": [
@@ -49685,6 +61340,51 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.569222,
                         50.533604
+                  ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Az Étang du Blanc Gravier egy csendes tavacska Esneux-ben, tökéletes egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "A Mare aux Chevreuils egy kicsi, természetes tó Esneux-ben, ideális vízparti megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière de Lillé",
+                  "text": "Az Ancienne carrière de Lillé egy vízzel teli kőfejtő Esneux-ben, különleges táji környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        5.648361,
+                        50.501477
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Az Étang des Prairies Basses egy békés tó Esneux-ben, amely pihentető szabadtéri pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Mini-golf du Panorama",
+                  "text": "Az esneux-i Mini-golf du Panorama minigolfos szórakozást és szép kilátást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        5.568663,
+                        50.536932
                   ]
             }
       ],
@@ -49841,6 +61541,51 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.569222,
                         50.533604
                   ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Étang du Blanc Gravier este un iaz liniștit în Esneux, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Mare aux Chevreuils este un lac mic și natural în Esneux, ideal pentru observații la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière de Lillé",
+                  "text": "Ancienne carrière de Lillé este o carieră plină cu apă în Esneux, având un cadru peisagistic deosebit.",
+                  "category": "natural",
+                  "coords": [
+                        5.648361,
+                        50.501477
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Étang des Prairies Basses este un lac liniștit în Esneux, care invită la momente relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Mini-golf du Panorama",
+                  "text": "Mini-golf du Panorama din Esneux oferă distracție cu minigolf și o vedere frumoasă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.568663,
+                        50.536932
+                  ]
             }
       ],
       "en": [
@@ -49995,6 +61740,51 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.569222,
                         50.533604
+                  ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Étang du Blanc Gravier is a quiet pond in Esneux, perfect for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Mare aux Chevreuils",
+                  "text": "Mare aux Chevreuils is a small, natural lake in Esneux, ideal for waterside observations.",
+                  "category": "natural",
+                  "coords": [
+                        5.565135,
+                        50.57847
+                  ]
+            },
+            {
+                  "name": "Ancienne carrière de Lillé",
+                  "text": "Ancienne carrière de Lillé is a water-filled quarry in Esneux with a unique scenic backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        5.648361,
+                        50.501477
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Étang des Prairies Basses is a peaceful lake in Esneux that invites relaxing moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Mini-golf du Panorama",
+                  "text": "Mini-golf du Panorama in Esneux offers minigolf fun with a beautiful view for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.568663,
+                        50.536932
                   ]
             }
       ]
@@ -50296,6 +62086,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.694513,
                         50.630555
                   ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Der Étang du Blanc Gravier in Fleron ist ein ruhiges Gewässer zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Der Étang des Prairies Basses in Fleron bietet eine naturnahe Kulisse am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs",
+                  "text": "Das Centre de loisirs in Fleron bietet vielfältige Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.703729,
+                        50.629711
+                  ]
             }
       ],
       "hu": [
@@ -50351,6 +62168,33 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.694513,
                         50.630555
+                  ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Az Étang du Blanc Gravier Fleronban egy nyugodt vizű tó a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Az Étang des Prairies Basses Fleronban természetközeli környezetet biztosít a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs",
+                  "text": "A Centre de loisirs Fleronban változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.703729,
+                        50.629711
                   ]
             }
       ],
@@ -50408,6 +62252,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.694513,
                         50.630555
                   ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Étang du Blanc Gravier din Fleron este un ochi de apă liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Étang des Prairies Basses din Fleron oferă un cadru natural lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs",
+                  "text": "Centre de loisirs din Fleron oferă diverse posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        5.703729,
+                        50.629711
+                  ]
             }
       ],
       "en": [
@@ -50463,6 +62334,33 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.694513,
                         50.630555
+                  ]
+            },
+            {
+                  "name": "Étang du Blanc Gravier",
+                  "text": "Étang du Blanc Gravier in Fleron is a quiet body of water for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        5.586919,
+                        50.584577
+                  ]
+            },
+            {
+                  "name": "Étang des Prairies Basses",
+                  "text": "Étang des Prairies Basses in Fleron provides a natural setting by the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.594439,
+                        50.581782
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs",
+                  "text": "The Centre de loisirs in Fleron offers various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        5.703729,
+                        50.629711
                   ]
             }
       ]
@@ -50665,6 +62563,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.887675,
                         50.437091
                   ]
+            },
+            {
+                  "name": "Étang de pêche",
+                  "text": "Der Étang de pêche in Frameries ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        3.847374,
+                        50.358206
+                  ]
             }
       ],
       "hu": [
@@ -50774,6 +62681,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.887675,
                         50.437091
+                  ]
+            },
+            {
+                  "name": "Étang de pêche",
+                  "text": "A Étang de pêche egy tó Frameries területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.847374,
+                        50.358206
                   ]
             }
       ],
@@ -50885,6 +62801,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.887675,
                         50.437091
                   ]
+            },
+            {
+                  "name": "Étang de pêche",
+                  "text": "Étang de pêche din Frameries este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        3.847374,
+                        50.358206
+                  ]
             }
       ],
       "en": [
@@ -50994,6 +62919,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.887675,
                         50.437091
+                  ]
+            },
+            {
+                  "name": "Étang de pêche",
+                  "text": "The Étang de pêche in Frameries is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        3.847374,
+                        50.358206
                   ]
             }
       ]
@@ -51124,6 +63058,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.692956,
                         50.560742
                   ]
+            },
+            {
+                  "name": "MI12 Fun Center - Gembloux",
+                  "text": "Das MI12 Fun Center in Gembloux bietet Spiel und Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.703222,
+                        50.574477
+                  ]
             }
       ],
       "hu": [
@@ -51206,6 +63149,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.692956,
                         50.560742
+                  ]
+            },
+            {
+                  "name": "MI12 Fun Center - Gembloux",
+                  "text": "A Gembloux-ban található MI12 Fun Center szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.703222,
+                        50.574477
                   ]
             }
       ],
@@ -51290,6 +63242,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.692956,
                         50.560742
                   ]
+            },
+            {
+                  "name": "MI12 Fun Center - Gembloux",
+                  "text": "MI12 Fun Center din Gembloux oferă jocuri și distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.703222,
+                        50.574477
+                  ]
             }
       ],
       "en": [
@@ -51373,6 +63334,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.692956,
                         50.560742
                   ]
+            },
+            {
+                  "name": "MI12 Fun Center - Gembloux",
+                  "text": "The MI12 Fun Center in Gembloux offers fun and games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.703222,
+                        50.574477
+                  ]
             }
       ]
 },
@@ -51420,7 +63390,88 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-gembloux-cities-v2.webp",
   },
   {
-    id: "belgium-gilly-cities-v2",
+    id: "belgium-gilly-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Le Repaire des Arsouilles in Gilly ist ein toller Spielplatz, auf dem sich Kinder so richtig austoben können.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
+                  ]
+            },
+            {
+                  "name": "Mi12",
+                  "text": "Mi12 in Gilly bietet als Spielhalle spannende Unterhaltung mit modernen Automaten für Jugendliche und Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "A gilly-i Le Repaire des Arsouilles egy nagyszerű játszótér, ahol a gyerekek kedvükre mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
+                  ]
+            },
+            {
+                  "name": "Mi12",
+                  "text": "A gilly-i Mi12 izgalmas szórakozást kínál modern játékgépekkel fiataloknak és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Le Repaire des Arsouilles din Gilly este un teren de joacă excelent unde copiii se pot distra de minune.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
+                  ]
+            },
+            {
+                  "name": "Mi12",
+                  "text": "Mi12 din Gilly oferă divertisment captivant cu aparate moderne pentru tineri și familii.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Repaire des Arsouilles",
+                  "text": "Le Repaire des Arsouilles in Gilly is a great playground where children can really let off steam.",
+                  "category": "family",
+                  "coords": [
+                        4.494384,
+                        50.415052
+                  ]
+            },
+            {
+                  "name": "Mi12",
+                  "text": "Mi12 in Gilly offers exciting entertainment with modern arcade games for teens and families.",
+                  "category": "family",
+                  "coords": [
+                        4.458054,
+                        50.419969
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Gilly", hu: "Gilly", ro: "Gilly", en: "Gilly" },
@@ -51938,7 +63989,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Openluchtzwembad Terlaemen",
                   "text": "Ein Freibad und Wasserpark in Heusden-Zolder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.256663,
                         50.996476
@@ -52033,6 +64084,60 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.259182,
                         50.992621
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "Der Bronnenvijver in Heusden Zolder ist ein friedlicher See in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "Der Zwemvijver in Heusden Zolder lädt zum Schwimmen und Entspannen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Regenwaterbufferbekken",
+                  "text": "Das Regenwaterbufferbekken in Heusden Zolder ist ein künstlicher See in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.241011,
+                        51.059436
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "Groot Wijven in Heusden Zolder bietet eine malerische Umgebung für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "Der Sint-Jansvijver in Heusden Zolder ist ein ruhiger See für erholsame Momente.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Ubbelvelden",
+                  "text": "Ubbelvelden in Heusden Zolder ist ein schöner Spielplatz für einen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        5.281232,
+                        51.009804
+                  ]
             }
       ],
       "hu": [
@@ -52057,7 +64162,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Openluchtzwembad Terlaemen",
                   "text": "Szabadtéri úszómedence és vízi park Heusden-Zolderben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.256663,
                         50.996476
@@ -52152,6 +64257,60 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.259182,
                         50.992621
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "A Bronnenvijver Heusden Zolderben egy békés tó a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "A Heusden Zolder-i Zwemvijver úszásra és vízparti pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Regenwaterbufferbekken",
+                  "text": "A Regenwaterbufferbekken Heusden Zolderben egy mesterséges tó a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        5.241011,
+                        51.059436
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "A Groot Wijven Heusden Zolderben festői környezetet nyújt a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "A Sint-Jansvijver Heusden Zolderben egy nyugodt tó a pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Ubbelvelden",
+                  "text": "Ubbelvelden Heusden Zolderben egy kedves játszótér egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.281232,
+                        51.009804
+                  ]
             }
       ],
       "ro": [
@@ -52176,7 +64335,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Openluchtzwembad Terlaemen",
                   "text": "O piscină în aer liber și parc acvatic în Heusden-Zolder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.256663,
                         50.996476
@@ -52271,6 +64430,60 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.259182,
                         50.992621
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "Bronnenvijver din Heusden Zolder este un lac liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "Zwemvijver din Heusden Zolder invită la înot și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Regenwaterbufferbekken",
+                  "text": "Regenwaterbufferbekken din Heusden Zolder este un lac artificial în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        5.241011,
+                        51.059436
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "Groot Wijven din Heusden Zolder oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "Sint-Jansvijver din Heusden Zolder este un lac liniștit pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Ubbelvelden",
+                  "text": "Ubbelvelden din Heusden Zolder este un loc de joacă frumos pentru o vizită cu familia.",
+                  "category": "family",
+                  "coords": [
+                        5.281232,
+                        51.009804
+                  ]
             }
       ],
       "en": [
@@ -52295,7 +64508,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Openluchtzwembad Terlaemen",
                   "text": "An outdoor swimming pool and water park in Heusden-Zolder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.256663,
                         50.996476
@@ -52390,6 +64603,60 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.259182,
                         50.992621
                   ]
+            },
+            {
+                  "name": "Bronnenvijver",
+                  "text": "Bronnenvijver in Heusden Zolder is a peaceful lake surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.31091,
+                        50.988537
+                  ]
+            },
+            {
+                  "name": "Zwemvijver",
+                  "text": "The Zwemvijver in Heusden Zolder invites for swimming and relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        5.316372,
+                        50.988335
+                  ]
+            },
+            {
+                  "name": "Regenwaterbufferbekken",
+                  "text": "The Regenwaterbufferbekken in Heusden Zolder is an artificial lake in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.241011,
+                        51.059436
+                  ]
+            },
+            {
+                  "name": "Groot Wijven",
+                  "text": "Groot Wijven in Heusden Zolder offers a picturesque environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        5.313025,
+                        50.98501
+                  ]
+            },
+            {
+                  "name": "Sint-Jansvijver",
+                  "text": "Sint-Jansvijver in Heusden Zolder is a quiet lake for restful moments.",
+                  "category": "natural",
+                  "coords": [
+                        5.313789,
+                        50.993984
+                  ]
+            },
+            {
+                  "name": "Ubbelvelden",
+                  "text": "Ubbelvelden in Heusden Zolder is a nice playground for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        5.281232,
+                        51.009804
+                  ]
             }
       ]
 },
@@ -52451,7 +64718,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Mont Mosan",
                   "text": "Ein familienfreundlicher Freizeitpark in Huy mit Attraktionen und Tieren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.252766,
                         50.513658
@@ -52645,6 +64912,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.240211,
                         50.525231
                   ]
+            },
+            {
+                  "name": "Aire de Jeux n° 3",
+                  "text": "Aire de Jeux n° 3 ist ein praktischer und schöner Spielbereich für Kinder in Huy.",
+                  "category": "family",
+                  "coords": [
+                        5.239678,
+                        50.501413
+                  ]
             }
       ],
       "hu": [
@@ -52660,7 +64936,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Mont Mosan",
                   "text": "Családbarát vidámpark Huy-ban látnivalókkal és állatokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.252766,
                         50.513658
@@ -52854,6 +65130,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.240211,
                         50.525231
                   ]
+            },
+            {
+                  "name": "Aire de Jeux n° 3",
+                  "text": "Az Aire de Jeux n° 3 egy praktikus és szép játszóhely a gyerekeknek Huy-ban.",
+                  "category": "family",
+                  "coords": [
+                        5.239678,
+                        50.501413
+                  ]
             }
       ],
       "ro": [
@@ -52869,7 +65154,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Mont Mosan",
                   "text": "Un parc de distracții pentru familii în Huy, cu atracții și animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.252766,
                         50.513658
@@ -53063,6 +65348,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         5.240211,
                         50.525231
                   ]
+            },
+            {
+                  "name": "Aire de Jeux n° 3",
+                  "text": "Aire de Jeux n° 3 este o zonă de joacă practică și frumoasă pentru copii în Huy.",
+                  "category": "family",
+                  "coords": [
+                        5.239678,
+                        50.501413
+                  ]
             }
       ],
       "en": [
@@ -53078,7 +65372,7 @@ imageHint: "Knokke luxury storefronts and beach",
             {
                   "name": "Mont Mosan",
                   "text": "A family-friendly theme park in Huy featuring attractions and animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.252766,
                         50.513658
@@ -53271,6 +65565,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.240211,
                         50.525231
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux n° 3",
+                  "text": "Aire de Jeux n° 3 is a practical and pleasant play area for children in Huy.",
+                  "category": "family",
+                  "coords": [
+                        5.239678,
+                        50.501413
                   ]
             }
       ]
@@ -54031,6 +66334,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.429028,
                         51.284541
                   ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "Der Put van Ekeren in Kapellen bietet eine ruhige Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "speeltuintje",
+                  "text": "Das speeltuintje in Kapellen ist ein kleiner, feiner Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.418816,
+                        51.310401
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Der Speelbos in Kapellen ermöglicht Kindern ein naturnahes Spielerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        4.444867,
+                        51.283911
+                  ]
             }
       ],
       "hu": [
@@ -54293,6 +66623,33 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.429028,
                         51.284541
+                  ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "A Kapellen városában található Put van Ekeren nyugodt vízparti hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "speeltuintje",
+                  "text": "A kapelleni speeltuintje egy kedves kis hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.418816,
+                        51.310401
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "A kapelleni Speelbos természetközeli játékélményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.444867,
+                        51.283911
                   ]
             }
       ],
@@ -54557,6 +66914,33 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.429028,
                         51.284541
                   ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "Put van Ekeren din Kapellen oferă o atmosferă liniștită lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "speeltuintje",
+                  "text": "Speeltuintje din Kapellen este un loc mic și plăcut unde copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        4.418816,
+                        51.310401
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Speelbos din Kapellen le oferă copiilor o experiență de joacă în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        4.444867,
+                        51.283911
+                  ]
             }
       ],
       "en": [
@@ -54819,6 +67203,33 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.429028,
                         51.284541
+                  ]
+            },
+            {
+                  "name": "Put van Ekeren",
+                  "text": "Put van Ekeren in Kapellen offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.396724,
+                        51.283386
+                  ]
+            },
+            {
+                  "name": "speeltuintje",
+                  "text": "The speeltuintje in Kapellen is a nice small spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.418816,
+                        51.310401
+                  ]
+            },
+            {
+                  "name": "Speelbos",
+                  "text": "Speelbos in Kapellen provides a nature-oriented play experience for children.",
+                  "category": "family",
+                  "coords": [
+                        4.444867,
+                        51.283911
                   ]
             }
       ]
@@ -55290,7 +67701,52 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-ledegem-cities-v2.webp",
   },
   {
-    id: "belgium-lennik-cities-v2",
+    id: "belgium-lennik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gooik festivalcamping",
+                  "text": "Gooik festivalcamping in Lennik bietet einen Spielbereich für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        4.119511,
+                        50.79382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gooik festivalcamping",
+                  "text": "A Gooik festivalcamping Lennikben játékteret biztosít a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        4.119511,
+                        50.79382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gooik festivalcamping",
+                  "text": "Gooik festivalcamping din Lennik oferă o zonă de joacă pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        4.119511,
+                        50.79382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gooik festivalcamping",
+                  "text": "Gooik festivalcamping in Lennik provides a play area for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        4.119511,
+                        50.79382
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Lennik", hu: "Lennik", ro: "Lennik", en: "Lennik" },
@@ -55354,6 +67810,24 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.577671,
                         50.583649
                   ]
+            },
+            {
+                  "name": "Patro Margoule de Pipaix",
+                  "text": "Patro Margoule de Pipaix bietet in Leuze En Hainaut einen einladenden Spielplatz für den Nachwuchs.",
+                  "category": "family",
+                  "coords": [
+                        3.579944,
+                        50.583733
+                  ]
+            },
+            {
+                  "name": "Hollywood Arcadia",
+                  "text": "Hollywood Arcadia in Leuze En Hainaut ist eine Spielhalle mit abwechslungsreichen Attraktionen für Spielefans.",
+                  "category": "family",
+                  "coords": [
+                        3.626653,
+                        50.596737
+                  ]
             }
       ],
       "hu": [
@@ -55373,6 +67847,24 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.577671,
                         50.583649
+                  ]
+            },
+            {
+                  "name": "Patro Margoule de Pipaix",
+                  "text": "A Patro Margoule de Pipaix barátságos játszóteret kínál a fiataloknak Leuze En Hainaut-ban.",
+                  "category": "family",
+                  "coords": [
+                        3.579944,
+                        50.583733
+                  ]
+            },
+            {
+                  "name": "Hollywood Arcadia",
+                  "text": "A Hollywood Arcadia egy játékkaszinó Leuze En Hainaut-ban változatos attrakciókkal a játékok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        3.626653,
+                        50.596737
                   ]
             }
       ],
@@ -55394,6 +67886,24 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.577671,
                         50.583649
                   ]
+            },
+            {
+                  "name": "Patro Margoule de Pipaix",
+                  "text": "Patro Margoule de Pipaix oferă în Leuze En Hainaut un teren de joacă primitor pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        3.579944,
+                        50.583733
+                  ]
+            },
+            {
+                  "name": "Hollywood Arcadia",
+                  "text": "Hollywood Arcadia din Leuze En Hainaut este o sală de jocuri cu atracții variate pentru fanii jocurilor.",
+                  "category": "family",
+                  "coords": [
+                        3.626653,
+                        50.596737
+                  ]
             }
       ],
       "en": [
@@ -55413,6 +67923,24 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.577671,
                         50.583649
+                  ]
+            },
+            {
+                  "name": "Patro Margoule de Pipaix",
+                  "text": "Patro Margoule de Pipaix offers an inviting playground for youngsters in Leuze En Hainaut.",
+                  "category": "family",
+                  "coords": [
+                        3.579944,
+                        50.583733
+                  ]
+            },
+            {
+                  "name": "Hollywood Arcadia",
+                  "text": "Hollywood Arcadia in Leuze En Hainaut is an amusement arcade with diverse attractions for game fans.",
+                  "category": "family",
+                  "coords": [
+                        3.626653,
+                        50.596737
                   ]
             }
       ]
@@ -55552,6 +68080,51 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.833701,
                         51.095971
                   ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "Das Damvalleimeer in Lochristi ist ein See, der zu Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Oud Vliegveld in Lochristi bietet eine entspannte Kulisse am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "Speelmijntje in Lochristi ist ein abwechslungsreicher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.806403,
+                        51.089439
+                  ]
+            },
+            {
+                  "name": "JumpSky Lochristi",
+                  "text": "Der JumpSky Lochristi ist ein Trampolinpark, der aktiven Familienspaß garantiert.",
+                  "category": "family",
+                  "coords": [
+                        3.83262,
+                        51.097459
+                  ]
+            },
+            {
+                  "name": "Buurtpleintje Acacialaan",
+                  "text": "Das Buurtpleintje Acacialaan in Lochristi ist ein lokaler Treffpunkt zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        3.819709,
+                        51.084386
+                  ]
             }
       ],
       "hu": [
@@ -55598,6 +68171,51 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.833701,
                         51.095971
+                  ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "A Damvalleimeer Lochristiben egy tó, amely természetjáró sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Az Oud Vliegveld Lochristiben pihentető vízparti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "A Speelmijntje Lochristiben egy változatos játszótér a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        3.806403,
+                        51.089439
+                  ]
+            },
+            {
+                  "name": "JumpSky Lochristi",
+                  "text": "A JumpSky Lochristi egy trambulinpark, amely aktív családi szórakozást garantál.",
+                  "category": "family",
+                  "coords": [
+                        3.83262,
+                        51.097459
+                  ]
+            },
+            {
+                  "name": "Buurtpleintje Acacialaan",
+                  "text": "A Buurtpleintje Acacialaan Lochristiben egy helyi közösségi játszótér.",
+                  "category": "family",
+                  "coords": [
+                        3.819709,
+                        51.084386
                   ]
             }
       ],
@@ -55646,6 +68264,51 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.833701,
                         51.095971
                   ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "Damvalleimeer din Lochristi este un lac care invită la plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Oud Vliegveld din Lochristi oferă un cadru relaxant lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "Speelmijntje din Lochristi este un loc de joacă variat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.806403,
+                        51.089439
+                  ]
+            },
+            {
+                  "name": "JumpSky Lochristi",
+                  "text": "JumpSky Lochristi este un parc de trambuline care garantează distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.83262,
+                        51.097459
+                  ]
+            },
+            {
+                  "name": "Buurtpleintje Acacialaan",
+                  "text": "Buurtpleintje Acacialaan din Lochristi este un loc de joacă local pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.819709,
+                        51.084386
+                  ]
             }
       ],
       "en": [
@@ -55692,6 +68355,51 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.833701,
                         51.095971
+                  ]
+            },
+            {
+                  "name": "Damvalleimeer",
+                  "text": "Damvalleimeer in Lochristi is a lake that invites for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.808618,
+                        51.053033
+                  ]
+            },
+            {
+                  "name": "Oud Vliegveld",
+                  "text": "Oud Vliegveld in Lochristi offers a relaxing setting by the water.",
+                  "category": "natural",
+                  "coords": [
+                        3.805084,
+                        51.099995
+                  ]
+            },
+            {
+                  "name": "Speelmijntje",
+                  "text": "Speelmijntje in Lochristi is a diverse playground for children.",
+                  "category": "family",
+                  "coords": [
+                        3.806403,
+                        51.089439
+                  ]
+            },
+            {
+                  "name": "JumpSky Lochristi",
+                  "text": "JumpSky Lochristi is a trampoline park that guarantees active family fun.",
+                  "category": "family",
+                  "coords": [
+                        3.83262,
+                        51.097459
+                  ]
+            },
+            {
+                  "name": "Buurtpleintje Acacialaan",
+                  "text": "Buurtpleintje Acacialaan in Lochristi is a local neighborhood playground.",
+                  "category": "family",
+                  "coords": [
+                        3.819709,
+                        51.084386
                   ]
             }
       ]
@@ -55804,6 +68512,24 @@ imageHint: "Knokke luxury storefronts and beach",
                         6.01253,
                         50.431
                   ]
+            },
+            {
+                  "name": "Talsperre Robertville",
+                  "text": "Lac de Robertville ist ein großer Stausee in Malmedy, ideal zum Wandern und Genießen der Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.12712,
+                        50.448594
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc des Tanneries",
+                  "text": "Plaine de jeux du Parc des Tanneries ist ein attraktiver Spielplatz in Malmedy für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.027499,
+                        50.424322
+                  ]
             }
       ],
       "hu": [
@@ -55868,6 +68594,24 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         6.01253,
                         50.431
+                  ]
+            },
+            {
+                  "name": "Lac de Robertville",
+                  "text": "A Lac de Robertville egy nagy víztározó tó Malmedy-ben, ideális túrázáshoz és a kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.12712,
+                        50.448594
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc des Tanneries",
+                  "text": "A Plaine de jeux du Parc des Tanneries egy vonzó játszótér Malmedy-ben az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.027499,
+                        50.424322
                   ]
             }
       ],
@@ -55934,6 +68678,24 @@ imageHint: "Knokke luxury storefronts and beach",
                         6.01253,
                         50.431
                   ]
+            },
+            {
+                  "name": "Lac de Robertville",
+                  "text": "Lac de Robertville este un lac de acumulare mare în Malmedy, ideal pentru drumeții și admirarea priveliștii.",
+                  "category": "natural",
+                  "coords": [
+                        6.12712,
+                        50.448594
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc des Tanneries",
+                  "text": "Plaine de jeux du Parc des Tanneries este un teren de joacă atractiv în Malmedy pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.027499,
+                        50.424322
+                  ]
             }
       ],
       "en": [
@@ -55998,6 +68760,24 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         6.01253,
                         50.431
+                  ]
+            },
+            {
+                  "name": "Lac de Robertville",
+                  "text": "Lac de Robertville is a large reservoir lake in Malmedy, ideal for hiking and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        6.12712,
+                        50.448594
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc des Tanneries",
+                  "text": "Plaine de jeux du Parc des Tanneries is an attractive playground in Malmedy for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.027499,
+                        50.424322
                   ]
             }
       ]
@@ -56452,6 +69232,141 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.479218,
                         51.151668
                   ]
+            },
+            {
+                  "name": "Meer van Wommelgem",
+                  "text": "Das Meer van Wommelgem in Mortsel bietet einen erholsamen Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.52308,
+                        51.220231
+                  ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Papayoe in Mortsel ist ein beliebter Spielplatz für Kinder in der Region.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Drie Bunderkes",
+                  "text": "Drie Bunderkes in Mortsel bietet eine tolle Umgebung zum Spielen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        4.421529,
+                        51.174964
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "De soeplepel in Mortsel ist ein freundlicher Spielplatz für den Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Monnikenplein",
+                  "text": "Der Monnikenplein in Mortsel lädt Kinder zum gemeinsamen Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        4.430494,
+                        51.175219
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "Der Spielplatz in der Pieter van den Bemdenlaan in Mortsel ist ein schönes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "Das Gemeentelijk Speelplein in Mortsel bietet vielseitigen Spielspaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "Der hindernissenparcours in Mortsel bietet sportliche Herausforderungen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "Das vlot in Mortsel ist ein originelles Spielelement für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "Das Speelterrein Edmond Thieffrylaan in Mortsel ist ein idealer Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "Speelbos Dikke Bertha in Mortsel bietet Abenteuer im Wald für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Die Esplanade school in Mortsel verfügt über einen einladenden Spielbereich.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "Speeltuin 't Meihof in Mortsel ist ein wunderbares Ziel für einen Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "Speelbos 't Meihof in Mortsel lädt Kinder zu Entdeckungen in der Natur ein.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "Das Speelterrein Ridder van Ranstlei in Mortsel bietet sicheren Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
+                  ]
             }
       ],
       "hu": [
@@ -56813,6 +69728,141 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.479218,
                         51.151668
+                  ]
+            },
+            {
+                  "name": "Meer van Wommelgem",
+                  "text": "A Meer van Wommelgem Mortselben pihentető kilátást nyújt a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        4.52308,
+                        51.220231
+                  ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "A Papayoe Mortselben a környék gyermekeinek kedvelt játszótere.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Drie Bunderkes",
+                  "text": "A Drie Bunderkes Mortselben remek környezetet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.421529,
+                        51.174964
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "A De soeplepel Mortselben egy barátságos játszótér a családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Monnikenplein",
+                  "text": "A Monnikenplein Mortselben közös szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.430494,
+                        51.175219
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "A Mortselben található Pieter van den Bemdenlaan játszótér szép célpont a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "A Gemeentelijk Speelplein Mortselben sokoldalú szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "A Mortsel-i hindernissenparcours sportos kihívásokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "A vlot Mortselben egy eredeti játékelem a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "A Speelterrein Edmond Thieffrylaan Mortselben ideális hely a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "A Speelbos Dikke Bertha Mortselben erdei kalandokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "A mortseli Esplanade school hívogató játékterülettel rendelkezik.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "A mortseli Speeltuin 't Meihof csodás helyszín egy családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "A Speelbos 't Meihof Mortselben természeti felfedezésekre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "A Speelterrein Ridder van Ranstlei Mortselben biztonságos szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
                   ]
             }
       ],
@@ -57176,6 +70226,141 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.479218,
                         51.151668
                   ]
+            },
+            {
+                  "name": "Meer van Wommelgem",
+                  "text": "Meer van Wommelgem din Mortsel oferă o vedere relaxantă asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        4.52308,
+                        51.220231
+                  ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Papayoe din Mortsel este un loc de joacă popular pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Drie Bunderkes",
+                  "text": "Drie Bunderkes din Mortsel oferă un mediu minunat pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.421529,
+                        51.174964
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "De soeplepel din Mortsel este un loc de joacă prietenos pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Monnikenplein",
+                  "text": "Monnikenplein din Mortsel invită copiii la joacă împreună în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.430494,
+                        51.175219
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "Locul de joacă din Pieter van den Bemdenlaan, Mortsel, este o destinație frumoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "Gemeentelijk Speelplein din Mortsel oferă distracție variată pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "Hindernissenparcours din Mortsel oferă provocări sportive pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "Vlot din Mortsel este un element de joacă original pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "Speelterrein Edmond Thieffrylaan din Mortsel este un loc ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "Speelbos Dikke Bertha din Mortsel oferă aventuri în pădure pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Esplanade school din Mortsel dispune de o zonă de joacă primitoare.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "Speeltuin 't Meihof din Mortsel este o destinație minunată pentru o după-amiază în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "Speelbos 't Meihof din Mortsel invită copiii la explorări în natură.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "Speelterrein Ridder van Ranstlei din Mortsel oferă distracție în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
+                  ]
             }
       ],
       "en": [
@@ -57537,6 +70722,141 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.479218,
                         51.151668
+                  ]
+            },
+            {
+                  "name": "Meer van Wommelgem",
+                  "text": "Meer van Wommelgem in Mortsel offers a restful view of the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.52308,
+                        51.220231
+                  ]
+            },
+            {
+                  "name": "Papayoe",
+                  "text": "Papayoe in Mortsel is a popular playground for children in the area.",
+                  "category": "family",
+                  "coords": [
+                        4.437799,
+                        51.17159
+                  ]
+            },
+            {
+                  "name": "Drie Bunderkes",
+                  "text": "Drie Bunderkes in Mortsel offers a great environment for playing and running around.",
+                  "category": "family",
+                  "coords": [
+                        4.421529,
+                        51.174964
+                  ]
+            },
+            {
+                  "name": "De soeplepel",
+                  "text": "De soeplepel in Mortsel is a friendly playground for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.445426,
+                        51.139641
+                  ]
+            },
+            {
+                  "name": "Monnikenplein",
+                  "text": "Monnikenplein in Mortsel invites children for outdoor play together.",
+                  "category": "family",
+                  "coords": [
+                        4.430494,
+                        51.175219
+                  ]
+            },
+            {
+                  "name": "Pieter van den Bemdenlaan",
+                  "text": "The playground at Pieter van den Bemdenlaan in Mortsel is a nice destination for families.",
+                  "category": "family",
+                  "coords": [
+                        4.418288,
+                        51.161765
+                  ]
+            },
+            {
+                  "name": "Gemeentelijk Speelplein",
+                  "text": "The Gemeentelijk Speelplein in Mortsel offers versatile fun for children.",
+                  "category": "family",
+                  "coords": [
+                        4.429048,
+                        51.16926
+                  ]
+            },
+            {
+                  "name": "hindernissenparcours",
+                  "text": "The hindernissenparcours in Mortsel offers athletic challenges for children.",
+                  "category": "family",
+                  "coords": [
+                        4.464362,
+                        51.174673
+                  ]
+            },
+            {
+                  "name": "vlot",
+                  "text": "The vlot in Mortsel is an original play element for children.",
+                  "category": "family",
+                  "coords": [
+                        4.456328,
+                        51.172393
+                  ]
+            },
+            {
+                  "name": "Speelterrein Edmond Thieffrylaan",
+                  "text": "Speelterrein Edmond Thieffrylaan in Mortsel is an ideal spot for playing.",
+                  "category": "family",
+                  "coords": [
+                        4.44837,
+                        51.166239
+                  ]
+            },
+            {
+                  "name": "Speelbos Dikke Bertha",
+                  "text": "Speelbos Dikke Bertha in Mortsel offers forest adventures for children.",
+                  "category": "family",
+                  "coords": [
+                        4.433289,
+                        51.165686
+                  ]
+            },
+            {
+                  "name": "Esplanade school",
+                  "text": "Esplanade school in Mortsel features an inviting play area.",
+                  "category": "family",
+                  "coords": [
+                        4.445659,
+                        51.154175
+                  ]
+            },
+            {
+                  "name": "Speeltuin 't Meihof",
+                  "text": "Speeltuin 't Meihof in Mortsel is a wonderful destination for a family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        4.452469,
+                        51.156862
+                  ]
+            },
+            {
+                  "name": "Speelbos 't Meihof",
+                  "text": "Speelbos 't Meihof in Mortsel invites children for nature explorations.",
+                  "category": "family",
+                  "coords": [
+                        4.453398,
+                        51.156722
+                  ]
+            },
+            {
+                  "name": "Speelterrein Ridder van Ranstlei",
+                  "text": "Speelterrein Ridder van Ranstlei in Mortsel offers safe playtime fun.",
+                  "category": "family",
+                  "coords": [
+                        4.440239,
+                        51.173907
                   ]
             }
       ]

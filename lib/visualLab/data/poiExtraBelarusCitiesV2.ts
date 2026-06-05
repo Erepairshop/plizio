@@ -1871,7 +1871,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гомельскі дзяржаўны цырк",
                   "text": "Zirkus in Homel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.010029,
                         52.434279
@@ -2287,7 +2287,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гомельскі дзяржаўны цырк",
                   "text": "Cirkusz Homelben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.010029,
                         52.434279
@@ -2703,7 +2703,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гомельскі дзяржаўны цырк",
                   "text": "Circ în Homel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.010029,
                         52.434279
@@ -3119,7 +3119,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гомельскі дзяржаўны цырк",
                   "text": "Circus in Homel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.010029,
                         52.434279
@@ -6983,7 +6983,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гродзенскі заапарк",
                   "text": "Zoologischer Garten in Grodno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.848676,
                         53.689159
@@ -7417,7 +7417,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гродзенскі заапарк",
                   "text": "Grodnói Állatkert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.848676,
                         53.689159
@@ -7851,7 +7851,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гродзенскі заапарк",
                   "text": "Grădina Zoologică din Grodno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.848676,
                         53.689159
@@ -8285,7 +8285,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Hrodna Zoo",
                   "text": "Zoological garden in Grodno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.848676,
                         53.689159
@@ -10880,7 +10880,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Казачная краіна",
                   "text": "Kazachnaya Kraina ist ein fantastischer Themenpark in Orscha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.430106,
                         54.509121
@@ -11044,7 +11044,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Казачная краіна",
                   "text": "A Kazacsnaja Kraina egy varázslatos vidámpark Orsa városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.430106,
                         54.509121
@@ -11208,7 +11208,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Казачная краіна",
                   "text": "Kazachnaya Kraina este un parc tematic situat în Orșa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.430106,
                         54.509121
@@ -11372,7 +11372,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Казачная краіна",
                   "text": "Kazachnaya Kraina is a whimsical theme park attraction located in Orscha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.430106,
                         54.509121
@@ -11546,7 +11546,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Міні-Заапарк «ЗВЕРАПОЛІС»",
                   "text": "Mini-Zoo in Masyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.259946,
                         52.052128
@@ -11591,7 +11591,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Freizeitpark in Masyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.272813,
                         52.048074
@@ -11755,7 +11755,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Міні-Заапарк «ЗВЕРАПОЛІС»",
                   "text": "Mini állatkert Maszyrban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.259946,
                         52.052128
@@ -11800,7 +11800,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Vidámpark Maszyrban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.272813,
                         52.048074
@@ -11964,7 +11964,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Міні-Заапарк «ЗВЕРАПОЛІС»",
                   "text": "Mini-grădină zoologică în Masyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.259946,
                         52.052128
@@ -12009,7 +12009,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Parc de distracții în Masyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.272813,
                         52.048074
@@ -12173,7 +12173,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Міні-Заапарк «ЗВЕРАПОЛІС»",
                   "text": "Mini zoo in Masyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.259946,
                         52.052128
@@ -12218,7 +12218,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Theme park in Masyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.272813,
                         52.048074
@@ -12545,7 +12545,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Freizeitpark in Nawapolazk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.64672,
                         55.54003
@@ -12619,7 +12619,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Vidámpark Nawapolazkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.64672,
                         55.54003
@@ -12693,7 +12693,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Parc de distracții în Nawapolazk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.64672,
                         55.54003
@@ -12767,7 +12767,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Атракцыёны",
                   "text": "Theme park in Nawapolazk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.64672,
                         55.54003
@@ -14633,7 +14633,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "атракцыён «Горкі» (закрыты)",
                   "text": "Die Achterbahn-Attraktion „Gorki“ ist ein geschlossener Freizeitparkbereich in Retschyza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.390854,
                         52.372732
@@ -14752,7 +14752,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "атракцыён «Горкі» (закрыты)",
                   "text": "A „Gorki” hullámvasút egy bezárt vidámparki látványosság Retschyza városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.390854,
                         52.372732
@@ -14871,7 +14871,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "атракцыён «Горкі» (закрыты)",
                   "text": "Atracția tip montagne russe „Gorki” este o secțiune închisă de parc de distracții din Retschyza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.390854,
                         52.372732
@@ -14990,7 +14990,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "атракцыён «Горкі» (закрыты)",
                   "text": "The \"Slides\" attraction is a closed theme park ride in Retschyza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.390854,
                         52.372732
@@ -15191,7 +15191,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Kultur- und Erholungspark in Sluzk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -15346,7 +15346,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Kultúr- és pihenőpark Sluzkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -15501,7 +15501,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Parc de cultură și recreere în Sluzk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -15656,7 +15656,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Culture and recreation park in Sluzk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -21707,7 +21707,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Дзіцячы парк",
                   "text": "Dieser Freizeitpark befindet sich in Krytschau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.712411,
                         53.693751
@@ -21808,7 +21808,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Дзіцячы парк",
                   "text": "Ez a vidámpark Krytschau városában található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.712411,
                         53.693751
@@ -21909,7 +21909,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Дзіцячы парк",
                   "text": "Acest parc tematic se află în Krytschau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.712411,
                         53.693751
@@ -22010,7 +22010,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Дзіцячы парк",
                   "text": "This theme park is located in Krytschau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.712411,
                         53.693751
@@ -22832,7 +22832,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гадавальнік «Карлуша»",
                   "text": "Der Tierpark „Karluscha“ bietet Naturerlebnisse und Tierbeobachtungen in Marjina Horka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.143644,
                         53.516206
@@ -22942,7 +22942,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гадавальнік «Карлуша»",
                   "text": "A „Karlusa” állatpark természeti élményeket és állatmegfigyelést kínál Marjina Horkában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.143644,
                         53.516206
@@ -23052,7 +23052,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гадавальнік «Карлуша»",
                   "text": "Grădina zoologică „Karlusha” oferă experiențe în natură și observarea animalelor în Marjina Horka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.143644,
                         53.516206
@@ -23162,7 +23162,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Гадавальнік «Карлуша»",
                   "text": "The \"Karlusha\" zoo offers nature experiences and animal observation in Marjina Horka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.143644,
                         53.516206
@@ -23822,7 +23822,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Водны палац",
                   "text": "Dieser Wasserpark befindet sich in Pruschany.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.474386,
                         52.568311
@@ -23923,7 +23923,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Водны палац",
                   "text": "Ez a vízi park Pruschany városában található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.474386,
                         52.568311
@@ -24024,7 +24024,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Водны палац",
                   "text": "Acest parc acvatic se află în Pruschany.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.474386,
                         52.568311
@@ -24125,7 +24125,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Водны палац",
                   "text": "This water park is located in Pruschany.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.474386,
                         52.568311
@@ -26352,7 +26352,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Der lokale Kultur- und Erholungspark, der als Grünfläche in Ljuban dient.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.010511,
                         52.799695
@@ -26417,7 +26417,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "A helyi kulturális és pihenőpark, amely zöldövezetként szolgál Ljubanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.010511,
                         52.799695
@@ -26482,7 +26482,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Parcul local de cultură și recreere, un spațiu verde în Ljuban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.010511,
                         52.799695
@@ -26547,7 +26547,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "The local park of culture and recreation serving as a green space in Ljuban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.010511,
                         52.799695
@@ -30386,7 +30386,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "ДУ Фізкультурна-аздараўленчы комплекс, басейн",
                   "text": "ДУ Фізкультурна-аздараўленчы комплекс, басейн ist ein lokaler Wasserpark in Klezk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.655612,
                         53.072978
@@ -30487,7 +30487,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "ДУ Фізкультурна-аздараўленчы комплекс, басейн",
                   "text": "A(z) ДУ Фізкультурна-аздараўленчы комплекс, басейн egy helyi vízi park Klezk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.655612,
                         53.072978
@@ -30588,7 +30588,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "ДУ Фізкультурна-аздараўленчы комплекс, басейн",
                   "text": "ДУ Фізкультурна-аздараўленчы комплекс, басейн este un parc acvatic local în Klezk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.655612,
                         53.072978
@@ -30689,7 +30689,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "ДУ Фізкультурна-аздараўленчы комплекс, басейн",
                   "text": "ДУ Фізкультурна-аздараўленчы комплекс, басейн is a local water park located in Klezk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.655612,
                         53.072978
@@ -33797,7 +33797,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Лясная казка",
                   "text": "Das Waldmärchen ist ein lokaler Zoo in Werchnjadswinsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.945441,
                         55.75819
@@ -33835,7 +33835,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Лясная казка",
                   "text": "Az Erdei Mese egy helyi állatkert Werchnjadswinsk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.945441,
                         55.75819
@@ -33873,7 +33873,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Лясная казка",
                   "text": "Povestea Pădurii este o grădină zoologică locală din Werchnjadswinsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.945441,
                         55.75819
@@ -33911,7 +33911,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Лясная казка",
                   "text": "The Forest Fairy Tale is a local zoo situated in Werchnjadswinsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.945441,
                         55.75819
@@ -35084,7 +35084,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Заасад Эдэмскі сад«»",
                   "text": "Tierpark „Garten Eden“ in Schyrowitschy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.356347,
                         52.986164
@@ -35194,7 +35194,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Заасад Эдэмскі сад«»",
                   "text": "„Édenkert” állatkert Schyrowitschyben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.356347,
                         52.986164
@@ -35304,7 +35304,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Заасад Эдэмскі сад«»",
                   "text": "Grădina zoologică „Grădina Edenului” în Schyrowitschy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.356347,
                         52.986164
@@ -35414,7 +35414,7 @@ export const belarusCitiesV2: POI[] = [
             {
                   "name": "Заасад Эдэмскі сад«»",
                   "text": "'Garden of Eden' zoo in Schyrowitschy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.356347,
                         52.986164

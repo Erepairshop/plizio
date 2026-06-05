@@ -1868,7 +1868,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             {
                   "name": "Limbe Wildlife Centre",
                   "text": "Ein Wildtierzentrum und Zoo in Limbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.197516,
                         4.016889
@@ -1942,7 +1942,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             {
                   "name": "Limbe Wildlife Centre",
                   "text": "Vadvédelmi központ és állatkert Limbe városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.197516,
                         4.016889
@@ -2016,7 +2016,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             {
                   "name": "Limbe Wildlife Centre",
                   "text": "Un centru pentru animale sălbatice și grădină zoologică în Limbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.197516,
                         4.016889
@@ -2090,7 +2090,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             {
                   "name": "Limbe Wildlife Centre",
                   "text": "A wildlife center and zoo located in Limbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.197516,
                         4.016889

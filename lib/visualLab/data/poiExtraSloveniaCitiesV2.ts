@@ -3913,7 +3913,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             {
                   "name": "Kopališče Domžale",
                   "text": "Ein öffentliches Freibad und Erholungszentrum in Domžale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.601884,
                         46.135059
@@ -3969,7 +3969,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             {
                   "name": "Kopališče Domžale",
                   "text": "Nyilvános szabadtéri strand és szabadidőközpont Domžale városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.601884,
                         46.135059
@@ -4025,7 +4025,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             {
                   "name": "Kopališče Domžale",
                   "text": "Un ștrand public și centru de recreere în Domžale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.601884,
                         46.135059
@@ -4081,7 +4081,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             {
                   "name": "Kopališče Domžale",
                   "text": "A public outdoor swimming pool and recreation centre in Domžale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.601884,
                         46.135059
@@ -4238,7 +4238,7 @@ imageHint: "Domzale town center and sports park",
             {
                   "name": "Tobogan Simonov zaliv",
                   "text": "Tobogan Simonov zaliv ist eine Freizeit-Wasserparkanlage in der Simonbucht von Izola.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.645736,
                         45.532358
@@ -4456,7 +4456,7 @@ imageHint: "Domzale town center and sports park",
             {
                   "name": "Tobogan Simonov zaliv",
                   "text": "A Tobogan Simonov zaliv egy vízipark jellegű szórakozási lehetőség Izola Simon-öböl nevű részén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.645736,
                         45.532358
@@ -4674,7 +4674,7 @@ imageHint: "Domzale town center and sports park",
             {
                   "name": "Tobogan Simonov zaliv",
                   "text": "Tobogan Simonov zaliv este o facilitate de agrement dintr-un parc acvatic situat în zona Golfului Simon din Izola.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.645736,
                         45.532358
@@ -4892,7 +4892,7 @@ imageHint: "Domzale town center and sports park",
             {
                   "name": "Tobogan Simonov zaliv",
                   "text": "Tobogan Simonov zaliv is a recreational water park feature located in the Simon's Bay area of Izola.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.645736,
                         45.532358
@@ -5491,7 +5491,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Neotropica",
                   "text": "Ein Aquarium in Postojna, das auf exotische Tiere spezialisiert ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.196701,
                         45.764745
@@ -5500,7 +5500,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Vivarij Proteus",
                   "text": "Eine Ausstellung zur Höhlenbiologie, in der Grottenolme zu sehen sind.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.20489,
                         45.782713
@@ -5646,7 +5646,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Neotropica",
                   "text": "Egzotikus állatokra szakosodott akvárium Postojnában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.196701,
                         45.764745
@@ -5655,7 +5655,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Vivarij Proteus",
                   "text": "Barlangi biológiai kiállítás, ahol barlangi vakgőtéket láthatunk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.20489,
                         45.782713
@@ -5801,7 +5801,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Neotropica",
                   "text": "Un acvariu în Postojna specializat în specii exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.196701,
                         45.764745
@@ -5810,7 +5810,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Vivarij Proteus",
                   "text": "O expoziție de biologie cavernicolă unde pot fi văzuți olmi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.20489,
                         45.782713
@@ -5956,7 +5956,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Neotropica",
                   "text": "An aquarium in Postojna specializing in exotic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.196701,
                         45.764745
@@ -5965,7 +5965,7 @@ imageHint: "Kocevje city and the nearby lake",
             {
                   "name": "Vivarij Proteus",
                   "text": "An exhibition of cave biology featuring the olm (proteus).",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.20489,
                         45.782713
@@ -7440,7 +7440,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Termalna Riviera",
                   "text": "Termalna Riviera ist ein Wasserpark mit Freizeitangeboten in Brezice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.627507,
                         45.891445
@@ -7449,7 +7449,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Terme Čatež",
                   "text": "Terme Čatež ist ein beliebter Wasserpark und Thermalkomplex in Brezice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.625784,
                         45.890396
@@ -7523,7 +7523,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Termalna Riviera",
                   "text": "A Termalna Riviera egy rekreációs lehetőségeket kínáló vízi park Brezice városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.627507,
                         45.891445
@@ -7532,7 +7532,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Terme Čatež",
                   "text": "A Terme Čatež egy népszerű vízi park és termálfürdő Brezice területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.625784,
                         45.890396
@@ -7606,7 +7606,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Termalna Riviera",
                   "text": "Termalna Riviera este un parc acvatic ce oferă activități recreative în Brezice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.627507,
                         45.891445
@@ -7615,7 +7615,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Terme Čatež",
                   "text": "Terme Čatež este un popular parc acvatic și complex termal din Brezice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.625784,
                         45.890396
@@ -7689,7 +7689,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Termalna Riviera",
                   "text": "Termalna Riviera is a water park offering recreational activities in Brezice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.627507,
                         45.891445
@@ -7698,7 +7698,7 @@ imageHint: "Krško city view with Sava river and power plant",
             {
                   "name": "Terme Čatež",
                   "text": "Terme Čatež is a popular water park and thermal spa complex situated in Brezice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.625784,
                         45.890396

@@ -2423,7 +2423,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             {
                   "name": "Одеський зоопарк",
                   "text": "Der Zoo von Odessa ist ein bekannter zoologischer Park in Odessa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.731944,
                         46.465961
@@ -2884,7 +2884,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             {
                   "name": "Одеський зоопарк",
                   "text": "Az Odesszai Állatkert egy jelentős zoológiai park Odesszában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.731944,
                         46.465961
@@ -3345,7 +3345,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             {
                   "name": "Одеський зоопарк",
                   "text": "Grădina Zoologică din Odesa este un parc zoologic notabil situat în Odesa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.731944,
                         46.465961
@@ -3806,7 +3806,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
             {
                   "name": "Одеський зоопарк",
                   "text": "The Odesa Zoo is a notable zoological park located in Odessa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.731944,
                         46.465961
@@ -4242,7 +4242,7 @@ imageHint: "Odesa Opera House and city streets",
             {
                   "name": "Акваріум",
                   "text": "Das Süßwasser-Aquarium auf der Klosterinsel in Dnipro zeigt eine Vielfalt an Fischarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.081369,
                         48.460545
@@ -4604,7 +4604,7 @@ imageHint: "Odesa Opera House and city streets",
             {
                   "name": "Акваріум",
                   "text": "A dnyiprói Kolostor-szigeten található édesvízi akvárium különféle halfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.081369,
                         48.460545
@@ -4966,7 +4966,7 @@ imageHint: "Odesa Opera House and city streets",
             {
                   "name": "Акваріум",
                   "text": "Acvariul de apă dulce de pe insula Mănăstirii din Dnipro prezintă o varietate de specii de pești.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.081369,
                         48.460545
@@ -5328,7 +5328,7 @@ imageHint: "Odesa Opera House and city streets",
             {
                   "name": "Акваріум",
                   "text": "The freshwater aquarium on Monastyrskyi Island in Dnipro showcases a variety of fish species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.081369,
                         48.460545
@@ -5639,7 +5639,7 @@ imageHint: "Donetsk city skyline and roses in park",
             {
                   "name": "Будиночок для качки",
                   "text": "Budynochok dlya kachky ist ein kleiner Zoo in Saporischschja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.100461,
                         47.838842
@@ -5749,7 +5749,7 @@ imageHint: "Donetsk city skyline and roses in park",
             {
                   "name": "Будиночок для качки",
                   "text": "A Budinocsok dlja kacski egy kis állatkert Zaporizzsjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.100461,
                         47.838842
@@ -5859,7 +5859,7 @@ imageHint: "Donetsk city skyline and roses in park",
             {
                   "name": "Будиночок для качки",
                   "text": "Budynochok dlya kachky este o mică grădină zoologică din Zaporijia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.100461,
                         47.838842
@@ -5969,7 +5969,7 @@ imageHint: "Donetsk city skyline and roses in park",
             {
                   "name": "Будиночок для качки",
                   "text": "Budynochok dlya kachky is a small zoo located in Saporischschja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.100461,
                         47.838842
@@ -8362,7 +8362,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк дикої природи",
                   "text": "Ein lokaler Zoo, der die Möglichkeit bietet, verschiedene Wildtierarten in Mariupol zu sehen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.559044,
                         47.117219
@@ -8562,7 +8562,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк дикої природи",
                   "text": "Helyi állatkert, amely lehetőséget nyújt különböző vadon élő állatfajok megtekintésére Mariupollban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.559044,
                         47.117219
@@ -8762,7 +8762,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк дикої природи",
                   "text": "O grădină zoologică locală care oferă ocazia de a vedea diverse specii de animale sălbatice în Mariupol.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.559044,
                         47.117219
@@ -8962,7 +8962,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Wildlife Park",
                   "text": "A local zoo providing an opportunity to see various wildlife species in Mariupol.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.559044,
                         47.117219
@@ -9320,7 +9320,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігроманія",
                   "text": "Igromania ist ein Themenpark in der Stadt Winnyzja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.47443,
                         49.25875
@@ -9383,7 +9383,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Казковий зоодворик",
                   "text": "Der Märchenzoo ist ein kleiner zoologischer Garten in Winnyzja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.459066,
                         49.236852
@@ -9655,7 +9655,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігроманія",
                   "text": "Az Igromania egy vidámpark Vinnicja városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.47443,
                         49.25875
@@ -9718,7 +9718,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Казковий зоодворик",
                   "text": "A Mesebeli állatkert egy kis állatkert Vinnicjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.459066,
                         49.236852
@@ -9990,7 +9990,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігроманія",
                   "text": "Igromania este un parc tematic situat în orașul Vinnytsia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.47443,
                         49.25875
@@ -10053,7 +10053,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Казковий зоодворик",
                   "text": "Grădina zoologică de basm este un mic parc zoologic din Vinnytsia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.459066,
                         49.236852
@@ -10325,7 +10325,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігроманія",
                   "text": "Igromania is a theme park located in the city of Winnyzja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.47443,
                         49.25875
@@ -10388,7 +10388,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Казковий зоодворик",
                   "text": "Fairy-tale zoo is a zoological attraction in Winnyzja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.459066,
                         49.236852
@@ -13832,7 +13832,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Міський парк культури та відпочинку",
                   "text": "Der zentrale Kultur- und Erholungspark ist ein Freizeitpark in Tschernihiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.323132,
                         51.499217
@@ -13859,7 +13859,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг \"Планета\"",
                   "text": "Der Vergnügungspark Planet ist ein familienfreundlicher Freizeitpark in Tschernihiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.306264,
                         51.515489
@@ -14113,7 +14113,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Міський парк культури та відпочинку",
                   "text": "A Központi Kulturális és Pihenőpark egy vidámpark Csernyihivben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.323132,
                         51.499217
@@ -14140,7 +14140,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг \"Планета\"",
                   "text": "A Planet vidámpark egy családbarát szórakoztató park Csernyihivben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.306264,
                         51.515489
@@ -14394,7 +14394,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Міський парк культури та відпочинку",
                   "text": "Parcul central de cultură și recreere este un parc de distracții din Cernihiv.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.323132,
                         51.499217
@@ -14421,7 +14421,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг \"Планета\"",
                   "text": "Parcul de distracții Planet este un parc tematic pentru familii în Cernihiv.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.306264,
                         51.515489
@@ -14675,7 +14675,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Міський парк культури та відпочинку",
                   "text": "The Central Park of Culture and Recreation is a theme park in Tschernihiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.323132,
                         51.499217
@@ -14702,7 +14702,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Amusement Park \"Planet\"",
                   "text": "The Amusement Park Planet is a family-friendly theme park in Tschernihiw.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.306264,
                         51.515489
@@ -15417,7 +15417,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акварай",
                   "text": "Ein beliebter Wasserpark in Riwne mit verschiedenen Pools und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.257781,
                         50.632489
@@ -15426,7 +15426,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Тарзан",
                   "text": "Ein Abenteuer- und Themenpark in Riwne mit Fokus auf Outdoor-Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.258973,
                         50.614587
@@ -15635,7 +15635,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акварай",
                   "text": "Népszerű vízipark Rivnében különféle medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.257781,
                         50.632489
@@ -15644,7 +15644,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Тарзан",
                   "text": "Kaland- és élménypark Rivnében, amely a szabadtéri tevékenységekre összpontosít.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.258973,
                         50.614587
@@ -15853,7 +15853,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акварай",
                   "text": "Un parc acvatic popular în Rivne cu diverse piscine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.257781,
                         50.632489
@@ -15862,7 +15862,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Тарзан",
                   "text": "Un parc de aventură și tematic în Rivne axat pe activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.258973,
                         50.614587
@@ -16071,7 +16071,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акварай",
                   "text": "A popular water park in Rivne featuring various pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.257781,
                         50.632489
@@ -16080,7 +16080,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Тарзан",
                   "text": "An adventure and theme park in Rivne focused on outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.258973,
                         50.614587
@@ -17014,7 +17014,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігромір",
                   "text": "Unterhaltungs- und Spielbereich für Kinder in Kropywnyzkyj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.255695,
                         48.501803
@@ -17023,7 +17023,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Adrenalin Hotel",
                   "text": "Freizeit- und Unterhaltungskomplex in Kropywnyzkyj für aktive Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.257531,
                         48.501072
@@ -17268,7 +17268,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігромір",
                   "text": "Szórakoztató- és játszótér gyerekeknek Kropivnickijben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.255695,
                         48.501803
@@ -17277,7 +17277,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Adrenalin Hotel",
                   "text": "Szabadidős és szórakoztató komplexum Kropivnickijben, aktív kikapcsolódást kínálva.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.257531,
                         48.501072
@@ -17522,7 +17522,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігромір",
                   "text": "Zonă de divertisment și joacă pentru copii situată în Kropîvnîțkîi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.255695,
                         48.501803
@@ -17531,7 +17531,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Adrenalin Hotel",
                   "text": "Complex de agrement și divertisment din Kropîvnîțkîi, care oferă recreere activă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.257531,
                         48.501072
@@ -17776,7 +17776,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігромір",
                   "text": "Entertainment and play area for children located in Kropyvnytskyi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.255695,
                         48.501803
@@ -17785,7 +17785,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Adrenalin Hotel",
                   "text": "Leisure and entertainment complex in Kropyvnytskyi offering active recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.257531,
                         48.501072
@@ -18053,7 +18053,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Острів Розваг",
                   "text": "Ostriv Rozvah ist ein Themenpark in der Stadt Krementschuk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.425817,
                         49.090708
@@ -18163,7 +18163,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Острів Розваг",
                   "text": "Az Ostriv Rozvah egy vidámpark Krementschuk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.425817,
                         49.090708
@@ -18273,7 +18273,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Острів Розваг",
                   "text": "Ostriv Rozvah este un parc tematic din orașul Kremenciuk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.425817,
                         49.090708
@@ -18383,7 +18383,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Острів Розваг",
                   "text": "Ostriv Rozvah is a theme park located in Krementschuk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.425817,
                         49.090708
@@ -18682,7 +18682,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Колесо Огляду",
                   "text": "Riesenrad in Kramatorsk mit Blick auf die umliegende Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587455,
                         48.749422
@@ -18700,7 +18700,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дивовижні рибки",
                   "text": "Öffentliches Aquarium mit verschiedenen exotischen Fischarten in Kramatorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.586454,
                         48.741627
@@ -18718,7 +18718,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг",
                   "text": "Familienfreizeitpark mit verschiedenen Fahrgeschäften und Outdoor-Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587167,
                         48.724882
@@ -18801,7 +18801,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Колесо Огляду",
                   "text": "Óriáskerék Kramatorszkban, amely kilátást nyújt a környező városra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587455,
                         48.749422
@@ -18819,7 +18819,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дивовижні рибки",
                   "text": "Nyilvános akvárium különféle egzotikus halfajokkal Kramatorszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.586454,
                         48.741627
@@ -18837,7 +18837,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг",
                   "text": "Családi vidámpark különféle játékokkal és szabadtéri tevékenységekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587167,
                         48.724882
@@ -18920,7 +18920,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Колесо Огляду",
                   "text": "Roată panoramică în Kramatorsk care oferă o vedere a orașului înconjurător.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587455,
                         48.749422
@@ -18938,7 +18938,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дивовижні рибки",
                   "text": "Acvariu public care prezintă diverse specii de pești exotici în Kramatorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.586454,
                         48.741627
@@ -18956,7 +18956,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг",
                   "text": "Parc de distracții pentru familii care oferă diverse atracții și activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587167,
                         48.724882
@@ -19039,7 +19039,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Колесо Огляду",
                   "text": "Ferris wheel in Kramatorsk providing a view of the surrounding city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587455,
                         48.749422
@@ -19057,7 +19057,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дивовижні рибки",
                   "text": "Public aquarium featuring various species of exotic fish in Kramatorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.586454,
                         48.741627
@@ -19075,7 +19075,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк розваг",
                   "text": "Family amusement park offering various rides and outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.587167,
                         48.724882
@@ -19197,7 +19197,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк культури та відпочинку ім. Горького",
                   "text": "Ein zentraler Freizeitpark in Melitopol mit Attraktionen für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.364491,
                         46.837641
@@ -19280,7 +19280,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк культури та відпочинку ім. Горького",
                   "text": "Melitopol központi vidámparkja látványosságokkal minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.364491,
                         46.837641
@@ -19363,7 +19363,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк культури та відпочинку ім. Горького",
                   "text": "Un parc central de agrement în Melitopol cu atracții pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.364491,
                         46.837641
@@ -19446,7 +19446,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк культури та відпочинку ім. Горького",
                   "text": "A central leisure park in Melitopol with attractions for all age groups.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.364491,
                         46.837641
@@ -21050,7 +21050,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Автодром",
                   "text": "Das Autodrom ist ein unterhaltsamer Themenpark in der Stadt Berdjansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.802106,
                         46.740539
@@ -21077,7 +21077,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Зооклуб \"Неон\"",
                   "text": "Der Zooclub Neon ist ein lokaler Zoo mit verschiedenen Tierarten in Berdjansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.791073,
                         46.761028
@@ -21295,7 +21295,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Автодром",
                   "text": "Az Autodrom egy szórakoztató vidámpark Berdjanszk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.802106,
                         46.740539
@@ -21322,7 +21322,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Зооклуб \"Неон\"",
                   "text": "A Neon Állatklub egy helyi állatkert Berdjanszkban, amely különféle állatfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.791073,
                         46.761028
@@ -21540,7 +21540,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Автодром",
                   "text": "Autodrom este un parc tematic distractiv din orașul Berdeansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.802106,
                         46.740539
@@ -21567,7 +21567,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Зооклуб \"Неон\"",
                   "text": "Zooclub Neon este o grădină zoologică locală care prezintă diverse specii de animale în Berdeansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.791073,
                         46.761028
@@ -21785,7 +21785,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Автодром",
                   "text": "Autodrom is a fun theme park destination in the city of Berdjansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.802106,
                         46.740539
@@ -21812,7 +21812,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Зооклуб \"Неон\"",
                   "text": "Zooclub Neon is a local zoo featuring diverse animal species in Berdjansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.791073,
                         46.761028
@@ -22570,7 +22570,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк Тарзан",
                   "text": "Ein Abenteuer-Seilpark in Uschhorod mit verschiedenen Kletterrouten für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.310607,
                         48.620569
@@ -22851,7 +22851,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк Тарзан",
                   "text": "Kalandpark Ungváron, amely különféle mászóútvonalakat kínál minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.310607,
                         48.620569
@@ -23132,7 +23132,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк Тарзан",
                   "text": "Un parc de aventură cu frânghii din Uzhhorod, care oferă diverse trasee de cățărare pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.310607,
                         48.620569
@@ -23413,7 +23413,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк Тарзан",
                   "text": "An adventure rope park in Uzhhorod offering various climbing routes for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.310607,
                         48.620569
@@ -23688,7 +23688,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Максим-парк",
                   "text": "Ein Freizeitpark in Lyssytschansk mit verschiedenen Attraktionen für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.411392,
                         48.920507
@@ -23762,7 +23762,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Максим-парк",
                   "text": "Vidámpark Liszicsanszkban, amely különféle szórakozási lehetőségeket kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.411392,
                         48.920507
@@ -23836,7 +23836,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Максим-парк",
                   "text": "Un parc de distracții din Lisiciansk, oferind diverse atracții pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.411392,
                         48.920507
@@ -23910,7 +23910,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Максим-парк",
                   "text": "An amusement park in Lysychansk featuring various attractions for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.411392,
                         48.920507
@@ -24845,7 +24845,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігропарк",
                   "text": "Ein Freizeitpark in Konotop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.217057,
                         51.240611
@@ -24928,7 +24928,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігропарк",
                   "text": "Egy vidámpark Konotopban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.217057,
                         51.240611
@@ -25011,7 +25011,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігропарк",
                   "text": "Un parc de distracții situat în Konotop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.217057,
                         51.240611
@@ -25094,7 +25094,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Ігропарк",
                   "text": "A theme park located in Konotop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.217057,
                         51.240611
@@ -26790,7 +26790,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквапарк «Термінал»",
                   "text": "Ein großer Indoor-Wasserpark in Browary mit zahlreichen Rutschen, Pools und Wellnessbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.794943,
                         50.527274
@@ -26864,7 +26864,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквапарк «Термінал»",
                   "text": "Nagy fedett vízipark Brovariban, számos csúszdával, medencével és wellness részleggel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.794943,
                         50.527274
@@ -26938,7 +26938,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквапарк «Термінал»",
                   "text": "Un mare parc acvatic acoperit din Brovarî, cu numeroase tobogane, piscine și zone de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.794943,
                         50.527274
@@ -27012,7 +27012,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквапарк «Термінал»",
                   "text": "A large indoor water park in Brovary featuring numerous slides, pools, and wellness areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.794943,
                         50.527274
@@ -28029,7 +28029,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Aqua City",
                   "text": "Ein moderner Wasser- und Erholungskomplex in Mukatschewo mit verschiedenen Pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.706379,
                         48.459836
@@ -28220,7 +28220,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Aqua City",
                   "text": "Modern munkácsi vízi és szabadidős komplexum különféle medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.706379,
                         48.459836
@@ -28411,7 +28411,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Aqua City",
                   "text": "Un complex modern de agrement acvatic din Mucacevo, cu diverse piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.706379,
                         48.459836
@@ -28602,7 +28602,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Aqua City",
                   "text": "A modern water and recreation complex in Mukachevo featuring various pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.706379,
                         48.459836
@@ -29194,7 +29194,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Крокодиляриум",
                   "text": "Dieser Zoo beherbergt eine große Sammlung von Krokodilen und anderen Reptilien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.170859,
                         44.49706
@@ -29203,7 +29203,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквариум Кубик",
                   "text": "Ein Aquarium in Jalta, das verschiedene Arten von Meeresbewohnern in modernen Becken zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.156917,
                         44.490648
@@ -29212,7 +29212,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Детский аквапарк",
                   "text": "Ein familienfreundlicher Wasserpark in Jalta mit Rutschen und Becken für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.191521,
                         44.501769
@@ -29583,7 +29583,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Крокодиляриум",
                   "text": "Ez az állatkert krokodilok és más hüllők nagy gyűjteményének ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.170859,
                         44.49706
@@ -29592,7 +29592,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквариум Кубик",
                   "text": "Jaltai akvárium, amely különféle tengeri élőlényeket mutat be modern tartályokban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.156917,
                         44.490648
@@ -29601,7 +29601,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Детский аквапарк",
                   "text": "Családbarát vízipark Jaltán, csúszdákkal és medencékkel gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.191521,
                         44.501769
@@ -29972,7 +29972,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Крокодиляриум",
                   "text": "Această grădină zoologică găzduiește o colecție mare de crocodili și alte reptile.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.170859,
                         44.49706
@@ -29981,7 +29981,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквариум Кубик",
                   "text": "Un acvariu din Jalta care prezintă diverse specii de viețuitoare marine în bazine moderne.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.156917,
                         44.490648
@@ -29990,7 +29990,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Детский аквапарк",
                   "text": "Un parc acvatic pentru familii din Jalta, cu tobogane și piscine pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.191521,
                         44.501769
@@ -30361,7 +30361,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Крокодиляриум",
                   "text": "This zoo houses a large collection of crocodiles and other reptiles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.170859,
                         44.49706
@@ -30370,7 +30370,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Аквариум Кубик",
                   "text": "An aquarium in Yalta showcasing various species of marine life in modern tanks.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.156917,
                         44.490648
@@ -30379,7 +30379,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Детский аквапарк",
                   "text": "A family-friendly water park in Yalta with slides and pools for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.191521,
                         44.501769
@@ -31724,7 +31724,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Оглядове колесо",
                   "text": "Das Riesenrad in Kalusch ist eine lokale Freizeitpark-Attraktion, die eine erhöhte Aussicht auf die Umgebung bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.377609,
                         49.021746
@@ -31825,7 +31825,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Оглядове колесо",
                   "text": "A kalusi óriáskerék egy helyi vidámparki látványosság, amely fentről nyújt kilátást a környékre.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.377609,
                         49.021746
@@ -31926,7 +31926,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Оглядове колесо",
                   "text": "Roata panoramică din Kaluș este o atracție a parcului tematic local, care oferă vederi de la înălțime asupra zonei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.377609,
                         49.021746
@@ -32027,7 +32027,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Оглядове колесо",
                   "text": "The Observation Wheel in Kalusch is a local theme park attraction offering elevated views of the area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.377609,
                         49.021746
@@ -32447,7 +32447,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дитяча планета",
                   "text": "„Kinderplanet“ ist ein familienfreundlicher Freizeitpark und Vergnügungsort in Nowomoskowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.26224,
                         48.631491
@@ -32465,7 +32465,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Чудо Юдо",
                   "text": "„Tschudo Judo“ ist ein lokaler Wasserpark, der Unterhaltung im Wasser für Besucher in Nowomoskowsk bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263016,
                         48.633339
@@ -32483,7 +32483,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "Der Vergnügungspark in Nowomoskowsk ist ein lokaler Freizeitpark mit Fahrgeschäften und Attraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263162,
                         48.632174
@@ -32521,7 +32521,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дитяча планета",
                   "text": "A „Gyermekbolygó” egy családbarát vidámpark és szórakozóhely Nowomoskowskban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.26224,
                         48.631491
@@ -32539,7 +32539,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Чудо Юдо",
                   "text": "A „Csudo Judo” egy helyi vízi vidámpark, amely vízi szórakozást kínál a Nowomoskowskba látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263016,
                         48.633339
@@ -32557,7 +32557,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "A nowomoskowski Vidámpark egy helyi szórakoztató park, amely különféle játékokat és látványosságokat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263162,
                         48.632174
@@ -32595,7 +32595,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дитяча планета",
                   "text": "„Planeta Copiilor” este un parc tematic orientat către familii și un loc de divertisment în Novomoskovsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.26224,
                         48.631491
@@ -32613,7 +32613,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Чудо Юдо",
                   "text": "„Ciudo Iudo” este un parc acvatic local care oferă divertisment acvatic vizitatorilor din Novomoskovsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263016,
                         48.633339
@@ -32631,7 +32631,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "Parcul de distracții din Novomoskovsk este un parc tematic local care oferă atracții și carusele de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263162,
                         48.632174
@@ -32669,7 +32669,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Дитяча планета",
                   "text": "\"Children's Planet\" is a family-oriented theme park and entertainment venue in Nowomoskowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.26224,
                         48.631491
@@ -32687,7 +32687,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Чудо Юдо",
                   "text": "\"Chudo Yudo\" is a local water park offering aquatic entertainment for visitors in Nowomoskowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263016,
                         48.633339
@@ -32705,7 +32705,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "The Amusement Park in Nowomoskowsk is a local theme park featuring recreational rides and attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.263162,
                         48.632174
@@ -34053,7 +34053,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Вольєр №1 для тимчасового утримання та розведення оленя благородного",
                   "text": "In diesem lokalen Zoo in Morschyn können Besucher verschiedene Hirscharten sehen und mehr über sie erfahren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.879552,
                         49.139289
@@ -34082,7 +34082,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Вольєр №1 для тимчасового утримання та розведення оленя благородного",
                   "text": "Ez a morsini kisállatkert lehetővé teszi a látogatók számára, hogy különböző szarvasfajokat lássanak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.879552,
                         49.139289
@@ -34111,7 +34111,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Вольєр №1 для тимчасового утримання та розведення оленя благородного",
                   "text": "Această grădină zoologică locală din Morschyn permite vizitatorilor să vadă și să învețe despre diferite specii de căprioare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.879552,
                         49.139289
@@ -34140,7 +34140,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Deer zoo",
                   "text": "This local zoo in Morschyn allows visitors to see and learn about different species of deer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.879552,
                         49.139289
@@ -37726,7 +37726,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк",
                   "text": "Ein Abenteuerpark in Boryspil mit verschiedenen Seilparcours für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.948032,
                         50.354616
@@ -37791,7 +37791,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк",
                   "text": "Kalandpark Boriszpilben, különféle kötélpályákkal minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.948032,
                         50.354616
@@ -37856,7 +37856,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк",
                   "text": "Un parc de aventură din Boryspil cu diverse trasee de frânghie pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.948032,
                         50.354616
@@ -37921,7 +37921,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Мотузковий парк",
                   "text": "An adventure park in Boryspil with various rope courses for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.948032,
                         50.354616
@@ -39508,7 +39508,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Легенда",
                   "text": "Legende ist ein lokaler Themenpark, der Unterhaltung in Wolodymyr bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.331842,
                         50.836703
@@ -39555,7 +39555,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Легенда",
                   "text": "A Legenda egy helyi vidámpark, amely szórakozást nyújt Volodimirben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.331842,
                         50.836703
@@ -39602,7 +39602,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Легенда",
                   "text": "Legenda este un parc tematic local care oferă divertisment în Wolodymyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.331842,
                         50.836703
@@ -39649,7 +39649,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Легенда",
                   "text": "Legend is a local theme park providing entertainment in Wolodymyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.331842,
                         50.836703
@@ -39742,7 +39742,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "Ein Vergnügungspark in Tscherwonohrad mit verschiedenen Fahrgeschäften für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.241972,
                         50.396292
@@ -39769,7 +39769,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акула Мама",
                   "text": "Ein Wasserpark in Tscherwonohrad, der Spiel und Spaß im Wasser für Kinder bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.231491,
                         50.387383
@@ -39834,7 +39834,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "Vidámpark Cservonohradban, különféle játékokkal családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.241972,
                         50.396292
@@ -39861,7 +39861,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акула Мама",
                   "text": "Vízipark Cservonohradban, amely vízi szórakozást kínál gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.231491,
                         50.387383
@@ -39926,7 +39926,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "Un parc de distracții din Tscherwonohrad cu diverse atracții pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.241972,
                         50.396292
@@ -39953,7 +39953,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акула Мама",
                   "text": "Un parc acvatic din Tscherwonohrad, care oferă distracție în apă pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.231491,
                         50.387383
@@ -40018,7 +40018,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Парк атракціонів",
                   "text": "An amusement park in Tscherwonohrad with various rides for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.241972,
                         50.396292
@@ -40045,7 +40045,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Акула Мама",
                   "text": "A water park in Tscherwonohrad offering water fun for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.231491,
                         50.387383
@@ -45989,7 +45989,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Скадовський дельфінарій \"Акварель\"",
                   "text": "Das Delphinarium Aquarel ist ein Zoo und Unterhaltungsort in Skadowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.881314,
                         46.116066
@@ -46045,7 +46045,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Скадовський дельфінарій \"Акварель\"",
                   "text": "Az Aquarel Delfinárium egy állatkert és látványosság Szkadovszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.881314,
                         46.116066
@@ -46101,7 +46101,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Скадовський дельфінарій \"Акварель\"",
                   "text": "Delfinariul Aquarel este o grădină zoologică și atracție turistică în Skadovsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.881314,
                         46.116066
@@ -46157,7 +46157,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
             {
                   "name": "Скадовський дельфінарій \"Акварель\"",
                   "text": "The Aquarel Dolphinarium is a zoo and popular attraction in Skadovsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.881314,
                         46.116066

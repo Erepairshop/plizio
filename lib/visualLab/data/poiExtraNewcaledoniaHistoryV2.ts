@@ -1781,7 +1781,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Die Piscine naturelle ist ein Wasserpark in Altes Dorf Koumac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -1846,7 +1846,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "A Piscine naturelle egy vízi park Altes Dorf Koumac városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -1911,7 +1911,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Piscine naturelle este un parc acvatic în Altes Dorf Koumac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -1976,7 +1976,7 @@ export const newcaledoniaHistoryV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Piscine naturelle is a water park located in Altes Dorf Koumac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754

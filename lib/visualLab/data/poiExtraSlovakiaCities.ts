@@ -107,7 +107,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Aqualand Banská Bystrica",
                   "text": "Aqualand Banská Bystrica ist ein Wasserpark in Neusohl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127851,
                         48.735748
@@ -343,7 +343,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Aqualand Banská Bystrica",
                   "text": "Az Aqualand Banská Bystrica egy vízi park Neusohl városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127851,
                         48.735748
@@ -579,7 +579,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Aqualand Banská Bystrica",
                   "text": "Aqualand Banská Bystrica este un parc acvatic situat în Neusohl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127851,
                         48.735748
@@ -815,7 +815,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Aqualand Banská Bystrica",
                   "text": "Aqualand Banská Bystrica is a water park located in Neusohl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127851,
                         48.735748
@@ -1072,7 +1072,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Farma Žirafa",
                   "text": "Ein kleiner Zoo und Streichelzoo in Žilina, ideal für Familien mit Kindern.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.746631,
                         49.213835
@@ -1090,7 +1090,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Mestská plaváreň",
                   "text": "Das städtische Schwimmbad von Žilina bietet Möglichkeiten zum Schwimmen und für Wassersport.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.748651,
                         49.212321
@@ -1272,7 +1272,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Farma Žirafa",
                   "text": "Kisebb állatkert és állatsimogató Zsolnán, ideális gyermekes családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.746631,
                         49.213835
@@ -1290,7 +1290,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Mestská plaváreň",
                   "text": "Zsolna városi uszodája, amely úszási és vízisportolási lehetőségeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.748651,
                         49.212321
@@ -1472,7 +1472,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Farma Žirafa",
                   "text": "O mică grădină zoologică din Žilina, ideală pentru familiile cu copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.746631,
                         49.213835
@@ -1490,7 +1490,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Mestská plaváreň",
                   "text": "Piscina municipală din Žilina oferă facilități pentru înot și sporturi nautice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.748651,
                         49.212321
@@ -1672,7 +1672,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Farma Žirafa",
                   "text": "A small zoo and petting farm in Žilina, ideal for families with children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.746631,
                         49.213835
@@ -1690,7 +1690,7 @@ export const slovakiaCities: POI[] = [
             {
                   "name": "Mestská plaváreň",
                   "text": "The municipal swimming pool of Žilina offers facilities for swimming and water sports.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.748651,
                         49.212321

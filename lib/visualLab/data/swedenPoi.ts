@@ -4204,7 +4204,7 @@ export const swedenRegions: POI[] = [
             {
                   "name": "Simhallsbadet",
                   "text": "Ein öffentliches Schwimmbad und Wasserpark in Malmö.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.992406,
                         55.599216
@@ -4710,7 +4710,7 @@ export const swedenRegions: POI[] = [
             {
                   "name": "Simhallsbadet",
                   "text": "Nyilvános uszoda és vízipark Malmőben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.992406,
                         55.599216
@@ -5216,7 +5216,7 @@ export const swedenRegions: POI[] = [
             {
                   "name": "Simhallsbadet",
                   "text": "O piscină publică și parc acvatic în Malmö.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.992406,
                         55.599216
@@ -5722,7 +5722,7 @@ export const swedenRegions: POI[] = [
             {
                   "name": "Simhallsbadet",
                   "text": "A public swimming pool and water park in Malmö.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.992406,
                         55.599216
@@ -8155,7 +8155,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "simhallsbadet",
                   "text": "Örtliche Schwimmhalle und Wasserpark in der Stadt Kiruna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.23565,
                         67.854112
@@ -8220,7 +8220,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "simhallsbadet",
                   "text": "Helyi uszoda és élményfürdő Kiruna városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.23565,
                         67.854112
@@ -8285,7 +8285,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "simhallsbadet",
                   "text": "Facilitate locală de înot și parc acvatic situat în orașul Kiruna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.23565,
                         67.854112
@@ -8350,7 +8350,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "simhallsbadet",
                   "text": "Local swimming facility and water park located in the city of Kiruna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.23565,
                         67.854112
@@ -8573,7 +8573,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Navet",
                   "text": "Ein modernes Hallenbad und Wasserpark in Umeå mit Sport- und Freizeitbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.270289,
                         63.826123
@@ -8890,7 +8890,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Navet",
                   "text": "Modern uszoda és élményfürdő Umeåban sport- és szabadidős medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.270289,
                         63.826123
@@ -9207,7 +9207,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Navet",
                   "text": "O piscină interioară modernă și un parc acvatic din Umeå cu bazine sportive și de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.270289,
                         63.826123
@@ -9524,7 +9524,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Navet",
                   "text": "A modern indoor swimming facility and water park in Umeå with sports and leisure pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.270289,
                         63.826123
@@ -9944,7 +9944,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Källbybadet",
                   "text": "Das Källbybadet ist ein beliebtes Freibad und Wasserpark in Lund für die Sommerzeit.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.170373,
                         55.68989
@@ -10387,7 +10387,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Källbybadet",
                   "text": "A Källbybadet egy kedvelt szabadtéri strand és vízipark Lundban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.170373,
                         55.68989
@@ -10830,7 +10830,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Källbybadet",
                   "text": "Källbybadet este un ștrand și parc acvatic popular în Lund pentru recreere estivală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.170373,
                         55.68989
@@ -11273,7 +11273,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Källbybadet",
                   "text": "Källbybadet is a popular outdoor swimming facility and water park in Lund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.170373,
                         55.68989
@@ -11684,7 +11684,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Tinnerbäcksbadet",
                   "text": "Ein beliebtes Erlebnisbad und Freizeitzentrum in Linköping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.628843,
                         58.40557
@@ -12037,7 +12037,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Tinnerbäcksbadet",
                   "text": "Népszerű élményfürdő és szabadidős központ Linköping városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.628843,
                         58.40557
@@ -12390,7 +12390,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Tinnerbäcksbadet",
                   "text": "Un parc acvatic și centru de recreere popular situat în Linköping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.628843,
                         58.40557
@@ -12743,7 +12743,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Tinnerbäcksbadet",
                   "text": "A popular water park and recreation centre located in Linköping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.628843,
                         58.40557
@@ -13151,7 +13151,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Kokpunkten",
                   "text": "Ein einzigartiger „Action“-Wasserpark in einem alten Dampfkraftwerk in Västerås.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.566817,
                         59.607
@@ -13160,7 +13160,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Västerås Wake Park",
                   "text": "Ein Sport- und Freizeitpark in Västerås, der sich auf Wakeboarding spezialisiert hat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.54557,
                         59.602241
@@ -13187,7 +13187,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Lögarängsbadet",
                   "text": "Ein großes Schwimmbad und Freizeitzentrum in Västerås mit Innen- und Außenbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.53331,
                         59.598442
@@ -13423,7 +13423,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Kokpunkten",
                   "text": "Egyedülálló élményfürdő és vízi park egy régi gőzerőműben, Västeråsban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.566817,
                         59.607
@@ -13432,7 +13432,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Västerås Wake Park",
                   "text": "Sport- és szabadidőpark Västeråsban, amely a wakeboardozásra specializálódott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.54557,
                         59.602241
@@ -13459,7 +13459,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Lögarängsbadet",
                   "text": "Nagy uszoda és szabadidőközpont Västeråsban fedett és szabadtéri medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.53331,
                         59.598442
@@ -13695,7 +13695,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Kokpunkten",
                   "text": "Un parc acvatic unic de tip „action” situat într-o veche centrală electrică cu abur din Västerås.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.566817,
                         59.607
@@ -13704,7 +13704,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Västerås Wake Park",
                   "text": "Un parc de sport și recreere din Västerås specializat pe wakeboarding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.54557,
                         59.602241
@@ -13731,7 +13731,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Lögarängsbadet",
                   "text": "O piscină mare și centru de recreere din Västerås cu bazine interioare și exterioare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.53331,
                         59.598442
@@ -13967,7 +13967,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Kokpunkten",
                   "text": "A unique 'action' water park located in an old steam power station in Västerås.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.566817,
                         59.607
@@ -13976,7 +13976,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Västerås Wake Park",
                   "text": "A sports and leisure park in Västerås specialized in wakeboarding.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.54557,
                         59.602241
@@ -14003,7 +14003,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Lögarängsbadet",
                   "text": "A large swimming pool and leisure center in Västerås with indoor and outdoor pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.53331,
                         59.598442
@@ -15914,7 +15914,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Himlabadet",
                   "text": "Ein modernes Erlebnisbad in Sundsvall mit verschiedenen Becken und Wellnessbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.288959,
                         62.394264
@@ -16213,7 +16213,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Himlabadet",
                   "text": "Modern élményfürdő Sundsvallban, különböző medencékkel és wellness-részlegekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.288959,
                         62.394264
@@ -16512,7 +16512,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Himlabadet",
                   "text": "Un parc acvatic modern în Sundsvall, cu diverse bazine și zone de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.288959,
                         62.394264
@@ -16811,7 +16811,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Himlabadet",
                   "text": "A modern water park in Sundsvall featuring various pools and wellness areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.288959,
                         62.394264
@@ -17150,7 +17150,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Aronsbadet",
                   "text": "Ein beliebter Wasserpark in Luleå mit verschiedenen Becken und Rutschen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.211158,
                         65.578115
@@ -17278,7 +17278,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Aronsbadet",
                   "text": "Népszerű luleåi vízipark különféle medencékkel és csúszdákkal a családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.211158,
                         65.578115
@@ -17406,7 +17406,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Aronsbadet",
                   "text": "Un parc acvatic popular în Luleå, cu diverse bazine și tobogane pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.211158,
                         65.578115
@@ -17534,7 +17534,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Aronsbadet",
                   "text": "A popular water park in Luleå featuring various pools and slides for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.211158,
                         65.578115
@@ -17756,7 +17756,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Djurparken Lillskogen",
                   "text": "Ein kleiner Stadtzoo und Park in Karlstad mit schwedischen Nutztieren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.482179,
                         59.370532
@@ -18055,7 +18055,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Djurparken Lillskogen",
                   "text": "Kis városi állatkert és park Karlstadban, svéd háziállatokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.482179,
                         59.370532
@@ -18354,7 +18354,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Djurparken Lillskogen",
                   "text": "O mică grădină zoologică și parc din Karlstad, cu animale de fermă suedeze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.482179,
                         59.370532
@@ -18653,7 +18653,7 @@ export const swedenCities: POI[] = [
             {
                   "name": "Djurparken Lillskogen",
                   "text": "A small city zoo and park in Karlstad featuring Swedish farm animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.482179,
                         59.370532

@@ -82,7 +82,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
                   "text": "Der Vergnügungspark Djanat El Ahlam bietet Unterhaltung in Oran.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.634312,
                         35.6848
@@ -127,7 +127,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Zoo d'Oran",
                   "text": "Der Zoo d'Oran ist ein zoologischer Garten in Oran.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.646716,
                         35.689292
@@ -264,7 +264,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
                   "text": "A Djanat El Ahlam vidámpark szórakozási lehetőségeket kínál Oránban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.634312,
                         35.6848
@@ -309,7 +309,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Zoo d'Oran",
                   "text": "A Zoo d'Oran egy állatkert Orán városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.646716,
                         35.689292
@@ -446,7 +446,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
                   "text": "Parcul de distracții Djanat El Ahlam este un parc tematic care oferă divertisment în Oran.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.634312,
                         35.6848
@@ -491,7 +491,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Zoo d'Oran",
                   "text": "Grădina Zoologică din Oran este un parc zoologic situat în Oran.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.646716,
                         35.689292
@@ -628,7 +628,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
                   "text": "Parc d'attraction Djanat El Ahlam is a theme park offering entertainment in Oran.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.634312,
                         35.6848
@@ -673,7 +673,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Zoo d'Oran",
                   "text": "The Zoo d'Oran is a zoological park located in Oran.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.646716,
                         35.689292
@@ -2014,7 +2014,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc de loisirs familial de Blida",
                   "text": "Der Parc de loisirs familial de Blida ist ein Freizeitpark in der Stadt Blida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.802589,
                         36.467994
@@ -2034,7 +2034,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc de loisirs familial de Blida",
                   "text": "A Parc de loisirs familial de Blida egy vidámpark Blida városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.802589,
                         36.467994
@@ -2054,7 +2054,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc de loisirs familial de Blida",
                   "text": "Parc de loisirs familial de Blida este un parc de distracții din orașul Blida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.802589,
                         36.467994
@@ -2074,7 +2074,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc de loisirs familial de Blida",
                   "text": "Parc de loisirs familial de Blida is a theme park located in the city of Blida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.802589,
                         36.467994
@@ -2713,7 +2713,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Zoo Sétif",
                   "text": "Dies ist ein Zoo in der Stadt Sétif.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406747,
                         36.194533
@@ -2749,7 +2749,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية سيتيفيس",
                   "text": "Dies ist ein Freizeitpark in der Stadt Sétif.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406657,
                         36.193012
@@ -2832,7 +2832,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوانات سطيف",
                   "text": "Ez egy állatkert Sétif városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406747,
                         36.194533
@@ -2868,7 +2868,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية سيتيفيس",
                   "text": "Ez egy vidámpark Sétif városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406657,
                         36.193012
@@ -2951,7 +2951,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوانات سطيف",
                   "text": "Acesta este un parc zoologic situat în orașul Sétif.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406747,
                         36.194533
@@ -2987,7 +2987,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية سيتيفيس",
                   "text": "Acesta este un parc de distracții situat în orașul Sétif.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406657,
                         36.193012
@@ -3070,7 +3070,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوانات سطيف",
                   "text": "This is a zoo located in the city of Sétif.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406747,
                         36.194533
@@ -3106,7 +3106,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية سيتيفيس",
                   "text": "This is a theme park located in the city of Sétif.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.406657,
                         36.193012
@@ -3252,7 +3252,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction",
                   "text": "Dieser Vergnügungspark in Sidi Bel Abbès bietet Unterhaltung für alle Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.60926,
                         35.195407
@@ -3317,7 +3317,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction",
                   "text": "Ez a szórakoztatópark Sidi Bel Abbès városában kikapcsolódást kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.60926,
                         35.195407
@@ -3382,7 +3382,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'attraction",
                   "text": "Acest parc de distracții din Sidi Bel Abbès oferă divertisment vizitatorilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.60926,
                         35.195407
@@ -3447,7 +3447,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Amusement park",
                   "text": "This amusement park in Sidi Bel Abbès offers entertainment for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.60926,
                         35.195407
@@ -3735,7 +3735,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة ترفيه",
                   "text": "Dieser Vergnügungspark befindet sich in El Oued.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.858386,
                         33.391233
@@ -3809,7 +3809,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة ترفيه",
                   "text": "Ez a szórakoztatópark El Oued városában található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.858386,
                         33.391233
@@ -3883,7 +3883,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة ترفيه",
                   "text": "Acest parc de distracții este situat în El Oued.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.858386,
                         33.391233
@@ -3957,7 +3957,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة ترفيه",
                   "text": "This amusement park is located in El Oued.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.858386,
                         33.391233
@@ -4588,7 +4588,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Rostom Amusement Park",
                   "text": "Der Rostom Amusement Park ist ein Freizeitpark in der Stadt Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.30657,
                         35.38635
@@ -4597,7 +4597,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Roller Coaster",
                   "text": "Diese Achterbahn ist Teil eines Freizeitparks in der Stadt Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307201,
                         35.38768
@@ -4606,7 +4606,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Trampoline",
                   "text": "Diese Trampolin-Attraktion befindet sich in einem Freizeitpark in Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307148,
                         35.385422
@@ -4615,7 +4615,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Bumper cars",
                   "text": "Diese Autoscooter-Attraktion ist Teil eines Freizeitparks in Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307981,
                         35.386411
@@ -4671,7 +4671,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Rostom Amusement Park",
                   "text": "A Rostom Amusement Park egy vidámpark Tiaret városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.30657,
                         35.38635
@@ -4680,7 +4680,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Roller Coaster",
                   "text": "Ez a hullámvasút egy vidámpark része Tiaret városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307201,
                         35.38768
@@ -4689,7 +4689,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Trampoline",
                   "text": "Ez a trambulin attrakció egy vidámparkban található Tiaret városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307148,
                         35.385422
@@ -4698,7 +4698,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Bumper cars",
                   "text": "Ez a dodzsem attrakció egy vidámpark része Tiaret városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307981,
                         35.386411
@@ -4754,7 +4754,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Rostom Amusement Park",
                   "text": "Rostom Amusement Park este un parc de distracții situat în orașul Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.30657,
                         35.38635
@@ -4763,7 +4763,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Roller Coaster",
                   "text": "Acest roller coaster face parte dintr-un parc de distracții din orașul Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307201,
                         35.38768
@@ -4772,7 +4772,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Trampoline",
                   "text": "Această atracție cu trambulină este situată într-un parc de distracții din Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307148,
                         35.385422
@@ -4781,7 +4781,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Bumper cars",
                   "text": "Această atracție cu mașinuțe tamponabile face parte dintr-un parc de distracții din Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307981,
                         35.386411
@@ -4837,7 +4837,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Rostom Amusement Park",
                   "text": "Rostom Amusement Park is a theme park located in the city of Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.30657,
                         35.38635
@@ -4846,7 +4846,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Roller Coaster",
                   "text": "This roller coaster is part of a theme park in the city of Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307201,
                         35.38768
@@ -4855,7 +4855,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Trampoline",
                   "text": "This trampoline attraction is located within a theme park in Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307148,
                         35.385422
@@ -4864,7 +4864,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Bumper cars",
                   "text": "This bumper cars attraction is part of a theme park in Tiaret.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.307981,
                         35.386411
@@ -5421,7 +5421,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "CLF 3°RM",
                   "text": "Der CLF 3°RM ist ein Vergnügungspark in Béchar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.218394,
                         31.613991
@@ -5430,7 +5430,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction",
                   "text": "Dieser Vergnügungspark bietet Attraktionen in Béchar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.194209,
                         31.637919
@@ -5468,7 +5468,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "CLF 3°RM",
                   "text": "A CLF 3°RM egy szórakoztatópark Béchar városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.218394,
                         31.613991
@@ -5477,7 +5477,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction",
                   "text": "Ez a szórakoztatópark attrakciókat kínál Béchar városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.194209,
                         31.637919
@@ -5515,7 +5515,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "CLF 3°RM",
                   "text": "CLF 3°RM este un parc de distracții din Béchar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.218394,
                         31.613991
@@ -5524,7 +5524,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction",
                   "text": "Acest parc de distracții oferă atracții în Béchar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.194209,
                         31.637919
@@ -5562,7 +5562,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "CLF 3°RM",
                   "text": "The CLF 3°RM is an amusement park in Béchar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.218394,
                         31.613991
@@ -5571,7 +5571,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc d'Attraction",
                   "text": "This amusement park offers attractions in Béchar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.194209,
                         31.637919
@@ -5663,7 +5663,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc Aquatique",
                   "text": "Der Parc Aquatique ist ein Wasserpark in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.095428,
                         35.95286
@@ -5690,7 +5690,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "34 - Spectacle De Danse",
                   "text": "34 - Spectacle De Danse ist eine Freizeitpark-Attraktion in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.096883,
                         35.953095
@@ -5699,7 +5699,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mostaland Parc",
                   "text": "Mostaland Parc ist ein bekannter Freizeitpark mit verschiedenen Attraktionen in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097726,
                         35.956615
@@ -5717,7 +5717,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Jardin Zoologique",
                   "text": "Der Jardin Zoologique ist ein zoologischer Garten mit verschiedenen Tierarten in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.088983,
                         35.932806
@@ -5735,7 +5735,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc animalier",
                   "text": "Der Parc animalier ist ein Tierpark in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.099957,
                         35.958422
@@ -5744,7 +5744,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "8- Trampoline",
                   "text": "8- Trampoline ist eine Sprungattraktion in einem Freizeitpark in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.098261,
                         35.954539
@@ -5753,7 +5753,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "27 - Zera Gravity",
                   "text": "27 - Zera Gravity ist ein Fahrgeschäft mit Schwerkraft-Thematik in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097973,
                         35.953618
@@ -5827,7 +5827,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc Aquatique",
                   "text": "A Parc Aquatique egy vízipark Mostaganem városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.095428,
                         35.95286
@@ -5854,7 +5854,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "34 - Spectacle De Danse",
                   "text": "A 34 - Spectacle De Danse egy vidámparki látványosság Mostaganem városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.096883,
                         35.953095
@@ -5863,7 +5863,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mostaland Parc",
                   "text": "A Mostaland Parc egy ismert vidámpark különféle látványosságokkal Mostaganemben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097726,
                         35.956615
@@ -5881,7 +5881,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Jardin Zoologique",
                   "text": "A Jardin Zoologique egy különféle állatfajokat bemutató állatkert Mostaganemben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.088983,
                         35.932806
@@ -5899,7 +5899,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc animalier",
                   "text": "A Parc animalier egy állatkert Mostaganemben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.099957,
                         35.958422
@@ -5908,7 +5908,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "8- Trampoline",
                   "text": "A 8- Trampoline egy trambulin látványosság egy mostaganemi vidámparkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.098261,
                         35.954539
@@ -5917,7 +5917,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "27 - Zera Gravity",
                   "text": "A 27 - Zera Gravity egy gravitációs témájú vidámparki játék Mostaganemben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097973,
                         35.953618
@@ -5991,7 +5991,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc Aquatique",
                   "text": "Parc Aquatique este un parc acvatic din Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.095428,
                         35.95286
@@ -6018,7 +6018,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "34 - Spectacle De Danse",
                   "text": "34 - Spectacle De Danse este o atracție de parc de distracții în Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.096883,
                         35.953095
@@ -6027,7 +6027,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mostaland Parc",
                   "text": "Mostaland Parc este un parc de distracții popular ce oferă diverse atracții în Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097726,
                         35.956615
@@ -6045,7 +6045,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Jardin Zoologique",
                   "text": "Jardin Zoologique este o grădină zoologică ce expune diverse specii de animale în Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.088983,
                         35.932806
@@ -6063,7 +6063,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc animalier",
                   "text": "Parc animalier este o grădină zoologică din Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.099957,
                         35.958422
@@ -6072,7 +6072,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "8- Trampoline",
                   "text": "8- Trampoline este o atracție de sărituri într-un parc de distracții din Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.098261,
                         35.954539
@@ -6081,7 +6081,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "27 - Zera Gravity",
                   "text": "27 - Zera Gravity este o atracție cu tematică gravitațională în Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097973,
                         35.953618
@@ -6155,7 +6155,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc Aquatique",
                   "text": "The Parc Aquatique is a water park in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.095428,
                         35.95286
@@ -6182,7 +6182,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "34 - Spectacle De Danse",
                   "text": "34 - Spectacle De Danse is a theme park attraction located in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.096883,
                         35.953095
@@ -6191,7 +6191,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mostaland Parc",
                   "text": "Mostaland Parc is a well-known theme park offering various attractions in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097726,
                         35.956615
@@ -6209,7 +6209,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Jardin Zoologique",
                   "text": "Jardin Zoologique is a zoological park exhibiting various animal species in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.088983,
                         35.932806
@@ -6227,7 +6227,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc animalier",
                   "text": "Parc animalier is a zoo providing animal exhibits in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.099957,
                         35.958422
@@ -6236,7 +6236,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "8- Trampoline",
                   "text": "8- Trampoline is a jumping attraction in a theme park in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.098261,
                         35.954539
@@ -6245,7 +6245,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "27 - Zera Gravity",
                   "text": "27 - Zera Gravity is a gravity-themed amusement ride in Mostaganem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.097973,
                         35.953618
@@ -6373,7 +6373,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "pet’s corner (animalerie) ركن الحيوانات الأليفة",
                   "text": "Pet’s Corner ist ein kleiner Tierpark in Chlef.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.333774,
                         36.165434
@@ -6420,7 +6420,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "pet’s corner (animalerie) ركن الحيوانات الأليفة",
                   "text": "A Pet’s Corner egy kis állatkert Chlef városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.333774,
                         36.165434
@@ -6467,7 +6467,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "pet’s corner (animalerie) ركن الحيوانات الأليفة",
                   "text": "Pet’s Corner este o mică grădină zoologică din Chlef.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.333774,
                         36.165434
@@ -6514,7 +6514,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "pet’s corner (animalerie)",
                   "text": "Pet’s Corner is a small zoo in Chlef.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.333774,
                         36.165434
@@ -7930,7 +7930,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mini-parc d’attraction Oumnia",
                   "text": "Der Oumnia Minipark ist ein Vergnügungspark in Jijel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.765931,
                         36.811521
@@ -8085,7 +8085,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mini-parc d’attraction Oumnia",
                   "text": "Az Oumnia Minipark egy szórakoztatópark Jijel városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.765931,
                         36.811521
@@ -8240,7 +8240,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mini-parc d’attraction Oumnia",
                   "text": "Miniparcul Oumnia este un parc de distracții din Jijel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.765931,
                         36.811521
@@ -8395,7 +8395,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Mini-parc d’attraction Oumnia",
                   "text": "The Oumnia Minipark is an amusement park in Jijel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.765931,
                         36.811521
@@ -9604,7 +9604,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مركز الترفيه العائلي",
                   "text": "Das Familien-Freizeitzentrum ist ein Park in Tamanrasset.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.536692,
                         22.792211
@@ -9642,7 +9642,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مركز الترفيه العائلي",
                   "text": "A családi szabadidőközpont egy park Tamanrasset városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.536692,
                         22.792211
@@ -9680,7 +9680,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مركز الترفيه العائلي",
                   "text": "Centrul de recreere pentru familii este un parc din Tamanrasset.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.536692,
                         22.792211
@@ -9718,7 +9718,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مركز الترفيه العائلي",
                   "text": "The family recreation center is a park in Tamanrasset.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.536692,
                         22.792211
@@ -9819,7 +9819,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "AB aqua park",
                   "text": "AB aqua park ist ein Wasserpark in der Stadt Bouira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.876691,
                         36.383772
@@ -9884,7 +9884,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "AB aqua park",
                   "text": "Az AB aqua park egy vízipark Bouira városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.876691,
                         36.383772
@@ -9949,7 +9949,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "AB aqua park",
                   "text": "AB aqua park este un parc acvatic în orașul Bouira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.876691,
                         36.383772
@@ -10014,7 +10014,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "AB aqua park",
                   "text": "AB aqua park is a water park in the city of Bouira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         3.876691,
                         36.383772
@@ -10123,7 +10123,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية والترفيه عموري",
                   "text": "Der Amouri-Vergnügungspark ist ein Park in Naâma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.306945,
                         33.271606
@@ -10143,7 +10143,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية والترفيه عموري",
                   "text": "Az Amouri szórakoztatópark egy park Naâma városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.306945,
                         33.271606
@@ -10163,7 +10163,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية والترفيه عموري",
                   "text": "Parcul de distracții Amouri este un parc din Naâma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.306945,
                         33.271606
@@ -10183,7 +10183,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة التسلية والترفيه عموري",
                   "text": "The Amouri amusement park is a park in Naâma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.306945,
                         33.271606
@@ -10463,7 +10463,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc aquatique",
                   "text": "Der Parc aquatique ist ein Wasserpark mit Freizeitangeboten in Tizi Ouzou.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.043082,
                         36.704575
@@ -10519,7 +10519,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc aquatique",
                   "text": "A Parc aquatique egy vízipark, amely szabadidős tevékenységeket kínál Tizi Ouzou városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.043082,
                         36.704575
@@ -10575,7 +10575,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc aquatique",
                   "text": "Parc aquatique este un parc acvatic care oferă activități recreative în Tizi Ouzou.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.043082,
                         36.704575
@@ -10631,7 +10631,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Parc aquatique",
                   "text": "Parc aquatique is a water park providing recreational activities in Tizi Ouzou.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.043082,
                         36.704575
@@ -10946,7 +10946,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "PARC D'ATTRACTION EN CONSTRUCTION",
                   "text": "PARC D'ATTRACTION EN CONSTRUCTION ist ein im Bau befindlicher Freizeitpark in Mila.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.26343,
                         36.443338
@@ -11002,7 +11002,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "PARC D'ATTRACTION EN CONSTRUCTION",
                   "text": "A PARC D'ATTRACTION EN CONSTRUCTION egy fejlesztés alatt álló vidámpark Mila városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.26343,
                         36.443338
@@ -11058,7 +11058,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "PARC D'ATTRACTION EN CONSTRUCTION",
                   "text": "PARC D'ATTRACTION EN CONSTRUCTION este un parc tematic în curs de dezvoltare în Mila.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.26343,
                         36.443338
@@ -11114,7 +11114,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "PARC D'ATTRACTION EN CONSTRUCTION",
                   "text": "PARC D'ATTRACTION EN CONSTRUCTION is an upcoming theme park under development in Mila.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.26343,
                         36.443338
@@ -11367,7 +11367,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مسبح محمد لخضر",
                   "text": "مسبح محمد لخضر ist ein Wasserpark in der Stadt Oum El Bouaghi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.100796,
                         35.878935
@@ -11385,7 +11385,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوانات",
                   "text": "حديقة الحيوانات ist ein Zoo in der Stadt Oum El Bouaghi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.108084,
                         35.876592
@@ -11423,7 +11423,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مسبح محمد لخضر",
                   "text": "A مسبح محمد لخضر egy vízipark Oum El Bouaghi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.100796,
                         35.878935
@@ -11441,7 +11441,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوانات",
                   "text": "A حديقة الحيوانات egy állatkert Oum El Bouaghi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.108084,
                         35.876592
@@ -11479,7 +11479,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مسبح محمد لخضر",
                   "text": "مسبح محمد لخضر este un parc acvatic în orașul Oum El Bouaghi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.100796,
                         35.878935
@@ -11497,7 +11497,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوانات",
                   "text": "حديقة الحيوانات este o grădină zoologică în orașul Oum El Bouaghi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.108084,
                         35.876592
@@ -11535,7 +11535,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "مسبح محمد لخضر",
                   "text": "مسبح محمد لخضر is a water park in the city of Oum El Bouaghi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.100796,
                         35.878935
@@ -11553,7 +11553,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوانات",
                   "text": "حديقة الحيوانات is a zoo in the city of Oum El Bouaghi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.108084,
                         35.876592
@@ -11609,7 +11609,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Manège",
                   "text": "Manège ist ein Freizeitpark und Erholungsgebiet in Aïn Témouchent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.135946,
                         35.294252
@@ -11665,7 +11665,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Manège",
                   "text": "A Manège egy vidámpark és szabadidős terület Aïn Témouchent városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.135946,
                         35.294252
@@ -11721,7 +11721,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Manège",
                   "text": "Manège este un parc tematic și o zonă de recreere situată în Aïn Témouchent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.135946,
                         35.294252
@@ -11777,7 +11777,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             {
                   "name": "Manège",
                   "text": "Manège is a theme park and recreational area located in Aïn Témouchent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.135946,
                         35.294252

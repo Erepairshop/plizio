@@ -165,7 +165,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Santarama Miniland",
                   "text": "Santarama Miniland ist ein Freizeitpark in Johannesburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.05343,
                         -26.22954
@@ -500,7 +500,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Santarama Miniland",
                   "text": "A Santarama Miniland egy vidámpark Johannesburgban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.05343,
                         -26.22954
@@ -835,7 +835,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Santarama Miniland",
                   "text": "Santarama Miniland este un parc tematic situat în Johannesburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.05343,
                         -26.22954
@@ -1170,7 +1170,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Santarama Miniland",
                   "text": "Santarama Miniland is a theme park located in Johannesburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.05343,
                         -26.22954
@@ -1514,7 +1514,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Mini Town",
                   "text": "Mini Town ist ein Freizeitpark in Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.035574,
                         -29.844562
@@ -1586,7 +1586,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Ushaka Wet 'n Wild",
                   "text": "Ushaka Wet 'n Wild ist ein aufregender Wasserpark in Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.045054,
                         -29.867265
@@ -1595,7 +1595,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Durban Funworld",
                   "text": "Durban Funworld ist ein ansprechender Freizeitpark in Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.039044,
                         -29.854101
@@ -1759,7 +1759,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Mini Town",
                   "text": "A Mini Town egy vidámpark Durban városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.035574,
                         -29.844562
@@ -1831,7 +1831,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Ushaka Wet 'n Wild",
                   "text": "Az Ushaka Wet 'n Wild egy izgalmas vízi park Durban városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.045054,
                         -29.867265
@@ -1840,7 +1840,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Durban Funworld",
                   "text": "A Durban Funworld egy vonzó vidámpark Durban területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.039044,
                         -29.854101
@@ -2004,7 +2004,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Mini Town",
                   "text": "Mini Town este un parc tematic situat în Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.035574,
                         -29.844562
@@ -2076,7 +2076,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Ushaka Wet 'n Wild",
                   "text": "Ushaka Wet 'n Wild este un parc acvatic captivant situat în Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.045054,
                         -29.867265
@@ -2085,7 +2085,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Durban Funworld",
                   "text": "Durban Funworld este un parc tematic captivant situat în Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.039044,
                         -29.854101
@@ -2249,7 +2249,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Mini Town",
                   "text": "Mini Town is a theme park situated in Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.035574,
                         -29.844562
@@ -2321,7 +2321,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Ushaka Wet 'n Wild",
                   "text": "Ushaka Wet 'n Wild is an exciting water park located in Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.045054,
                         -29.867265
@@ -2330,7 +2330,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Durban Funworld",
                   "text": "Durban Funworld is an engaging theme park situated in Durban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.039044,
                         -29.854101
@@ -3357,7 +3357,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Queens Park Zoological Gardens",
                   "text": "Die Queens Park Zoological Gardens sind ein Tierpark in East London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.89829,
                         -33.017337
@@ -3393,7 +3393,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "East London Aquarium",
                   "text": "Das East London Aquarium ist ein zoologischer Park in East London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.920948,
                         -33.016874
@@ -3449,7 +3449,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Queens Park Zoological Gardens",
                   "text": "A Queens Park Zoological Gardens egy állatkert East London városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.89829,
                         -33.017337
@@ -3485,7 +3485,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "East London Aquarium",
                   "text": "Az East London Aquarium egy zoológiai park East London városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.920948,
                         -33.016874
@@ -3541,7 +3541,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Queens Park Zoological Gardens",
                   "text": "Queens Park Zoological Gardens este un parc zoologic situat în East London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.89829,
                         -33.017337
@@ -3577,7 +3577,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "East London Aquarium",
                   "text": "East London Aquarium este un parc zoologic din East London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.920948,
                         -33.016874
@@ -3633,7 +3633,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Queens Park Zoological Gardens",
                   "text": "Queens Park Zoological Gardens is an animal park located in East London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.89829,
                         -33.017337
@@ -3669,7 +3669,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "East London Aquarium",
                   "text": "East London Aquarium is a zoological park located in East London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.920948,
                         -33.016874
@@ -4667,7 +4667,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Cango Wildlife Ranch",
                   "text": "Die Cango Wildlife Ranch ist ein Zoo in Oudtshoorn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.213558,
                         -33.565955
@@ -4714,7 +4714,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Cango Wildlife Ranch",
                   "text": "A Cango Wildlife Ranch egy állatkert Oudtshoornban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.213558,
                         -33.565955
@@ -4761,7 +4761,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Cango Wildlife Ranch",
                   "text": "Cango Wildlife Ranch este o grădină zoologică din Oudtshoorn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.213558,
                         -33.565955
@@ -4808,7 +4808,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "Cango Wildlife Ranch",
                   "text": "The Cango Wildlife Ranch is a zoo in Oudtshoorn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.213558,
                         -33.565955
@@ -5249,7 +5249,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "The Shark Lab",
                   "text": "Das Shark Lab ist ein Aquarium in Mossel Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.159071,
                         -34.186043
@@ -5350,7 +5350,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "The Shark Lab",
                   "text": "A The Shark Lab egy akvárium Mossel Bay városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.159071,
                         -34.186043
@@ -5451,7 +5451,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "The Shark Lab",
                   "text": "The Shark Lab este un acvariu din Mossel Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.159071,
                         -34.186043
@@ -5552,7 +5552,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "The Shark Lab",
                   "text": "The Shark Lab is an aquarium located in Mossel Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.159071,
                         -34.186043
@@ -7727,7 +7727,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "TCP Aquaponics",
                   "text": "TCP Aquaponics ist ein Aquarium in Makhanda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.49922,
                         -33.309374
@@ -7810,7 +7810,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "TCP Aquaponics",
                   "text": "A TCP Aquaponics egy akvárium Makhandában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.49922,
                         -33.309374
@@ -7893,7 +7893,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "TCP Aquaponics",
                   "text": "TCP Aquaponics este un acvariu din Makhanda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.49922,
                         -33.309374
@@ -7976,7 +7976,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             {
                   "name": "TCP Aquaponics",
                   "text": "TCP Aquaponics is an aquarium in Makhanda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.49922,
                         -33.309374

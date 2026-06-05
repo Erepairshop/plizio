@@ -62,7 +62,7 @@ export const austriaEconomicV2: POI[] = [
             {
                   "name": "Freibad Vöcklabruck",
                   "text": "Ein beliebtes Freibad für Wassersport und Erholung in Vöcklabruck.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.64962,
                         48.010395
@@ -175,6 +175,24 @@ export const austriaEconomicV2: POI[] = [
                         13.630775,
                         48.005834
                   ]
+            },
+            {
+                  "name": "Attersee",
+                  "text": "Der Attersee bei Vöcklabruck lädt zum Schwimmen und zum Genießen der Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "Dieser thematisch gestaltete Spielplatz in Vöcklabruck bietet Kindern ein besonderes Spielerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
             }
       ],
       "hu": [
@@ -235,7 +253,7 @@ export const austriaEconomicV2: POI[] = [
             {
                   "name": "Freibad Vöcklabruck",
                   "text": "Népszerű strandfürdő vízi sportokhoz és kikapcsolódáshoz Vöcklabruckban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.64962,
                         48.010395
@@ -348,6 +366,24 @@ export const austriaEconomicV2: POI[] = [
                         13.630775,
                         48.005834
                   ]
+            },
+            {
+                  "name": "Attersee",
+                  "text": "A Vöcklabruck közeli Attersee úszásra és a táj élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "Ez a tematikus játszótér Vöcklabruckban különleges játékélményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
             }
       ],
       "ro": [
@@ -408,7 +444,7 @@ export const austriaEconomicV2: POI[] = [
             {
                   "name": "Freibad Vöcklabruck",
                   "text": "Un ștrand popular pentru sporturi nautice și recreere în Vöcklabruck.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.64962,
                         48.010395
@@ -521,6 +557,24 @@ export const austriaEconomicV2: POI[] = [
                         13.630775,
                         48.005834
                   ]
+            },
+            {
+                  "name": "Attersee",
+                  "text": "Lacul Atter de lângă Vöcklabruck invită la înot și la admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "Acest loc de joacă tematic din Vöcklabruck oferă copiilor o experiență de joacă deosebită.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
             }
       ],
       "en": [
@@ -581,7 +635,7 @@ export const austriaEconomicV2: POI[] = [
             {
                   "name": "Freibad Vöcklabruck",
                   "text": "A popular outdoor pool for water sports and recreation in Vöcklabruck.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.64962,
                         48.010395
@@ -694,6 +748,24 @@ export const austriaEconomicV2: POI[] = [
                         13.630775,
                         48.005834
                   ]
+            },
+            {
+                  "name": "Lake Atter",
+                  "text": "Lake Atter near Vöcklabruck invites visitors for swimming and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "This themed playground in Vöcklabruck offers children a special play experience.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
             }
       ]
 },
@@ -741,7 +813,52 @@ export const austriaEconomicV2: POI[] = [
     image: "/poi-images/austria-vocklabruck-economic-v2.webp",
   },
   {
-    id: "austria-ried-im-innkreis-economic-v2",
+    id: "austria-ried-im-innkreis-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spielplatz Tumeltsham",
+                  "text": "Der Spielplatz Tumeltsham bietet Kindern in Ried im Innkreis eine schöne Fläche zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.493459,
+                        48.230347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spielplatz Tumeltsham",
+                  "text": "A Ried im Innkreis melletti Tumeltsham játszótere kellemes kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.493459,
+                        48.230347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spielplatz Tumeltsham",
+                  "text": "Locul de joacă Tumeltsham din Ried Im Innkreis oferă un spațiu frumos pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        13.493459,
+                        48.230347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spielplatz Tumeltsham",
+                  "text": "The Tumeltsham playground in Ried Im Innkreis offers a nice area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        13.493459,
+                        48.230347
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Ried im Innkreis", hu: "Ried im Innkreis", ro: "Ried im Innkreis", en: "Ried im Innkreis" },
@@ -895,6 +1012,15 @@ export const austriaEconomicV2: POI[] = [
                         15.888583,
                         46.957919
                   ]
+            },
+            {
+                  "name": "Wassergraben",
+                  "text": "Der Wassergraben in Feldbach ist ein lokales Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.932474,
+                        47.004907
+                  ]
             }
       ],
       "hu": [
@@ -959,6 +1085,15 @@ export const austriaEconomicV2: POI[] = [
                   "coords": [
                         15.888583,
                         46.957919
+                  ]
+            },
+            {
+                  "name": "Vizesárok",
+                  "text": "A feldbachi Wassergraben egy helyi állóvíz, amely a természetben való időtöltésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        15.932474,
+                        47.004907
                   ]
             }
       ],
@@ -1025,6 +1160,15 @@ export const austriaEconomicV2: POI[] = [
                         15.888583,
                         46.957919
                   ]
+            },
+            {
+                  "name": "Wassergraben",
+                  "text": "Wassergraben din Feldbach este un corp de apă local, care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.932474,
+                        47.004907
+                  ]
             }
       ],
       "en": [
@@ -1089,6 +1233,15 @@ export const austriaEconomicV2: POI[] = [
                   "coords": [
                         15.888583,
                         46.957919
+                  ]
+            },
+            {
+                  "name": "Wassergraben",
+                  "text": "The Wassergraben in Feldbach is a local body of water that invites for lingering in nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.932474,
+                        47.004907
                   ]
             }
       ]

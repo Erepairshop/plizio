@@ -2189,7 +2189,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aqua Land",
                   "text": "Wasserfreizeitpark in Adana mit Schwimmbecken und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.339637,
                         37.001134
@@ -2434,7 +2434,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aqua Land",
                   "text": "Vízi vidámpark Adanában medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.339637,
                         37.001134
@@ -2679,7 +2679,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aqua Land",
                   "text": "Parc acvatic de agrement în Adana, cu piscine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.339637,
                         37.001134
@@ -2924,7 +2924,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aqua Land",
                   "text": "Recreational water park in Adana with pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.339637,
                         37.001134
@@ -4772,7 +4772,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Akdeniz Belediyesi Sanat Parkı",
                   "text": "Akdeniz Belediyesi Sanat Parkı ist ein lokaler Themenpark und ein Erholungsgebiet in Mersin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.626783,
                         36.795181
@@ -4927,7 +4927,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Akdeniz Belediyesi Sanat Parkı",
                   "text": "Az Akdeniz Belediyesi Sanat Parkı egy helyi vidámpark és rekreációs terület Mersinben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.626783,
                         36.795181
@@ -5082,7 +5082,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Akdeniz Belediyesi Sanat Parkı",
                   "text": "Akdeniz Belediyesi Sanat Parkı este un parc tematic local și o zonă de recreere în Mersin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.626783,
                         36.795181
@@ -5237,7 +5237,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Akdeniz Belediyesi Sanat Parkı",
                   "text": "Akdeniz Belediyesi Sanat Parkı is a local theme park and recreational area in Mersin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.626783,
                         36.795181
@@ -5474,7 +5474,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Kılıç Lunapark",
                   "text": "Ein beliebter Vergnügungspark für Familien in Eskişehir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.504542,
                         39.784098
@@ -5674,7 +5674,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Kılıç Lunapark",
                   "text": "Népszerű vidámpark családok számára Eskişehirben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.504542,
                         39.784098
@@ -5874,7 +5874,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Kılıç Lunapark",
                   "text": "Un parc de distracții popular pentru familii în Eskişehir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.504542,
                         39.784098
@@ -6074,7 +6074,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Kılıç Lunapark",
                   "text": "A popular amusement park for families in Eskişehir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.504542,
                         39.784098
@@ -7652,7 +7652,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "Aquapark ist ein Wasser- und Freizeitpark in der Stadt Samsun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.354017,
                         41.281317
@@ -7825,7 +7825,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "Az Aquapark egy szórakoztató vízi park Samsun városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.354017,
                         41.281317
@@ -7998,7 +7998,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "Aquapark este un parc acvatic de agrement situat în orașul Samsun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.354017,
                         41.281317
@@ -8171,7 +8171,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "Aquapark is a recreational water park located in the city of Samsun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.354017,
                         41.281317
@@ -8372,7 +8372,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yılmazlar Lunapark",
                   "text": "Ein lokaler Freizeitpark mit Attraktionen für Kinder in Denizli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.107072,
                         37.760117
@@ -8464,7 +8464,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yılmazlar Lunapark",
                   "text": "Helyi vidámpark gyermekjátékokkal Denizliben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.107072,
                         37.760117
@@ -8556,7 +8556,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yılmazlar Lunapark",
                   "text": "Un parc de distracții local cu atracții pentru copii în Denizli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.107072,
                         37.760117
@@ -8648,7 +8648,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yılmazlar Lunapark",
                   "text": "A local amusement park with attractions for children in Denizli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.107072,
                         37.760117
@@ -11612,7 +11612,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Uğur Akvaryum",
                   "text": "Ein lokales Aquarium, das verschiedene Fischarten präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.125311,
                         37.879912
@@ -11621,7 +11621,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Deniz Akvaryum",
                   "text": "Eine Freizeiteinrichtung mit einer Vielfalt an Meereslebewesen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.126823,
                         37.884933
@@ -11630,7 +11630,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yunus Akvaryum",
                   "text": "Ein Ort in Batman, um die Unterwasserwelt zu entdecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.14022,
                         37.892164
@@ -11668,7 +11668,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Uğur Akvaryum",
                   "text": "Egy helyi akvárium, amely különféle halfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.125311,
                         37.879912
@@ -11677,7 +11677,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Deniz Akvaryum",
                   "text": "Szabadidős létesítmény különféle tengeri élőlényekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.126823,
                         37.884933
@@ -11686,7 +11686,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yunus Akvaryum",
                   "text": "Egy hely Batmanben a vízi világ felfedezésére.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.14022,
                         37.892164
@@ -11724,7 +11724,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Uğur Akvaryum",
                   "text": "Un acvariu local care prezintă diverse specii de pești.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.125311,
                         37.879912
@@ -11733,7 +11733,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Deniz Akvaryum",
                   "text": "O facilitate de agrement cu o varietate de viețuitoare marine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.126823,
                         37.884933
@@ -11742,7 +11742,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yunus Akvaryum",
                   "text": "Un loc din Batman pentru a descoperi lumea acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.14022,
                         37.892164
@@ -11780,7 +11780,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Uğur Akvaryum",
                   "text": "A local aquarium presenting various species of fish.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.125311,
                         37.879912
@@ -11789,7 +11789,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Deniz Akvaryum",
                   "text": "A leisure facility featuring a variety of marine life.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.126823,
                         37.884933
@@ -11798,7 +11798,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Yunus Akvaryum",
                   "text": "A place in Batman to discover the aquatic world.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.14022,
                         37.892164
@@ -11882,7 +11882,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Lunapark",
                   "text": "Der Lunapark ist ein Freizeitpark mit Fahrgeschäften in Elazığ.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.231099,
                         38.679833
@@ -11938,7 +11938,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Lunapark",
                   "text": "A Lunapark egy vidámpark Elazığ városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.231099,
                         38.679833
@@ -11994,7 +11994,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Lunapark",
                   "text": "Lunapark este un parc de distracții situat în orașul Elazığ.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.231099,
                         38.679833
@@ -12050,7 +12050,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Lunapark",
                   "text": "Lunapark is a theme park offering amusement rides in Elazığ.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.231099,
                         38.679833
@@ -12872,7 +12872,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Trabzon Akvaryum",
                   "text": "Ein öffentliches Aquarium in Trabzon, das verschiedene Meeresarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.717717,
                         41.000605
@@ -13198,7 +13198,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Trabzon Akvaryum",
                   "text": "Nyilvános akvárium Trabzonban, amely különféle tengeri fajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.717717,
                         41.000605
@@ -13524,7 +13524,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Trabzon Akvaryum",
                   "text": "Un acvariu public din Trabzon care prezintă diverse specii marine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.717717,
                         41.000605
@@ -13850,7 +13850,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Trabzon Aquarium",
                   "text": "A public aquarium in Trabzon showcasing various marine species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.717717,
                         41.000605
@@ -14537,7 +14537,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Hayal Park",
                   "text": "Ein Freizeit- und Vergnügungspark für die Bewohner von Osmaniye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.229117,
                         37.0642
@@ -14593,7 +14593,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Hayal Park",
                   "text": "Szabadidős és vidámpark Osmaniye lakói számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.229117,
                         37.0642
@@ -14649,7 +14649,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Hayal Park",
                   "text": "Un parc de recreere și distracții pentru locuitorii din Osmaniye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.229117,
                         37.0642
@@ -14705,7 +14705,7 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
             {
                   "name": "Hayal Park",
                   "text": "A recreation and amusement park for the residents of Osmaniye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.229117,
                         37.0642

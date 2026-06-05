@@ -1958,7 +1958,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
             {
                   "name": "Douma Zoo - حديقة الحيوانات",
                   "text": "Douma Zoo - حديقة الحيوانات ist ein Zoo in Douma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.414021,
                         33.572171
@@ -1969,7 +1969,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
             {
                   "name": "Douma Zoo - حديقة الحيوانات",
                   "text": "A Douma Zoo - حديقة الحيوانات egy állatkert Douma városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.414021,
                         33.572171
@@ -1980,7 +1980,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
             {
                   "name": "Douma Zoo - حديقة الحيوانات",
                   "text": "Douma Zoo - حديقة الحيوانات este o grădină zoologică situată în Douma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.414021,
                         33.572171
@@ -1991,7 +1991,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
             {
                   "name": "Douma Zoo - حديقة الحيوانات",
                   "text": "Douma Zoo - حديقة الحيوانات is a zoo situated in Douma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         36.414021,
                         33.572171

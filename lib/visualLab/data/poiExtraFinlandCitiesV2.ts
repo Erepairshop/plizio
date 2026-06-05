@@ -1916,7 +1916,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Keravan maauimala",
                   "text": "Freibad und Freizeiteinrichtung in Kerava.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.093155,
                         60.407823
@@ -2080,7 +2080,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Keravan maauimala",
                   "text": "Szabadtéri úszómedence és szabadidős létesítmény Keravában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.093155,
                         60.407823
@@ -2244,7 +2244,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Keravan maauimala",
                   "text": "Piscină în aer liber și facilitate de recreere în Kerava.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.093155,
                         60.407823
@@ -2408,7 +2408,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Keravan maauimala",
                   "text": "Outdoor swimming pool and recreational facility in Kerava.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.093155,
                         60.407823
@@ -14309,7 +14309,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Leklandet",
                   "text": "Ein großer Indoor-Spielplatz und Aktivitätspark für Familien in Eckerö.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.549408,
                         60.229431
@@ -14336,7 +14336,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Käringsunds Viltsafari",
                   "text": "Ein Safaripark in Eckerö, in dem man Hirsche, Wildschweine und Lamas aus nächster Nähe sehen kann.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.545238,
                         60.228036
@@ -14345,7 +14345,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Smart Park",
                   "text": "Ein interaktiver Erlebnispark in Eckerö mit pädagogischen Spielen und Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.604789,
                         60.212712
@@ -14401,7 +14401,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Leklandet",
                   "text": "Nagy fedett játszóház és aktivitási park családok számára Eckerőben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.549408,
                         60.229431
@@ -14428,7 +14428,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Käringsunds Viltsafari",
                   "text": "Szafaripark Eckerőben, ahol szarvasokat, vaddisznókat és lámákat láthatnak a látogatók.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.545238,
                         60.228036
@@ -14437,7 +14437,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Smart Park",
                   "text": "Interaktív élménypark Eckerőben, pedagógiai játékokkal és tevékenységekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.604789,
                         60.212712
@@ -14493,7 +14493,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Leklandet",
                   "text": "Un mare loc de joacă interior și parc de activități pentru familii în Eckerö.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.549408,
                         60.229431
@@ -14520,7 +14520,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Käringsunds Viltsafari",
                   "text": "Un parc safari în Eckerö, unde pot fi văzuți de aproape cerbi, mistreți și lame.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.545238,
                         60.228036
@@ -14529,7 +14529,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Smart Park",
                   "text": "Un parc de distracții interactiv în Eckerö, cu jocuri și activități educaționale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.604789,
                         60.212712
@@ -14585,7 +14585,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Leklandet",
                   "text": "A large indoor playground and activity park for families in Eckerö.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.549408,
                         60.229431
@@ -14612,7 +14612,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Käringsunds Viltsafari",
                   "text": "A safari park in Eckerö where visitors can see deer, wild boar, and llamas up close.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.545238,
                         60.228036
@@ -14621,7 +14621,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "Smart Park",
                   "text": "An interactive theme park in Eckerö featuring educational games and activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.604789,
                         60.212712
@@ -18152,7 +18152,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "Ein beliebter Wasserpark und Schwimmzentrum in Jyväskylä, entworfen von Alvar Aalto.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -18550,7 +18550,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "Népszerű vízipark és úszóközpont Jyväskylében, amelyet Alvar Aalto tervezett.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -18948,7 +18948,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "Un parc acvatic și centru de înot popular din Jyväskylä, proiectat de arhitectul Alvar Aalto.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -19346,7 +19346,7 @@ export const finlandCitiesV2: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "A popular water park and swimming centre in Jyväskylä designed by Alvar Aalto.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189

@@ -3039,7 +3039,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Portugal dos Pequenitos",
                   "text": "Ein Themenpark in Coimbra mit Miniaturmodellen bedeutender portugiesischer Bauwerke.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.434012,
                         40.201645
@@ -3401,7 +3401,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Portugal dos Pequenitos",
                   "text": "Tematikus park Coimbrában, amely jelentős portugál építmények miniatűr másait mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.434012,
                         40.201645
@@ -3763,7 +3763,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Portugal dos Pequenitos",
                   "text": "Un parc tematic din Coimbra cu machete în miniatură ale unor edificii portugheze importante.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.434012,
                         40.201645
@@ -4125,7 +4125,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Portugal dos Pequenitos",
                   "text": "A theme park in Coimbra featuring miniature models of significant Portuguese buildings.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.434012,
                         40.201645
@@ -14743,7 +14743,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Aldeia Típica de José Franco",
                   "text": "Die Aldeia Típica de José Franco ist ein Themenpark in Mafra, der ein traditionelles portugiesisches Dorf im Miniaturformat nachbildet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.35279,
                         38.959637
@@ -14871,7 +14871,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Aldeia Típica de José Franco",
                   "text": "Az Aldeia Típica de José Franco egy témapark Mafrában, amely egy hagyományos portugál falut mutat be miniatűr formában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.35279,
                         38.959637
@@ -14999,7 +14999,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Aldeia Típica de José Franco",
                   "text": "Aldeia Típica de José Franco este un parc tematic din Mafra care recreează un sat tradițional portughez în miniatură.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.35279,
                         38.959637
@@ -15127,7 +15127,7 @@ export const portugalCities: POI[] = [
             {
                   "name": "Aldeia Típica de José Franco",
                   "text": "The Aldeia Típica de José Franco is a theme park in Mafra recreating a traditional Portuguese village in miniature.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.35279,
                         38.959637

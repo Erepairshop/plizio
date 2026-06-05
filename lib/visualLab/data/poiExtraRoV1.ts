@@ -23291,7 +23291,7 @@ export const poiExtraRoV1: POI[] = [
             {
                   "name": "Perla Vlahitei",
                   "text": "Ein Thermalbad und Freizeitpark in Vlăhița.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.547033,
                         46.33735
@@ -23311,7 +23311,7 @@ export const poiExtraRoV1: POI[] = [
             {
                   "name": "Szentegyháza Gyöngye",
                   "text": "Termálfürdő és szabadidőpark Szentegyházán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.547033,
                         46.33735
@@ -23331,7 +23331,7 @@ export const poiExtraRoV1: POI[] = [
             {
                   "name": "Perla Vlahitei",
                   "text": "Ștrand termal și parc de recreere în Vlăhița.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.547033,
                         46.33735
@@ -23351,7 +23351,7 @@ export const poiExtraRoV1: POI[] = [
             {
                   "name": "Perla Vlahitei",
                   "text": "Thermal bath and recreation park in Vlăhița.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.547033,
                         46.33735

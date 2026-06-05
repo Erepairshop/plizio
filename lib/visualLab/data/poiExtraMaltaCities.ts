@@ -10502,7 +10502,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Ein Meerespark in Swieqi, der verschiedene Tierarten beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -10945,7 +10945,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Tengeri park Swieqi területén, amely különböző állatfajoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -11388,7 +11388,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Un parc marin în Swieqi care găzduiește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -11831,7 +11831,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "A marine park in Swieqi that is home to various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -12299,7 +12299,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Der Mediterraneo Malta Marine Park ist ein Meeres- und Zoopark in Pembroke.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -12643,7 +12643,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "A Mediterraneo Malta Marine Park egy tengeri állatkert Pembroke városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -12987,7 +12987,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Mediterraneo Malta Marine Park este un parc zoologic marin situat în Pembroke.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -13331,7 +13331,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Mediterraneo Malta Marine Park is a zoological marine park located in Pembroke.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -31317,7 +31317,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Ein privater Tierpark, der eine Vielzahl exotischer und einheimischer Arten zur Schau stellt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -31562,7 +31562,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Magánkézben lévő állatpark, ahol számos egzotikus és hazai faj látható a látogatók számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -31807,7 +31807,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Un parc de animale privat care adăpostește o varietate de specii exotice și domestice pentru public.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -32052,7 +32052,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "A private animal park that houses a variety of exotic and domestic species for public viewing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -42485,7 +42485,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Ein Tierpark und Zoo auf dem Gelände des Montekristo-Anwesens in Qrendi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -42775,7 +42775,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Állatkert a Montekristo birtokon, Qrendi településen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -43065,7 +43065,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Un parc de animale și grădină zoologică pe domeniul Montekristo din Qrendi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -43355,7 +43355,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "An animal park and zoo located within the Montekristo estate in Qrendi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -43670,7 +43670,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Ein lokaler Tierpark, in dem Besucher verschiedene Tierarten beobachten können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -43942,7 +43942,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Helyi állatpark, ahol a látogatók különféle állatfajokat tekinthetnek meg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -44214,7 +44214,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Un parc de animale local unde vizitatorii pot vedea diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -44486,7 +44486,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "A local animal park where visitors can see various species of animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -44792,7 +44792,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Der Montekristo Animal Park ist ein Zoo und eine Tierattraktion in Kirkop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -45019,7 +45019,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "A Montekristo Animal Park egy állatkert és állatos látványosság Kirkopban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -45246,7 +45246,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Montekristo Animal Park este o grădină zoologică și atracție cu animale situată în Kirkop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -45473,7 +45473,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Montekristo Animal Park is a zoo and animal attraction situated in Kirkop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -46844,7 +46844,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Der Montekristo Animal Park ist eine zoologische Attraktion in der Gegend von Siġġiewi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -47035,7 +47035,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "A Montekristo Animal Park egy állatkerti látványosság Siġġiewi környékén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -47226,7 +47226,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Montekristo Animal Park este o atracție zoologică situată în zona Siġġiewi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -47417,7 +47417,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Montekristo Animal Park is a zoological attraction situated in the Siġġiewi area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -47724,7 +47724,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Ein privater Tierpark und Zoo auf dem Anwesen Montekristo in Qormi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -48131,7 +48131,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Magán állatpark és állatkert a Montekristo birtokon, Qormiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -48538,7 +48538,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "Un parc zoologic privat situat pe domeniul Montekristo din Qormi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -48945,7 +48945,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Montekristo Animal Park",
                   "text": "A private animal park and zoo located within the Montekristo estate in Qormi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.464958,
                         35.855724
@@ -49442,7 +49442,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Die Ta' Qali Petting Farm ist ein familienfreundlicher Zoo in Rabat, Malta, in dem Besucher hautnah mit verschiedenen Haustieren interagieren können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -49660,7 +49660,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "A Ta' Qali Állatsimogató egy családbarát állatkert a máltai Rabatban, ahol a látogatók közvetlenül is megismerkedhetnek a különböző háziállatokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -49878,7 +49878,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Ta' Qali Petting Farm este o grădină zoologică potrivită pentru familii în Rabat, Malta, unde vizitatorii pot interacționa îndeaproape cu diverse animale domestice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -50096,7 +50096,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Ta' Qali Petting Farm",
                   "text": "Ta' Qali Petting Farm is a family-friendly zoo in Rabat, Malta, where visitors can interact closely with various domestic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -50905,7 +50905,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Eine beliebte Familienattraktion in Ta' Qali, wo Besucher mit Tieren interagieren können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -51258,7 +51258,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Népszerű családi látványosság Ta' Qaliban, ahol az állatokkal ismerkedhetnek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -51611,7 +51611,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "O atracție populară pentru familii în Ta' Qali, unde vizitatorii pot interacționa cu animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -51964,7 +51964,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Ta' Qali Petting Farm",
                   "text": "A popular family attraction in Ta' Qali where visitors can interact with animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -55933,7 +55933,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Ta' Qali Petting Farm ist ein Zoo in Mosta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -56295,7 +56295,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "A Ta' Qali Petting Farm egy állatkert Mosta városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -56657,7 +56657,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Ta' Qali Petting Farm este o grădină zoologică situată în Mosta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -57019,7 +57019,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Ta' Qali Petting Farm",
                   "text": "Ta' Qali Petting Farm is a zoo located in Mosta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -57442,7 +57442,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Ein Marinepark, der Shows mit Delfinen und Seelöwen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -57840,7 +57840,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Tengeri park, amely delfin- és fóka-show-kat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -58238,7 +58238,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Un parc marin care oferă spectacole cu delfini și lei de mare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -58636,7 +58636,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "A marine park offering dolphin and sea lion shows.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -59077,7 +59077,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Ein Naturpark, in dem eine große Vielfalt an Vogelarten und anderen Tieren beheimatet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -59095,7 +59095,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Ein Meerespark, der pädagogische Ausstellungen und Tierinteraktionen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -59403,7 +59403,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Natúrpark, amely számos madárfajnak és más állatnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -59421,7 +59421,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Tengeri park, amely oktató jellegű bemutatókat és állatokkal való interakciókat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -59729,7 +59729,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Un parc natural care găzduiește o mare varietate de specii de păsări și alte animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -59747,7 +59747,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "Un parc marin care oferă expoziții educaționale și interacțiuni cu animalele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -60055,7 +60055,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "A nature park home to a wide variety of bird species and other animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -60073,7 +60073,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Mediterraneo Malta Marine Park",
                   "text": "A marine park offering educational displays and animal interactions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.457702,
                         35.939287
@@ -60316,7 +60316,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Popeye Village",
                   "text": "Das Popeye Village ist ein Themenpark in Mellieħa, der ursprünglich als Filmkulisse für den Musicalfilm Popeye aus dem Jahr 1980 diente.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.340721,
                         35.960844
@@ -60597,7 +60597,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Popeye Village",
                   "text": "A Popeye Village egy vidámpark Mellieħában, amely eredetileg az 1980-as Popeye című musicalfilm díszleteként szolgált.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.340721,
                         35.960844
@@ -60878,7 +60878,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Popeye Village",
                   "text": "Popeye Village este un parc tematic din Mellieħa care a servit inițial ca platou de filmare pentru filmul muzical Popeye din 1980.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.340721,
                         35.960844
@@ -61159,7 +61159,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Popeye Village",
                   "text": "Popeye Village is a theme park in Mellieħa that originally served as the film set for the 1980 musical feature film Popeye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.340721,
                         35.960844
@@ -61519,7 +61519,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Das öffentliche Aquarium von Malta mit zahlreichen Meeresbewohnern in St. Paul's Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -61573,7 +61573,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Ein Tierpark in St. Paul's Bay, der auf verschiedene Vogelarten spezialisiert ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -61609,7 +61609,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Ein Wasser-Freizeitpark für Familien in St. Paul's Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -61782,7 +61782,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Málta nyilvános akváriuma számos tengeri élőlénnyel St. Paul's Bay-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -61836,7 +61836,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Egy állatpark St. Paul's Bay-ben, amely különböző madárfajokra szakosodott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -61872,7 +61872,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Vízi szabadidőpark családok számára St. Paul's Bay-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -62045,7 +62045,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Acvariul public din Malta, care găzduiește numeroase creaturi marine în St. Paul's Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -62099,7 +62099,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Un parc zoologic în St. Paul's Bay specializat în diverse specii de păsări.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -62135,7 +62135,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Un parc acvatic de agrement pentru familii în St. Paul's Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -62308,7 +62308,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Malta's public aquarium featuring numerous marine creatures in St. Paul's Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -62362,7 +62362,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "A zoological park in St. Paul's Bay specializing in various bird species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -62398,7 +62398,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Buġibba Water Park",
                   "text": "A water leisure park for families located in St. Paul's Bay.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -62614,7 +62614,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Ein modernes Aquarium in Buġibba, das die Meereswelt des Mittelmeers zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -62677,7 +62677,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Ein Naturpark in Buġibba, in dem verschiedene Vogelarten und andere Tiere leben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -62713,7 +62713,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Ein familienfreundlicher Wasserpark mit verschiedenen Wasserattraktionen in Buġibba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -62895,7 +62895,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Modern akvárium Buġibbában, amely a Földközi-tenger élővilágát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -62958,7 +62958,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Természetvédelmi park Buġibbában, amely különféle madárfajoknak és más állatoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -62994,7 +62994,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Családbarát vízi park különféle vizes attrakciókkal Buġibbában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -63176,7 +63176,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Un acvariu modern în Buġibba, care prezintă viața marină din Marea Mediterană.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -63239,7 +63239,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Un parc natural din Buġibba care găzduiește diverse specii de păsări și alte animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -63275,7 +63275,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Un parc acvatic pentru familii, cu diverse atracții cu apă în Buġibba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -63457,7 +63457,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "A modern aquarium showcasing Mediterranean marine life in Buġibba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -63520,7 +63520,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "A nature park in Buġibba home to various bird species and other animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -63556,7 +63556,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Buġibba Water Park",
                   "text": "A family-friendly splash park with various water features in Buġibba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -63781,7 +63781,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Das Nationalaquarium Malta in Qawra ist ein beliebtes öffentliches Aquarium mit mediterranem und tropischem Meeresleben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -63826,7 +63826,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Der Bird Park Malta ist ein spezialisierter Zoo in Qawra, der verschiedene Vogelarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -63853,7 +63853,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Buġibba Water Park ist ein Wasserpark in Qawra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -64017,7 +64017,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "A qawrai Máltai Nemzeti Akvárium egy népszerű nyilvános akvárium, amely mediterrán és trópusi tengeri élőlényeket mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -64062,7 +64062,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "A Bird Park Malta egy specializált állatkert Qawrában, amely különféle madárfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -64089,7 +64089,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "A Buġibba Water Park egy vízipark Qawra városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -64253,7 +64253,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "Acvariul Național din Malta din Qawra este un acvariu public popular care prezintă viață marină mediteraneană și tropicală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -64298,7 +64298,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Bird Park Malta este o grădină zoologică specializată din Qawra care expune diverse specii de păsări.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -64325,7 +64325,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Park tal-Ilma ta' Buġibba",
                   "text": "Buġibba Water Park este un parc acvatic situat în Qawra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -64489,7 +64489,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Malta National Aquarium",
                   "text": "The Malta National Aquarium in Qawra is a popular public aquarium featuring Mediterranean and tropical marine life.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.423204,
                         35.958605
@@ -64534,7 +64534,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Bird Park Malta",
                   "text": "Bird Park Malta is a specialized zoo in Qawra showcasing various bird species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.419681,
                         35.941235
@@ -64561,7 +64561,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Buġibba Water Park",
                   "text": "Buġibba Water Park is a water park located in Qawra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.415401,
                         35.953341
@@ -82125,7 +82125,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Ein kinderfreundlicher Bauernhof mit Tieren zum Anfassen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -82361,7 +82361,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Gyermekbarát farm állatsimogatóval.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -82597,7 +82597,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "O fermă potrivită pentru copii, cu animale ce pot fi mângâiate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -82833,7 +82833,7 @@ export const poiExtraMaltaCities: POI[] = [
             {
                   "name": "Ta' Qali Petting Farm",
                   "text": "A child-friendly farm with animals for children to interact with.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724

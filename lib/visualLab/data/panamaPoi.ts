@@ -483,7 +483,7 @@ export const panamaCities: POI[] = [
             {
                   "name": "Italia Guadalupe",
                   "text": "Ein beliebter Wasserpark zur Erholung in Santiago de Veraguas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -80.978995,
                         8.122571
@@ -530,7 +530,7 @@ export const panamaCities: POI[] = [
             {
                   "name": "Italia Guadalupe",
                   "text": "Népszerű vízipark Santiago de Veraguasban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -80.978995,
                         8.122571
@@ -577,7 +577,7 @@ export const panamaCities: POI[] = [
             {
                   "name": "Italia Guadalupe",
                   "text": "Un parc acvatic popular pentru recreere în Santiago de Veraguas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -80.978995,
                         8.122571
@@ -624,7 +624,7 @@ export const panamaCities: POI[] = [
             {
                   "name": "Italia Guadalupe",
                   "text": "A popular water park for recreation in Santiago de Veraguas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -80.978995,
                         8.122571

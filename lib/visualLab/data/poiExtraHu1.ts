@@ -4366,7 +4366,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
                   "text": "Ein Thermal- und Erlebnisbad in Kiskunhalas mit Heilwasser und Freizeiteinrichtungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.470038,
                         46.431244
@@ -4535,7 +4535,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
                   "text": "Termál- és strandfürdő Kiskunhalason gyógyvízzel és szabadidős szolgáltatásokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.470038,
                         46.431244
@@ -4704,7 +4704,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
                   "text": "Un parc acvatic și băi termale în Kiskunhalas, oferind apă curativă și facilități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.470038,
                         46.431244
@@ -4873,7 +4873,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
                   "text": "A thermal and water park in Kiskunhalas featuring healing waters and leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.470038,
                         46.431244
@@ -5975,7 +5975,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Szentesi Üdülőközpont",
                   "text": "Ein beliebtes Thermalbad und Freizeitzentrum in Szentes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.248332,
                         46.650772
@@ -6106,7 +6106,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Szentesi Üdülőközpont",
                   "text": "Népszerű termálfürdő és szabadidős létesítmény Szentesen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.248332,
                         46.650772
@@ -6237,7 +6237,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Szentesi Üdülőközpont",
                   "text": "Un centru de agrement și băi termale populare în Szentes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.248332,
                         46.650772
@@ -6368,7 +6368,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Szentesi Üdülőközpont",
                   "text": "A popular thermal bath and recreation center in Szentes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.248332,
                         46.650772
@@ -6922,7 +6922,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Csornai Fürdő",
                   "text": "Csornai Fürdő ist ein Wasserpark in Csorna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.249035,
                         47.630896
@@ -7016,7 +7016,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Csornai Fürdő",
                   "text": "A Csornai Fürdő egy vízipark Csornán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.249035,
                         47.630896
@@ -7110,7 +7110,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Csornai Fürdő",
                   "text": "Csornai Fürdő este un parc acvatic din Csorna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.249035,
                         47.630896
@@ -7204,7 +7204,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Csornai Fürdő",
                   "text": "Csornai Fürdő is a water park located in Csorna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.249035,
                         47.630896
@@ -9162,7 +9162,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Pásztói strand",
                   "text": "Ein lokales Freibad in Pásztó, das Erholung und Badespaß bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.698146,
                         47.929678
@@ -9245,7 +9245,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Pásztói strand",
                   "text": "Helyi strandfürdő Pásztón, amely pihenést és fürdőzési lehetőséget kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.698146,
                         47.929678
@@ -9328,7 +9328,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Pásztói strand",
                   "text": "Un parc acvatic local în Pásztó, oferind recreere și facilități de înot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.698146,
                         47.929678
@@ -9411,7 +9411,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Pásztói strand",
                   "text": "A local water park in Pásztó offering recreation and swimming facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.698146,
                         47.929678
@@ -10330,7 +10330,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Visegrád Gokart és Kalandpark",
                   "text": "Ein Freizeitpark für Familien mit Go-Kart-Bahn und Abenteuerparcours.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.95373,
                         47.766576
@@ -10357,7 +10357,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Mogyoró-hegyi Vadaspark",
                   "text": "Ein Wildpark in den Hügeln, in dem man einheimische Tiere beobachten kann.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99746,
                         47.797558
@@ -10704,7 +10704,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Visegrád Gokart és Kalandpark",
                   "text": "Gokartpályával és kalandpályákkal felszerelt szabadidőpark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.95373,
                         47.766576
@@ -10731,7 +10731,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Mogyoró-hegyi Vadaspark",
                   "text": "Helyi vadfajokat bemutató park a Mogyoró-hegyen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99746,
                         47.797558
@@ -11078,7 +11078,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Visegrád Gokart és Kalandpark",
                   "text": "Un parc de distracții cu pistă de karting și trasee de aventură.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.95373,
                         47.766576
@@ -11105,7 +11105,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Mogyoró-hegyi Vadaspark",
                   "text": "Un parc sălbatic situat pe dealuri, unde pot fi observate animale native.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99746,
                         47.797558
@@ -11452,7 +11452,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Visegrád Gokart és Kalandpark",
                   "text": "An adventure park featuring a go-kart track and various outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.95373,
                         47.766576
@@ -11479,7 +11479,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Mogyoró-hegyi Vadaspark",
                   "text": "A wildlife park in the hills where visitors can observe native animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99746,
                         47.797558
@@ -12051,7 +12051,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Városi Strandfürdő",
                   "text": "Ein beliebtes öffentliches Freibad und Wasserpark in Fehérgyarmat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.517562,
                         47.994447
@@ -12125,7 +12125,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Városi Strandfürdő",
                   "text": "Népszerű városi strandfürdő és csúszdapark Fehérgyarmaton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.517562,
                         47.994447
@@ -12199,7 +12199,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Városi Strandfürdő",
                   "text": "Un ștrand public și parc acvatic popular în Fehérgyarmat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.517562,
                         47.994447
@@ -12273,7 +12273,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Városi Strandfürdő",
                   "text": "A popular public lido and water park in Fehérgyarmat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.517562,
                         47.994447
@@ -14104,7 +14104,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Vadaspark",
                   "text": "Ein Wildpark in Ajka, der lokale Tierarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.574667,
                         47.085067
@@ -14122,7 +14122,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kristályfürdő",
                   "text": "Ein Thermal- und Erlebnisbad in Ajka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.557942,
                         47.113679
@@ -14197,7 +14197,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Vadaspark",
                   "text": "Helyi állatfajokat bemutató vadaspark Ajkán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.574667,
                         47.085067
@@ -14215,7 +14215,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kristályfürdő",
                   "text": "Termál- és élményfürdő Ajkán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.557942,
                         47.113679
@@ -14290,7 +14290,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Vadaspark",
                   "text": "Un parc de animale sălbatice în Ajka, prezentând specii locale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.574667,
                         47.085067
@@ -14308,7 +14308,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kristályfürdő",
                   "text": "Un parc acvatic și băi termale în Ajka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.557942,
                         47.113679
@@ -14383,7 +14383,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Vadaspark",
                   "text": "A wildlife park in Ajka showcasing local animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.574667,
                         47.085067
@@ -14401,7 +14401,7 @@ export const poiExtraHu1: POI[] = [
             {
                   "name": "Kristályfürdő",
                   "text": "A thermal and adventure water park in Ajka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.557942,
                         47.113679

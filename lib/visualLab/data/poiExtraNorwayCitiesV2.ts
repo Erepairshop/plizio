@@ -5651,7 +5651,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Nebbursvollen Friluftsbad",
                   "text": "Ein beliebtes Freibad und Wasserpark in Lillestrøm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.02805,
                         59.967217
@@ -5707,7 +5707,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Nebbursvollen Friluftsbad",
                   "text": "Népszerű szabadtéri strand és vízi park Lillestrømben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.02805,
                         59.967217
@@ -5763,7 +5763,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Nebbursvollen Friluftsbad",
                   "text": "Un ștrand în aer liber și parc acvatic în Lillestrøm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.02805,
                         59.967217
@@ -5819,7 +5819,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Nebbursvollen Friluftsbad",
                   "text": "A popular outdoor swimming pool and water park in Lillestrøm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.02805,
                         59.967217
@@ -6560,7 +6560,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Dampsaga Bad og Gym",
                   "text": "Ein Sport- und Freizeitbad in Steinkjer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.488758,
                         64.017572
@@ -6652,7 +6652,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Dampsaga Bad og Gym",
                   "text": "Sport- és szabadidős fürdő Steinkjerben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.488758,
                         64.017572
@@ -6744,7 +6744,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Dampsaga Bad og Gym",
                   "text": "Un parc acvatic și centru de fitness în Steinkjer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.488758,
                         64.017572
@@ -6836,7 +6836,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Dampsaga Bad og Gym",
                   "text": "A water park and fitness center in Steinkjer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.488758,
                         64.017572
@@ -12950,7 +12950,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Risør Akvarium",
                   "text": "Ein lokales Aquarium, das die Meereswelt der norwegischen Südküste zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.240194,
                         58.718255
@@ -13132,7 +13132,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Risør Akvarium",
                   "text": "Helyi akvárium, amely a norvég déli partvidék tengeri életét mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.240194,
                         58.718255
@@ -13314,7 +13314,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Risør Akvarium",
                   "text": "Un acvariu local care prezintă viața marină de pe coasta de sud a Norvegiei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.240194,
                         58.718255
@@ -13496,7 +13496,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Risør Akvarium",
                   "text": "A local aquarium showcasing the marine life of the southern Norwegian coast.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.240194,
                         58.718255
@@ -14885,7 +14885,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Verdens ende",
                   "text": "Verdens ende ist ein beliebter Erholungsort und Wasserpark direkt am Fluss in Mandal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.431192,
                         58.015199
@@ -15076,7 +15076,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Verdens ende",
                   "text": "A Verdens ende egy népszerű szabadidőpark és vízi élménypark Mandalban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.431192,
                         58.015199
@@ -15267,7 +15267,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Verdens ende",
                   "text": "Verdens ende este un loc popular de recreere și parc acvatic situat pe malul râului în Mandal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.431192,
                         58.015199
@@ -15458,7 +15458,7 @@ export const norwayCitiesV2: POI[] = [
             {
                   "name": "Verdens ende",
                   "text": "Verdens ende is a popular recreational area and water park located by the river in Mandal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.431192,
                         58.015199

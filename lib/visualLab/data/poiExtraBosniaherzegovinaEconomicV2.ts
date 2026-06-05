@@ -1092,7 +1092,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Ribica\"",
                   "text": "Ein beliebter Wasserpark für Freizeitaktivitäten in Vitez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.778318,
                         44.164849
@@ -1112,7 +1112,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Ribica\"",
                   "text": "Népszerű vízi park Vitez városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.778318,
                         44.164849
@@ -1132,7 +1132,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Ribica\"",
                   "text": "Un parc acvatic popular în Vitez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.778318,
                         44.164849
@@ -1152,7 +1152,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Ribica\"",
                   "text": "A popular water park for recreation in Vitez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.778318,
                         44.164849
@@ -1480,7 +1480,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Freizeitbad Aquana",
                   "text": "Ein großer Wasserpark in Banja Luka mit verschiedenen Pools und Freizeiteinrichtungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.205799,
                         44.773739
@@ -1788,7 +1788,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Akvana\"",
                   "text": "Nagy vízipark Banja Lukában, különféle medencékkel és szabadidős létesítményekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.205799,
                         44.773739
@@ -2096,7 +2096,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Akvana\"",
                   "text": "Un parc acvatic mare în Banja Luka, cu diverse piscine și facilități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.205799,
                         44.773739
@@ -2404,7 +2404,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Vodeni park \"Akvana\"",
                   "text": "A large water park in Banja Luka with various pools and leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.205799,
                         44.773739
@@ -3011,7 +3011,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "Dieser Zoo in Sarajevo bietet Besuchern die Möglichkeit, verschiedene Tierarten in einer natürlichen Umgebung zu sehen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -3400,7 +3400,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "Ez a szarajevói állatkert különféle állatfajok megtekintését teszi lehetővé természetes környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -3789,7 +3789,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "Această grădină zoologică din Sarajevo oferă vizitatorilor ocazia de a vedea diverse specii de animale într-un mediu natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -4178,7 +4178,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "This zoo in Sarajevo offers visitors the chance to see various animal species in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453

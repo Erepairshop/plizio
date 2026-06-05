@@ -609,7 +609,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Adventure Land Park",
                   "text": "Der Adventure Land Park ist ein Freizeitpark in Narayanganj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         90.475955,
                         23.629452
@@ -647,7 +647,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Adventure Land Park",
                   "text": "Az Adventure Land Park egy szórakoztató vidámpark Narayanganj városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         90.475955,
                         23.629452
@@ -685,7 +685,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Adventure Land Park",
                   "text": "Adventure Land Park este un parc tematic de recreere din Narayanganj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         90.475955,
                         23.629452
@@ -723,7 +723,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Adventure Land Park",
                   "text": "Adventure Land Park is a theme park designed for recreation in Narayanganj.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         90.475955,
                         23.629452
@@ -1245,7 +1245,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Shisu park,Jessore",
                   "text": "Der Shisu park,Jessore ist ein lokaler Freizeitpark in der Stadt Jessore.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.20046,
                         23.170409
@@ -1274,7 +1274,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Shisu park,Jessore",
                   "text": "A Shisu park,Jessore egy helyi vidámpark Jessore városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.20046,
                         23.170409
@@ -1303,7 +1303,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Shisu park,Jessore",
                   "text": "Shisu park,Jessore este un parc tematic local situat în orașul Jessore.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.20046,
                         23.170409
@@ -1332,7 +1332,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Shisu park,Jessore",
                   "text": "Shisu park,Jessore is a local theme park situated in the city of Jessore.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.20046,
                         23.170409
@@ -1422,7 +1422,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "গনপূর্ত পার্ক",
                   "text": "Der PWD Park ist ein beliebter Erholungsort in Cox's Bazar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.981899,
                         21.421711
@@ -1431,7 +1431,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Parjatan Swimming Pool",
                   "text": "Das Parjatan-Schwimmbad ist ein Wasserpark in Cox's Bazar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.97177,
                         21.434928
@@ -1487,7 +1487,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "গনপূর্ত পার্ক",
                   "text": "A PWD Park egy népszerű kikapcsolódási hely Cox's Bazarban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.981899,
                         21.421711
@@ -1496,7 +1496,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Parjatan Swimming Pool",
                   "text": "A Parjatan uszoda egy vízi élménypark Cox's Bazarban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.97177,
                         21.434928
@@ -1552,7 +1552,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "গনপূর্ত পার্ক",
                   "text": "Parcul PWD este un loc de recreere popular în Cox's Bazar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.981899,
                         21.421711
@@ -1561,7 +1561,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Parjatan Swimming Pool",
                   "text": "Piscina Parjatan este un parc acvatic în Cox's Bazar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.97177,
                         21.434928
@@ -1617,7 +1617,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "PWD Park",
                   "text": "PWD Park is a popular recreational area in Cox's Bazar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.981899,
                         21.421711
@@ -1626,7 +1626,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
             {
                   "name": "Parjatan Swimming Pool",
                   "text": "The Parjatan Swimming Pool is a water park in Cox's Bazar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         91.97177,
                         21.434928

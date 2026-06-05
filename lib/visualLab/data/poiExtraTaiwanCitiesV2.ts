@@ -2180,7 +2180,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             {
                   "name": "新竹市立動物園",
                   "text": "Der älteste Zoo Taiwans, der eine Vielzahl von Tieren beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.979582,
                         24.800757
@@ -2299,7 +2299,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             {
                   "name": "新竹市立動物園",
                   "text": "Tajvan legrégebbi állatkertje, amely számos állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.979582,
                         24.800757
@@ -2418,7 +2418,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             {
                   "name": "新竹市立動物園",
                   "text": "Cea mai veche grădină zoologică din Taiwan, care găzduiește o varietate de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.979582,
                         24.800757
@@ -2537,7 +2537,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             {
                   "name": "Hsinchu Zoo",
                   "text": "The oldest zoo in Taiwan, home to a variety of animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.979582,
                         24.800757

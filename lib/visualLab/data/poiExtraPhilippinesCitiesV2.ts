@@ -82,7 +82,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Circle of Fun",
                   "text": "Circle of Fun ist ein Freizeitpark in Quezon City.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.047984,
                         14.653594
@@ -246,7 +246,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Circle of Fun",
                   "text": "A Circle of Fun egy vidámpark Quezon City városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.047984,
                         14.653594
@@ -410,7 +410,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Circle of Fun",
                   "text": "Circle of Fun este un parc de distracții situat în Quezon City.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.047984,
                         14.653594
@@ -574,7 +574,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Circle of Fun",
                   "text": "Circle of Fun is a theme park located in Quezon City.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.047984,
                         14.653594
@@ -1743,7 +1743,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Bosay Resort",
                   "text": "Bosay Resort ist ein Wasserpark in der Stadt Antipolo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.16748,
                         14.5758
@@ -1817,7 +1817,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Bosay Resort",
                   "text": "A Bosay Resort egy vízi park Antipolo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.16748,
                         14.5758
@@ -1891,7 +1891,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Bosay Resort",
                   "text": "Bosay Resort este un parc acvatic situat în orașul Antipolo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.16748,
                         14.5758
@@ -1965,7 +1965,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Bosay Resort",
                   "text": "Bosay Resort is a water park situated in the city of Antipolo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.16748,
                         14.5758
@@ -2084,7 +2084,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Active Fun",
                   "text": "Active Fun ist ein Themenpark in Pasig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.078325,
                         14.587542
@@ -2329,7 +2329,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Active Fun",
                   "text": "Az Active Fun egy vidámpark Pasigban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.078325,
                         14.587542
@@ -2574,7 +2574,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Active Fun",
                   "text": "Active Fun este un parc tematic în Pasig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.078325,
                         14.587542
@@ -2819,7 +2819,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Active Fun",
                   "text": "Active Fun is a theme park in Pasig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.078325,
                         14.587542
@@ -3100,7 +3100,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Villa Monica",
                   "text": "Villa Monica ist ein Wasserpark in Taguig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.066294,
                         14.541919
@@ -3109,7 +3109,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "IMP Seabreeze Resort and Restaurant",
                   "text": "IMP Seabreeze Resort and Restaurant ist ein Wasserpark in Taguig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.073601,
                         14.515971
@@ -3174,7 +3174,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Villa Monica",
                   "text": "A Villa Monica egy élményfürdő Taguig városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.066294,
                         14.541919
@@ -3183,7 +3183,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "IMP Seabreeze Resort and Restaurant",
                   "text": "Az IMP Seabreeze Resort and Restaurant egy élményfürdő Taguig városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.073601,
                         14.515971
@@ -3248,7 +3248,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Villa Monica",
                   "text": "Villa Monica este un parc acvatic situat în Taguig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.066294,
                         14.541919
@@ -3257,7 +3257,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "IMP Seabreeze Resort and Restaurant",
                   "text": "IMP Seabreeze Resort and Restaurant este un parc acvatic situat în Taguig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.073601,
                         14.515971
@@ -3322,7 +3322,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Villa Monica",
                   "text": "Villa Monica is a water park located in Taguig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.066294,
                         14.541919
@@ -3331,7 +3331,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "IMP Seabreeze Resort and Restaurant",
                   "text": "IMP Seabreeze Resort and Restaurant is a water park located in Taguig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.073601,
                         14.515971
@@ -3476,7 +3476,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "The Azure Beach Club",
                   "text": "Der Azure Beach Club bietet in Parañaque Erholung am Wasser.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.043592,
                         14.484164
@@ -3532,7 +3532,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "The Azure Beach Club",
                   "text": "Az Azure Beach Club vízparti kikapcsolódást kínál Parañaque városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.043592,
                         14.484164
@@ -3588,7 +3588,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "The Azure Beach Club",
                   "text": "Azure Beach Club oferă relaxare lângă apă în Parañaque.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.043592,
                         14.484164
@@ -3644,7 +3644,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "The Azure Beach Club",
                   "text": "The Azure Beach Club offers water-based recreation in Parañaque.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         121.043592,
                         14.484164
@@ -4086,7 +4086,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "People's Park Mini Zoo",
                   "text": "Der People's Park Mini Zoo ist ein kleiner Zoo in Valenzuela.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.969633,
                         14.691415
@@ -4106,7 +4106,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "People's Park Mini Zoo",
                   "text": "A People's Park Mini Zoo egy kis állatkert Valenzuela városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.969633,
                         14.691415
@@ -4126,7 +4126,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "People's Park Mini Zoo",
                   "text": "People's Park Mini Zoo este o mică grădină zoologică situată în Valenzuela.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.969633,
                         14.691415
@@ -4146,7 +4146,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "People's Park Mini Zoo",
                   "text": "People's Park Mini Zoo is a small zoo located in Valenzuela.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.969633,
                         14.691415
@@ -6151,7 +6151,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Carribean Waterpark Resort",
                   "text": "Carribean Waterpark Resort ist ein Wasserpark in Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.93722,
                         10.649443
@@ -6160,7 +6160,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Water Garden Nature Resort",
                   "text": "Water Garden Nature Resort ist ein Wasserpark in Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.951124,
                         10.643834
@@ -6169,7 +6169,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Splash Park",
                   "text": "Splash Park ist ein Wasserpark in Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.963986,
                         10.658425
@@ -6288,7 +6288,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Carribean Waterpark Resort",
                   "text": "A Carribean Waterpark Resort egy élményfürdő Bacolod városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.93722,
                         10.649443
@@ -6297,7 +6297,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Water Garden Nature Resort",
                   "text": "A Water Garden Nature Resort egy élményfürdő Bacolod városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.951124,
                         10.643834
@@ -6306,7 +6306,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Splash Park",
                   "text": "A Splash Park egy élményfürdő Bacolod városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.963986,
                         10.658425
@@ -6425,7 +6425,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Carribean Waterpark Resort",
                   "text": "Carribean Waterpark Resort este un parc acvatic situat în Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.93722,
                         10.649443
@@ -6434,7 +6434,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Water Garden Nature Resort",
                   "text": "Water Garden Nature Resort este un parc acvatic situat în Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.951124,
                         10.643834
@@ -6443,7 +6443,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Splash Park",
                   "text": "Splash Park este un parc acvatic situat în Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.963986,
                         10.658425
@@ -6562,7 +6562,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Carribean Waterpark Resort",
                   "text": "Carribean Waterpark Resort is a water park located in Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.93722,
                         10.649443
@@ -6571,7 +6571,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Water Garden Nature Resort",
                   "text": "Water Garden Nature Resort is a water park located in Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.951124,
                         10.643834
@@ -6580,7 +6580,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Splash Park",
                   "text": "Splash Park is a water park located in Bacolod.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         122.963986,
                         10.658425
@@ -7954,7 +7954,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Malabon Zoo",
                   "text": "Malabon Zoo ist ein Zoo in Caloocan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.982814,
                         14.663548
@@ -8019,7 +8019,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Malabon Zoo",
                   "text": "A Malabon Zoo egy állatkert Caloocan városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.982814,
                         14.663548
@@ -8084,7 +8084,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Malabon Zoo",
                   "text": "Malabon Zoo este o grădină zoologică situată în Caloocan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.982814,
                         14.663548
@@ -8149,7 +8149,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Malabon Zoo",
                   "text": "Malabon Zoo is a zoo located in Caloocan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.982814,
                         14.663548
@@ -10890,7 +10890,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Baguio Botanical Garden",
                   "text": "Der Baguio Botanical Garden ist ein Themenpark in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.613518,
                         16.414741
@@ -10899,7 +10899,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Quirantes Fun Rides",
                   "text": "Quirantes Fun Rides ist ein Vergnügungspark in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.596,
                         16.409473
@@ -10962,7 +10962,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Sky Ranch Baguio",
                   "text": "Sky Ranch Baguio ist ein Themenpark in der Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.599941,
                         16.406812
@@ -10971,7 +10971,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Igorot Stone Kingdom",
                   "text": "Das Igorot Stone Kingdom ist ein Themenpark in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.575063,
                         16.431977
@@ -11162,7 +11162,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Baguio Botanical Garden",
                   "text": "A Baguio Botanical Garden egy tematikus park Baguióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.613518,
                         16.414741
@@ -11171,7 +11171,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Quirantes Fun Rides",
                   "text": "A Quirantes Fun Rides egy vidámpark Baguióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.596,
                         16.409473
@@ -11234,7 +11234,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Sky Ranch Baguio",
                   "text": "A Sky Ranch Baguio egy tematikus park Baguióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.599941,
                         16.406812
@@ -11243,7 +11243,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Igorot Stone Kingdom",
                   "text": "Az Igorot Stone Kingdom egy tematikus park Baguióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.575063,
                         16.431977
@@ -11434,7 +11434,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Baguio Botanical Garden",
                   "text": "Grădina Botanică din Baguio este un parc tematic situat în Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.613518,
                         16.414741
@@ -11443,7 +11443,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Quirantes Fun Rides",
                   "text": "Quirantes Fun Rides este un parc tematic situat în Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.596,
                         16.409473
@@ -11506,7 +11506,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Sky Ranch Baguio",
                   "text": "Sky Ranch Baguio este un parc tematic din oraș.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.599941,
                         16.406812
@@ -11515,7 +11515,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Igorot Stone Kingdom",
                   "text": "Igorot Stone Kingdom este un parc tematic situat în Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.575063,
                         16.431977
@@ -11706,7 +11706,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Baguio Botanical Garden",
                   "text": "Baguio Botanical Garden is a theme park located in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.613518,
                         16.414741
@@ -11715,7 +11715,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Quirantes Fun Rides",
                   "text": "Quirantes Fun Rides is a theme park situated in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.596,
                         16.409473
@@ -11778,7 +11778,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Sky Ranch Baguio",
                   "text": "Sky Ranch Baguio is a theme park in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.599941,
                         16.406812
@@ -11787,7 +11787,7 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             {
                   "name": "Igorot Stone Kingdom",
                   "text": "The Igorot Stone Kingdom is a theme park located in Baguio.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         120.575063,
                         16.431977

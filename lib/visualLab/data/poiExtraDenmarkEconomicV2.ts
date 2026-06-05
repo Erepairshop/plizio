@@ -3104,7 +3104,7 @@ export const denmarkEconomicV2: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "Tivoli Friheden ist ein Vergnügungspark in Aarhus mit Fahrgeschäften, Konzerten und Gärten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -3574,7 +3574,7 @@ export const denmarkEconomicV2: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "A Tivoli Friheden egy aarhusi vidámpark játékokkal, koncertekkel és kertekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -4044,7 +4044,7 @@ export const denmarkEconomicV2: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "Tivoli Friheden este un parc de distracții din Aarhus care oferă atracții, concerte și grădini.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263
@@ -4514,7 +4514,7 @@ export const denmarkEconomicV2: POI[] = [
             {
                   "name": "Tivoli Friheden",
                   "text": "Tivoli Friheden is an amusement park in Aarhus featuring rides, concerts, and gardens.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.198367,
                         56.136263

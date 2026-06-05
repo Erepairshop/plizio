@@ -71,7 +71,7 @@ export const palauEconomicV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Aquarium in Koror.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -199,7 +199,7 @@ export const palauEconomicV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Akvárium Kororban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -327,7 +327,7 @@ export const palauEconomicV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Acvariu în Koror.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -455,7 +455,7 @@ export const palauEconomicV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Aquarium in Koror.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864

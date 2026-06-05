@@ -1143,7 +1143,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Zoološki vrt Mašo",
                   "text": "Ein kleiner Zoo in Berane, der verschiedene Tierarten in einer natürlichen Umgebung zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.873081,
                         42.856122
@@ -1217,7 +1217,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Zoološki vrt Mašo",
                   "text": "Kis állatkert Berane-ban, amely különféle állatfajokat mutat be természetes környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.873081,
                         42.856122
@@ -1291,7 +1291,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Zoološki vrt Mašo",
                   "text": "O mică grădină zoologică din Berane care prezintă diverse specii de animale într-un mediu natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.873081,
                         42.856122
@@ -1365,7 +1365,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Zoološki vrt Mašo",
                   "text": "A small zoo in Berane showcasing various animal species in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.873081,
                         42.856122
@@ -1868,7 +1868,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Mrestilište Vodice",
                   "text": "Eine lokale Einrichtung zur Fischzucht und Beobachtung von Wasserlebewesen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.362188,
                         43.363628
@@ -1897,7 +1897,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Mrestilište Vodice",
                   "text": "Helyi létesítmény haltenyésztésre és vízi élőlények megfigyelésére.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.362188,
                         43.363628
@@ -1926,7 +1926,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Mrestilište Vodice",
                   "text": "O facilitate locală pentru piscicultură și observarea vieții acvatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.362188,
                         43.363628
@@ -1955,7 +1955,7 @@ export const montenegroAllPoi: POI[] = [
             {
                   "name": "Mrestilište Vodice",
                   "text": "A local facility for fish breeding and observation of aquatic life.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.362188,
                         43.363628

@@ -3739,7 +3739,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Bolivar",
                   "text": "Parque Bolivar ist ein Freizeitpark in Santa Rosa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.959425,
                         -3.445793
@@ -3786,7 +3786,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Bolivar",
                   "text": "A Parque Bolivar egy vidámpark Santa Rosa városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.959425,
                         -3.445793
@@ -3833,7 +3833,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Bolivar",
                   "text": "Parque Bolivar este un parc tematic situat în Santa Rosa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.959425,
                         -3.445793
@@ -3880,7 +3880,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Bolivar",
                   "text": "Parque Bolivar is a theme park located in Santa Rosa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.959425,
                         -3.445793
@@ -4674,7 +4674,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Cóndor",
                   "text": "Parque Cóndor ist ein Zoo in Otavalo, in dem verschiedene Tierarten leben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.239905,
                         0.232205
@@ -4856,7 +4856,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Cóndor",
                   "text": "A Parque Cóndor egy állatkert Otavalo városában, amely különféle állatfajoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.239905,
                         0.232205
@@ -5038,7 +5038,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Cóndor",
                   "text": "Parque Cóndor este o grădină zoologică din Otavalo care găzduiește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.239905,
                         0.232205
@@ -5220,7 +5220,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Cóndor",
                   "text": "Parque Cóndor is a zoo in Otavalo home to various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.239905,
                         0.232205
@@ -5447,7 +5447,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Nelson bazurto.     J.J",
                   "text": "Nelson bazurto. J.J ist ein Aquarium in Cayambe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.148201,
                         0.024904
@@ -5456,7 +5456,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Laguna Yaznan",
                   "text": "Laguna Yaznan ist ein Wasserpark in Cayambe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.149699,
                         0.028942
@@ -5503,7 +5503,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Nelson bazurto.     J.J",
                   "text": "A Nelson bazurto. J.J egy akvárium Cayambe városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.148201,
                         0.024904
@@ -5512,7 +5512,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Laguna Yaznan",
                   "text": "A Laguna Yaznan egy vízi park Cayambe városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.149699,
                         0.028942
@@ -5559,7 +5559,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Nelson bazurto.     J.J",
                   "text": "Nelson bazurto. J.J este un acvariu din Cayambe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.148201,
                         0.024904
@@ -5568,7 +5568,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Laguna Yaznan",
                   "text": "Laguna Yaznan este un parc acvatic situat în Cayambe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.149699,
                         0.028942
@@ -5615,7 +5615,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Nelson bazurto.     J.J",
                   "text": "Nelson bazurto. J.J is an aquarium facility in Cayambe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.148201,
                         0.024904
@@ -5624,7 +5624,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Laguna Yaznan",
                   "text": "Laguna Yaznan is a water park located in Cayambe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.149699,
                         0.028942
@@ -5893,7 +5893,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Urbano de La Troncal",
                   "text": "Der Parque Urbano de La Troncal ist ein Freizeitpark in La Troncal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.346243,
                         -2.430539
@@ -5922,7 +5922,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Urbano de La Troncal",
                   "text": "A Parque Urbano de La Troncal egy vidámpark La Troncalban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.346243,
                         -2.430539
@@ -5951,7 +5951,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Urbano de La Troncal",
                   "text": "Parque Urbano de La Troncal este un parc tematic în La Troncal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.346243,
                         -2.430539
@@ -5980,7 +5980,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             {
                   "name": "Parque Urbano de La Troncal",
                   "text": "Parque Urbano de La Troncal is a theme park in La Troncal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.346243,
                         -2.430539

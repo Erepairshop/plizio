@@ -2240,7 +2240,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque del Azúcar",
                   "text": "Ein Wasserpark in Palmira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.307812,
                         3.540392
@@ -2305,7 +2305,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque del Azúcar",
                   "text": "Vízipark Palmira városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.307812,
                         3.540392
@@ -2370,7 +2370,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque del Azúcar",
                   "text": "Un parc acvatic în Palmira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.307812,
                         3.540392
@@ -2435,7 +2435,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque del Azúcar",
                   "text": "A water park in Palmira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.307812,
                         3.540392
@@ -2630,7 +2630,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acualago",
                   "text": "Ein Wasserpark in Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.101301,
                         7.07124
@@ -2648,7 +2648,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Tortugitas para niños",
                   "text": "Ein Zoo in Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.095869,
                         7.061229
@@ -2666,7 +2666,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Corredor del Perezoso",
                   "text": "Ein Zoo in Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.089195,
                         7.068336
@@ -2722,7 +2722,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acualago",
                   "text": "Vízipark Floridablanca városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.101301,
                         7.07124
@@ -2740,7 +2740,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Tortugitas para niños",
                   "text": "Állatkert Floridablanca városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.095869,
                         7.061229
@@ -2758,7 +2758,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Corredor del Perezoso",
                   "text": "Állatkert Floridablanca városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.089195,
                         7.068336
@@ -2814,7 +2814,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acualago",
                   "text": "Un parc acvatic în Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.101301,
                         7.07124
@@ -2832,7 +2832,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Tortugitas para niños",
                   "text": "O grădină zoologică în Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.095869,
                         7.061229
@@ -2850,7 +2850,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Corredor del Perezoso",
                   "text": "O grădină zoologică în Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.089195,
                         7.068336
@@ -2906,7 +2906,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acualago",
                   "text": "A water park in Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.101301,
                         7.07124
@@ -2924,7 +2924,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Tortugitas para niños",
                   "text": "A zoo in Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.095869,
                         7.061229
@@ -2942,7 +2942,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Corredor del Perezoso",
                   "text": "A zoo in Floridablanca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.089195,
                         7.068336
@@ -3731,7 +3731,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acuaparque Ditaires",
                   "text": "Ein Wasserpark in Itagüí.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.628848,
                         6.169205
@@ -3913,7 +3913,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acuaparque Ditaires",
                   "text": "Vízipark Itagüí városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.628848,
                         6.169205
@@ -4095,7 +4095,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acuaparque Ditaires",
                   "text": "Un parc acvatic în Itagüí.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.628848,
                         6.169205
@@ -4277,7 +4277,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Acuaparque Ditaires",
                   "text": "A water park in Itagüí.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.628848,
                         6.169205
@@ -4486,7 +4486,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Mundo Acuático",
                   "text": "Mundo Acuático ist ein lokaler Wasserpark in Rionegro.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379495,
                         6.139452
@@ -4495,7 +4495,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "RUEDA",
                   "text": "RUEDA ist ein Themenpark in Rionegro.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379709,
                         6.137181
@@ -4569,7 +4569,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Mundo Acuático",
                   "text": "A Mundo Acuático egy helyi vízi vidámpark Rionegróban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379495,
                         6.139452
@@ -4578,7 +4578,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "RUEDA",
                   "text": "A RUEDA egy vidámpark Rionegróban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379709,
                         6.137181
@@ -4652,7 +4652,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Mundo Acuático",
                   "text": "Mundo Acuático este un parc acvatic local situat în Rionegro.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379495,
                         6.139452
@@ -4661,7 +4661,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "RUEDA",
                   "text": "RUEDA este un parc tematic situat în Rionegro.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379709,
                         6.137181
@@ -4735,7 +4735,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Mundo Acuático",
                   "text": "Mundo Acuático is a local water park located in Rionegro.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379495,
                         6.139452
@@ -4744,7 +4744,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "RUEDA",
                   "text": "RUEDA is a theme park destination situated in Rionegro.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.379709,
                         6.137181
@@ -5056,7 +5056,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque para niños",
                   "text": "Ein Themenpark in Duitama.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.017087,
                         5.809186
@@ -5139,7 +5139,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque para niños",
                   "text": "Vidámpark Duitama városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.017087,
                         5.809186
@@ -5222,7 +5222,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque para niños",
                   "text": "Un parc tematic în Duitama.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.017087,
                         5.809186
@@ -5305,7 +5305,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             {
                   "name": "Parque para niños",
                   "text": "A theme park in Duitama.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.017087,
                         5.809186

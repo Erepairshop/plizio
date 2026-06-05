@@ -26,7 +26,7 @@ export const mauritaniaCitiesV2: POI[] = [
             {
                   "name": "Mini-park",
                   "text": "Ein kleiner Freizeitpark für Besucher in Nouakchott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.993709,
                         18.105137
@@ -64,7 +64,7 @@ export const mauritaniaCitiesV2: POI[] = [
             {
                   "name": "Mini-park",
                   "text": "Kis vidámpark a látogatók számára Nouakchottban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.993709,
                         18.105137
@@ -102,7 +102,7 @@ export const mauritaniaCitiesV2: POI[] = [
             {
                   "name": "Mini-park",
                   "text": "Un mic parc de distracții pentru vizitatori în Nouakchott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.993709,
                         18.105137
@@ -140,7 +140,7 @@ export const mauritaniaCitiesV2: POI[] = [
             {
                   "name": "Mini-park",
                   "text": "A small theme park for visitors in Nouakchott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.993709,
                         18.105137

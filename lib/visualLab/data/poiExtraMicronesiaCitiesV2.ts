@@ -566,7 +566,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool ist eine Tierattraktion in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -575,7 +575,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool ist ein Wasserpark in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -703,7 +703,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Az Eel Pool egy állatkerti látványosság Kolonia városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -712,7 +712,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "A Pohnpei Swimming Pool egy vízipark Kolonia-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -840,7 +840,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool este o atracție cu animale situată în Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -849,7 +849,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool este un parc acvatic din Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -977,7 +977,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool is an animal attraction located in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -986,7 +986,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool is a water park facility in Kolonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -2375,7 +2375,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool ist ein Tierpark in Sokehs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -2384,7 +2384,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool ist ein Wasserpark in Sokehs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -2503,7 +2503,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "A(z) Eel Pool egy állatkert Sokehs városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -2512,7 +2512,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "A(z) Pohnpei Swimming Pool egy élményfürdő Sokehs területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -2631,7 +2631,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool este o grădină zoologică în Sokehs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -2640,7 +2640,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool este un parc acvatic în Sokehs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703
@@ -2759,7 +2759,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Eel Pool",
                   "text": "Eel Pool is a zoo located in Sokehs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
@@ -2768,7 +2768,7 @@ export const micronesiaCitiesV2: POI[] = [
             {
                   "name": "Pohnpei Swimming Pool",
                   "text": "Pohnpei Swimming Pool is a water park located in Sokehs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         158.207667,
                         6.955703

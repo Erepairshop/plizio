@@ -245,7 +245,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "Centre Notre Dame de Lourdes",
                   "text": "Aquarium in Fianarantsoa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.10935,
                         -21.465582
@@ -274,7 +274,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "Centre Notre Dame de Lourdes",
                   "text": "Akvárium Fianarantsoában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.10935,
                         -21.465582
@@ -303,7 +303,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "Centre Notre Dame de Lourdes",
                   "text": "Acvariu în Fianarantsoa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.10935,
                         -21.465582
@@ -332,7 +332,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "Centre Notre Dame de Lourdes",
                   "text": "Aquarium in Fianarantsoa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.10935,
                         -21.465582
@@ -2466,7 +2466,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "LemuriaLand",
                   "text": "LemuriaLand ist ein zoologischer Park in Hell-Ville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.282518,
                         -13.393118
@@ -2531,7 +2531,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "LemuriaLand",
                   "text": "A LemuriaLand egy állatkert Hell-Ville városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.282518,
                         -13.393118
@@ -2596,7 +2596,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "LemuriaLand",
                   "text": "LemuriaLand este un parc zoologic localizat în Hell-Ville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.282518,
                         -13.393118
@@ -2661,7 +2661,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             {
                   "name": "LemuriaLand",
                   "text": "LemuriaLand is a zoological park located in Hell-Ville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.282518,
                         -13.393118

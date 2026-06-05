@@ -791,7 +791,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Иллюzион",
                   "text": "Freizeitpark in Karakol.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         78.393208,
                         42.492539
@@ -847,7 +847,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Иллюzион",
                   "text": "Vidámpark Karakolban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         78.393208,
                         42.492539
@@ -903,7 +903,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Иллюzион",
                   "text": "Parc tematic în Karakol.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         78.393208,
                         42.492539
@@ -959,7 +959,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Иллюzион",
                   "text": "Theme park in Karakol.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         78.393208,
                         42.492539
@@ -1478,7 +1478,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Роллер-клуб",
                   "text": "Der Roller-Club ist ein Freizeitpark in Talas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.249863,
                         42.516439
@@ -1498,7 +1498,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Роллер-клуб",
                   "text": "A Roller-Club egy vidámpark Talasban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.249863,
                         42.516439
@@ -1518,7 +1518,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Роллер-клуб",
                   "text": "Roller-Club este un parc tematic în Talas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.249863,
                         42.516439
@@ -1538,7 +1538,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Роллер-клуб",
                   "text": "Roller-Club is a theme park in Talas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.249863,
                         42.516439
@@ -1856,7 +1856,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "Dieser lokale Themenpark bietet Vergnügung und Freizeitaktivitäten in Tasch-Kömür.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.224587,
                         41.344993
@@ -1867,7 +1867,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "Ez a helyi vidámpark szórakozási és rekreációs lehetőségeket kínál Taskömürben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.224587,
                         41.344993
@@ -1878,7 +1878,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "Acest parc tematic local oferă activități de amuzament și recreere în Tasch-Kömür.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.224587,
                         41.344993
@@ -1889,7 +1889,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Парк",
                   "text": "This local theme park provides amusement and recreational activities in Tasch-Kömür.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.224587,
                         41.344993
@@ -2200,7 +2200,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Zaton",
                   "text": "Zaton ist ein Freizeitpark in Scholpon-Ata.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         77.086785,
                         42.640317
@@ -2256,7 +2256,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Zaton",
                   "text": "A Zaton egy vidámpark Scholpon-Atában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         77.086785,
                         42.640317
@@ -2312,7 +2312,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Zaton",
                   "text": "Zaton este un parc tematic în Scholpon-Ata.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         77.086785,
                         42.640317
@@ -2368,7 +2368,7 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             {
                   "name": "Zaton",
                   "text": "Zaton is a theme park in Cholpon-Ata.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         77.086785,
                         42.640317

@@ -558,7 +558,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
             {
                   "name": "Himeji Zoo",
                   "text": "Ein Tiergarten auf dem Gelände der Burg Himeji.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.695796,
                         34.837496
@@ -713,7 +713,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
             {
                   "name": "Himeji Zoo",
                   "text": "Állatkert a himeji vár területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.695796,
                         34.837496
@@ -868,7 +868,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
             {
                   "name": "Himeji Zoo",
                   "text": "O grădină zoologică situată în incinta castelului Himeji.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.695796,
                         34.837496
@@ -1023,7 +1023,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
             {
                   "name": "Himeji Zoo",
                   "text": "A zoo located within the grounds of Himeji Castle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.695796,
                         34.837496

@@ -1745,7 +1745,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "גן החיות התנכי",
                   "text": "Zoo in der Nähe von Battir, bekannt für seine vielfältige Tierwelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.170209,
                         31.746515
@@ -1981,7 +1981,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "גן החיות התנכי",
                   "text": "Állatkert Battir közelében, amely gazdag állatvilágáról ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.170209,
                         31.746515
@@ -2217,7 +2217,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "גן החיות התנכי",
                   "text": "Grădină zoologică în apropiere de Battir, cunoscută pentru diversitatea faunei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.170209,
                         31.746515
@@ -2453,7 +2453,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "Jerusalem Biblical Zoo",
                   "text": "Zoo near Battir, known for its diverse wildlife.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.170209,
                         31.746515
@@ -3680,7 +3680,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Wasserpark in Deir Ghassaneh.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -3718,7 +3718,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Vízi park Deir Ghassaneh-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -3756,7 +3756,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Parc acvatic în Deir Ghassaneh.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -3794,7 +3794,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Water park in Deir Ghassaneh.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -3914,7 +3914,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Vally of lemon ist ein Wasserpark in Aboud.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -4024,7 +4024,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "A vally of lemon egy vízipark Aboud városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -4134,7 +4134,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Vally of lemon este un parc acvatic situat în Aboud.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -4244,7 +4244,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "vally of lemon",
                   "text": "Vally of lemon is a water park located in Aboud.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.072026,
                         32.023753
@@ -4364,7 +4364,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "عين الحمام ist ein Wasserpark in der Stadt Jifna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -4382,7 +4382,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "חוות אפרים ist ein Zoo in Jifna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -4483,7 +4483,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "A عين الحمام egy vízipark Jifna városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -4501,7 +4501,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "A חוות אפרים egy állatkert Jifnában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -4602,7 +4602,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "عين الحمام este un parc acvatic situat în orașul Jifna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -4620,7 +4620,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "חוות אפרים este o grădină zoologică situată în Jifna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -4721,7 +4721,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "عين الحمام is a water park located in the city of Jifna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -4739,7 +4739,7 @@ export const palestineHistoryV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "חוות אפרים is a zoo situated in Jifna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429

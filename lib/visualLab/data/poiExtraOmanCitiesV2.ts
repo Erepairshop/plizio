@@ -1264,7 +1264,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             {
                   "name": "Snow Oman",
                   "text": "Themenpark in Bawshar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.407074,
                         23.573154
@@ -1311,7 +1311,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             {
                   "name": "Snow Oman",
                   "text": "Vidámpark Bawsharban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.407074,
                         23.573154
@@ -1358,7 +1358,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             {
                   "name": "Snow Oman",
                   "text": "Parc tematic în Bawshar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.407074,
                         23.573154
@@ -1405,7 +1405,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             {
                   "name": "Snow Oman",
                   "text": "Theme park in Bawshar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.407074,
                         23.573154

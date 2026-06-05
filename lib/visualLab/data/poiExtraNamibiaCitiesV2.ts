@@ -296,7 +296,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The National Marine Aquarium of Namibia",
                   "text": "Das National Marine Aquarium of Namibia ist ein Aquarium in Swakopmund und das einzige öffentliche Aquarium des Landes.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.522682,
                         -22.684726
@@ -314,7 +314,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The Living Desert Snake Park",
                   "text": "The Living Desert Snake Park ist ein Zoo und eine Tierausstellung in Swakopmund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.523263,
                         -22.680763
@@ -460,7 +460,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The National Marine Aquarium of Namibia",
                   "text": "A The National Marine Aquarium of Namibia egy akvárium Swakopmund városában, és az ország egyetlen nyilvános akváriuma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.522682,
                         -22.684726
@@ -478,7 +478,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The Living Desert Snake Park",
                   "text": "A The Living Desert Snake Park egy állatkert Swakopmund városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.523263,
                         -22.680763
@@ -624,7 +624,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The National Marine Aquarium of Namibia",
                   "text": "The National Marine Aquarium of Namibia este un acvariu în Swakopmund și singurul acvariu public din țară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.522682,
                         -22.684726
@@ -642,7 +642,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The Living Desert Snake Park",
                   "text": "The Living Desert Snake Park este o grădină zoologică situată în Swakopmund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.523263,
                         -22.680763
@@ -788,7 +788,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The National Marine Aquarium of Namibia",
                   "text": "The National Marine Aquarium of Namibia is an aquarium in Swakopmund, and it is the only public aquarium in the country.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.522682,
                         -22.684726
@@ -806,7 +806,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "The Living Desert Snake Park",
                   "text": "The Living Desert Snake Park is a zoo and animal exhibit located in Swakopmund.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.523263,
                         -22.680763
@@ -1427,7 +1427,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Keetmanshoop Public Swimming Pool",
                   "text": "Das Keetmanshoop Public Swimming Pool ist eine Wasserparkanlage in Keetmanshoop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.12878,
                         -26.574762
@@ -1465,7 +1465,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Keetmanshoop Public Swimming Pool",
                   "text": "A Keetmanshoop Public Swimming Pool egy vízipark létesítmény Keetmanshoop városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.12878,
                         -26.574762
@@ -1503,7 +1503,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Keetmanshoop Public Swimming Pool",
                   "text": "Keetmanshoop Public Swimming Pool este un parc acvatic din Keetmanshoop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.12878,
                         -26.574762
@@ -1541,7 +1541,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Keetmanshoop Public Swimming Pool",
                   "text": "Keetmanshoop Public Swimming Pool is a water park facility in Keetmanshoop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.12878,
                         -26.574762
@@ -2589,7 +2589,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Otjiwarongo Crocodile Farm",
                   "text": "Die Otjiwarongo Crocodile Farm ist ein Zoo in Otjiwarongo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.655533,
                         -20.464845
@@ -2645,7 +2645,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Otjiwarongo Crocodile Farm",
                   "text": "Az Otjiwarongo Crocodile Farm egy állatkert Otjiwarongo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.655533,
                         -20.464845
@@ -2701,7 +2701,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Otjiwarongo Crocodile Farm",
                   "text": "Otjiwarongo Crocodile Farm este o grădină zoologică situată în Otjiwarongo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.655533,
                         -20.464845
@@ -2757,7 +2757,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             {
                   "name": "Otjiwarongo Crocodile Farm",
                   "text": "Otjiwarongo Crocodile Farm is a zoo located in Otjiwarongo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.655533,
                         -20.464845

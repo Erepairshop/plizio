@@ -5389,7 +5389,7 @@ const estoniaAllPoiBase: POI[] = [
             {
                   "name": "Haapsalu Veekeskus",
                   "text": "Ein modernes Freizeit- und Hallenbad mit verschiedenen Wasserattraktionen in Haapsalu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.541184,
                         58.937061
@@ -5580,7 +5580,7 @@ const estoniaAllPoiBase: POI[] = [
             {
                   "name": "Haapsalu Veekeskus",
                   "text": "Modern szabadidős és fedett uszoda különféle vízi élményekkel Haapsaluban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.541184,
                         58.937061
@@ -5771,7 +5771,7 @@ const estoniaAllPoiBase: POI[] = [
             {
                   "name": "Haapsalu Veekeskus",
                   "text": "Un parc acvatic modern și piscină acoperită cu diverse atracții în Haapsalu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.541184,
                         58.937061
@@ -5962,7 +5962,7 @@ const estoniaAllPoiBase: POI[] = [
             {
                   "name": "Haapsalu Veekeskus",
                   "text": "A modern leisure and indoor pool with various water attractions in Haapsalu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.541184,
                         58.937061
@@ -14020,7 +14020,7 @@ export const estoniaNature: POI[] = [
             {
                   "name": "Saaremaa Zoo",
                   "text": "Ein lokaler Zoo auf der Insel Saaremaa mit verschiedenen Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.028524,
                         58.562627
@@ -14040,7 +14040,7 @@ export const estoniaNature: POI[] = [
             {
                   "name": "Saaremaa Zoo",
                   "text": "Helyi állatkert Saaremaa szigetén, különböző állatfajokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.028524,
                         58.562627
@@ -14060,7 +14060,7 @@ export const estoniaNature: POI[] = [
             {
                   "name": "Saaremaa Zoo",
                   "text": "O grădină zoologică locală pe insula Saaremaa, care adăpostește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.028524,
                         58.562627
@@ -14080,7 +14080,7 @@ export const estoniaNature: POI[] = [
             {
                   "name": "Saaremaa Zoo",
                   "text": "A local zoo on Saaremaa island featuring various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.028524,
                         58.562627

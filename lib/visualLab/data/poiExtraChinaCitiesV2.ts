@@ -3470,7 +3470,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "佛山乐园",
                   "text": "Das Foshan Amusement Park Recreation Center ist ein Freizeitpark in Foshan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.104235,
                         23.024072
@@ -3607,7 +3607,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "佛山乐园",
                   "text": "A Foshan Amusement Park Recreation Center egy vidámpark Foshan városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.104235,
                         23.024072
@@ -3744,7 +3744,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "佛山乐园",
                   "text": "Foshan Amusement Park Recreation Center este un parc de distracții situat în Foshan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.104235,
                         23.024072
@@ -3881,7 +3881,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "Foshan Amusement Park Recreation Center",
                   "text": "Foshan Amusement Park Recreation Center is a theme park situated in Foshan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.104235,
                         23.024072
@@ -4421,7 +4421,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "中华恐龙园",
                   "text": "Der China Dinosaur Park ist ein weithin bekannter Freizeitpark in Changzhou.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         119.996862,
                         31.825373
@@ -4513,7 +4513,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "中华恐龙园",
                   "text": "A China Dinosaur Park egy széles körben ismert vidámpark Changzhou városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         119.996862,
                         31.825373
@@ -4605,7 +4605,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "中华恐龙园",
                   "text": "China Dinosaur Park este un parc tematic foarte recunoscut situat în Changzhou.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         119.996862,
                         31.825373
@@ -4697,7 +4697,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
             {
                   "name": "China Dinosaur Park",
                   "text": "China Dinosaur Park is a widely recognized theme park located in Changzhou.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         119.996862,
                         31.825373

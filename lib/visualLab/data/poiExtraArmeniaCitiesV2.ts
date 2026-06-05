@@ -1911,7 +1911,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
             {
                   "name": "Վազգեն Սարգսյանի անվան Կապանի կենտրոնական զբոսայգի",
                   "text": "Der Vazgen Sargsyan Kapan central amusement park ist ein lokaler Freizeitpark in Kapan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.404914,
                         39.207855
@@ -1976,7 +1976,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
             {
                   "name": "Վազգեն Սարգսյանի անվան Կապանի կենտրոնական զբոսայգի",
                   "text": "A Vazgen Sargsyan Kapan central amusement park egy helyi vidámpark Kapan városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.404914,
                         39.207855
@@ -2041,7 +2041,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
             {
                   "name": "Վազգեն Սարգսյանի անվան Կապանի կենտրոնական զբոսայգի",
                   "text": "Vazgen Sargsyan Kapan central amusement park este un parc de distracții local situat în Kapan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.404914,
                         39.207855
@@ -2106,7 +2106,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
             {
                   "name": "Vazgen Sargsyan Kapan central amusement park",
                   "text": "The Vazgen Sargsyan Kapan central amusement park is a local theme park in Kapan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.404914,
                         39.207855

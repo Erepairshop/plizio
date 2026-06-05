@@ -89,7 +89,7 @@ export const spainCitiesV2: POI[] = [
             {
                   "name": "Isla Mágica",
                   "text": "Ein großer Themenpark auf dem ehemaligen Expo-Gelände, der die Entdeckung Amerikas thematisiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.999887,
                         37.408003
@@ -514,7 +514,7 @@ export const spainCitiesV2: POI[] = [
             {
                   "name": "Isla Mágica",
                   "text": "Nagy vidámpark az egykori világkiállítás területén, amely Amerika felfedezését mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.999887,
                         37.408003
@@ -939,7 +939,7 @@ export const spainCitiesV2: POI[] = [
             {
                   "name": "Isla Mágica",
                   "text": "Un parc tematic situat pe fostul teren al Expoziției Mondiale, având ca temă descoperirea Americii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.999887,
                         37.408003
@@ -1364,7 +1364,7 @@ export const spainCitiesV2: POI[] = [
             {
                   "name": "Magic Island",
                   "text": "A large theme park located on the former Expo site, themed around the discovery of America.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.999887,
                         37.408003
@@ -1881,7 +1881,7 @@ imageHint: "Plaza de Espana Seville sunny day",
             {
                   "name": "Acuario de Zaragoza",
                   "text": "Eines der größten Flussaquarien Europas, das Lebensräume aus fünf der größten Flüsse der Welt nachbildet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.898617,
                         41.669171
@@ -2432,7 +2432,7 @@ imageHint: "Plaza de Espana Seville sunny day",
             {
                   "name": "Acuario de Zaragoza",
                   "text": "Európa egyik legnagyobb folyami akváriuma, amely a világ öt nagy folyójának élőhelyeit mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.898617,
                         41.669171
@@ -2983,7 +2983,7 @@ imageHint: "Plaza de Espana Seville sunny day",
             {
                   "name": "Acuario de Zaragoza",
                   "text": "Unul dintre cele mai mari acvarii fluviale din Europa, care recreează habitate din cinci dintre cele mai mari fluvii ale lumii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.898617,
                         41.669171
@@ -3534,7 +3534,7 @@ imageHint: "Plaza de Espana Seville sunny day",
             {
                   "name": "Acuario de Zaragoza",
                   "text": "One of the largest river aquariums in Europe, recreating habitats from five of the world's major rivers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.898617,
                         41.669171
@@ -8383,7 +8383,7 @@ imageHint: "Murcia Cathedral facade sunny day",
             {
                   "name": "Acuario Poema del Mar",
                   "text": "Ein modernes Großaquarium, das beeindruckende marine Ökosysteme und seltene Meeresbewohner präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -8565,7 +8565,7 @@ imageHint: "Murcia Cathedral facade sunny day",
             {
                   "name": "Acuario Poema del Mar",
                   "text": "Modern látványakvárium, amely lenyűgöző tengeri ökoszisztémákat és ritka vízi élőlényeket mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -8747,7 +8747,7 @@ imageHint: "Murcia Cathedral facade sunny day",
             {
                   "name": "Acuario Poema del Mar",
                   "text": "Un acvariu modern de mari dimensiuni care prezintă ecosisteme marine și creaturi acvatice rare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -8929,7 +8929,7 @@ imageHint: "Murcia Cathedral facade sunny day",
             {
                   "name": "Acuario Poema del Mar",
                   "text": "A modern, large-scale aquarium showcasing impressive marine ecosystems and rare aquatic creatures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -10455,7 +10455,7 @@ imageHint: "Guggenheim Museum Bilbao titanium panels",
             {
                   "name": "El mundo de los niños",
                   "text": "Ein Freizeitpark für Kinder in der Nähe des Hafens von Alicante mit verschiedenen Fahrgeschäften und Spielbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.486019,
                         38.34139
@@ -10646,7 +10646,7 @@ imageHint: "Guggenheim Museum Bilbao titanium panels",
             {
                   "name": "El mundo de los niños",
                   "text": "Gyermekeknek szóló vidámpark Alicante kikötőjének közelében, különféle játékokkal és szórakozási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.486019,
                         38.34139
@@ -10837,7 +10837,7 @@ imageHint: "Guggenheim Museum Bilbao titanium panels",
             {
                   "name": "El mundo de los niños",
                   "text": "Un parc de distracții pentru copii situat lângă portul din Alicante, oferind diverse atracții și zone de joacă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.486019,
                         38.34139
@@ -11028,7 +11028,7 @@ imageHint: "Guggenheim Museum Bilbao titanium panels",
             {
                   "name": "El mundo de los niños",
                   "text": "A theme park for children located near the port of Alicante, featuring various rides and play areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.486019,
                         38.34139
@@ -15105,7 +15105,7 @@ imageHint: "Vitoria Gasteiz old town aerial",
             {
                   "name": "Aquarium Finisterrae - Fischhaus",
                   "text": "Ein öffentliches Aquarium am Atlantik, das sich der Erforschung und Vermittlung der galicischen Meereswelt widmet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.409888,
                         43.383851
@@ -15548,7 +15548,7 @@ imageHint: "Vitoria Gasteiz old town aerial",
             {
                   "name": "Aquarium Finisterrae - Casa dos Peixes",
                   "text": "Nyilvános akvárium az Atlanti-óceán partján, amely Galícia tengeri élővilágát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.409888,
                         43.383851
@@ -15991,7 +15991,7 @@ imageHint: "Vitoria Gasteiz old town aerial",
             {
                   "name": "Aquarium Finisterrae - Casa dos Peixes",
                   "text": "Un acvariu public pe malul Atlanticului, dedicat biodiversității marine și ecosistemelor din Galiția.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.409888,
                         43.383851
@@ -16434,7 +16434,7 @@ imageHint: "Vitoria Gasteiz old town aerial",
             {
                   "name": "Aquarium Finisterrae - Fish House",
                   "text": "A public aquarium on the Atlantic coast dedicated to the marine biodiversity of Galicia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.409888,
                         43.383851
@@ -16897,7 +16897,7 @@ imageHint: "Tower of Hercules A Coruna lighthouse",
             {
                   "name": "Multiaventura Elche",
                   "text": "Ein Abenteuerpark in Elche mit Seilrutschen und verschiedenen Outdoor-Aktivitäten für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.668602,
                         38.263619
@@ -17043,7 +17043,7 @@ imageHint: "Tower of Hercules A Coruna lighthouse",
             {
                   "name": "Multiaventura Elche",
                   "text": "Kalandpark Elche városában kötélpályákkal és szabadtéri tevékenységekkel családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.668602,
                         38.263619
@@ -17189,7 +17189,7 @@ imageHint: "Tower of Hercules A Coruna lighthouse",
             {
                   "name": "Multiaventura Elche",
                   "text": "Parc de aventură în Elche, cu tiroliene și diverse activități în aer liber pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.668602,
                         38.263619
@@ -17335,7 +17335,7 @@ imageHint: "Tower of Hercules A Coruna lighthouse",
             {
                   "name": "Multiaventura Elche",
                   "text": "An adventure park in Elche featuring zip lines and various outdoor activities for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.668602,
                         38.263619
@@ -17492,7 +17492,7 @@ imageHint: "Palm grove of Elche aerial view",
             {
                   "name": "Parc el Llac de Vallparadís",
                   "text": "Diese Freizeitanlage im Vallparadís-Park verfügt über ein großes Schwimmbecken für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.020094,
                         41.558658
@@ -17611,7 +17611,7 @@ imageHint: "Palm grove of Elche aerial view",
             {
                   "name": "Parc el Llac de Vallparadís",
                   "text": "Ez a Vallparadís parkban található szabadidős központ egy nagy úszómedencével várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.020094,
                         41.558658
@@ -17730,7 +17730,7 @@ imageHint: "Palm grove of Elche aerial view",
             {
                   "name": "Parc el Llac de Vallparadís",
                   "text": "Această zonă de agrement din parcul Vallparadís include o piscină mare pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.020094,
                         41.558658
@@ -17849,7 +17849,7 @@ imageHint: "Palm grove of Elche aerial view",
             {
                   "name": "Parc el Llac de Vallparadís",
                   "text": "This recreational area within Vallparadís Park features a large swimming pool for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.020094,
                         41.558658
@@ -19087,7 +19087,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Piscinas Municipales de San Lázaro",
                   "text": "Ein städtischer Sportkomplex mit Schwimmbecken und Freizeiteinrichtungen für die Bewohner von Oviedo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.848368,
                         43.351968
@@ -19150,7 +19150,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Núcleo Zoológico el Bosque",
                   "text": "Ein privater Zoo und Schutzzentrum für Tiere, das sich der Arterhaltung widmet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.813181,
                         43.351648
@@ -19278,7 +19278,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Piscinas Municipales de San Lázaro",
                   "text": "Városi sportkomplexum úszómedencékkel és szabadidős létesítményekkel Oviedo lakói számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.848368,
                         43.351968
@@ -19341,7 +19341,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Núcleo Zoológico el Bosque",
                   "text": "Oviedo közeli kisebb állatkert és állatmentő központ, amely fajmegőrzéssel foglalkozik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.813181,
                         43.351648
@@ -19469,7 +19469,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Piscinas Municipales de San Lázaro",
                   "text": "Un complex sportiv municipal cu piscine și facilități de recreere pentru locuitorii din Oviedo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.848368,
                         43.351968
@@ -19532,7 +19532,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Núcleo Zoológico el Bosque",
                   "text": "O mică grădină zoologică privată și centru de recuperare a animalelor de lângă Oviedo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.813181,
                         43.351648
@@ -19660,7 +19660,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Piscinas Municipales de San Lázaro",
                   "text": "A municipal sports complex featuring swimming pools and recreational facilities for the residents of Oviedo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.848368,
                         43.351968
@@ -19723,7 +19723,7 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
             {
                   "name": "Núcleo Zoológico el Bosque",
                   "text": "A private zoo and animal rescue center located on the outskirts of Oviedo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.813181,
                         43.351648
@@ -19934,7 +19934,7 @@ imageHint: "Oviedo Cathedral facade sunny day",
             {
                   "name": "la Bassa de Sant Oleguer",
                   "text": "Ein großer öffentlicher Wasserpark und Freibadkomplex in Sabadell.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.125821,
                         41.537237
@@ -20080,7 +20080,7 @@ imageHint: "Oviedo Cathedral facade sunny day",
             {
                   "name": "la Bassa de Sant Oleguer",
                   "text": "Sabadell nagy nyilvános víziparkja és strandkomplexuma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.125821,
                         41.537237
@@ -20226,7 +20226,7 @@ imageHint: "Oviedo Cathedral facade sunny day",
             {
                   "name": "la Bassa de Sant Oleguer",
                   "text": "Un mare parc acvatic public și complex de agrement în Sabadell.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.125821,
                         41.537237
@@ -20372,7 +20372,7 @@ imageHint: "Oviedo Cathedral facade sunny day",
             {
                   "name": "la Bassa de Sant Oleguer",
                   "text": "A large public water park and swimming pool complex in Sabadell.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         2.125821,
                         41.537237
@@ -20493,7 +20493,7 @@ imageHint: "Torre de l'Aigua Sabadell at night",
             {
                   "name": "Zoobotánico Jerez",
                   "text": "Der 1953 gegründete Zoo beherbergt eine bedeutende Sammlung iberischer Fauna und einen botanischen Garten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.149971,
                         36.689895
@@ -20684,7 +20684,7 @@ imageHint: "Torre de l'Aigua Sabadell at night",
             {
                   "name": "Zoobotánico Jerez",
                   "text": "Az 1953-ban alapított állatkert az ibériai élővilág gazdag gyűjteményének és egy botanikus kertnek ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.149971,
                         36.689895
@@ -20875,7 +20875,7 @@ imageHint: "Torre de l'Aigua Sabadell at night",
             {
                   "name": "Zoobotánico Jerez",
                   "text": "Fondată în 1953, această grădină zoobotanică găzduiește o colecție importantă de faună iberică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.149971,
                         36.689895
@@ -21066,7 +21066,7 @@ imageHint: "Torre de l'Aigua Sabadell at night",
             {
                   "name": "Zoobotánico Jerez",
                   "text": "Founded in 1953, this zoo and botanical garden houses an important collection of Iberian fauna.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.149971,
                         36.689895
@@ -21331,7 +21331,7 @@ imageHint: "Sherry barrels in Jerez bodega",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "Eine moderne Indoor-Surfanlage in Móstoles mit einer künstlichen stehenden Welle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -21396,7 +21396,7 @@ imageHint: "Sherry barrels in Jerez bodega",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "Modern fedett szörfközpont Móstolesben, mesterséges állóhullámmal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -21461,7 +21461,7 @@ imageHint: "Sherry barrels in Jerez bodega",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "O facilitate modernă de surf indoor în Móstoles, cu un val artificial staționar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -21526,7 +21526,7 @@ imageHint: "Sherry barrels in Jerez bodega",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "A modern indoor surfing facility in Móstoles featuring an artificial standing wave.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -22431,7 +22431,7 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
             {
                   "name": "Taconera",
                   "text": "Der älteste Park in Pamplona mit Gärten und einem kleinen Zoo in den Gräben der Festung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.652556,
                         42.816949
@@ -22595,7 +22595,7 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
             {
                   "name": "Taconera",
                   "text": "Pamplona legrégebbi parkja kertekkel és egy kis állatkerttel az erőd vizesárkaiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.652556,
                         42.816949
@@ -22759,7 +22759,7 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
             {
                   "name": "Taconera",
                   "text": "Cel mai vechi parc din Pamplona, cu grădini și o mică grădină zoologică în șanțurile cetății.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.652556,
                         42.816949
@@ -22923,7 +22923,7 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
             {
                   "name": "Taconera",
                   "text": "The oldest park in Pamplona, featuring gardens and a small zoo located in the moats of the fortress.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.652556,
                         42.816949
@@ -25251,7 +25251,7 @@ imageHint: "University of Alcala de Henares facade",
             {
                   "name": "Parque de Aventuras Trepo Park",
                   "text": "Ein Outdoor-Abenteuerpark in Fuenlabrada mit verschiedenen Kletterparcours und Seilrutschen für Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.77249,
                         40.299134
@@ -25307,7 +25307,7 @@ imageHint: "University of Alcala de Henares facade",
             {
                   "name": "Parque de Aventuras Trepo Park",
                   "text": "Szabadtéri kalandpark Fuenlabradában, amely mászópályákkal és kötélpályákkal várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.77249,
                         40.299134
@@ -25363,7 +25363,7 @@ imageHint: "University of Alcala de Henares facade",
             {
                   "name": "Parque de Aventuras Trepo Park",
                   "text": "Un parc de aventură în aer liber din Fuenlabrada, oferind trasee de cățărare și tiroliene pentru activități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.77249,
                         40.299134
@@ -25419,7 +25419,7 @@ imageHint: "University of Alcala de Henares facade",
             {
                   "name": "Parque de Aventuras Trepo Park",
                   "text": "An outdoor adventure park in Fuenlabrada featuring various climbing circuits and zip lines for recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.77249,
                         40.299134
@@ -29110,7 +29110,7 @@ imageHint: "Palacio de la Magdalena Santander aerial",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "Ein Indoor-Sportzentrum in Alcorcón mit künstlichen Wellen zum Surfen in der Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -29202,7 +29202,7 @@ imageHint: "Palacio de la Magdalena Santander aerial",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "Beltéri sportközpont Alcorcónban, ahol mesterséges hullámokon lehet szörfözni.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -29294,7 +29294,7 @@ imageHint: "Palacio de la Magdalena Santander aerial",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "Un centru sportiv indoor din Alcorcón cu valuri artificiale pentru surfing în oraș.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -29386,7 +29386,7 @@ imageHint: "Palacio de la Magdalena Santander aerial",
             {
                   "name": "Honna Surf Hub - Citywave Madrid",
                   "text": "An indoor sports center in Alcorcón featuring artificial waves for city surfing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.848376,
                         40.338466
@@ -31410,7 +31410,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de Venus",
                   "text": "Ein familienfreundlicher Wasserpark an der Küste von Marbella mit verschiedenen Becken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88321,
                         36.506327
@@ -31419,7 +31419,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de la Bajadilla",
                   "text": "Wasserpark in der Nähe des Hafens von Marbella mit Attraktionen für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.878745,
                         36.507133
@@ -31428,7 +31428,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa del Faro",
                   "text": "Ein zentral gelegener Wasserpark in Marbella, ideal für Wasserspaß und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.892065,
                         36.506364
@@ -31437,7 +31437,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Pirate's park",
                   "text": "Ein thematisch gestalteter Abenteuerpark in Marbella mit Spielbereichen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88623,
                         36.507245
@@ -31511,7 +31511,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de Venus",
                   "text": "Családbarát vízipark Marbella tengerpartján, különféle medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88321,
                         36.506327
@@ -31520,7 +31520,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de la Bajadilla",
                   "text": "Vízipark Marbella kikötőjének közelében, attrakciókkal minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.878745,
                         36.507133
@@ -31529,7 +31529,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa del Faro",
                   "text": "Központi fekvésű vízipark Marbellán, ideális vízi szórakozáshoz és pihenéshez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.892065,
                         36.506364
@@ -31538,7 +31538,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Pirate's park",
                   "text": "Tematikus kalandpark Marbellán, gyermekeknek kialakított játszóterekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88623,
                         36.507245
@@ -31612,7 +31612,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de Venus",
                   "text": "Un parc acvatic pentru familii situat pe coasta din Marbella, cu diverse bazine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88321,
                         36.506327
@@ -31621,7 +31621,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de la Bajadilla",
                   "text": "Parc acvatic lângă portul din Marbella, cu atracții pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.878745,
                         36.507133
@@ -31630,7 +31630,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa del Faro",
                   "text": "Un parc acvatic situat central în Marbella, ideal pentru distracție și relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.892065,
                         36.506364
@@ -31639,7 +31639,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Pirate's park",
                   "text": "Un parc de aventură tematic în Marbella cu zone de joacă pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88623,
                         36.507245
@@ -31713,7 +31713,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de Venus",
                   "text": "A family-friendly water park on the coast of Marbella featuring various pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88321,
                         36.506327
@@ -31722,7 +31722,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa de la Bajadilla",
                   "text": "Water park near the port of Marbella with attractions for all age groups.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.878745,
                         36.507133
@@ -31731,7 +31731,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Playa del Faro",
                   "text": "A centrally located water park in Marbella, ideal for water fun and relaxation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.892065,
                         36.506364
@@ -31740,7 +31740,7 @@ imageHint: "Monument to the Discovery Huelva sunset",
             {
                   "name": "Pirate's park",
                   "text": "A themed adventure park in Marbella featuring play areas for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.88623,
                         36.507245
@@ -32618,7 +32618,7 @@ imageHint: "Seu Vella Lleida cathedral on hill",
             {
                   "name": "Granja Parque del Alquería",
                   "text": "Ein öffentlicher Park in Dos Hermanas mit Grünflächen und Bereichen für Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.919694,
                         37.287403
@@ -32665,7 +32665,7 @@ imageHint: "Seu Vella Lleida cathedral on hill",
             {
                   "name": "Granja Parque del Alquería",
                   "text": "Nyilvános park Dos Hermanasban, amely zöldfelületeket és szabadidős területeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.919694,
                         37.287403
@@ -32712,7 +32712,7 @@ imageHint: "Seu Vella Lleida cathedral on hill",
             {
                   "name": "Granja Parque del Alquería",
                   "text": "Un parc public din Dos Hermanas cu spații verzi și zone pentru activități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.919694,
                         37.287403
@@ -32759,7 +32759,7 @@ imageHint: "Seu Vella Lleida cathedral on hill",
             {
                   "name": "Granja Parque del Alquería",
                   "text": "A public park in Dos Hermanas featuring green spaces and areas for recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.919694,
                         37.287403
@@ -32853,7 +32853,7 @@ imageHint: "Dos Hermanas city town hall facade",
             {
                   "name": "Diversión en la Granja",
                   "text": "Ein familienfreundlicher Freizeitpark in Torrejón mit Attraktionen rund um das Thema Bauernhof.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.457401,
                         40.442267
@@ -32918,7 +32918,7 @@ imageHint: "Dos Hermanas city town hall facade",
             {
                   "name": "Diversión en la Granja",
                   "text": "Családbarát vidámpark Torrejónban, amelynek fő témája a tanyasi élet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.457401,
                         40.442267
@@ -32983,7 +32983,7 @@ imageHint: "Dos Hermanas city town hall facade",
             {
                   "name": "Diversión en la Granja",
                   "text": "Un parc de distracții pentru familii din Torrejón, cu atracții axate pe tema fermei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.457401,
                         40.442267
@@ -33048,7 +33048,7 @@ imageHint: "Dos Hermanas city town hall facade",
             {
                   "name": "Diversión en la Granja",
                   "text": "A family-friendly theme park in Torrejón featuring farm-themed attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.457401,
                         40.442267
@@ -34260,7 +34260,7 @@ imageHint: "Nau Gaudi building Mataro architecture",
             {
                   "name": "Parque Acuático Bahía Park",
                   "text": "Großer Wasserpark mit verschiedenen Rutschen und Themenbereichen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.460471,
                         36.133807
@@ -34397,7 +34397,7 @@ imageHint: "Nau Gaudi building Mataro architecture",
             {
                   "name": "Parque Acuático Bahía Park",
                   "text": "Nagy vízi vidámpark különféle csúszdákkal és tematikus részlegekkel családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.460471,
                         36.133807
@@ -34534,7 +34534,7 @@ imageHint: "Nau Gaudi building Mataro architecture",
             {
                   "name": "Parque Acuático Bahía Park",
                   "text": "Parc acvatic mare, dotat cu diverse tobogane și zone tematice pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.460471,
                         36.133807
@@ -34671,7 +34671,7 @@ imageHint: "Nau Gaudi building Mataro architecture",
             {
                   "name": "Parque Acuático Bahía Park",
                   "text": "Large water park with various slides and themed areas for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.460471,
                         36.133807
@@ -37090,7 +37090,7 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
             {
                   "name": "La mascota i el jardí",
                   "text": "Ein kleiner Zoo und Garten in Reus, der sich auf Haustiere und Natur konzentriert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.080723,
                         41.144012
@@ -37173,7 +37173,7 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
             {
                   "name": "La mascota i el jardí",
                   "text": "Egy kis állatkert és kert Reusban, amely háziállatokkal és természettel várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.080723,
                         41.144012
@@ -37256,7 +37256,7 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
             {
                   "name": "La mascota i el jardí",
                   "text": "O mică grădină zoologică și grădină în Reus, axată pe animale de companie și natură.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.080723,
                         41.144012
@@ -37339,7 +37339,7 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
             {
                   "name": "La mascota i el jardí",
                   "text": "A small local zoo and garden in Reus focusing on pets and nature.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         1.080723,
                         41.144012
@@ -42488,7 +42488,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parque Illa das Esculturas",
                   "text": "Ein Kunstpark auf einer Insel im Fluss Lérez, der zeitgenössische Skulpturen im Freien zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.634521,
                         42.440225
@@ -42715,7 +42715,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parque Illa das Esculturas",
                   "text": "Művészeti park a Lérez-folyó szigetén, ahol kortárs szabadtéri szobrok láthatók.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.634521,
                         42.440225
@@ -42942,7 +42942,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parque Illa das Esculturas",
                   "text": "Un parc de artă pe o insulă din râul Lérez, care expune sculpturi contemporane în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.634521,
                         42.440225
@@ -43169,7 +43169,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Island of Sculptures",
                   "text": "An art park on an island in the Lérez River featuring contemporary outdoor sculptures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.634521,
                         42.440225
@@ -43955,7 +43955,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Playa Park",
                   "text": "Ein beliebter Wasserpark in Ciudad Real mit verschiedenen Rutschen und Schwimmbecken für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.914944,
                         38.991173
@@ -44029,7 +44029,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Playa Park",
                   "text": "Népszerű vízi park Ciudad Realban, amely különféle csúszdákkal és medencékkel várja a családokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.914944,
                         38.991173
@@ -44103,7 +44103,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Playa Park",
                   "text": "Un parc acvatic popular din Ciudad Real, cu diverse tobogane și piscine pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.914944,
                         38.991173
@@ -44177,7 +44177,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Playa Park",
                   "text": "A popular water park in Ciudad Real featuring various slides and swimming pools for the family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.914944,
                         38.991173
@@ -46484,7 +46484,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aqualandia",
                   "text": "Großer Wasserpark in Benidorm mit einer Vielzahl von Rutschen und Wellenbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.093643,
                         38.540825
@@ -46511,7 +46511,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Capsula d'Alegria",
                   "text": "Kleiner Freizeitpark in Benidorm mit verschiedenen Fahrgeschäften und Attraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.117501,
                         38.53888
@@ -46538,7 +46538,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Festilandia",
                   "text": "Beliebter Vergnügungspark für Familien mit zahlreichen Fahrgeschäften im Zentrum von Benidorm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.121606,
                         38.536547
@@ -46603,7 +46603,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aqualandia",
                   "text": "Hatalmas vízipark Benidormban, számos csúszdával és hullámmedencével.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.093643,
                         38.540825
@@ -46630,7 +46630,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Capsula d'Alegria",
                   "text": "Kisebb vidámpark Benidormban, különféle játékokkal és attrakciókkal gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.117501,
                         38.53888
@@ -46657,7 +46657,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Festilandia",
                   "text": "Népszerű családi vidámpark számos játékkal Benidorm központjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.121606,
                         38.536547
@@ -46722,7 +46722,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aqualandia",
                   "text": "Parc acvatic mare în Benidorm, oferind o varietate de tobogane și piscine cu valuri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.093643,
                         38.540825
@@ -46749,7 +46749,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Capsula d'Alegria",
                   "text": "Mic parc de distracții în Benidorm, cu diverse jocuri și atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.117501,
                         38.53888
@@ -46776,7 +46776,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Festilandia",
                   "text": "Parc de distracții popular pentru familii, cu numeroase atracții în centrul orașului Benidorm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.121606,
                         38.536547
@@ -46841,7 +46841,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aqualandia",
                   "text": "Large water park in Benidorm featuring a variety of slides and wave pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.093643,
                         38.540825
@@ -46868,7 +46868,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Capsula d'Alegria",
                   "text": "Small amusement park in Benidorm with various rides and attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.117501,
                         38.53888
@@ -46895,7 +46895,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Festilandia",
                   "text": "Popular family amusement park with numerous rides located in the center of Benidorm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.121606,
                         38.536547
@@ -48572,7 +48572,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquarium Costa de Almería",
                   "text": "Ein großes Aquarium in Roquetas de Mar, das die vielfältige Meereswelt des Mittelmeers präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.604341,
                         36.781934
@@ -48581,7 +48581,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Mario Park",
                   "text": "Ein beliebter Wasserpark in Roquetas mit zahlreichen Rutschen und Pools für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.603652,
                         36.783234
@@ -48673,7 +48673,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquarium Costa de Almería",
                   "text": "Roquetas de Mar nagy akváriuma, amely a Földközi-tenger gazdag élővilágát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.604341,
                         36.781934
@@ -48682,7 +48682,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Mario Park",
                   "text": "Népszerű vízipark Roquetasban, számos csúszdával és medencével az egész család számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.603652,
                         36.783234
@@ -48774,7 +48774,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquarium Costa de Almería",
                   "text": "Un acvariu de mari dimensiuni din Roquetas de Mar, care prezintă fauna marină diversă a Mediteranei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.604341,
                         36.781934
@@ -48783,7 +48783,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Mario Park",
                   "text": "Un parc acvatic popular din Roquetas, cu numeroase tobogane și piscine pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.603652,
                         36.783234
@@ -48875,7 +48875,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquarium Costa de Almería",
                   "text": "A large aquarium in Roquetas de Mar showcasing the diverse marine life of the Mediterranean.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.604341,
                         36.781934
@@ -48884,7 +48884,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Mario Park",
                   "text": "A popular water park in Roquetas featuring numerous slides and pools for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.603652,
                         36.783234
@@ -48977,7 +48977,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Bioparc Fuengirola",
                   "text": "Zoo mit Fokus auf tropische Tierarten in naturnah gestalteten Gehegen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.628575,
                         36.536962
@@ -49013,7 +49013,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "CostaWaterPark",
                   "text": "Ein schwimmender Wasserpark im Meer vor der Küste, der verschiedene aufblasbare Hindernisparcours für Besucher bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.623346,
                         36.533017
@@ -49022,7 +49022,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Snakeroom Serpentarium",
                   "text": "Ein spezialisiertes Reptilienhaus in Fuengirola, das eine Vielzahl von Schlangenarten und anderen Reptilien zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.622194,
                         36.538388
@@ -49040,7 +49040,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquamijas",
                   "text": "Ein beliebter Wasserpark mit zahlreichen Rutschen, verschiedenen Becken und Spielbereichen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.63334,
                         36.538144
@@ -49103,7 +49103,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Sould Park",
                   "text": "Ein kleiner Freizeitpark im Stadtzentrum von Fuengirola mit verschiedenen Fahrgeschäften für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.618041,
                         36.543388
@@ -49150,7 +49150,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Bioparc Fuengirola",
                   "text": "Fuengirola állatkertje, amely a trópusi fajok bemutatására és védelmére összpontosít.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.628575,
                         36.536962
@@ -49186,7 +49186,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "CostaWaterPark",
                   "text": "A tengeren lebegő vízi vidámpark, amely különféle felfújható akadálypályákat kínál a fürdőzőknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.623346,
                         36.533017
@@ -49195,7 +49195,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Snakeroom Serpentarium",
                   "text": "Fuengirolai hüllőház, amely számos kígyófajt és egyéb hüllőt mutat be a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.622194,
                         36.538388
@@ -49213,7 +49213,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquamijas",
                   "text": "Népszerű vízi vidámpark számos csúszdával, különféle medencékkel és családi játszóterekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.63334,
                         36.538144
@@ -49276,7 +49276,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Sould Park",
                   "text": "Kisebb vidámpark Fuengirola központjában, amely különféle játékokat kínál a gyermekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.618041,
                         36.543388
@@ -49323,7 +49323,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Bioparc Fuengirola",
                   "text": "Grădină zoologică specializată în conservarea speciilor tropicale, cu habitate naturale imersive.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.628575,
                         36.536962
@@ -49359,7 +49359,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "CostaWaterPark",
                   "text": "Un parc acvatic plutitor amplasat în mare, care oferă diverse trasee cu obstacole gonflabile pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.623346,
                         36.533017
@@ -49368,7 +49368,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Snakeroom Serpentarium",
                   "text": "Un serpentarium specializat din Fuengirola, care expune o varietate de specii de șerpi și alte reptile.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.622194,
                         36.538388
@@ -49386,7 +49386,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquamijas",
                   "text": "Un parc acvatic popular, dotat cu numeroase tobogane, diverse piscine și zone de joacă pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.63334,
                         36.538144
@@ -49449,7 +49449,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Sould Park",
                   "text": "Un mic parc de distracții în centrul orașului Fuengirola, cu diverse atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.618041,
                         36.543388
@@ -49496,7 +49496,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Bioparc Fuengirola",
                   "text": "Zoo focusing on the conservation of tropical species within carefully recreated natural habitats.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.628575,
                         36.536962
@@ -49532,7 +49532,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "CostaWaterPark",
                   "text": "A floating water park in the sea near the shore, offering various inflatable obstacle courses for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.623346,
                         36.533017
@@ -49541,7 +49541,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Snakeroom Serpentarium",
                   "text": "A specialized reptile house in Fuengirola showcasing a variety of snake species and other reptiles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.622194,
                         36.538388
@@ -49559,7 +49559,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Aquamijas",
                   "text": "A popular water park featuring numerous slides, various pools, and play areas for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.63334,
                         36.538144
@@ -49622,7 +49622,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Sould Park",
                   "text": "A small amusement park in the center of Fuengirola featuring various rides for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.618041,
                         36.543388
@@ -51759,7 +51759,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parques Acuáticos Denia",
                   "text": "Ein Freizeitpark in Dénia mit verschiedenen Wasserattraktionen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.104455,
                         38.849245
@@ -51833,7 +51833,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parques Acuáticos Denia",
                   "text": "Szórakoztató park Déniában, amely különféle vízi élményeket kínál a családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.104455,
                         38.849245
@@ -51907,7 +51907,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parques Acuáticos Denia",
                   "text": "Un parc de distracții în Dénia cu diverse atracții acvatice pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.104455,
                         38.849245
@@ -51981,7 +51981,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Parques Acuáticos Denia",
                   "text": "An amusement park in Dénia featuring various water attractions for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         0.104455,
                         38.849245
@@ -54000,7 +54000,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Chiquilandia",
                   "text": "Ein Freizeitpark und Spielbereich für Kinder im Stadtzentrum von Jaca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.554737,
                         42.566659
@@ -54047,7 +54047,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Chiquilandia",
                   "text": "Gyermekeknek szóló szabadidős park és játszótér Jaca városközpontjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.554737,
                         42.566659
@@ -54094,7 +54094,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Chiquilandia",
                   "text": "Un parc de distracții și loc de joacă pentru copii în centrul orașului Jaca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.554737,
                         42.566659
@@ -54141,7 +54141,7 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
             {
                   "name": "Chiquilandia",
                   "text": "A leisure park and playground for children located in the city center of Jaca.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.554737,
                         42.566659

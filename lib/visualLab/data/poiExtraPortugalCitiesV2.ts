@@ -6552,7 +6552,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Adventure Park Pinhal da Paiã",
                   "text": "Ein Outdoor-Themenpark, der verschiedene Abenteueraktivitäten anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.20787,
                         38.776318
@@ -6797,7 +6797,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Adventure Park Pinhal da Paiã",
                   "text": "Szabadtéri élménypark, amely kalandprogramokat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.20787,
                         38.776318
@@ -7042,7 +7042,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Adventure Park Pinhal da Paiã",
                   "text": "Un parc de distracții în aer liber care oferă activități de aventură.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.20787,
                         38.776318
@@ -7287,7 +7287,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Adventure Park Pinhal da Paiã",
                   "text": "An outdoor theme park offering adventure activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.20787,
                         38.776318
@@ -12492,7 +12492,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Azurara Parque Aventura",
                   "text": "Ein Outdoor-Abenteuer- und Themenpark in Vila do Conde.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.733775,
                         41.348923
@@ -12773,7 +12773,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Azurara Parque Aventura",
                   "text": "Szabadtéri kaland- és vidámpark Vila do Condében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.733775,
                         41.348923
@@ -13054,7 +13054,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Azurara Parque Aventura",
                   "text": "Un parc de aventură în aer liber și parc tematic situat în Vila do Conde.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.733775,
                         41.348923
@@ -13335,7 +13335,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Azurara Parque Aventura",
                   "text": "An outdoor adventure and theme park located in Vila do Conde.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.733775,
                         41.348923
@@ -15399,7 +15399,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Expolima",
                   "text": "Ein Veranstaltungszentrum in Ponte de Lima, das für Messen, Ausstellungen und Freizeitaktivitäten genutzt wird.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.583412,
                         41.771727
@@ -15554,7 +15554,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Expolima",
                   "text": "Rendezvényközpont Ponte de Limában, amelyet vásárokra, kiállításokra és szabadidős tevékenységekre használnak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.583412,
                         41.771727
@@ -15709,7 +15709,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Expolima",
                   "text": "Un centru de evenimente în Ponte de Lima, utilizat pentru târguri, expoziții și activități de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.583412,
                         41.771727
@@ -15864,7 +15864,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Expolima",
                   "text": "An event center in Ponte de Lima used for fairs, exhibitions, and leisure activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.583412,
                         41.771727
@@ -16434,7 +16434,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Parque Aventura Albufeira",
                   "text": "Ein Abenteuerpark mit Outdoor-Aktivitäten wie Hochseilgärten in Albufeira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.21413,
                         37.091722
@@ -16634,7 +16634,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Parque Aventura Albufeira",
                   "text": "Kalandpark Albufeirában, amely szabadtéri tevékenységeket és kötélpályákat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.21413,
                         37.091722
@@ -16834,7 +16834,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Parque Aventura Albufeira",
                   "text": "Un parc de aventură din Albufeira, care oferă activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.21413,
                         37.091722
@@ -17034,7 +17034,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Parque Aventura Albufeira",
                   "text": "An adventure park in Albufeira offering outdoor activities like zip-lining.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.21413,
                         37.091722
@@ -17497,7 +17497,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Zoo da Maia",
                   "text": "Der Zoo von Maia ist ein beliebtes lokales Ziel, das eine Vielzahl von Tierarten beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.631663,
                         41.234286
@@ -17598,7 +17598,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Zoo da Maia",
                   "text": "A maiai állatkert egy népszerű helyi úti cél, amely számos állatfajt mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.631663,
                         41.234286
@@ -17699,7 +17699,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Zoo da Maia",
                   "text": "Grădina Zoologică din Maia este o destinație locală populară care adăpostește o varietate de specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.631663,
                         41.234286
@@ -17800,7 +17800,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Zoo da Maia",
                   "text": "The Maia Zoo is a popular local destination featuring a variety of animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.631663,
                         41.234286
@@ -18460,7 +18460,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Magikland",
                   "text": "Magikland ist ein beliebter Freizeit- und Themenpark für Familien in Penafiel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.280126,
                         41.199243
@@ -18570,7 +18570,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Magikland",
                   "text": "A Magikland egy népszerű családi szabadidő- és vidámpark Penafielben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.280126,
                         41.199243
@@ -18680,7 +18680,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Magikland",
                   "text": "Magikland este un parc de distracții și tematic popular pentru familii în Penafiel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.280126,
                         41.199243
@@ -18790,7 +18790,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Magikland",
                   "text": "Magikland is a popular family theme and amusement park located in Penafiel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.280126,
                         41.199243
@@ -19045,7 +19045,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Quinta do Amorinho",
                   "text": "Quinta do Amorinho ist eine Freizeitanlage und Ausflugsziel in der Nähe von Valença.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.637372,
                         42.015172
@@ -19245,7 +19245,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Quinta do Amorinho",
                   "text": "A Quinta do Amorinho egy szabadidős létesítmény és kedvelt kirándulóhely Valença közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.637372,
                         42.015172
@@ -19445,7 +19445,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Quinta do Amorinho",
                   "text": "Quinta do Amorinho este un loc de recreere și o destinație de vizită situată lângă Valença.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.637372,
                         42.015172
@@ -19645,7 +19645,7 @@ export const portugalCitiesV2: POI[] = [
             {
                   "name": "Quinta do Amorinho",
                   "text": "Quinta do Amorinho is a leisure facility and visitor destination located near Valença.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.637372,
                         42.015172

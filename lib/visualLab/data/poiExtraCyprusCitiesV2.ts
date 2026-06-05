@@ -418,6 +418,60 @@ export const cyprusCitiesV2: POI[] = [
                         33.355611,
                         35.150226
                   ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Ein See bei Strovolos, der eine ruhige Oase in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Ein kleiner See bei Strovolos, ideal für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Ein bekannter See bei Strovolos in einem beliebten Erholungsgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Ein Park in Strovolos mit Spielbereichen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "Ein Freizeitpark in Strovolos, der Unterhaltung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Ein schöner Spielplatz in Strovolos für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
             }
       ],
       "hu": [
@@ -833,6 +887,60 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.355611,
                         35.150226
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Tó Strovolos közelében, amely csendes oázist kínál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Kicsi tó Strovolos közelében, ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Ismert tó Strovolos közelében, egy népszerű üdülőövezetben.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Park Strovolos területén játszóhelyekkel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "Szórakoztató központ Strovolosban, amely játékos időtöltést kínál.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Kedves játszótér Strovolosban a gyerekek kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
                   ]
             }
       ],
@@ -1250,6 +1358,60 @@ export const cyprusCitiesV2: POI[] = [
                         33.355611,
                         35.150226
                   ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Un lac lângă Strovolos, care oferă o oază de liniște în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Un lac mic lângă Strovolos, ideal pentru scurte plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Un lac cunoscut lângă Strovolos, situat într-o zonă de recreere populară.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Un parc în Strovolos cu zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "Un parc de distracții în Strovolos, care oferă divertisment pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Un loc de joacă plăcut în Strovolos pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
             }
       ],
       "en": [
@@ -1666,6 +1828,60 @@ export const cyprusCitiesV2: POI[] = [
                         33.355611,
                         35.150226
                   ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "A lake near Strovolos providing a quiet oasis in the city.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Maglee Lake",
+                  "text": "A small lake near Strovolos, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Athalassa Lake",
+                  "text": "A well-known lake near Strovolos in a popular recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "A park in Strovolos with play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "An amusement park in Strovolos offering entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "A nice playground in Strovolos for children to enjoy and play.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
             }
       ]
 },
@@ -1713,7 +1929,232 @@ export const cyprusCitiesV2: POI[] = [
     image: "/poi-images/cyprus-strovolos-cities-v2.webp",
   },
   {
-    id: "cyprus-latsia-cities-v2",
+    id: "cyprus-latsia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "Der See Agios Georgios in Latsia bietet eine ruhige Atmosphäre für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Der Maglee Lake in Latsia ist ein See, der eine friedliche Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Der Athalassa Lake in Latsia ist ein beliebtes Ziel für Naturbeobachtungen und ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "Der PAPAFiLiPOU Luna Park Latsia ist eine Spielhalle mit verschiedenen Unterhaltungsangeboten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "Mall Kiddy Rides in Latsia bietet verschiedene Spielgeräte für Kinder in einer Einkaufsumgebung.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "PLAY3R5 in Latsia ist eine moderne Spielhalle, die Spaß und Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "A Latsia településen található Agios Georgios tó nyugodt légkört biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "A Latsia-i Maglee Lake egy tó, amely békés környezetet kínál a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "A Latsia-i Athalassa Lake kedvelt célpont a természet megfigyelésére és a csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "A PAPAFiLiPOU Luna Park Latsia egy szórakoztató központ különféle játékokkal a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "A Latsia-i Mall Kiddy Rides különféle játékokat kínál a gyerekeknek egy bevásárlóközpont környezetében.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "A Latsia-i PLAY3R5 egy modern szórakoztató központ, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "Lacul Agios Georgios din Latsia oferă o atmosferă liniștită pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Maglee Lake din Latsia este un lac ce oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Lacul Athalassa din Latsia este o destinație populară pentru observarea naturii și momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "PAPAFiLiPOU Luna Park Latsia este o sală de jocuri cu diverse oferte de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "Mall Kiddy Rides din Latsia oferă diverse echipamente de joacă pentru copii într-un cadru comercial.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "PLAY3R5 din Latsia este o sală de jocuri modernă care oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "The Agios Georgios lake in Latsia offers a calm atmosphere for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Maglee Lake",
+                  "text": "The Maglee Lake in Latsia is a lake offering a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Athalassa Lake",
+                  "text": "The Athalassa Lake in Latsia is a popular destination for nature observation and quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "The PAPAFiLiPOU Luna Park Latsia is an amusement arcade with various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "The Mall Kiddy Rides in Latsia offers various play equipment for children in a shopping environment.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "PLAY3R5 in Latsia is a modern amusement arcade offering fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Latsia", hu: "Látzia", ro: "Latsia", en: "Latsia" },
@@ -1795,6 +2236,51 @@ export const cyprusCitiesV2: POI[] = [
                         32.967389,
                         34.699486
                   ]
+            },
+            {
+                  "name": "Αλυκή Λεμεσού",
+                  "text": "Ein malerischer Salzsee bei Kato Polemidia, bekannt für seine natürliche Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Ein Stausee in Kato Polemidia, der eine friedliche Umgebung zum Spazierengehen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Akrotiri MAR site",
+                  "text": "Ein lokales Gewässer im Gebiet von Kato Polemidia mit natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        32.908988,
+                        34.652185
+                  ]
+            },
+            {
+                  "name": "Archimedes Science Amusement Centre",
+                  "text": "Ein familienfreundliches Zentrum in Kato Polemidia, das Raum zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        32.994929,
+                        34.678592
+                  ]
+            },
+            {
+                  "name": "Kilkis Park - playground",
+                  "text": "Ein Spielplatz in Kato Polemidia, auf dem Familien Zeit im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        33.009875,
+                        34.671532
+                  ]
             }
       ],
       "hu": [
@@ -1832,6 +2318,51 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         32.967389,
                         34.699486
+                  ]
+            },
+            {
+                  "name": "Αλυκή Λεμεσού",
+                  "text": "Festői sóstó Kato Polemidia közelében, amely természeti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Víztározó Kato Polemidia területén, amely nyugodt környezetet biztosít a sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Akrotiri MAR site",
+                  "text": "Helyi vízfelület Kato Polemidia környékén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        32.908988,
+                        34.652185
+                  ]
+            },
+            {
+                  "name": "Archimedes Science Amusement Centre",
+                  "text": "Családbarát központ Kato Polemidia területén, amely helyet biztosít a játéknak és a felfedezésnek.",
+                  "category": "family",
+                  "coords": [
+                        32.994929,
+                        34.678592
+                  ]
+            },
+            {
+                  "name": "Kilkis Park - playground",
+                  "text": "Játszótér Kato Polemidia területén, ahol a családok a szabadban tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        33.009875,
+                        34.671532
                   ]
             }
       ],
@@ -1871,6 +2402,51 @@ export const cyprusCitiesV2: POI[] = [
                         32.967389,
                         34.699486
                   ]
+            },
+            {
+                  "name": "Αλυκή Λεμεσού",
+                  "text": "Un lac sărat pitoresc lângă Kato Polemidia, cunoscut pentru peisajul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Un rezervor în Kato Polemidia care oferă un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Akrotiri MAR site",
+                  "text": "O întindere de apă locală în zona Kato Polemidia, cu împrejurimi naturale.",
+                  "category": "natural",
+                  "coords": [
+                        32.908988,
+                        34.652185
+                  ]
+            },
+            {
+                  "name": "Archimedes Science Amusement Centre",
+                  "text": "Un centru pentru familii în Kato Polemidia, care oferă spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        32.994929,
+                        34.678592
+                  ]
+            },
+            {
+                  "name": "Kilkis Park - playground",
+                  "text": "Un loc de joacă în Kato Polemidia unde familiile se pot bucura de timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        33.009875,
+                        34.671532
+                  ]
             }
       ],
       "en": [
@@ -1908,6 +2484,51 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         32.967389,
                         34.699486
+                  ]
+            },
+            {
+                  "name": "Limassol Salt Lake",
+                  "text": "A scenic salt lake near Kato Polemidia, known for its natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Polemidia Reservoir",
+                  "text": "A reservoir in Kato Polemidia offering a peaceful environment for walking.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Akrotiri MAR site",
+                  "text": "A local body of water in the Kato Polemidia area with natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        32.908988,
+                        34.652185
+                  ]
+            },
+            {
+                  "name": "Archimedes Science Amusement Centre",
+                  "text": "A family-friendly centre in Kato Polemidia providing space for play and exploration.",
+                  "category": "family",
+                  "coords": [
+                        32.994929,
+                        34.678592
+                  ]
+            },
+            {
+                  "name": "Kilkis Park - playground",
+                  "text": "A playground in Kato Polemidia where families can enjoy time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        33.009875,
+                        34.671532
                   ]
             }
       ]
@@ -1970,7 +2591,7 @@ export const cyprusCitiesV2: POI[] = [
             {
                   "name": "Limassol Zoo",
                   "text": "Ein kleiner Zoo im Stadtgarten von Limassol mit verschiedenen Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.055905,
                         34.683179
@@ -2245,6 +2866,51 @@ export const cyprusCitiesV2: POI[] = [
                         33.051856,
                         34.679467
                   ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Ein ruhiger Stausee in Mesa Geitonia, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Γερμασόγεια",
+                  "text": "Ein malerisches Gewässer in Mesa Geitonia mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        33.091114,
+                        34.753599
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "Ein schönes Gewässer in Mesa Geitonia, das zum Baden und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "Ein Ort für spannende Spiele und Unterhaltung in Mesa Geitonia.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "Ein lokaler Spielplatz in Mesa Geitonia für Spielspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
             }
       ],
       "hu": [
@@ -2260,7 +2926,7 @@ export const cyprusCitiesV2: POI[] = [
             {
                   "name": "Limassol Zoo",
                   "text": "Limassol városi kertjében található kis állatkert különféle állatfajokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.055905,
                         34.683179
@@ -2535,6 +3201,51 @@ export const cyprusCitiesV2: POI[] = [
                         33.051856,
                         34.679467
                   ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Nyugodt víztározó Mesa Geitoniában, ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Γερμασόγεια",
+                  "text": "Gleccser eredetű vagy festői vízfelület Mesa Geitoniában, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        33.091114,
+                        34.753599
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "Kellemes vízpart Mesa Geitoniában, amely fürdőzésre és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "Izgalmas játékok és szórakozás helyszíne Mesa Geitoniában.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "Helyi játszótér Mesa Geitoniában a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
             }
       ],
       "ro": [
@@ -2550,7 +3261,7 @@ export const cyprusCitiesV2: POI[] = [
             {
                   "name": "Limassol Zoo",
                   "text": "O mică grădină zoologică situată în grădinile municipale din Limassol, cu diverse specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.055905,
                         34.683179
@@ -2825,6 +3536,51 @@ export const cyprusCitiesV2: POI[] = [
                         33.051856,
                         34.679467
                   ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Un rezervuar liniștit în Mesa Geitonia, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Γερμασόγεια",
+                  "text": "O zonă cu apă pitorească în Mesa Geitonia, cu vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        33.091114,
+                        34.753599
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "O zonă cu apă plăcută în Mesa Geitonia, ideală pentru înot și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "Un loc pentru jocuri captivante și divertisment în Mesa Geitonia.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "Un loc de joacă local în Mesa Geitonia pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
             }
       ],
       "en": [
@@ -2840,7 +3596,7 @@ export const cyprusCitiesV2: POI[] = [
             {
                   "name": "Limassol Zoo",
                   "text": "A small zoo located in the municipal gardens of Limassol featuring various species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.055905,
                         34.683179
@@ -3115,6 +3871,51 @@ export const cyprusCitiesV2: POI[] = [
                         33.051856,
                         34.679467
                   ]
+            },
+            {
+                  "name": "Polemidia Reservoir",
+                  "text": "A calm reservoir in Mesa Geitonia, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Germasogeia",
+                  "text": "A scenic body of water in Mesa Geitonia with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        33.091114,
+                        34.753599
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "A pleasant waterside area in Mesa Geitonia, inviting for swimming and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "A venue for exciting games and entertainment in Mesa Geitonia.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "A local playground in Mesa Geitonia for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
             }
       ]
 },
@@ -3167,7 +3968,7 @@ export const cyprusCitiesV2: POI[] = [
             {
                   "name": "Μέλιος",
                   "text": "Ein Zoo in Agioi Trimithias, der verschiedene Tierarten in einer natürlichen Umgebung zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.242694,
                         35.124514
@@ -3181,13 +3982,22 @@ export const cyprusCitiesV2: POI[] = [
                         33.227908,
                         35.165124
                   ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Ein ruhiger See in Agioi Trimithias, ideal für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
             }
       ],
       "hu": [
             {
                   "name": "Μέλιος",
                   "text": "Állatkert Agioi Trimithiasban, amely különféle állatfajokat mutat be természetes környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.242694,
                         35.124514
@@ -3201,13 +4011,22 @@ export const cyprusCitiesV2: POI[] = [
                         33.227908,
                         35.165124
                   ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Nyugodt tó Agioi Trimithias területén, amely kellemes környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
             }
       ],
       "ro": [
             {
                   "name": "Μέλιος",
                   "text": "O grădină zoologică în Agioi Trimithias care prezintă diverse specii de animale într-un mediu natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.242694,
                         35.124514
@@ -3221,13 +4040,22 @@ export const cyprusCitiesV2: POI[] = [
                         33.227908,
                         35.165124
                   ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Un lac liniștit în Agioi Trimithias, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
             }
       ],
       "en": [
             {
                   "name": "Melios Zoo",
                   "text": "A zoo in Agioi Trimithias showing various animal species in a natural environment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.242694,
                         35.124514
@@ -3240,6 +4068,15 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.227908,
                         35.165124
+                  ]
+            },
+            {
+                  "name": "Maglee Lake",
+                  "text": "A peaceful lake in Agioi Trimithias, ideal for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
                   ]
             }
       ]

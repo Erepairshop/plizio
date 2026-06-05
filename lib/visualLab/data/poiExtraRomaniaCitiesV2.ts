@@ -3275,7 +3275,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Ein kleiner Tierpark für Besucher in Ovidiu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.582728,
                         44.250771
@@ -3315,7 +3315,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Egy kis állatkert a látogatók számára Ovidiuban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.582728,
                         44.250771
@@ -3355,7 +3355,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Un mic parc zoologic pentru vizitatori în Ovidiu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.582728,
                         44.250771
@@ -3395,7 +3395,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "A small zoo for visitors in Ovidiu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.582728,
                         44.250771
@@ -6401,7 +6401,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Fun Park",
                   "text": "Ein Freizeitpark in Bușteni mit verschiedenen Attraktionen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.523389,
                         45.41992
@@ -6419,7 +6419,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Acvariu extern",
                   "text": "Ein Aquarium in Bușteni, das verschiedene Fischarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.528029,
                         45.40681
@@ -6525,7 +6525,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Fun Park",
                   "text": "Szórakoztató park Bușteniben, különféle látványosságokkal családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.523389,
                         45.41992
@@ -6543,7 +6543,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Acvariu extern",
                   "text": "Bușteni akváriuma, amely különféle halfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.528029,
                         45.40681
@@ -6649,7 +6649,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Fun Park",
                   "text": "Un parc de distracții în Bușteni cu diverse atracții pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.523389,
                         45.41992
@@ -6667,7 +6667,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Acvariu extern",
                   "text": "Un acvariu în Bușteni care prezintă diverse specii de pești.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.528029,
                         45.40681
@@ -6773,7 +6773,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Fun Park",
                   "text": "An amusement park in Bușteni offering various attractions for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.523389,
                         45.41992
@@ -6791,7 +6791,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Acvariu extern",
                   "text": "An aquarium in Bușteni showcasing various fish species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.528029,
                         45.40681
@@ -9618,7 +9618,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Grădina Zoologică",
                   "text": "Ein Zoo in der Region Blejoi, der ein beliebtes Ausflugsziel ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.05545,
                         44.976708
@@ -9854,7 +9854,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Grădina Zoologică",
                   "text": "Népszerű állatkert Blejoi környékén a látogatók számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.05545,
                         44.976708
@@ -10090,7 +10090,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Grădina Zoologică",
                   "text": "O grădină zoologică în zona Blejoi, o destinație populară pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.05545,
                         44.976708
@@ -10326,7 +10326,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Zoological Garden",
                   "text": "A zoological garden in the Blejoi area, a popular destination for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.05545,
                         44.976708
@@ -14928,7 +14928,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Grădina Zoologică București",
                   "text": "Der Zoo von Bukarest in Tunari beherbergt eine Vielzahl heimischer und exotischer Tiere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.104408,
                         44.517083
@@ -14976,7 +14976,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Grădina Zoologică București",
                   "text": "A bukaresti állatkert Tunari területén számos őshonos és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.104408,
                         44.517083
@@ -15024,7 +15024,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Grădina Zoologică București",
                   "text": "Grădina Zoologică din București, situată în Tunari, găzduiește o varietate de specii indigene și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.104408,
                         44.517083
@@ -15072,7 +15072,7 @@ export const romaniaCitiesV2: POI[] = [
             {
                   "name": "Bucharest Zoo",
                   "text": "The Bucharest Zoo in Tunari is home to a variety of native and exotic animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.104408,
                         44.517083

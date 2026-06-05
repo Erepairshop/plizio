@@ -647,7 +647,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "Das Lagoonarium ist ein Meerwasseraquarium in Afareaitu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.780966,
                         -17.546206
@@ -721,7 +721,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "A Lagoonarium egy tengeri akvárium Afareaitu városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.780966,
                         -17.546206
@@ -795,7 +795,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "Lagoonarium este un acvariu marin situat în Afareaitu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.780966,
                         -17.546206
@@ -869,7 +869,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "The Lagoonarium is a marine aquarium located in Afareaitu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.780966,
                         -17.546206
@@ -4823,7 +4823,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Mo'orea Doplhin Center",
                   "text": "Moorea Dolphin Center ist ein Aquarium in Papetoai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.892923,
                         -17.489568
@@ -4888,7 +4888,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Mo'orea Doplhin Center",
                   "text": "A Moorea Dolphin Center egy akvárium Papetoai területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.892923,
                         -17.489568
@@ -4953,7 +4953,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Mo'orea Doplhin Center",
                   "text": "Moorea Dolphin Center este un acvariu situat în Papetoai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.892923,
                         -17.489568
@@ -5018,7 +5018,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Moorea Dolphin Center",
                   "text": "Moorea Dolphin Center is an aquarium located in Papetoai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -149.892923,
                         -17.489568
@@ -6353,7 +6353,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "Lagoonarium ist ein lokales Aquarium in Anau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -151.694934,
                         -16.486002
@@ -6427,7 +6427,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "A Lagoonarium egy akvárium Anau területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -151.694934,
                         -16.486002
@@ -6501,7 +6501,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "Lagoonarium este un acvariu din Anau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -151.694934,
                         -16.486002
@@ -6575,7 +6575,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             {
                   "name": "Lagoonarium",
                   "text": "Lagoonarium is an aquarium located in Anau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -151.694934,
                         -16.486002

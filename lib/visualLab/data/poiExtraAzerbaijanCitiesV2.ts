@@ -477,7 +477,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Fun World uşaq əyləncə",
                   "text": "Fun World in Sumqayıt ist ein lokaler Freizeitpark, der Unterhaltung bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.690527,
                         40.574528
@@ -513,7 +513,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq meydançası",
                   "text": "Uşaq meydançası ist ein Freizeitpark für Kinder in Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.681675,
                         40.598436
@@ -540,7 +540,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel",
                   "text": "Karusel ist eine Freizeitparkattraktion in Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.678636,
                         40.597605
@@ -558,7 +558,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Atraksionlar",
                   "text": "Atraksionlar ist ein Freizeitpark mit Fahrgeschäften und Unterhaltung in Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.685695,
                         40.592226
@@ -722,7 +722,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Fun World uşaq əyləncə",
                   "text": "A sumqayıti Fun World egy helyi vidámpark, amely szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.690527,
                         40.574528
@@ -758,7 +758,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq meydançası",
                   "text": "Az Uşaq meydançası egy gyermekek számára kialakított vidámpark Sumqayıtban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.681675,
                         40.598436
@@ -785,7 +785,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel",
                   "text": "A Karusel egy vidámparki látványosság Sumqayıtban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.678636,
                         40.597605
@@ -803,7 +803,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Atraksionlar",
                   "text": "Az Atraksionlar egy vidámpark Sumqayıtban, amely körhintákat és szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.685695,
                         40.592226
@@ -967,7 +967,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Fun World uşaq əyləncə",
                   "text": "Fun World din Sumqayıt este un parc tematic local care oferă divertisment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.690527,
                         40.574528
@@ -1003,7 +1003,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq meydançası",
                   "text": "Uşaq meydançası este un parc tematic destinat copiilor din Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.681675,
                         40.598436
@@ -1030,7 +1030,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel",
                   "text": "Karusel este o atracție de parc tematic situată în Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.678636,
                         40.597605
@@ -1048,7 +1048,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Atraksionlar",
                   "text": "Atraksionlar este un parc tematic care oferă curse și divertisment în Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.685695,
                         40.592226
@@ -1212,7 +1212,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Fun World \\ Sumqayıt",
                   "text": "Fun World in Sumqayıt is a local theme park offering entertainment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.690527,
                         40.574528
@@ -1248,7 +1248,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq meydançası",
                   "text": "Uşaq meydançası is a theme park designed for children in Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.681675,
                         40.598436
@@ -1275,7 +1275,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel",
                   "text": "Karusel is a theme park attraction located in Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.678636,
                         40.597605
@@ -1293,7 +1293,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Atraksionlar",
                   "text": "Atraksionlar is a theme park offering rides and entertainment in Sumqayıt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         49.685695,
                         40.592226
@@ -3611,7 +3611,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
                   "text": "Der „Cırtdan“-Vergnügungspark in Xankəndi bietet Unterhaltung für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.753907,
                         39.819299
@@ -3656,7 +3656,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "Der Aquapark in Xankəndi bietet Erholung und Wasserspaß.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.760465,
                         39.82848
@@ -3793,7 +3793,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
                   "text": "A hankendi „Cırtdan” Vidámpark szórakozást kínál a gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.753907,
                         39.819299
@@ -3838,7 +3838,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "A hankendi Aquapark pihenést és vízi szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.760465,
                         39.82848
@@ -3975,7 +3975,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
                   "text": "Parcul de distracții „Cırtdan” din Xankəndi oferă divertisment pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.753907,
                         39.819299
@@ -4020,7 +4020,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "Aquapark-ul din Xankəndi oferă relaxare și distracție acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.760465,
                         39.82848
@@ -4157,7 +4157,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
                   "text": "The “Cırtdan” Amusement Park in Xankəndi offers entertainment for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.753907,
                         39.819299
@@ -4202,7 +4202,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Aquapark",
                   "text": "The Aquapark in Xankəndi offers recreation and water fun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         46.760465,
                         39.82848
@@ -4821,7 +4821,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel parkı",
                   "text": "Karusel parkı ist ein Freizeitpark in Xaçmaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.796189,
                         41.462908
@@ -4940,7 +4940,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel parkı",
                   "text": "A Karusel parkı egy vidámpark Xaçmaz városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.796189,
                         41.462908
@@ -5059,7 +5059,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel parkı",
                   "text": "Karusel parkı este un parc tematic de distracții situat în Xaçmaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.796189,
                         41.462908
@@ -5178,7 +5178,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Karusel parkı",
                   "text": "Karusel parkı is a theme park situated in Xaçmaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.796189,
                         41.462908
@@ -6210,7 +6210,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq Əyləncə Parkı",
                   "text": "Uşaq Əyləncə Parkı ist ein Themenpark in Cəlilabad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.518974,
                         39.210132
@@ -6239,7 +6239,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq Əyləncə Parkı",
                   "text": "Az Uşaq Əyləncə Parkı egy vidámpark Cəlilabad városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.518974,
                         39.210132
@@ -6268,7 +6268,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq Əyləncə Parkı",
                   "text": "Uşaq Əyləncə Parkı este un parc tematic situat în Cəlilabad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.518974,
                         39.210132
@@ -6297,7 +6297,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
             {
                   "name": "Uşaq Əyləncə Parkı",
                   "text": "Uşaq Əyləncə Parkı is a theme park located in Cəlilabad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.518974,
                         39.210132

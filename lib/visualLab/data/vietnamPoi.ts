@@ -3801,7 +3801,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Hồ Mây Park",
                   "text": "Ein Freizeitpark auf einem Hügel in Vung Tau, der mit einer Seilbahn erreichbar ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.06765,
                         10.359471
@@ -3819,7 +3819,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên nước Vũng Tàu",
                   "text": "Ein Wasserpark mit verschiedenen Rutschen und Attraktionen in Vung Tau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.084761,
                         10.365731
@@ -3882,7 +3882,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên Thỏ Trắng",
                   "text": "Ein familienfreundlicher Freizeitpark mit verschiedenen Fahrgeschäften in Vung Tau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.100958,
                         10.351927
@@ -4100,7 +4100,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Hồ Mây Park",
                   "text": "Domboldalon fekvő vidámpark Vung Tauban, amely felvonóval érhető el.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.06765,
                         10.359471
@@ -4118,7 +4118,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên nước Vũng Tàu",
                   "text": "Csúszdákkal és vízi attrakciókkal teli élménypark Vung Tauban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.084761,
                         10.365731
@@ -4181,7 +4181,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên Thỏ Trắng",
                   "text": "Családbarát vidámpark különféle játékokkal Vung Tauban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.100958,
                         10.351927
@@ -4399,7 +4399,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Hồ Mây Park",
                   "text": "Un parc de distracții pe un deal în Vung Tau, accesibil cu telecabina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.06765,
                         10.359471
@@ -4417,7 +4417,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên nước Vũng Tàu",
                   "text": "Un parc acvatic cu diverse tobogane și atracții în Vung Tau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.084761,
                         10.365731
@@ -4480,7 +4480,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên Thỏ Trắng",
                   "text": "Un parc de distracții pentru familii, cu diverse atracții în Vung Tau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.100958,
                         10.351927
@@ -4698,7 +4698,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Hồ Mây Park",
                   "text": "An amusement park on a hilltop in Vung Tau, accessible by cable car.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.06765,
                         10.359471
@@ -4716,7 +4716,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Vung Tau Waterpark",
                   "text": "A water park with various slides and attractions in Vung Tau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.084761,
                         10.365731
@@ -4779,7 +4779,7 @@ export const vietnamCities: POI[] = [
             {
                   "name": "Công viên Thỏ Trắng",
                   "text": "A family-friendly amusement park with various rides in Vung Tau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.100958,
                         10.351927

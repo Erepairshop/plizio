@@ -31854,7 +31854,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wakeboarding track",
                   "text": "Der Wakeboarding track ist eine lokale Wasserpark-Attraktion in Dundee.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.962415,
                         56.460979
@@ -32371,7 +32371,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wakeboarding track",
                   "text": "A Wakeboarding track egy helyi vízipark-látványosság Dundee-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.962415,
                         56.460979
@@ -32888,7 +32888,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wakeboarding track",
                   "text": "Wakeboarding track este un parc acvatic local situat în Dundee.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.962415,
                         56.460979
@@ -33405,7 +33405,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wakeboarding track",
                   "text": "The Wakeboarding track is a local water park attraction located in Dundee.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.962415,
                         56.460979
@@ -57979,7 +57979,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Waterworld",
                   "text": "Ein beliebter Indoor-Tropenwasserpark in Stoke-on-Trent mit zahlreichen Rutschen und Attraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.197897,
                         53.027526
@@ -58418,7 +58418,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Waterworld",
                   "text": "Népszerű fedett trópusi vízi park Stoke-on-Trentben, számos csúszdával és látnivalóval.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.197897,
                         53.027526
@@ -58857,7 +58857,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Waterworld",
                   "text": "Un parc acvatic tropical interior popular din Stoke-on-Trent, cu numeroase tobogane și atracții.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.197897,
                         53.027526
@@ -59296,7 +59296,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Waterworld",
                   "text": "A popular indoor tropical water park in Stoke-on-Trent featuring numerous slides and attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.197897,
                         53.027526
@@ -61988,7 +61988,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Butterfly House and Mini Zoo",
                   "text": "Das Butterfly House and Mini Zoo ist ein Zoo in Lancaster.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.78079,
                         54.045526
@@ -62278,7 +62278,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Butterfly House and Mini Zoo",
                   "text": "A Butterfly House and Mini Zoo egy állatkert Lancasterben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.78079,
                         54.045526
@@ -62568,7 +62568,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Butterfly House and Mini Zoo",
                   "text": "Butterfly House and Mini Zoo este o grădină zoologică situată în Lancaster.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.78079,
                         54.045526
@@ -62858,7 +62858,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Butterfly House and Mini Zoo",
                   "text": "Butterfly House and Mini Zoo is a zoo situated in Lancaster.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.78079,
                         54.045526
@@ -67404,7 +67404,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Lagan Valley LeisurePlex",
                   "text": "Ein erstklassiger Indoor-Wasserpark und Freizeitkomplex in Lisburn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.050798,
                         54.50598
@@ -67478,7 +67478,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Lagan Valley LeisurePlex",
                   "text": "Lisburn kiemelkedő fedett víziparkja és szabadidős központja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.050798,
                         54.50598
@@ -67552,7 +67552,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Lagan Valley LeisurePlex",
                   "text": "Un parc acvatic interior de primă clasă și un complex de agrement în Lisburn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.050798,
                         54.50598
@@ -67626,7 +67626,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Lagan Valley LeisurePlex",
                   "text": "A premier indoor water park and leisure complex in Lisburn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.050798,
                         54.50598
@@ -72348,7 +72348,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Oceanarium",
                   "text": "Oceanarium ist ein Aquarium in Bournemouth.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.876807,
                         50.715919
@@ -72393,7 +72393,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Bournemouth Aviary",
                   "text": "Bournemouth Aviary ist ein Zoo in Bournemouth.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.875971,
                         50.718703
@@ -72710,7 +72710,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Oceanarium",
                   "text": "Oceanarium egy akvárium Bournemouth városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.876807,
                         50.715919
@@ -72755,7 +72755,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Bournemouth Aviary",
                   "text": "Bournemouth Aviary egy állatkert Bournemouth városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.875971,
                         50.718703
@@ -73072,7 +73072,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Oceanarium",
                   "text": "Oceanarium este un acvariu din Bournemouth.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.876807,
                         50.715919
@@ -73117,7 +73117,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Bournemouth Aviary",
                   "text": "Bournemouth Aviary este o grădină zoologică din Bournemouth.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.875971,
                         50.718703
@@ -73434,7 +73434,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Oceanarium",
                   "text": "Oceanarium is an aquarium located in Bournemouth.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.876807,
                         50.715919
@@ -73479,7 +73479,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Bournemouth Aviary",
                   "text": "Bournemouth Aviary is a zoo located in Bournemouth.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.875971,
                         50.718703
@@ -78927,7 +78927,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Gulliver's World",
                   "text": "Ein beliebter Familienfreizeitpark in Warrington mit zahlreichen Attraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.618727,
                         53.405974
@@ -79433,7 +79433,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Gulliver's World",
                   "text": "Népszerű családi vidámpark Warringtonban, számos játékkal a gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.618727,
                         53.405974
@@ -79939,7 +79939,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Gulliver's World",
                   "text": "Un parc de distracții popular pentru familii în Warrington, cu numeroase atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.618727,
                         53.405974
@@ -80445,7 +80445,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Gulliver's World",
                   "text": "A popular family theme park in Warrington featuring numerous attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.618727,
                         53.405974
@@ -82401,7 +82401,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Smithills Open Farm",
                   "text": "Die Smithills Open Farm ist ein familienfreundlicher Tierpark in Bolton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.451399,
                         53.604462
@@ -82763,7 +82763,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Smithills Open Farm",
                   "text": "A Smithills Open Farm egy családbarát állatfarm Bolton városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.451399,
                         53.604462
@@ -83125,7 +83125,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Smithills Open Farm",
                   "text": "Smithills Open Farm este o atracție cu animale pentru familii, situată în Bolton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.451399,
                         53.604462
@@ -83487,7 +83487,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Smithills Open Farm",
                   "text": "Smithills Open Farm is a family-friendly animal attraction located in Bolton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.451399,
                         53.604462
@@ -87558,7 +87558,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Exotic Zoo Wildlife Park",
                   "text": "Ein interaktiver Wildtierpark in Telford mit einer Vielzahl exotischer Tiere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.445989,
                         52.667862
@@ -87567,7 +87567,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wonderland",
                   "text": "Ein familienfreundlicher Themenpark in Telford, der auf Märchen basiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.444511,
                         52.668416
@@ -87713,7 +87713,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Exotic Zoo Wildlife Park",
                   "text": "Interaktív vadaspark Telfordban, számos egzotikus állattal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.445989,
                         52.667862
@@ -87722,7 +87722,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wonderland",
                   "text": "Családbarát témapark Telfordban, amely népmeséken alapul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.444511,
                         52.668416
@@ -87868,7 +87868,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Exotic Zoo Wildlife Park",
                   "text": "Un parc de animale sălbatice interactiv din Telford, cu o varietate de animale exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.445989,
                         52.667862
@@ -87877,7 +87877,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wonderland",
                   "text": "Un parc tematic pentru familii din Telford, bazat pe basme.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.444511,
                         52.668416
@@ -88023,7 +88023,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Exotic Zoo Wildlife Park",
                   "text": "An interactive wildlife park in Telford featuring a variety of exotic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.445989,
                         52.667862
@@ -88032,7 +88032,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Wonderland",
                   "text": "A family-friendly theme park in Telford based on fairy tales.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -2.444511,
                         52.668416
@@ -89646,7 +89646,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Fun Park",
                   "text": "Ein kleiner Vergnügungspark mit Attraktionen für Kinder in Rotherham.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.344597,
                         53.432522
@@ -89864,7 +89864,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Fun Park",
                   "text": "Kisebb vidámpark gyermekjátékokkal Rotherhamben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.344597,
                         53.432522
@@ -90082,7 +90082,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Fun Park",
                   "text": "Un mic parc de distracții cu atracții pentru copii în Rotherham.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.344597,
                         53.432522
@@ -90300,7 +90300,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
             {
                   "name": "Fun Park",
                   "text": "A small amusement park with attractions for children in Rotherham.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -1.344597,
                         53.432522

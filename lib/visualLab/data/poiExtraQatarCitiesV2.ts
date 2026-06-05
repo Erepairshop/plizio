@@ -2201,7 +2201,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             {
                   "name": "Doha Zoo",
                   "text": "Der Doha Zoo ist ein zoologischer Garten in Muaither.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435045,
                         25.247316
@@ -2230,7 +2230,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوان الدوحة",
                   "text": "A Doha Zoo egy állatkert Muaither városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435045,
                         25.247316
@@ -2259,7 +2259,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوان الدوحة",
                   "text": "Doha Zoo este un parc zoologic situat în Muaither.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435045,
                         25.247316
@@ -2288,7 +2288,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
             {
                   "name": "Doha Zoo",
                   "text": "Doha Zoo is a zoological park situated in Muaither.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         51.435045,
                         25.247316

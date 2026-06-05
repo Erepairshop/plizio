@@ -45,7 +45,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Kletter- und Erlebnispark in San Marino mit verschiedenen Parcours.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -155,7 +155,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "San Marinó-i kalandpark különböző nehézségi szintű kötélpályákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -265,7 +265,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în San Marino cu diverse trasee de cățărare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -375,7 +375,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in San Marino featuring various climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -501,7 +501,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark mit Kletterparcours und Outdoor-Aktivitäten für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -575,7 +575,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Kalandpark mászópályákkal és szabadtéri tevékenységekkel családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -649,7 +649,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură cu trasee de cățărare și activități în aer liber pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -723,7 +723,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park with climbing courses and outdoor activities for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -858,7 +858,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "San Marino Adventures ist ein Freizeitpark in Cà Melone.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -977,7 +977,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "A San Marino Adventures egy vidámpark Cà Melone területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1096,7 +1096,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "San Marino Adventures este un parc tematic situat în Cà Melone.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1215,7 +1215,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "San Marino Adventures is a theme park located in Cà Melone.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1360,7 +1360,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark in San Marino mit verschiedenen Kletterparcours im Freien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1488,7 +1488,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Kalandpark San Marinóban, különféle szabadtéri kötélpályákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1616,7 +1616,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în San Marino, cu diverse trasee de cățărare în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -1744,7 +1744,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in San Marino featuring various outdoor climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831

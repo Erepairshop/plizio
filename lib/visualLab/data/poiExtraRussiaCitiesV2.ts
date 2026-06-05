@@ -4294,7 +4294,7 @@ imageHint: "Hermitage Museum in Saint Petersburg",
             {
                   "name": "Ледовый Городок на Михайловской Набережной",
                   "text": "Ледовый Городок на Михайловской Набережной ist ein Themenpark in Nowosibirsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         82.938003,
                         55.006307
@@ -4557,7 +4557,7 @@ imageHint: "Hermitage Museum in Saint Petersburg",
             {
                   "name": "Ледовый Городок на Михайловской Набережной",
                   "text": "A Ледовый Городок на Михайловской Набережной egy vidámpark Novoszibirszkben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         82.938003,
                         55.006307
@@ -4820,7 +4820,7 @@ imageHint: "Hermitage Museum in Saint Petersburg",
             {
                   "name": "Ледовый Городок на Михайловской Набережной",
                   "text": "Ледовый Городок на Михайловской Набережной este un parc de distracții din Nowosibirsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         82.938003,
                         55.006307
@@ -5083,7 +5083,7 @@ imageHint: "Hermitage Museum in Saint Petersburg",
             {
                   "name": "Ледовый Городок на Михайловской Набережной",
                   "text": "Ледовый Городок на Михайловской Набережной is a theme park located in Nowosibirsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         82.938003,
                         55.006307
@@ -9241,7 +9241,7 @@ imageHint: "Omsk Assumption Cathedral",
             {
                   "name": "Ростовский Зоопарк. Центральный вход",
                   "text": "Der Rostower Zoo ist ein zoologischer Garten in Rostow am Don.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.672724,
                         47.247535
@@ -9639,7 +9639,7 @@ imageHint: "Omsk Assumption Cathedral",
             {
                   "name": "Ростовский Зоопарк. Центральный вход",
                   "text": "A Rosztovi Állatkert egy állatkert Rosztov-na-Donuban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.672724,
                         47.247535
@@ -10037,7 +10037,7 @@ imageHint: "Omsk Assumption Cathedral",
             {
                   "name": "Ростовский Зоопарк. Центральный вход",
                   "text": "Grădina Zoologică din Rostov este o grădină zoologică din Rostov-pe-Don.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.672724,
                         47.247535
@@ -10435,7 +10435,7 @@ imageHint: "Omsk Assumption Cathedral",
             {
                   "name": "Rostov Zoo",
                   "text": "The Rostov Zoo is a zoological garden located in Rostov-on-Don.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         39.672724,
                         47.247535
@@ -11024,7 +11024,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Весёлый Роджер",
                   "text": "„Vesjolyj Rodscher“ ist ein Themenpark in Ufa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.950204,
                         54.740189
@@ -11042,7 +11042,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Вольерное хозяйство",
                   "text": "Dieses Gehege ist ein Zoo in Ufa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         56.010486,
                         54.732143
@@ -11413,7 +11413,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Весёлый Роджер",
                   "text": "A „Vesolij Rodzser” egy vidámpark Ufában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.950204,
                         54.740189
@@ -11431,7 +11431,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Вольерное хозяйство",
                   "text": "Ez a vadaspark egy állatkert Ufában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         56.010486,
                         54.732143
@@ -11802,7 +11802,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Весёлый Роджер",
                   "text": "„Vesiolîi Rojer” este un parc tematic din Ufa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.950204,
                         54.740189
@@ -11820,7 +11820,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Вольерное хозяйство",
                   "text": "Acest țarc este o grădină zoologică din Ufa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         56.010486,
                         54.732143
@@ -12191,7 +12191,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Весёлый Роджер",
                   "text": "'Merry Roger' is a theme park in Ufa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.950204,
                         54.740189
@@ -12209,7 +12209,7 @@ imageHint: "Don River embankment in Rostov",
             {
                   "name": "Вольерное хозяйство",
                   "text": "This enclosure is a zoo in Ufa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         56.010486,
                         54.732143
@@ -12510,7 +12510,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Клаустрофобия",
                   "text": "Клаустрофобия ist ein Freizeitpark in Krasnojarsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.903965,
                         56.041413
@@ -12519,7 +12519,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Страна Енотия",
                   "text": "Страна Енотия ist ein Zoo in Krasnojarsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.897592,
                         56.026032
@@ -12791,7 +12791,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Клаустрофобия",
                   "text": "A Клаустрофобия egy vidámpark Krasznojarszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.903965,
                         56.041413
@@ -12800,7 +12800,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Страна Енотия",
                   "text": "A Страна Енотия egy állatkert Krasznojarszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.897592,
                         56.026032
@@ -13072,7 +13072,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Клаустрофобия",
                   "text": "Клаустрофобия este un parc de distracții în Krasnoiarsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.903965,
                         56.041413
@@ -13081,7 +13081,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Страна Енотия",
                   "text": "Страна Енотия este o grădină zoologică în Krasnoiarsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.897592,
                         56.026032
@@ -13353,7 +13353,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Клаустрофобия",
                   "text": "Клаустрофобия is a theme park in Krasnojarsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.903965,
                         56.041413
@@ -13362,7 +13362,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
             {
                   "name": "Страна Енотия",
                   "text": "Страна Енотия is a zoo in Krasnojarsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         92.897592,
                         56.026032
@@ -19167,7 +19167,7 @@ imageHint: "Saratov bridge over the Volga River",
             {
                   "name": "атракционы",
                   "text": "„Attraktionen“ ist ein Freizeitpark in Tjumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.536131,
                         57.152334
@@ -19493,7 +19493,7 @@ imageHint: "Saratov bridge over the Volga River",
             {
                   "name": "атракционы",
                   "text": "Az „Attrakciók” egy vidámpark Tyumenyben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.536131,
                         57.152334
@@ -19819,7 +19819,7 @@ imageHint: "Saratov bridge over the Volga River",
             {
                   "name": "атракционы",
                   "text": "„Atracții” este un parc tematic situat în Tjumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.536131,
                         57.152334
@@ -20145,7 +20145,7 @@ imageHint: "Saratov bridge over the Volga River",
             {
                   "name": "атракционы",
                   "text": "\"Attractions\" is a theme park located in Tjumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         65.536131,
                         57.152334
@@ -20710,7 +20710,7 @@ imageHint: "Barnaul city view with Ob river",
             {
                   "name": "MERA",
                   "text": "MERA ist ein Freizeitpark in Uljanowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.367648,
                         54.308728
@@ -20991,7 +20991,7 @@ imageHint: "Barnaul city view with Ob river",
             {
                   "name": "MERA",
                   "text": "A MERA egy vidámpark Uljanovszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.367648,
                         54.308728
@@ -21272,7 +21272,7 @@ imageHint: "Barnaul city view with Ob river",
             {
                   "name": "MERA",
                   "text": "MERA este un parc de distracții în Ulianovsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.367648,
                         54.308728
@@ -21553,7 +21553,7 @@ imageHint: "Barnaul city view with Ob river",
             {
                   "name": "MERA",
                   "text": "MERA is a theme park located in Ulyanovsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.367648,
                         54.308728
@@ -21990,7 +21990,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Хэппи Дэй",
                   "text": "Хэппи Дэй ist ein Freizeitpark in Chabarowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.061639,
                         48.488954
@@ -22008,7 +22008,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Арлекин",
                   "text": "Арлекин ist ein Freizeitpark in Chabarowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.073052,
                         48.48488
@@ -22370,7 +22370,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Хэппи Дэй",
                   "text": "A(z) Хэппи Дэй egy vidámpark Chabarowsk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.061639,
                         48.488954
@@ -22388,7 +22388,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Арлекин",
                   "text": "A(z) Арлекин egy vidámpark Chabarowsk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.073052,
                         48.48488
@@ -22750,7 +22750,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Хэппи Дэй",
                   "text": "Хэппи Дэй este un parc de distracții situat în Chabarowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.061639,
                         48.488954
@@ -22768,7 +22768,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Арлекин",
                   "text": "Арлекин este un parc de distracții situat în Chabarowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.073052,
                         48.48488
@@ -23130,7 +23130,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Хэппи Дэй",
                   "text": "Хэппи Дэй is a theme park located in Chabarowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.061639,
                         48.488954
@@ -23148,7 +23148,7 @@ imageHint: "Wooden architecture in Irkutsk",
             {
                   "name": "Арлекин",
                   "text": "Арлекин is a theme park located in Chabarowsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.073052,
                         48.48488
@@ -23458,7 +23458,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Люксор",
                   "text": "Luxor ist ein Wasserpark in Machatschkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.474754,
                         42.984863
@@ -23476,7 +23476,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Амиленд",
                   "text": "Amiland ist ein Freizeitpark in Machatschkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.50473,
                         42.980262
@@ -23485,7 +23485,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Беби-клуб",
                   "text": "Der Baby-Club ist ein Freizeitpark in Machatschkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.483322,
                         42.974816
@@ -23494,7 +23494,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Олимп",
                   "text": "Olimp ist ein Wasserpark in Machatschkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.502131,
                         42.974108
@@ -23503,7 +23503,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Парк Дружба",
                   "text": "Der Druschba-Park ist ein Freizeitpark in Machatschkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.512058,
                         42.983836
@@ -23512,7 +23512,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Интернет-клуб Дельта",
                   "text": "Der Internetclub Delta wird als Freizeitpark in Machatschkala betrieben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.507972,
                         42.971857
@@ -23703,7 +23703,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Люксор",
                   "text": "A Luxor egy vízipark Mahacskalában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.474754,
                         42.984863
@@ -23721,7 +23721,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Амиленд",
                   "text": "Az Amiland egy vidámpark Mahacskalában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.50473,
                         42.980262
@@ -23730,7 +23730,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Беби-клуб",
                   "text": "A Baby Club egy vidámpark Mahacskalában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.483322,
                         42.974816
@@ -23739,7 +23739,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Олимп",
                   "text": "Az Olimp egy vízipark Mahacskalában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.502131,
                         42.974108
@@ -23748,7 +23748,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Парк Дружба",
                   "text": "A Druzsba Park egy vidámpark Mahacskalában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.512058,
                         42.983836
@@ -23757,7 +23757,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Интернет-клуб Дельта",
                   "text": "A Delta Internetklub egy vidámparkként működő hely Mahacskalában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.507972,
                         42.971857
@@ -23948,7 +23948,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Люксор",
                   "text": "Luxor este un parc acvatic situat în Mahacikala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.474754,
                         42.984863
@@ -23966,7 +23966,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Амиленд",
                   "text": "Amiland este un parc de distracții situat în Mahacikala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.50473,
                         42.980262
@@ -23975,7 +23975,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Беби-клуб",
                   "text": "Baby Club este un parc de distracții din Mahacikala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.483322,
                         42.974816
@@ -23984,7 +23984,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Олимп",
                   "text": "Olimp este un parc acvatic situat în Mahacikala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.502131,
                         42.974108
@@ -23993,7 +23993,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Парк Дружба",
                   "text": "Parcul Drujba este un parc de distracții din Mahacikala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.512058,
                         42.983836
@@ -24002,7 +24002,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Интернет-клуб Дельта",
                   "text": "Clubul de Internet Delta este un parc de distracții situat în Mahacikala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.507972,
                         42.971857
@@ -24193,7 +24193,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Luxor",
                   "text": "Luxor is a water park located in Makhachkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.474754,
                         42.984863
@@ -24211,7 +24211,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Амиленд",
                   "text": "Amiland is a theme park located in Makhachkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.50473,
                         42.980262
@@ -24220,7 +24220,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Беби-клуб",
                   "text": "Baby Club is a theme park operating in Makhachkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.483322,
                         42.974816
@@ -24229,7 +24229,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Олимп",
                   "text": "Olimp is a water park located in Makhachkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.502131,
                         42.974108
@@ -24238,7 +24238,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Парк Дружба",
                   "text": "Druzhba Park is a theme park located in Makhachkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.512058,
                         42.983836
@@ -24247,7 +24247,7 @@ imageHint: "Amur River bridge in Khabarovsk",
             {
                   "name": "Интернет-клуб Дельта",
                   "text": "Delta Internet Club operates as a theme park or recreational venue in Makhachkala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.507972,
                         42.971857
@@ -26422,7 +26422,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "детский контактный зоопарк «Мини пиги»",
                   "text": "Der Kinder-Streichelzoo „Mini Pigi“ ist ein familienfreundlicher Tierpark in Orenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.092857,
                         51.769125
@@ -26458,7 +26458,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "Енотий рай",
                   "text": "„Jenotij Raj“ ist ein lokaler Tierpark in Orenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.095536,
                         51.762316
@@ -26649,7 +26649,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "детский контактный зоопарк «Мини пиги»",
                   "text": "A „Mini Pigi” gyermek állatsimogató egy családbarát állatkert Orenburgban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.092857,
                         51.769125
@@ -26685,7 +26685,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "Енотий рай",
                   "text": "A „Jenotij Raj” egy helyi állatkert Orenburgban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.095536,
                         51.762316
@@ -26876,7 +26876,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "детский контактный зоопарк «Мини пиги»",
                   "text": "Grădina zoologică pentru copii „Mini Pigi” este un parc de animale pentru familii în Orenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.092857,
                         51.769125
@@ -26912,7 +26912,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "Енотий рай",
                   "text": "„Enotii Rai” este o grădină zoologică locală din Orenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.095536,
                         51.762316
@@ -27103,7 +27103,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "детский контактный зоопарк «Мини пиги»",
                   "text": "The \"Mini Pigs\" Children's Petting Zoo is a family-friendly animal park in Orenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.092857,
                         51.769125
@@ -27139,7 +27139,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
             {
                   "name": "Енотий рай",
                   "text": "\"Enotiy Ray\" is a zoo and animal attraction located in Orenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.095536,
                         51.762316
@@ -27405,7 +27405,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк «Антошка»",
                   "text": "Парк «Антошка» ist ein Freizeitpark in Kemerowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.091308,
                         55.345815
@@ -27441,7 +27441,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк Чудес",
                   "text": "Парк Чудес ist ein Freizeitpark in Kemerowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.078673,
                         55.363226
@@ -27569,7 +27569,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк «Антошка»",
                   "text": "A(z) Парк «Антошка» egy vidámpark Kemerowo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.091308,
                         55.345815
@@ -27605,7 +27605,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк Чудес",
                   "text": "A(z) Парк Чудес egy vidámpark Kemerowo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.078673,
                         55.363226
@@ -27733,7 +27733,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк «Антошка»",
                   "text": "Парк «Антошка» este un parc de distracții situat în Kemerowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.091308,
                         55.345815
@@ -27769,7 +27769,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк Чудес",
                   "text": "Парк Чудес este un parc de distracții situat în Kemerowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.078673,
                         55.363226
@@ -27897,7 +27897,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк «Антошка»",
                   "text": "Парк «Антошка» is a theme park located in Kemerowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.091308,
                         55.345815
@@ -27933,7 +27933,7 @@ imageHint: "Traditional wooden house in Tomsk",
             {
                   "name": "Парк Чудес",
                   "text": "Парк Чудес is a theme park located in Kemerowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         86.078673,
                         55.363226
@@ -32560,7 +32560,7 @@ imageHint: "Kirov city park and Viatka river",
             {
                   "name": "Ковчег",
                   "text": "Kovcheg ist ein Zoo in der Stadt Tscheboksary.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.265471,
                         56.119439
@@ -32895,7 +32895,7 @@ imageHint: "Kirov city park and Viatka river",
             {
                   "name": "Ковчег",
                   "text": "A Kovcheg egy állatkert Csebokszári városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.265471,
                         56.119439
@@ -33230,7 +33230,7 @@ imageHint: "Kirov city park and Viatka river",
             {
                   "name": "Ковчег",
                   "text": "Kovcheg este o grădină zoologică situată în orașul Ceboksarî.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.265471,
                         56.119439
@@ -33565,7 +33565,7 @@ imageHint: "Kirov city park and Viatka river",
             {
                   "name": "Ковчег",
                   "text": "Kovcheg is a zoo located in the city of Cheboksary.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.265471,
                         56.119439
@@ -35217,7 +35217,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Аттракционы",
                   "text": "Dieser Freizeitpark in Balaschicha bietet verschiedene Fahrgeschäfte und Vergnügungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.940353,
                         55.799685
@@ -35271,7 +35271,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Zамания",
                   "text": "Zamania ist ein Freizeitpark, der Unterhaltung und Aktivitäten in Balaschicha bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.939143,
                         55.7937
@@ -35435,7 +35435,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Аттракционы",
                   "text": "Ez a Balaschicha-i vidámpark különféle túrákat és szórakoztató létesítményeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.940353,
                         55.799685
@@ -35489,7 +35489,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Zамания",
                   "text": "A Zamania egy vidámpark, amely szórakozást és programokat kínál Balaschichában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.939143,
                         55.7937
@@ -35653,7 +35653,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Аттракционы",
                   "text": "Acest parc de distracții din Balaschicha oferă diverse atracții și divertisment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.940353,
                         55.799685
@@ -35707,7 +35707,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Zамания",
                   "text": "Zamania este un parc tematic care oferă divertisment și activități în Balaschicha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.939143,
                         55.7937
@@ -35871,7 +35871,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Аттракционы",
                   "text": "This theme park in Balaschicha offers various rides and amusements.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.940353,
                         55.799685
@@ -35925,7 +35925,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
             {
                   "name": "Zамания",
                   "text": "Zamania is a theme park providing entertainment and activities in Balaschicha.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         37.939143,
                         55.7937
@@ -36290,7 +36290,7 @@ imageHint: "Victory Memorial in Kursk",
             {
                   "name": "Lion",
                   "text": "Ein Themenpark namens \"Löwe\" in Ulan-Ude.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.607889,
                         51.843558
@@ -36508,7 +36508,7 @@ imageHint: "Victory Memorial in Kursk",
             {
                   "name": "Lion",
                   "text": "\"Oroszlán\" vidámpark Ulan-Udében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.607889,
                         51.843558
@@ -36726,7 +36726,7 @@ imageHint: "Victory Memorial in Kursk",
             {
                   "name": "Lion",
                   "text": "Un parc tematic numit \"Leu\" în Ulan-Ude.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.607889,
                         51.843558
@@ -36944,7 +36944,7 @@ imageHint: "Victory Memorial in Kursk",
             {
                   "name": "Lion",
                   "text": "A theme park called \"Lion\" in Ulan-Ude.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.607889,
                         51.843558
@@ -38498,7 +38498,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "Водопад чудес",
                   "text": "Ein Wasserpark in Magnitogorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.992485,
                         53.413124
@@ -38561,7 +38561,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "КрутоЦентр",
                   "text": "Ein Themenpark in Magnitogorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.989328,
                         53.385898
@@ -38599,7 +38599,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "Водопад чудес",
                   "text": "Vízipark Magnitogorszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.992485,
                         53.413124
@@ -38662,7 +38662,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "КрутоЦентр",
                   "text": "Vidámpark Magnitogorszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.989328,
                         53.385898
@@ -38700,7 +38700,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "Водопад чудес",
                   "text": "Parc acvatic în Magnitogorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.992485,
                         53.413124
@@ -38763,7 +38763,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "КрутоЦентр",
                   "text": "Parc tematic în Magnitogorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.989328,
                         53.385898
@@ -38801,7 +38801,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "Водопад чудес",
                   "text": "Water park in Magnitogorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.992485,
                         53.413124
@@ -38864,7 +38864,7 @@ imageHint: "Guardian Angel monument in Stavropol",
             {
                   "name": "КрутоЦентр",
                   "text": "Theme park in Magnitogorsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         58.989328,
                         53.385898
@@ -39048,7 +39048,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Джунгли парк",
                   "text": "Der Dschungelpark ist ein familienfreundlicher Freizeitpark in Twer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.881191,
                         56.872999
@@ -39102,7 +39102,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Аттракционы",
                   "text": "Diese Attraktionen bilden einen lebhaften Freizeitpark in der Stadt Twer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.913169,
                         56.847692
@@ -39383,7 +39383,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Джунгли парк",
                   "text": "A Dzsungel Park egy családbarát vidámpark Twerben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.881191,
                         56.872999
@@ -39437,7 +39437,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Аттракционы",
                   "text": "Ezek a látványosságok egy élénk vidámparkként működnek Twer városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.913169,
                         56.847692
@@ -39718,7 +39718,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Джунгли парк",
                   "text": "Jungle Park este un parc de distracții pentru familii situat în Twer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.881191,
                         56.872999
@@ -39772,7 +39772,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Аттракционы",
                   "text": "Aceste atracții funcționează ca un parc tematic plin de viață în orașul Twer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.913169,
                         56.847692
@@ -40053,7 +40053,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Джунгли парк",
                   "text": "Jungle Park is a family-friendly theme park located in Twer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.881191,
                         56.872999
@@ -40107,7 +40107,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
             {
                   "name": "Аттракционы",
                   "text": "These attractions function as a lively theme park in the city of Twer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.913169,
                         56.847692
@@ -42173,7 +42173,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             {
                   "name": "парк аттракционов ЦПКиО им. 1000-летия г. Брянска",
                   "text": "Ein Themenpark in Brjansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.366658,
                         53.270786
@@ -42472,7 +42472,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             {
                   "name": "парк аттракционов ЦПКиО им. 1000-летия г. Брянска",
                   "text": "Vidámpark Brjanszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.366658,
                         53.270786
@@ -42771,7 +42771,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             {
                   "name": "парк аттракционов ЦПКиО им. 1000-летия г. Брянска",
                   "text": "Parc tematic în Briansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.366658,
                         53.270786
@@ -43070,7 +43070,7 @@ imageHint: "Textile factory architecture in Ivanovo",
             {
                   "name": "парк аттракционов ЦПКиО им. 1000-летия г. Брянска",
                   "text": "Theme park in Bryansk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.366658,
                         53.270786
@@ -43408,7 +43408,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Ледовый дворец",
                   "text": "Der Eispalast ist ein Wasserpark in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.377953,
                         61.237695
@@ -43435,7 +43435,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Аквамарин",
                   "text": "Aquamarin ist ein Wasserpark in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.429982,
                         61.26346
@@ -43453,7 +43453,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Парк аттракционов",
                   "text": "Der Vergnügungspark ist ein Themenpark in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.373343,
                         61.238102
@@ -43462,7 +43462,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Banana park",
                   "text": "Banana Park ist ein Themenpark in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.432558,
                         61.253977
@@ -43480,7 +43480,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Магус",
                   "text": "Magus ist ein Themenpark in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.411009,
                         61.275758
@@ -43489,7 +43489,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Мини-зоопарк",
                   "text": "Der Minizoo ist ein Zoo in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.406692,
                         61.251914
@@ -43525,7 +43525,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "ЮграПарк",
                   "text": "JugraPark ist ein Themenpark in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.423829,
                         61.247071
@@ -43599,7 +43599,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Ледовый дворец",
                   "text": "A Jégpalota egy vízipark Szurgutban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.377953,
                         61.237695
@@ -43626,7 +43626,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Аквамарин",
                   "text": "Az Akvamarin egy vízipark Szurgutban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.429982,
                         61.26346
@@ -43644,7 +43644,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Парк аттракционов",
                   "text": "A Vidámpark egy Szurgutban található élménypark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.373343,
                         61.238102
@@ -43653,7 +43653,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Banana park",
                   "text": "A Banana park egy Szurgutban található élménypark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.432558,
                         61.253977
@@ -43671,7 +43671,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Магус",
                   "text": "A Magus egy Szurgutban található élménypark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.411009,
                         61.275758
@@ -43680,7 +43680,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Мини-зоопарк",
                   "text": "A Mini-állatkert egy Szurgutban található állatkert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.406692,
                         61.251914
@@ -43716,7 +43716,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "ЮграПарк",
                   "text": "A JugraPark egy Szurgutban található élménypark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.423829,
                         61.247071
@@ -43790,7 +43790,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Ледовый дворец",
                   "text": "Palatul de Gheață este un parc acvatic situat în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.377953,
                         61.237695
@@ -43817,7 +43817,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Аквамарин",
                   "text": "Aquamarine este un parc acvatic situat în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.429982,
                         61.26346
@@ -43835,7 +43835,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Парк аттракционов",
                   "text": "Parcul de distracții este un parc tematic situat în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.373343,
                         61.238102
@@ -43844,7 +43844,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Banana park",
                   "text": "Banana park este un parc tematic situat în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.432558,
                         61.253977
@@ -43862,7 +43862,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Магус",
                   "text": "Magus este un parc tematic situat în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.411009,
                         61.275758
@@ -43871,7 +43871,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Мини-зоопарк",
                   "text": "Mini-grădina zoologică este o grădină zoologică situată în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.406692,
                         61.251914
@@ -43907,7 +43907,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "ЮграПарк",
                   "text": "YugraPark este un parc tematic situat în Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.423829,
                         61.247071
@@ -43981,7 +43981,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Ледовый дворец",
                   "text": "The Ice Palace is a water park located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.377953,
                         61.237695
@@ -44008,7 +44008,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Аквамарин",
                   "text": "Aquamarine is a water park located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.429982,
                         61.26346
@@ -44026,7 +44026,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Парк аттракционов",
                   "text": "The Amusement Park is a theme park located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.373343,
                         61.238102
@@ -44035,7 +44035,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Banana park",
                   "text": "Banana park is a theme park located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.432558,
                         61.253977
@@ -44053,7 +44053,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Магус",
                   "text": "Magus is a theme park located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.411009,
                         61.275758
@@ -44062,7 +44062,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "Мини-зоопарк",
                   "text": "The Mini-zoo is a zoo located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.406692,
                         61.251914
@@ -44098,7 +44098,7 @@ imageHint: "Belgorod city center architecture",
             {
                   "name": "ЮграПарк",
                   "text": "YugraPark is a theme park located in Surgut.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.423829,
                         61.247071
@@ -51898,7 +51898,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Террариум",
                   "text": "Das Terrarium ist ein Zoo in Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928888,
                         47.221302
@@ -51907,7 +51907,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аквапарк \"Лазурный\"",
                   "text": "Der Wasserpark Lazurny ist ein Erlebnisbad in Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.935994,
                         47.222989
@@ -51970,7 +51970,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Живой уголок",
                   "text": "Zhivoy Ugolok ist eine Zooattraktion in Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928492,
                         47.219566
@@ -52224,7 +52224,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Террариум",
                   "text": "A Terrárium egy állatkert Taganrogban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928888,
                         47.221302
@@ -52233,7 +52233,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аквапарк \"Лазурный\"",
                   "text": "A Lazurnij aquapark egy vízi élménypark Taganrogban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.935994,
                         47.222989
@@ -52296,7 +52296,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Живой уголок",
                   "text": "A Zsivoj Ugolok egy állatkerti látványosság Taganrogban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928492,
                         47.219566
@@ -52550,7 +52550,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Террариум",
                   "text": "Terariul este o grădină zoologică situată în Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928888,
                         47.221302
@@ -52559,7 +52559,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аквапарк \"Лазурный\"",
                   "text": "Parcul acvatic Lazurnîi este un parc acvatic în Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.935994,
                         47.222989
@@ -52622,7 +52622,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Живой уголок",
                   "text": "Jivoi Ugolok este o atracție zoologică situată în Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928492,
                         47.219566
@@ -52876,7 +52876,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Террариум",
                   "text": "Terrarium is a zoo facility located in Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928888,
                         47.221302
@@ -52885,7 +52885,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аквапарк \"Лазурный\"",
                   "text": "The Lazurny water park is an aquatic attraction in Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.935994,
                         47.222989
@@ -52948,7 +52948,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Живой уголок",
                   "text": "Zhivoy Ugolok is a zoo attraction situated in Taganrog.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         38.928492,
                         47.219566
@@ -55579,7 +55579,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Парк культуры и отдыха",
                   "text": "Der Park Kultura i Otdikha ist ein Freizeitpark in Jakutsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         129.704529,
                         62.042448
@@ -55788,7 +55788,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Парк культуры и отдыха",
                   "text": "A Park Kultura i Otdikha egy vidámpark Jakutszkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         129.704529,
                         62.042448
@@ -55997,7 +55997,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Парк культуры и отдыха",
                   "text": "Parcul Kultura i Otdiha este un parc tematic situat în Iakuțk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         129.704529,
                         62.042448
@@ -56206,7 +56206,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Park Kultura i Otdikha",
                   "text": "Park Kultura i Otdikha is a theme park situated in Jakutsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         129.704529,
                         62.042448
@@ -57271,7 +57271,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Depo 51, боулинг-клуб",
                   "text": "Der Bowlingclub Depo 51 ist ein Freizeit- und Themenpark in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.745765,
                         48.798842
@@ -57289,7 +57289,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тайны мира",
                   "text": "Tajny mira ist ein Themenpark in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.750983,
                         48.78369
@@ -57298,7 +57298,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Экопарк «Крошка на ладошке»",
                   "text": "Der Ökopark \"Krümel auf der Handfläche\" ist ein kleiner Zoo in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.748518,
                         48.78364
@@ -57307,7 +57307,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аттракционы",
                   "text": "Diese Attraktionen bieten Unterhaltung im Rahmen eines Themenparks in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.746033,
                         48.783964
@@ -57316,7 +57316,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тир",
                   "text": "Dieser Schießstand (Tir) ist als Themenpark in Wolschski gelistet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74664,
                         48.782118
@@ -57325,7 +57325,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Картинг",
                   "text": "Die Kartbahn ist eine Freizeitattraktion und Themenpark in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74775,
                         48.782595
@@ -57343,7 +57343,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Lumo Park",
                   "text": "Der Lumo Park ist ein Themenpark in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.80436,
                         48.773814
@@ -57379,7 +57379,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Зоодворик",
                   "text": "Zoodvorik ist ein kleiner Zoo in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.742937,
                         48.803742
@@ -57453,7 +57453,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Depo 51, боулинг-клуб",
                   "text": "A Depo 51 bowlingklub egy tematikus szabadidős létesítmény Volzsszkijban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.745765,
                         48.798842
@@ -57471,7 +57471,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тайны мира",
                   "text": "A Tajni mira egy tematikus park Volzsszkij városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.750983,
                         48.78369
@@ -57480,7 +57480,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Экопарк «Крошка на ладошке»",
                   "text": "A „Morzsa a tenyéren” ökopark egy állatkert Volzsszkijban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.748518,
                         48.78364
@@ -57489,7 +57489,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аттракционы",
                   "text": "Ezek az attrakciók szórakozási lehetőséget kínálnak egy volzsszkiji vidámparkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.746033,
                         48.783964
@@ -57498,7 +57498,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тир",
                   "text": "Ez a lőtér (Tir) tematikus parkként működik Volzsszkijban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74664,
                         48.782118
@@ -57507,7 +57507,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Картинг",
                   "text": "A gokartpálya egy szabadidős tematikus park Volzsszkij városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74775,
                         48.782595
@@ -57525,7 +57525,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Lumo Park",
                   "text": "A Lumo Park egy volzsszkiji élménypark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.80436,
                         48.773814
@@ -57561,7 +57561,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Зоодворик",
                   "text": "A Zoodvorik egy kisebb állatkert Volzsszkij városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.742937,
                         48.803742
@@ -57635,7 +57635,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Depo 51, боулинг-клуб",
                   "text": "Clubul de bowling Depo 51 este un parc tematic de divertisment din Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.745765,
                         48.798842
@@ -57653,7 +57653,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тайны мира",
                   "text": "Taini mira este un parc tematic din Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.750983,
                         48.78369
@@ -57662,7 +57662,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Экопарк «Крошка на ладошке»",
                   "text": "Ecoparcul „Kroșka na ladoșke” este o grădină zoologică din Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.748518,
                         48.78364
@@ -57671,7 +57671,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аттракционы",
                   "text": "Aceste atracții oferă divertisment într-un parc tematic din Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.746033,
                         48.783964
@@ -57680,7 +57680,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тир",
                   "text": "Acest poligon de tragere (Tir) este listat ca un parc tematic în Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74664,
                         48.782118
@@ -57689,7 +57689,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Картинг",
                   "text": "Pista de karting este o atracție și un parc tematic în Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74775,
                         48.782595
@@ -57707,7 +57707,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Lumo Park",
                   "text": "Lumo Park este un parc tematic situat în Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.80436,
                         48.773814
@@ -57743,7 +57743,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Зоодворик",
                   "text": "Zoodvorik este o mică grădină zoologică situată în Voljski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.742937,
                         48.803742
@@ -57817,7 +57817,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Depo 51, боулинг-клуб",
                   "text": "The Depo 51 bowling club is an entertainment venue in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.745765,
                         48.798842
@@ -57835,7 +57835,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тайны мира",
                   "text": "Tajny mira is a theme park located in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.750983,
                         48.78369
@@ -57844,7 +57844,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Экопарк «Крошка на ладошке»",
                   "text": "The \"Kroshka na ladoshke\" Ecopark is a zoo in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.748518,
                         48.78364
@@ -57853,7 +57853,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "аттракционы",
                   "text": "These attractions offer entertainment as a theme park in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.746033,
                         48.783964
@@ -57862,7 +57862,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Тир",
                   "text": "This shooting range (Tir) is listed as a theme park in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74664,
                         48.782118
@@ -57871,7 +57871,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Картинг",
                   "text": "The karting track is a leisure and theme park in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.74775,
                         48.782595
@@ -57889,7 +57889,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Lumo Park",
                   "text": "Lumo Park is a theme park situated in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.80436,
                         48.773814
@@ -57925,7 +57925,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Зоодворик",
                   "text": "Zoodvorik is a small local zoo located in Wolschski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.742937,
                         48.803742
@@ -58027,7 +58027,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Мастерская праздника \"Эдем студио\"",
                   "text": "Eden Studio ist ein beliebter Freizeitort für Familien in Nachodka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.906977,
                         42.836165
@@ -58036,7 +58036,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Steam Park",
                   "text": "Steam Park ist ein moderner Themenpark in Nachodka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.876547,
                         42.811823
@@ -58101,7 +58101,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Мастерская праздника \"Эдем студио\"",
                   "text": "Az Eden Stúdió egy népszerű családi szabadidőközpont Nahodkában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.906977,
                         42.836165
@@ -58110,7 +58110,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Steam Park",
                   "text": "A Steam Park egy modern vidámpark Nahodkában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.876547,
                         42.811823
@@ -58175,7 +58175,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Мастерская праздника \"Эдем студио\"",
                   "text": "Eden Studio este un loc popular de agrement pentru familii în Nahodka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.906977,
                         42.836165
@@ -58184,7 +58184,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Steam Park",
                   "text": "Steam Park este un parc tematic modern în Nahodka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.876547,
                         42.811823
@@ -58249,7 +58249,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Мастерская праздника \"Эдем студио\"",
                   "text": "Eden Studio is a popular leisure spot for families in Nachodka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.906977,
                         42.836165
@@ -58258,7 +58258,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Steam Park",
                   "text": "Steam Park is a modern theme park in Nachodka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.876547,
                         42.811823
@@ -59035,7 +59035,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аттракционы Нальчика",
                   "text": "Die Attraktionen von Naltschik bilden einen Themenpark für Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.592554,
                         43.465828
@@ -59062,7 +59062,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аврора",
                   "text": "Aurora ist ein lokaler Themenpark in Naltschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.610063,
                         43.503207
@@ -59071,7 +59071,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Нальчикский зоопарк",
                   "text": "Der Zoo von Naltschik beheimatet verschiedene Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.591331,
                         43.461012
@@ -59080,7 +59080,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Самолёт",
                   "text": "Die Attraktion \"Flugzeug\" ist Teil eines Themenparks in Naltschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.587146,
                         43.470161
@@ -59244,7 +59244,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аттракционы Нальчика",
                   "text": "Nalcsik attrakciói egy vidámparkot alkotnak a szórakozni vágyók számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.592554,
                         43.465828
@@ -59271,7 +59271,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аврора",
                   "text": "Az Auróra egy helyi élménypark Nalcsik városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.610063,
                         43.503207
@@ -59280,7 +59280,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Нальчикский зоопарк",
                   "text": "A nalcsiki állatkert különféle állatfajoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.591331,
                         43.461012
@@ -59289,7 +59289,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Самолёт",
                   "text": "A Repülőgép egy vidámparki attrakció Nalcsikban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.587146,
                         43.470161
@@ -59453,7 +59453,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аттракционы Нальчика",
                   "text": "Atracțiile din Nalcik formează un parc tematic pentru activități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.592554,
                         43.465828
@@ -59480,7 +59480,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аврора",
                   "text": "Aurora este un parc tematic local din Nalcik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.610063,
                         43.503207
@@ -59489,7 +59489,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Нальчикский зоопарк",
                   "text": "Grădina Zoologică din Nalcik găzduiește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.591331,
                         43.461012
@@ -59498,7 +59498,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Самолёт",
                   "text": "Atracția „Avionul” face parte dintr-un parc tematic din Nalcik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.587146,
                         43.470161
@@ -59662,7 +59662,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аттракционы Нальчика",
                   "text": "The attractions of Nalchik constitute a theme park for recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.592554,
                         43.465828
@@ -59689,7 +59689,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Аврора",
                   "text": "Aurora is a local theme park located in Naltschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.610063,
                         43.503207
@@ -59698,7 +59698,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Нальчикский зоопарк",
                   "text": "The Nalchik Zoo is home to various animal species in the city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.591331,
                         43.461012
@@ -59707,7 +59707,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Самолёт",
                   "text": "The \"Airplane\" attraction is part of a theme park in Naltschik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         43.587146,
                         43.470161
@@ -61330,7 +61330,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Городской парк культуры и отдыха",
                   "text": "Der städtische Kultur- und Erholungspark ist ein Themenpark in Welikije Luki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.514062,
                         56.348134
@@ -61485,7 +61485,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Городской парк культуры и отдыха",
                   "text": "A Városi Kultúr- és Pihenőpark egy tematikus park Velikije Luki városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.514062,
                         56.348134
@@ -61640,7 +61640,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Городской парк культуры и отдыха",
                   "text": "Parcul Orășenesc de Cultură și Odihnă este un parc tematic din Velikie Luki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.514062,
                         56.348134
@@ -61795,7 +61795,7 @@ imageHint: "Alyosha Monument in Murmansk",
             {
                   "name": "Городской парк культуры и отдыха",
                   "text": "The City Park of Culture and Recreation is a theme park in Welikije Luki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.514062,
                         56.348134

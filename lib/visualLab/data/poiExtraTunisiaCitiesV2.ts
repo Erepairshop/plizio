@@ -1056,7 +1056,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             {
                   "name": "Club nautique hammamet C.N.H",
                   "text": "Der Club nautique hammamet C.N.H ist ein Vergnügungs- und Freizeitpark in Hammamet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.611369,
                         36.397481
@@ -1139,7 +1139,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             {
                   "name": "Club nautique hammamet C.N.H",
                   "text": "A Club nautique hammamet C.N.H egy vidámpark és szabadidőpark Hammametben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.611369,
                         36.397481
@@ -1222,7 +1222,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             {
                   "name": "Club nautique hammamet C.N.H",
                   "text": "Club nautique hammamet C.N.H este un parc de distracții și agrement din Hammamet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.611369,
                         36.397481
@@ -1305,7 +1305,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             {
                   "name": "Club nautique hammamet C.N.H",
                   "text": "Club nautique hammamet C.N.H is an amusement and leisure park in Hammamet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.611369,
                         36.397481

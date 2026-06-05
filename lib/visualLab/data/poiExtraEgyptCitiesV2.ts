@@ -249,7 +249,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Mansoura Zoo",
                   "text": "Mansoura Zoo ist ein bekannter Zoo in Al-Mansura.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.400556,
                         31.053014
@@ -296,7 +296,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Mansoura Zoo",
                   "text": "A Mansoura Zoo egy jelentős állatkert Al-Mansura városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.400556,
                         31.053014
@@ -343,7 +343,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Mansoura Zoo",
                   "text": "Mansoura Zoo este o grădină zoologică notabilă din Al-Mansura.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.400556,
                         31.053014
@@ -390,7 +390,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Mansoura Zoo",
                   "text": "Mansoura Zoo is a notable zoo in Al-Mansura.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         31.400556,
                         31.053014
@@ -1380,7 +1380,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Red Sea Aquarium",
                   "text": "Das Red Sea Aquarium ist ein Aquarium in Hurghada.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.819116,
                         27.261642
@@ -1427,7 +1427,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Red Sea Aquarium",
                   "text": "A Red Sea Aquarium egy akvárium Hurghadában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.819116,
                         27.261642
@@ -1474,7 +1474,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Red Sea Aquarium",
                   "text": "Red Sea Aquarium este un acvariu din Hurghada.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.819116,
                         27.261642
@@ -1521,7 +1521,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Red Sea Aquarium",
                   "text": "The Red Sea Aquarium is an aquarium in Hurghada.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.819116,
                         27.261642
@@ -2438,7 +2438,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "ملاهي",
                   "text": "Der Amusement Park ist ein Freizeitpark in Desuk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.645073,
                         31.124326
@@ -2557,7 +2557,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "ملاهي",
                   "text": "Az Amusement Park egy vidámpark Desuk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.645073,
                         31.124326
@@ -2676,7 +2676,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "ملاهي",
                   "text": "Amusement Park este un parc tematic în Desuk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.645073,
                         31.124326
@@ -2795,7 +2795,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Amusement Park",
                   "text": "Amusement Park is a theme park located in Desuk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.645073,
                         31.124326
@@ -3039,7 +3039,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Kafr El-Sheikh zoo",
                   "text": "Der Kafr El-Sheikh zoo ist ein zoologischer Garten in der Stadt Kafr asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.947674,
                         31.105139
@@ -3068,7 +3068,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Kafr El-Sheikh zoo",
                   "text": "A Kafr El-Sheikh zoo egy állatkert Kafr asch-Schaich városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.947674,
                         31.105139
@@ -3097,7 +3097,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Kafr El-Sheikh zoo",
                   "text": "Grădina zoologică Kafr El-Sheikh este un parc zoologic situat în orașul Kafr asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.947674,
                         31.105139
@@ -3126,7 +3126,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Kafr El-Sheikh zoo",
                   "text": "Kafr El-Sheikh zoo is a zoological park located in the city of Kafr asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         30.947674,
                         31.105139
@@ -4441,7 +4441,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "كليو بارك",
                   "text": "Der Cleo Park ist ein Wasserpark in Scharm asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.322468,
                         27.91753
@@ -4450,7 +4450,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Fun Town",
                   "text": "Fun Town ist ein Freizeitpark in Scharm asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.317696,
                         27.91055
@@ -4533,7 +4533,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "كليو بارك",
                   "text": "A Cleo Park egy vízipark Scharm asch-Schaichban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.322468,
                         27.91753
@@ -4542,7 +4542,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Fun Town",
                   "text": "A Fun Town egy vidámpark Scharm asch-Schaichban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.317696,
                         27.91055
@@ -4625,7 +4625,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "كليو بارك",
                   "text": "Cleo Park este un parc acvatic din Scharm asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.322468,
                         27.91753
@@ -4634,7 +4634,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Fun Town",
                   "text": "Fun Town este un parc tematic situat în Scharm asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.317696,
                         27.91055
@@ -4717,7 +4717,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Cleo Park",
                   "text": "Cleo Park is a water park located in Scharm asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.322468,
                         27.91753
@@ -4726,7 +4726,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             {
                   "name": "Fun Town",
                   "text": "Fun Town is a theme park located in Scharm asch-Schaich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.317696,
                         27.91055

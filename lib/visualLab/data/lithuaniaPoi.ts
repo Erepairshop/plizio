@@ -2583,7 +2583,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Zoologischer Garten Litauens",
                   "text": "Der Litauische Zoo ist eine beliebte tierische Attraktion in Kaunas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.954558,
                         54.90181
@@ -3044,7 +3044,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Lietuvos zoologijos sodas",
                   "text": "A Litván Állatkert egy népszerű állatos látványosság Kaunas városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.954558,
                         54.90181
@@ -3505,7 +3505,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Lietuvos zoologijos sodas",
                   "text": "Grădina Zoologică din Lituania este o atracție populară cu animale în Kaunas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.954558,
                         54.90181
@@ -3966,7 +3966,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Zoo of Lithuania",
                   "text": "The Zoo of Lithuania is a popular animal attraction in Kaunas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.954558,
                         54.90181
@@ -4153,7 +4153,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Nuotykių ir laipynių parkas Minimelts",
                   "text": "Ein Abenteuer- und Kletterpark in Klaipėda für aktive Freizeitgestaltung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.121423,
                         55.726678
@@ -4524,7 +4524,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Nuotykių ir laipynių parkas Minimelts",
                   "text": "Kaland- és mászópark Klaipėdában az aktív kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.121423,
                         55.726678
@@ -4895,7 +4895,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Nuotykių ir laipynių parkas Minimelts",
                   "text": "Un parc de aventură și cățărare în Klaipėda pentru recreere activă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.121423,
                         55.726678
@@ -5266,7 +5266,7 @@ export const lithuaniaAllPoi = [
             {
                   "name": "Nuotykių ir laipynių parkas Minimelts",
                   "text": "An adventure and climbing park in Klaipėda for active recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.121423,
                         55.726678

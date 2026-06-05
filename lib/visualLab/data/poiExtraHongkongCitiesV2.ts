@@ -4211,7 +4211,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "爬蟲館 Reptile House",
                   "text": "Das Reptile House in Tuen Mun beherbergt verschiedene Reptilienarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -4483,7 +4483,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "爬蟲館 Reptile House",
                   "text": "A tuen muni Reptile House különféle hüllőfajoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -4755,7 +4755,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "爬蟲館 Reptile House",
                   "text": "Reptile House din Tuen Mun găzduiește diverse specii de reptile.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -5027,7 +5027,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Reptile House",
                   "text": "The Reptile House in Tuen Mun houses various reptile species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -16766,7 +16766,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Themenpark Snoopy's World in Fo Tan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -17056,7 +17056,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Snoopy's World vidámpark Fo Tanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -17346,7 +17346,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Parc tematic Snoopy's World în Fo Tan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -17636,7 +17636,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Snoopy's World",
                   "text": "Theme park Snoopy's World in Fo Tan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -29024,7 +29024,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "尤德觀鳥園 Edward Youde Aviary",
                   "text": "Das Edward Youde Aviary ist eine zoologische Attraktion in Happy Valley.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.160656,
                         22.276464
@@ -29530,7 +29530,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "尤德觀鳥園 Edward Youde Aviary",
                   "text": "Az Edward Youde Aviary egy állatkerti látványosság Happy Valley-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.160656,
                         22.276464
@@ -30036,7 +30036,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "尤德觀鳥園 Edward Youde Aviary",
                   "text": "Edward Youde Aviary este o atracție zoologică situată în Happy Valley.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.160656,
                         22.276464
@@ -30542,7 +30542,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Edward Youde Aviary",
                   "text": "Edward Youde Aviary is a zoo attraction located in Happy Valley.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.160656,
                         22.276464
@@ -30779,7 +30779,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "高峰樂園 The Summit",
                   "text": "The Summit ist ein Themenpark in Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.170898,
                         22.234424
@@ -30797,7 +30797,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "海洋奇觀 Grand Aquarium",
                   "text": "Das Grand Aquarium ist ein Aquarium in Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.174587,
                         22.245758
@@ -30806,7 +30806,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "水上樂園 Water World",
                   "text": "Water World ist ein Themenpark in Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.168192,
                         22.235949
@@ -31186,7 +31186,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "高峰樂園 The Summit",
                   "text": "A The Summit egy vidámpark Ap Lei Chau-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.170898,
                         22.234424
@@ -31204,7 +31204,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "海洋奇觀 Grand Aquarium",
                   "text": "A Grand Aquarium egy akvárium Ap Lei Chau-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.174587,
                         22.245758
@@ -31213,7 +31213,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "水上樂園 Water World",
                   "text": "A Water World egy vidámpark Ap Lei Chau-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.168192,
                         22.235949
@@ -31593,7 +31593,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "高峰樂園 The Summit",
                   "text": "The Summit este un parc tematic situat în Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.170898,
                         22.234424
@@ -31611,7 +31611,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "海洋奇觀 Grand Aquarium",
                   "text": "Grand Aquarium este un acvariu situat în Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.174587,
                         22.245758
@@ -31620,7 +31620,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "水上樂園 Water World",
                   "text": "Water World este un parc tematic situat în Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.168192,
                         22.235949
@@ -32000,7 +32000,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "The Summit",
                   "text": "The Summit is a theme park attraction located in Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.170898,
                         22.234424
@@ -32018,7 +32018,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Grand Aquarium",
                   "text": "Grand Aquarium is an aquarium facility located in Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.174587,
                         22.245758
@@ -32027,7 +32027,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Water World",
                   "text": "Water World is a theme park attraction situated in Ap Lei Chau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.168192,
                         22.235949
@@ -44018,7 +44018,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "香港迪士尼樂園 Hong Kong Disneyland",
                   "text": "Hong Kong Disneyland ist ein großer Freizeitpark in der Nähe von Discovery Bay, der verschiedene Themenbereiche basierend auf Disney-Figuren bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.041369,
                         22.313081
@@ -44164,7 +44164,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "香港迪士尼樂園 Hong Kong Disneyland",
                   "text": "A Hong Kong Disneyland egy jelentős vidámpark Discovery Bay közelében, amely Disney karaktereken alapuló tematikus zónákat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.041369,
                         22.313081
@@ -44310,7 +44310,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "香港迪士尼樂園 Hong Kong Disneyland",
                   "text": "Hong Kong Disneyland este un parc tematic major lângă Discovery Bay, oferind diverse zone tematice bazate pe personajele Disney.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.041369,
                         22.313081
@@ -44456,7 +44456,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Hong Kong Disneyland",
                   "text": "Hong Kong Disneyland is a major theme park near Discovery Bay featuring various themed lands based on Disney characters.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.041369,
                         22.313081
@@ -45602,7 +45602,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Snoopy's World ist ein kleiner Freizeitpark im Tai Wai Village, der auf den Peanuts-Comics basiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -45928,7 +45928,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "A Snoopy's World egy kis vidámpark Tai Wai Village-ben, amely a Peanuts képregényeken alapul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -46254,7 +46254,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Snoopy's World este un mic parc tematic bazat pe benzile desenate Peanuts, aflat în Tai Wai Village.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -46580,7 +46580,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Snoopy's World",
                   "text": "Snoopy's World is a small theme park based on the Peanuts comic strip in Tai Wai Village.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -46961,7 +46961,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Snoopy's World ist ein Themenpark in Tsang Tai Uk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -47278,7 +47278,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "A Snoopy's World egy vidámpark Tsang Tai Ukban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -47595,7 +47595,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "史諾比開心世界 Snoopy's World",
                   "text": "Snoopy's World este un parc tematic în Tsang Tai Uk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -47912,7 +47912,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Snoopy's World",
                   "text": "Snoopy's World is a theme park in Tsang Tai Uk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.189279,
                         22.381996
@@ -49904,7 +49904,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "挪亞方舟 Noah's Ark",
                   "text": "Noah's Ark ist ein Freizeitpark in Sham Tseng.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.061302,
                         22.348268
@@ -50104,7 +50104,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "挪亞方舟 Noah's Ark",
                   "text": "A Noah's Ark egy vidámpark Sham Tseng-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.061302,
                         22.348268
@@ -50304,7 +50304,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "挪亞方舟 Noah's Ark",
                   "text": "Noah's Ark este un parc tematic în Sham Tseng.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.061302,
                         22.348268
@@ -50504,7 +50504,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Noah's Ark",
                   "text": "Noah's Ark is a theme park located in Sham Tseng.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         114.061302,
                         22.348268
@@ -50696,7 +50696,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "爬蟲館 Reptile House",
                   "text": "Zoo in So Kwun Wat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -50860,7 +50860,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "爬蟲館 Reptile House",
                   "text": "Állatkert So Kwun Wat városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -51024,7 +51024,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "爬蟲館 Reptile House",
                   "text": "Grădină zoologică în So Kwun Wat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546
@@ -51188,7 +51188,7 @@ export const hongkongCitiesV2: POI[] = [
             {
                   "name": "Reptile House",
                   "text": "Zoo in So Kwun Wat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         113.973653,
                         22.390546

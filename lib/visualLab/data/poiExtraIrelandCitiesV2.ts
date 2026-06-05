@@ -1646,7 +1646,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Kilcreggan Urban Farm",
                   "text": "Ein gemeinschaftlich betriebener städtischer Bauernhof und Tierpark in Carrickfergus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.795213,
                         54.720558
@@ -1702,7 +1702,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Kilcreggan Urban Farm",
                   "text": "Közösségi fenntartású városi farm és állatpark Carrickfergusban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.795213,
                         54.720558
@@ -1758,7 +1758,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Kilcreggan Urban Farm",
                   "text": "O fermă urbană și un centru de animale administrat de comunitate în Carrickfergus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.795213,
                         54.720558
@@ -1814,7 +1814,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Kilcreggan Urban Farm",
                   "text": "A community-run urban farm and animal center in Carrickfergus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -5.795213,
                         54.720558
@@ -2393,7 +2393,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Funster Playcentre",
                   "text": "Ein Indoor-Spielplatz und Freizeitzentrum für Familien in Castlebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.282391,
                         53.848403
@@ -2449,7 +2449,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Funster Playcentre",
                   "text": "Fedett játszóház és családi szabadidőközpont Castlebarban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.282391,
                         53.848403
@@ -2505,7 +2505,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Funster Playcentre",
                   "text": "Un centru de joacă interior și de recreere pentru familii în Castlebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.282391,
                         53.848403
@@ -2561,7 +2561,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Funster Playcentre",
                   "text": "An indoor play centre and leisure facility for families in Castlebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.282391,
                         53.848403
@@ -2861,7 +2861,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Shooting Range",
                   "text": "Ein Themenpark und eine Freizeiteinrichtung in Cratloe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.724239,
                         52.708593
@@ -2870,7 +2870,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Woodcock Hill Airsoft & Adventure Centre",
                   "text": "Ein Abenteuerzentrum in Cratloe, das Airsoft und Outdoor-Aktivitäten anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.725788,
                         52.709546
@@ -2890,7 +2890,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Shooting Range",
                   "text": "Vidámpark és szabadidős létesítmény Cratloe-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.724239,
                         52.708593
@@ -2899,7 +2899,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Woodcock Hill Airsoft & Adventure Centre",
                   "text": "Kalandközpont Cratloe-ban, amely airsoftot és szabadtéri tevékenységeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.725788,
                         52.709546
@@ -2919,7 +2919,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Shooting Range",
                   "text": "Un parc tematic și o facilitate de recreere în Cratloe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.724239,
                         52.708593
@@ -2928,7 +2928,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Woodcock Hill Airsoft & Adventure Centre",
                   "text": "Un centru de aventură din Cratloe care oferă airsoft și activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.725788,
                         52.709546
@@ -2948,7 +2948,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Shooting Range",
                   "text": "A theme park and recreational facility in Cratloe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.724239,
                         52.708593
@@ -2957,7 +2957,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Woodcock Hill Airsoft & Adventure Centre",
                   "text": "An adventure centre in Cratloe offering airsoft and outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.725788,
                         52.709546
@@ -4031,7 +4031,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Fermoy Leasure Center",
                   "text": "Ein Wasserpark und eine Freizeiteinrichtung in Fermoy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.277824,
                         52.140628
@@ -4132,7 +4132,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Fermoy Leasure Center",
                   "text": "Vízipark és szabadidős létesítmény Fermoyban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.277824,
                         52.140628
@@ -4233,7 +4233,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Fermoy Leasure Center",
                   "text": "Un parc acvatic și o facilitate de recreere în Fermoy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.277824,
                         52.140628
@@ -4334,7 +4334,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Fermoy Leisure Centre",
                   "text": "A water park and recreational facility in Fermoy.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -8.277824,
                         52.140628
@@ -8054,7 +8054,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Blast Windsurfing and Windfoiling",
                   "text": "Blast Windsurfing and Windfoiling ist eine Wassersportanlage in Malahide.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.175549,
                         53.469082
@@ -8099,7 +8099,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "The Butterfly House",
                   "text": "The Butterfly House ist eine zoologische Attraktion in Malahide.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.161823,
                         53.444977
@@ -8218,7 +8218,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Blast Windsurfing and Windfoiling",
                   "text": "A Blast Windsurfing and Windfoiling egy vízisport-létesítmény Malahide-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.175549,
                         53.469082
@@ -8263,7 +8263,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "The Butterfly House",
                   "text": "A The Butterfly House egy állattani látványosság Malahide-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.161823,
                         53.444977
@@ -8382,7 +8382,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Blast Windsurfing and Windfoiling",
                   "text": "Blast Windsurfing and Windfoiling este o bază de sporturi nautice situată în Malahide.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.175549,
                         53.469082
@@ -8427,7 +8427,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "The Butterfly House",
                   "text": "The Butterfly House este o atracție zoologică în Malahide.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.161823,
                         53.444977
@@ -8546,7 +8546,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Blast Windsurfing and Windfoiling",
                   "text": "Blast Windsurfing and Windfoiling is a water sports facility located in Malahide.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.175549,
                         53.469082
@@ -8591,7 +8591,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "The Butterfly House",
                   "text": "The Butterfly House is a zoological attraction in Malahide.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.161823,
                         53.444977
@@ -8855,7 +8855,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Harbour Splash",
                   "text": "Ein aufblasbarer Wasserpark im Hafen von Dun Laoghaire.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.14342,
                         53.296982
@@ -9136,7 +9136,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Harbour Splash",
                   "text": "Felfújható vízipark Dun Laoghaire kikötőjében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.14342,
                         53.296982
@@ -9417,7 +9417,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Harbour Splash",
                   "text": "Un parc acvatic gonflabil în portul Dun Laoghaire.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.14342,
                         53.296982
@@ -9698,7 +9698,7 @@ export const irelandCitiesV2: POI[] = [
             {
                   "name": "Harbour Splash",
                   "text": "An inflatable water park located in Dun Laoghaire Harbour.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -6.14342,
                         53.296982

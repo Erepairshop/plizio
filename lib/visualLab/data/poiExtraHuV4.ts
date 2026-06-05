@@ -1704,7 +1704,7 @@ export const poiExtraHuV4: POI[] = [
             {
                   "name": "Demjéni Termálfürdő és Aquapark",
                   "text": "Hatalmas kültéri és beltéri fürdőkomplexum, amely éjszakai fürdőzéséről és csúszdáiról híres.",
-                  "category": "recreational",
+                  "category": "family",
                   "confidence": "high",
                   "source_hint": "wiki",
                   "coords": [
@@ -1731,7 +1731,7 @@ export const poiExtraHuV4: POI[] = [
             {
                   "name": "Demjén Cascade Höhlenbad",
                   "text": "Ein futuristisches Erlebnisbad in einer natürlichen Höhlenwelt mit einzigartiger Beleuchtung.",
-                  "category": "recreational",
+                  "category": "family",
                   "confidence": "high",
                   "source_hint": "wiki",
                   "coords": [
@@ -1744,7 +1744,7 @@ export const poiExtraHuV4: POI[] = [
             {
                   "name": "Băile Termale Demjén",
                   "text": "Complex balnear vast cu ape curative și multiple posibilități de agrement acvatic.",
-                  "category": "recreational",
+                  "category": "family",
                   "confidence": "high",
                   "source_hint": "wiki",
                   "coords": [
@@ -1757,7 +1757,7 @@ export const poiExtraHuV4: POI[] = [
             {
                   "name": "Demjén Thermal Bath and Aqua Park",
                   "text": "A major regional spa destination famous for its extensive outdoor pools and thermal springs.",
-                  "category": "recreational",
+                  "category": "family",
                   "confidence": "high",
                   "source_hint": "wiki",
                   "coords": [

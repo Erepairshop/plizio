@@ -43326,7 +43326,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acuario Poema del Mar",
                   "text": "Ein hochmodernes Aquarium am Hafen, das in verschiedenen Themenbereichen die Artenvielfalt der Weltmeere zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -43587,7 +43587,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acuario Poema del Mar",
                   "text": "Modern akvárium a kikötő közelében, amely látványos módon mutatja be a világ óceánjainak élővilágát.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -43848,7 +43848,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acuario Poema del Mar",
                   "text": "Un acvariu ultramodern lângă port, care prezintă biodiversitatea oceanelor lumii în zone tematice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -44109,7 +44109,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acuario Poema del Mar",
                   "text": "A state-of-the-art aquarium near the harbor, showcasing global marine biodiversity across various themed zones.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -15.428225,
                         28.144603
@@ -45484,7 +45484,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acua Water Park",
                   "text": "Ein familienfreundlicher Wasserpark auf Fuerteventura mit verschiedenen Rutschen und Pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -13.870609,
                         28.727379
@@ -45655,7 +45655,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acua Water Park",
                   "text": "Családbarát vízi park Fuerteventurán, számos csúszdával és élménymedencével.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -13.870609,
                         28.727379
@@ -45826,7 +45826,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acua Water Park",
                   "text": "Un parc acvatic pentru familii în Fuerteventura, cu diverse tobogane și piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -13.870609,
                         28.727379
@@ -45997,7 +45997,7 @@ export const poiExtraEsV2: POI[] = [
             {
                   "name": "Acua Water Park",
                   "text": "A family-friendly water park in Fuerteventura featuring various slides, wave pools, and relaxation areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -13.870609,
                         28.727379

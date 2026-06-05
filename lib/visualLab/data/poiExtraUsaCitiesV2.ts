@@ -3983,7 +3983,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Downtown Aquarium",
                   "text": "Das Downtown Aquarium in Houston ist ein großes öffentliches Aquarium mit einem Restaurantkomplex.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.367398,
                         29.764278
@@ -4462,7 +4462,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Downtown Aquarium",
                   "text": "A houstoni Downtown Aquarium egy nagy nyilvános akvárium és étteremkomplexum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.367398,
                         29.764278
@@ -4941,7 +4941,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Downtown Aquarium",
                   "text": "Downtown Aquarium din Houston este un mare acvariu public și complex de restaurante.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.367398,
                         29.764278
@@ -5420,7 +5420,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Downtown Aquarium",
                   "text": "The Downtown Aquarium in Houston is a large public aquarium and dining complex.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.367398,
                         29.764278
@@ -6189,7 +6189,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Philadelphia Zoo",
                   "text": "Der 1874 eröffnete Tierpark gilt als der erste echte Zoo in den Vereinigten Staaten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.195332,
                         39.971709
@@ -6677,7 +6677,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Philadelphia Zoo",
                   "text": "Az 1874-ben megnyílt állatkert az Egyesült Államok első valódi állatkertjeként ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.195332,
                         39.971709
@@ -7165,7 +7165,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Philadelphia Zoo",
                   "text": "Deschisă în 1874, este recunoscută drept prima grădină zoologică adevărată din Statele Unite.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.195332,
                         39.971709
@@ -7653,7 +7653,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Philadelphia Zoo",
                   "text": "Opened in 1874, it is recognized as the first true zoo in the United States.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -75.195332,
                         39.971709
@@ -8009,7 +8009,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "San Diego Zoo",
                   "text": "Einer der berühmtesten und artenreichsten Zoos der Welt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.150709,
                         32.735973
@@ -8398,7 +8398,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "San Diego Zoo",
                   "text": "A világ egyik leghíresebb és fajokban leggazdagabb állatkertje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.150709,
                         32.735973
@@ -8787,7 +8787,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "San Diego Zoo",
                   "text": "Una dintre cele mai faimoase și bogate în specii grădini zoologice din lume.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.150709,
                         32.735973
@@ -9176,7 +9176,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "San Diego Zoo",
                   "text": "One of the most famous and diverse zoos in the world.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.150709,
                         32.735973
@@ -9636,7 +9636,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Happy Hollow Park and Zoo",
                   "text": "Ein familienfreundlicher Park mit einem anerkannten Zoo, Puppentheater und Spielbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -121.863013,
                         37.325902
@@ -10052,7 +10052,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Happy Hollow Park and Zoo",
                   "text": "Családbarát park akkreditált állatkerttel, bábszínházzal és játszóterekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -121.863013,
                         37.325902
@@ -10468,7 +10468,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Happy Hollow Park and Zoo",
                   "text": "Un parc pentru familii care include o grădină zoologică acreditată, teatru de păpuși și zone de joacă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -121.863013,
                         37.325902
@@ -10884,7 +10884,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Happy Hollow Park and Zoo",
                   "text": "A family-friendly park featuring an accredited zoo, puppet theater, and play areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -121.863013,
                         37.325902
@@ -17911,7 +17911,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Oregon Zoo",
                   "text": "Der Oregon Zoo ist ein renommierter zoologischer Garten in Portland, Oregon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.713361,
                         45.509665
@@ -18399,7 +18399,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Oregon Zoo",
                   "text": "Az Oregon Zoo egy híres állatkert az oregoni Portlandben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.713361,
                         45.509665
@@ -18887,7 +18887,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Oregon Zoo",
                   "text": "Oregon Zoo este o grădină zoologică renumită situată în Portland, Oregon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.713361,
                         45.509665
@@ -19375,7 +19375,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Oregon Zoo",
                   "text": "The Oregon Zoo is a renowned zoological park situated in Portland, Oregon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.713361,
                         45.509665
@@ -19945,7 +19945,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Hartke Pool",
                   "text": "Ein Wasserpark oder Schwimmzentrum in Las Vegas für sommerliche Abkühlung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -115.124542,
                         36.190669
@@ -20370,7 +20370,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Hartke Pool",
                   "text": "Vízipark vagy úszóközpont Las Vegasban a nyári felfrissüléshez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -115.124542,
                         36.190669
@@ -20795,7 +20795,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Hartke Pool",
                   "text": "Un parc acvatic sau centru de înot din Las Vegas pentru răcorire pe timpul verii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -115.124542,
                         36.190669
@@ -21220,7 +21220,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Hartke Pool",
                   "text": "A water park or swimming center in Las Vegas for summer cooling.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -115.124542,
                         36.190669
@@ -21573,7 +21573,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Clarksville Cove",
                   "text": "Clarksville Cove ist ein Wasserpark in der Gegend von Louisville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.75697,
                         38.279543
@@ -21998,7 +21998,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Clarksville Cove",
                   "text": "A Clarksville Cove egy vízipark a Louisville-i területen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.75697,
                         38.279543
@@ -22423,7 +22423,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Clarksville Cove",
                   "text": "Clarksville Cove este un parc acvatic din zona Louisville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.75697,
                         38.279543
@@ -22848,7 +22848,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Clarksville Cove",
                   "text": "Clarksville Cove is a water park offering recreational activities in the Louisville area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.75697,
                         38.279543
@@ -26833,7 +26833,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fresno Chaffee Zoo",
                   "text": "Ein beliebter Zoo im Roeding Park von Fresno mit einer großen Vielfalt an Tieren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -119.819892,
                         36.752511
@@ -27024,7 +27024,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fresno Chaffee Zoo",
                   "text": "Népszerű állatkert a fresnói Roeding Parkban, amely állatok széles választékát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -119.819892,
                         36.752511
@@ -27215,7 +27215,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fresno Chaffee Zoo",
                   "text": "O grădină zoologică populară în Parcul Roeding din Fresno, cu o mare varietate de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -119.819892,
                         36.752511
@@ -27406,7 +27406,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fresno Chaffee Zoo",
                   "text": "A popular zoo in Fresno's Roeding Park featuring a wide variety of animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -119.819892,
                         36.752511
@@ -27688,7 +27688,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of the Pacific",
                   "text": "Ein großes Aquarium in Long Beach, das die Meeresbewohner des Pazifiks zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -118.197133,
                         33.761995
@@ -27978,7 +27978,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of the Pacific",
                   "text": "Hatalmas akvárium Long Beachben, amely a Csendes-óceán élővilágát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -118.197133,
                         33.761995
@@ -28268,7 +28268,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of the Pacific",
                   "text": "Un acvariu mare din Long Beach care prezintă viața marină a Pacificului.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -118.197133,
                         33.761995
@@ -28558,7 +28558,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of the Pacific",
                   "text": "A large aquarium in Long Beach showcasing the marine life of the Pacific.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -118.197133,
                         33.761995
@@ -28938,7 +28938,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Pioneer Park Water Wall and Splash Pad",
                   "text": "Ein beliebter Wasserspielplatz im Pioneer Park von Mesa für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.819591,
                         33.416929
@@ -28956,7 +28956,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Kino Aquatic Center",
                   "text": "Eine öffentliche Badeanlage in Mesa mit Schwimmbecken und Wassererholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.815208,
                         33.432988
@@ -28965,7 +28965,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Carson Aquatic Complex",
                   "text": "Ein Komplex für Schwimmen und Wassererholung in Mesa, Arizona.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.851732,
                         33.426415
@@ -29129,7 +29129,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Pioneer Park Water Wall and Splash Pad",
                   "text": "Népszerű vizes játszótér gyerekeknek a mesai Pioneer Parkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.819591,
                         33.416929
@@ -29147,7 +29147,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Kino Aquatic Center",
                   "text": "Nyilvános vízi létesítmény Mesában, amely úszómedencéket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.815208,
                         33.432988
@@ -29156,7 +29156,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Carson Aquatic Complex",
                   "text": "Közösségi úszó- és vízi szabadidős komplexum arizonai Mesában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.851732,
                         33.426415
@@ -29320,7 +29320,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Pioneer Park Water Wall and Splash Pad",
                   "text": "O instalație de apă populară pentru copii, situată în Parcul Pioneer din Mesa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.819591,
                         33.416929
@@ -29338,7 +29338,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Kino Aquatic Center",
                   "text": "O instalație acvatică publică din Mesa, care oferă piscine și recreere pe apă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.815208,
                         33.432988
@@ -29347,7 +29347,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Carson Aquatic Complex",
                   "text": "Un complex comunitar de înot și recreere acvatică situat în Mesa, Arizona.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.851732,
                         33.426415
@@ -29511,7 +29511,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Pioneer Park Water Wall and Splash Pad",
                   "text": "A popular water feature and splash pad for children located in Mesa's Pioneer Park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.819591,
                         33.416929
@@ -29529,7 +29529,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Kino Aquatic Center",
                   "text": "A public aquatic facility in Mesa offering swimming pools and water recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.815208,
                         33.432988
@@ -29538,7 +29538,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Carson Aquatic Complex",
                   "text": "A community swimming and water recreation complex located in Mesa, Arizona.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -111.851732,
                         33.426415
@@ -31234,7 +31234,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Henry Doorly Zoo and Aquarium",
                   "text": "Einer der weltweit führenden Zoos, bekannt für seine großen Indoor-Wüsten- und Regenwaldausstellungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.926517,
                         41.225425
@@ -31695,7 +31695,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Henry Doorly Zoo and Aquarium",
                   "text": "A világ egyik vezető állatkertje, amely híres hatalmas fedett sivatagi és esőerdei kiállításairól.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.926517,
                         41.225425
@@ -32156,7 +32156,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Henry Doorly Zoo and Aquarium",
                   "text": "Una dintre cele mai importante grădini zoologice din lume, faimoasă pentru expozițiile sale vaste de deșert și pădure tropicală interioară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.926517,
                         41.225425
@@ -32617,7 +32617,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Henry Doorly Zoo and Aquarium",
                   "text": "One of the world's leading zoos, famous for its large indoor desert and rainforest exhibits.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.926517,
                         41.225425
@@ -33473,7 +33473,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Children's Fairyland",
                   "text": "Ein historischer Märchen-Freizeitpark für Kinder in Oakland.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.260255,
                         37.808759
@@ -33925,7 +33925,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Children's Fairyland",
                   "text": "Történelmi mesepark gyerekeknek Oaklandben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.260255,
                         37.808759
@@ -34377,7 +34377,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Children's Fairyland",
                   "text": "Un parc tematic istoric cu povești pentru copii în Oakland.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.260255,
                         37.808759
@@ -34829,7 +34829,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Children's Fairyland",
                   "text": "A historic storybook-themed park for children in Oakland.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.260255,
                         37.808759
@@ -37134,7 +37134,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Das Splash Pad ist ein Wasserpark in Tulsa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.987673,
                         36.159494
@@ -37433,7 +37433,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "A Splash Pad egy vízipark Tulsában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.987673,
                         36.159494
@@ -37732,7 +37732,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Splash Pad este un parc acvatic din Tulsa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.987673,
                         36.159494
@@ -38031,7 +38031,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "The Splash Pad is a water park situated in Tulsa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -95.987673,
                         36.159494
@@ -38437,7 +38437,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Audubon Insectarium",
                   "text": "Ein interaktives Museum in New Orleans, das der Erforschung und Ausstellung von Insekten und Schmetterlingen gewidmet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.063318,
                         29.951359
@@ -38826,7 +38826,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Audubon Insectarium",
                   "text": "Interaktív múzeum New Orleansban, amely a rovarok és pillangók tanulmányozásával és bemutatásával foglalkozik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.063318,
                         29.951359
@@ -39215,7 +39215,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Audubon Insectarium",
                   "text": "Un muzeu interactiv din New Orleans dedicat studiului și expunerii insectelor și fluturilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.063318,
                         29.951359
@@ -39604,7 +39604,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Audubon Insectarium",
                   "text": "An interactive museum in New Orleans dedicated to the study and display of insects and butterflies.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.063318,
                         29.951359
@@ -40856,7 +40856,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Greater Cleveland Aquarium",
                   "text": "Ein Aquarium mit Meereslebewesen in einem historischen Kraftwerksgebäude.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.703823,
                         41.496747
@@ -41281,7 +41281,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Greater Cleveland Aquarium",
                   "text": "Akvárium tengeri élővilággal egy történelmi erőműépületben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.703823,
                         41.496747
@@ -41706,7 +41706,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Greater Cleveland Aquarium",
                   "text": "Un acvariu cu specii marine situat într-o clădire istorică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.703823,
                         41.496747
@@ -42131,7 +42131,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Greater Cleveland Aquarium",
                   "text": "An aquarium featuring marine life in a historic powerhouse building.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.703823,
                         41.496747
@@ -42502,7 +42502,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Florida Aquarium",
                   "text": "Ein großes Aquarium in Tampa, das eine vielfältige Meeresfauna und Ökosysteme Floridas zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.444863,
                         27.944039
@@ -42756,7 +42756,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Florida Aquarium",
                   "text": "Nagy akvárium Tampában, amely változatos tengeri élővilágot és Florida ökoszisztémáit mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.444863,
                         27.944039
@@ -43010,7 +43010,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Florida Aquarium",
                   "text": "Un acvariu mare din Tampa care prezintă o viață marină diversă și ecosistemele Floridei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.444863,
                         27.944039
@@ -43264,7 +43264,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Florida Aquarium",
                   "text": "A large aquarium in Tampa featuring diverse marine life and Florida ecosystems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.444863,
                         27.944039
@@ -44921,7 +44921,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Aquarium",
                   "text": "Das St. Louis Aquarium ist ein öffentliches Aquarium in St. Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.207576,
                         38.627967
@@ -44993,7 +44993,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Wheel Park",
                   "text": "Der St. Louis Wheel Park ist ein Freizeitpark in St. Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.209544,
                         38.627253
@@ -45382,7 +45382,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Aquarium",
                   "text": "A St. Louis Aquarium egy nyilvános akvárium St. Louisban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.207576,
                         38.627967
@@ -45454,7 +45454,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Wheel Park",
                   "text": "A St. Louis Wheel Park egy vidámpark St. Louisban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.209544,
                         38.627253
@@ -45843,7 +45843,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Aquarium",
                   "text": "St. Louis Aquarium este un acvariu public situat în St. Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.207576,
                         38.627967
@@ -45915,7 +45915,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Wheel Park",
                   "text": "St. Louis Wheel Park este un parc de distracții în St. Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.209544,
                         38.627253
@@ -46304,7 +46304,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Aquarium",
                   "text": "The St. Louis Aquarium is a public aquarium located in St. Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.207576,
                         38.627967
@@ -46376,7 +46376,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "St. Louis Wheel Park",
                   "text": "St. Louis Wheel Park is an amusement park in St. Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.209544,
                         38.627253
@@ -47457,7 +47457,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Santa Ana Zoo at Prentice Park",
                   "text": "Ein Zoo im Prentice Park von Santa Ana, der auf Pflanzen und Tiere Mittel- und Südamerikas spezialisiert ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.842009,
                         33.743745
@@ -47576,7 +47576,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Santa Ana Zoo at Prentice Park",
                   "text": "Állatkert Santa Ana Prentice Parkjában, amely Közép- és Dél-Amerika növény- és állatvilágára összpontosít.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.842009,
                         33.743745
@@ -47695,7 +47695,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Santa Ana Zoo at Prentice Park",
                   "text": "O grădină zoologică din Prentice Park, Santa Ana, specializată în plante și animale din America Centrală și de Sud.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.842009,
                         33.743745
@@ -47814,7 +47814,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Santa Ana Zoo at Prentice Park",
                   "text": "A zoo in Santa Ana's Prentice Park specializing in plants and animals of Central and South America.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.842009,
                         33.743745
@@ -52357,7 +52357,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Boomers! Irvine",
                   "text": "Ein Freizeitpark in Irvine mit verschiedenen Attraktionen für Familien und Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.834196,
                         33.672104
@@ -52512,7 +52512,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Boomers! Irvine",
                   "text": "Egy vidámpark Irvine-ban, különféle attrakciókkal családok és gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.834196,
                         33.672104
@@ -52667,7 +52667,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Boomers! Irvine",
                   "text": "Un parc de distracții din Irvine cu diverse atracții pentru familii și copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.834196,
                         33.672104
@@ -52822,7 +52822,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Boomers! Irvine",
                   "text": "An amusement park in Irvine with various attractions for families and children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -117.834196,
                         33.672104
@@ -53759,7 +53759,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Sunken Gardens",
                   "text": "Sunken Gardens ist ein botanischer Garten und eine zoologische Attraktion in St. Petersburg, Florida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.637204,
                         27.790043
@@ -54040,7 +54040,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Sunken Gardens",
                   "text": "A Sunken Gardens egy botanikus kert és állatkerti látványosság a floridai St. Petersburgban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.637204,
                         27.790043
@@ -54321,7 +54321,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Sunken Gardens",
                   "text": "Sunken Gardens este o grădină botanică și grădină zoologică din St. Petersburg, Florida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.637204,
                         27.790043
@@ -54602,7 +54602,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Sunken Gardens",
                   "text": "Sunken Gardens is a botanical garden and zoological attraction in St. Petersburg, Florida.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -82.637204,
                         27.790043
@@ -56906,7 +56906,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "Das Lamar Bruni Vergara Environmental Science Center ist ein Zoo und Wissenschaftszentrum am Laredo College in Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -56915,7 +56915,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Alberca Ilusion Acuatica ist ein Freizeitpark in Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -57124,7 +57124,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "A Lamar Bruni Vergara Environmental Science Center egy állatkert és tudományos központ a Laredo College-ban, Laredo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -57133,7 +57133,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Az Alberca Ilusion Acuatica egy vidámpark Laredo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -57342,7 +57342,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "Lamar Bruni Vergara Environmental Science Center este o grădină zoologică și un centru științific la Laredo College din Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -57351,7 +57351,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Alberca Ilusion Acuatica este un parc tematic situat în Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -57560,7 +57560,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "The Lamar Bruni Vergara Environmental Science Center is a zoo and science facility at Laredo College in Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -57569,7 +57569,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Alberca Ilusion Acuatica is a theme park located in Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -59998,7 +59998,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fort Wayne Kinderzoo",
                   "text": "Ein beliebter, familienfreundlicher Zoo in Fort Wayne mit einer Vielzahl von Tieren und Themenbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.151915,
                         41.107677
@@ -60306,7 +60306,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fort Wayne Children's Zoo",
                   "text": "Népszerű családbarát állatkert Fort Wayne-ben, különféle állatokkal és tematikus területekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.151915,
                         41.107677
@@ -60614,7 +60614,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fort Wayne Children's Zoo",
                   "text": "O grădină zoologică populară pentru familii din Fort Wayne, cu o varietate de animale și zone tematice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.151915,
                         41.107677
@@ -60922,7 +60922,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
             {
                   "name": "Fort Wayne Children's Zoo",
                   "text": "A popular family-friendly zoo in Fort Wayne featuring a variety of animals and themed areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -85.151915,
                         41.107677

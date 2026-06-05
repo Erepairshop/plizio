@@ -668,7 +668,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Rainforest Wild Adventure West ist ein Zoo in Woodlands.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.781739,
                         1.40939
@@ -787,7 +787,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Rainforest Wild Adventure West",
                   "text": "A Rainforest Wild Adventure West egy állatkert Woodlands városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.781739,
                         1.40939
@@ -906,7 +906,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Rainforest Wild Adventure West este o grădină zoologică situată în Woodlands.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.781739,
                         1.40939
@@ -1025,7 +1025,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Rainforest Wild Adventure West is a zoo located in Woodlands.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.781739,
                         1.40939
@@ -2504,7 +2504,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Universal Studios Singapore",
                   "text": "Die Universal Studios Singapore sind ein weltbekannter Freizeitpark in der Region Bukit Merah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.822991,
                         1.254233
@@ -2513,7 +2513,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Singapore Oceanarium",
                   "text": "Das Singapore Oceanarium ist ein großes, anerkanntes Aquarium und ein Meerespark in der Nähe von Bukit Merah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.820508,
                         1.258364
@@ -2920,7 +2920,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Universal Studios Singapore",
                   "text": "A Universal Studios Singapore egy világhírű vidámpark Bukit Merah régiójában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.822991,
                         1.254233
@@ -2929,7 +2929,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Singapore Oceanarium",
                   "text": "A Singapore Oceanarium egy jelentős elismert akvárium és tengeri park Bukit Merah közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.820508,
                         1.258364
@@ -3336,7 +3336,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Universal Studios Singapore",
                   "text": "Universal Studios Singapore este un parc tematic de renume mondial situat în regiunea Bukit Merah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.822991,
                         1.254233
@@ -3345,7 +3345,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Singapore Oceanarium",
                   "text": "Singapore Oceanarium este un important acvariu și parc marin recunoscut din apropiere de Bukit Merah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.820508,
                         1.258364
@@ -3752,7 +3752,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Universal Studios Singapore",
                   "text": "Universal Studios Singapore is a world-renowned theme park located in the Bukit Merah region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.822991,
                         1.254233
@@ -3761,7 +3761,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Singapore Oceanarium",
                   "text": "The Singapore Oceanarium is a major recognized aquarium and marine park attraction near Bukit Merah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.820508,
                         1.258364
@@ -3965,7 +3965,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "That Aquarium",
                   "text": "That Aquarium ist ein Aquarium in Geylang.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.906439,
                         1.317625
@@ -3992,7 +3992,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Splash-N-Surf",
                   "text": "Splash-N-Surf ist ein Wasserpark in Geylang.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.87272,
                         1.303701
@@ -4435,7 +4435,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "That Aquarium",
                   "text": "A That Aquarium egy akvárium Geylangban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.906439,
                         1.317625
@@ -4462,7 +4462,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Splash-N-Surf",
                   "text": "A Splash-N-Surf egy élményfürdő Geylangban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.87272,
                         1.303701
@@ -4905,7 +4905,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "That Aquarium",
                   "text": "That Aquarium este un acvariu în Geylang.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.906439,
                         1.317625
@@ -4932,7 +4932,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Splash-N-Surf",
                   "text": "Splash-N-Surf este un parc acvatic în Geylang.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.87272,
                         1.303701
@@ -5375,7 +5375,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "That Aquarium",
                   "text": "That Aquarium is an aquarium in Geylang.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.906439,
                         1.317625
@@ -5402,7 +5402,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Splash-N-Surf",
                   "text": "Splash-N-Surf is a water park in Geylang.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.87272,
                         1.303701
@@ -9221,7 +9221,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Wild Wild Wet",
                   "text": "Ein beliebter Wasser-Themenpark in Pasir Ris.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.954667,
                         1.378103
@@ -9286,7 +9286,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Wild Wild Wet",
                   "text": "Egy népszerű vízi vidámpark Pasir Ris-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.954667,
                         1.378103
@@ -9351,7 +9351,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Wild Wild Wet",
                   "text": "Un parc tematic acvatic popular situat în Pasir Ris.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.954667,
                         1.378103
@@ -9416,7 +9416,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             {
                   "name": "Wild Wild Wet",
                   "text": "A popular water theme park situated in Pasir Ris.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         103.954667,
                         1.378103

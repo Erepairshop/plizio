@@ -112,6 +112,24 @@ export const bulgariaCitiesV2: POI[] = [
                         24.617453,
                         43.415859
                   ]
+            },
+            {
+                  "name": "яз. Мъртва долина",
+                  "text": "Der Dead Valley Reservoir in Pleven ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.600731,
+                        43.395548
+                  ]
+            },
+            {
+                  "name": "Euphoria",
+                  "text": "Euphoria in Pleven bietet vielfältige Unterhaltungsmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.620332,
+                        43.416807
+                  ]
             }
       ],
       "hu": [
@@ -221,6 +239,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.617453,
                         43.415859
+                  ]
+            },
+            {
+                  "name": "яз. Мъртва долина",
+                  "text": "A Dead Valley Reservoir egy tó Pleven területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.600731,
+                        43.395548
+                  ]
+            },
+            {
+                  "name": "Euphoria",
+                  "text": "A Euphoria Pleven városában változatos szórakozási lehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.620332,
+                        43.416807
                   ]
             }
       ],
@@ -332,6 +368,24 @@ export const bulgariaCitiesV2: POI[] = [
                         24.617453,
                         43.415859
                   ]
+            },
+            {
+                  "name": "яз. Мъртва долина",
+                  "text": "Dead Valley Reservoir din Pleven este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.600731,
+                        43.395548
+                  ]
+            },
+            {
+                  "name": "Euphoria",
+                  "text": "Euphoria din Pleven oferă diverse opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.620332,
+                        43.416807
+                  ]
             }
       ],
       "en": [
@@ -442,6 +496,24 @@ export const bulgariaCitiesV2: POI[] = [
                         24.617453,
                         43.415859
                   ]
+            },
+            {
+                  "name": "Dead Valley Reservoir",
+                  "text": "The Dead Valley Reservoir in Pleven is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.600731,
+                        43.395548
+                  ]
+            },
+            {
+                  "name": "Euphoria",
+                  "text": "Euphoria in Pleven offers various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        24.620332,
+                        43.416807
+                  ]
             }
       ]
 },
@@ -548,7 +620,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоопарк Габрово",
                   "text": "Der städtische Zoo von Gabrowo mit verschiedenen Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.330203,
                         42.873556
@@ -643,6 +715,78 @@ export const bulgariaCitiesV2: POI[] = [
                         25.319788,
                         42.872778
                   ]
+            },
+            {
+                  "name": "яз. Яна",
+                  "text": "Der Yana-Stausee in Gabrovo liegt eingebettet in eine ruhige Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "яз. Синкевица",
+                  "text": "Der Sinkevitsa-Stausee in Gabrovo bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "язовир Разсадника",
+                  "text": "Der Rassadnika-Stausee in Gabrovo ist ein Ziel für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "яз. Жълтеш",
+                  "text": "Der Zhaltesh-Stausee in Gabrovo bietet einen schönen Blick auf das Umland.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Язовир Враниловци",
+                  "text": "Der Vranilovtsi-Stausee in Gabrovo lädt zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Спортен риболов",
+                  "text": "Der Sporten ribolov in Gabrovo ist ein See, der Entspannung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Мечтания Детски развлекателен комплекс",
+                  "text": "Ein familienfreundlicher Spielplatz in Gabrovo für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Борчетата",
+                  "text": "Ein schöner Ort in Gabrovo, an dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
             }
       ],
       "hu": [
@@ -703,7 +847,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоопарк Габрово",
                   "text": "Gabrovo városi állatkertje különféle állatfajokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.330203,
                         42.873556
@@ -798,6 +942,78 @@ export const bulgariaCitiesV2: POI[] = [
                         25.319788,
                         42.872778
                   ]
+            },
+            {
+                  "name": "яз. Яна",
+                  "text": "A Yana víztározó Gabrovóban, nyugodt természeti környezetben található.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "яз. Синкевица",
+                  "text": "A Sinkevitsa víztározó Gabrovóban pihentető vízparti hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "язовир Разсадника",
+                  "text": "A Rassadnika víztározó Gabrovóban természetjáró séták kedvelt úti célja.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "яз. Жълтеш",
+                  "text": "A Zhaltesh víztározó Gabrovóban szép kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Язовир Враниловци",
+                  "text": "A Vranilovtsi víztározó Gabrovóban kellemes időtöltést kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Спортен риболов",
+                  "text": "A Gabrovóban található Sporten ribolov tó vízparti kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Мечтания Детски развлекателен комплекс",
+                  "text": "Gabrovo városában található családbarát játszótér a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Борчетата",
+                  "text": "Szép hely Gabrovo területén, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
             }
       ],
       "ro": [
@@ -858,7 +1074,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоопарк Габрово",
                   "text": "Grădina zoologică din Gabrovo, care găzduiește diverse specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.330203,
                         42.873556
@@ -953,6 +1169,78 @@ export const bulgariaCitiesV2: POI[] = [
                         25.319788,
                         42.872778
                   ]
+            },
+            {
+                  "name": "яз. Яна",
+                  "text": "Lacul de acumulare Yana din Gabrovo este situat într-un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "яз. Синкевица",
+                  "text": "Lacul de acumulare Sinkevitsa din Gabrovo oferă o atmosferă relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "язовир Разсадника",
+                  "text": "Lacul de acumulare Rassadnika din Gabrovo este o destinație pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "яз. Жълтеш",
+                  "text": "Lacul de acumulare Zhaltesh din Gabrovo oferă o priveliște frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Язовир Враниловци",
+                  "text": "Lacul de acumulare Vranilovtsi din Gabrovo invită la momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Спортен риболов",
+                  "text": "Sporten ribolov din Gabrovo este un lac care oferă relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Мечтания Детски развлекателен комплекс",
+                  "text": "Un teren de joacă pentru copii, ideal pentru familii, situat în Gabrovo.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Борчетата",
+                  "text": "Un loc frumos în Gabrovo unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
             }
       ],
       "en": [
@@ -1013,7 +1301,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоопарк Габрово",
                   "text": "The municipal zoo of Gabrovo, home to various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.330203,
                         42.873556
@@ -1107,6 +1395,78 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.319788,
                         42.872778
+                  ]
+            },
+            {
+                  "name": "яз. Яна",
+                  "text": "The Yana reservoir in Gabrovo is set within a peaceful natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "яз. Синкевица",
+                  "text": "The Sinkevitsa reservoir in Gabrovo offers a relaxing atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "язовир Разсадника",
+                  "text": "The Rassadnika reservoir in Gabrovo is a destination for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "яз. Жълтеш",
+                  "text": "The Zhaltesh reservoir in Gabrovo offers a nice view of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Язовир Враниловци",
+                  "text": "The Vranilovtsi reservoir in Gabrovo invites you to enjoy time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Спортен риболов",
+                  "text": "Sporten ribolov in Gabrovo is a lake that offers relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Мечтания Детски развлекателен комплекс",
+                  "text": "A family-friendly playground in Gabrovo for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Борчетата",
+                  "text": "A lovely spot in Gabrovo where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
                   ]
             }
       ]
@@ -1255,6 +1615,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.495066,
                         42.477626
                   ]
+            },
+            {
+                  "name": "яз. Кринчовица",
+                  "text": "Ein See bei Yambol, ideal um die natürliche Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
             }
       ],
       "hu": [
@@ -1355,6 +1724,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.495066,
                         42.477626
+                  ]
+            },
+            {
+                  "name": "яз. Кринчовица",
+                  "text": "Egy tó Jambol környékén, amely ideális a természetes táj élvezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
                   ]
             }
       ],
@@ -1457,6 +1835,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.495066,
                         42.477626
                   ]
+            },
+            {
+                  "name": "яз. Кринчовица",
+                  "text": "Un lac în apropiere de Iambol, ideal pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
             }
       ],
       "en": [
@@ -1558,6 +1945,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.495066,
                         42.477626
                   ]
+            },
+            {
+                  "name": "яз. Кринчовица",
+                  "text": "A lake near Yambol, ideal for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
             }
       ]
 },
@@ -1642,6 +2038,24 @@ export const bulgariaCitiesV2: POI[] = [
                         25.364965,
                         41.672267
                   ]
+            },
+            {
+                  "name": "яз. Студен кладенец",
+                  "text": "Der Studen kladenets in Kardzhali ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.517031,
+                        41.63389
+                  ]
+            },
+            {
+                  "name": "яз.Кърджали",
+                  "text": "Der яз.Кърджали in Kardzhali ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.254235,
+                        41.665108
+                  ]
             }
       ],
       "hu": [
@@ -1679,6 +2093,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.364965,
                         41.672267
+                  ]
+            },
+            {
+                  "name": "яз. Студен кладенец",
+                  "text": "A Studen kladenets egy tó Kardzhali területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.517031,
+                        41.63389
+                  ]
+            },
+            {
+                  "name": "яз.Кърджали",
+                  "text": "A яз.Кърджали egy tó Kardzhali területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.254235,
+                        41.665108
                   ]
             }
       ],
@@ -1718,6 +2150,24 @@ export const bulgariaCitiesV2: POI[] = [
                         25.364965,
                         41.672267
                   ]
+            },
+            {
+                  "name": "яз. Студен кладенец",
+                  "text": "Studen kladenets din Kardzhali este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.517031,
+                        41.63389
+                  ]
+            },
+            {
+                  "name": "яз.Кърджали",
+                  "text": "яз.Кърджали din Kardzhali este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.254235,
+                        41.665108
+                  ]
             }
       ],
       "en": [
@@ -1755,6 +2205,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.364965,
                         41.672267
+                  ]
+            },
+            {
+                  "name": "Studen kladenets",
+                  "text": "The Studen kladenets in Kardzhali is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.517031,
+                        41.63389
+                  ]
+            },
+            {
+                  "name": "яз.Кърджали",
+                  "text": "The яз.Кърджали in Kardzhali is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.254235,
+                        41.665108
                   ]
             }
       ]
@@ -1894,6 +2362,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.708394,
                         41.575218
                   ]
+            },
+            {
+                  "name": "яз. Пампорово",
+                  "text": "Ein malerischer See in Smoljan, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ез. Рибката (Кирянов гьол)",
+                  "text": "Ein ruhiger See in Smoljan, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Силажа",
+                  "text": "Ein schöner See in Smoljan, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
             }
       ],
       "hu": [
@@ -1985,6 +2480,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.708394,
                         41.575218
+                  ]
+            },
+            {
+                  "name": "яз. Пампорово",
+                  "text": "Festői tó Szmoljan területén, amely ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ез. Рибката (Кирянов гьол)",
+                  "text": "Csendes tó Szmoljan közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Силажа",
+                  "text": "Szép tó Szmoljan területén, amely pihentető légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
                   ]
             }
       ],
@@ -2078,6 +2600,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.708394,
                         41.575218
                   ]
+            },
+            {
+                  "name": "яз. Пампорово",
+                  "text": "Un lac pitoresc în Smolyan, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ез. Рибката (Кирянов гьол)",
+                  "text": "Un lac liniștit în Smolyan, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Силажа",
+                  "text": "Un lac frumos în Smolyan, care oferă o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
             }
       ],
       "en": [
@@ -2170,6 +2719,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.708394,
                         41.575218
                   ]
+            },
+            {
+                  "name": "Pamporovo dam",
+                  "text": "A scenic lake in Smolyan, perfect for walking and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ез. Рибката (Кирянов гьол)",
+                  "text": "A peaceful lake in Smolyan, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Силажа",
+                  "text": "A beautiful lake in Smolyan offering a relaxing atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
             }
       ]
 },
@@ -2217,7 +2793,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-smolyan-cities-v2.webp",
   },
   {
-    id: "bulgaria-targovishte-cities-v2",
+    id: "bulgaria-targovishte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "яз. Поляница",
+                  "text": "Ein See bei Targowischte, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "яз. Поляница",
+                  "text": "Egy tó Targoviste környékén, amely a természetben való tartózkodásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "яз. Поляница",
+                  "text": "Un lac în apropiere de Târgoviște, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "яз. Поляница",
+                  "text": "A lake near Targovishte, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Targowischte", hu: "Targoviste", ro: "Tărgoviște", en: "Targovishte" },
@@ -2785,6 +3406,24 @@ export const bulgariaCitiesV2: POI[] = [
                         26.524177,
                         43.526007
                   ]
+            },
+            {
+                  "name": "яз. Пчелина",
+                  "text": "Ein weitläufiger See in Rasgrad, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "яз. Пчелина 2",
+                  "text": "Ein weiterer malerischer See in der Region Rasgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
+                  ]
             }
       ],
       "hu": [
@@ -2858,6 +3497,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.524177,
                         43.526007
+                  ]
+            },
+            {
+                  "name": "яз. Пчелина",
+                  "text": "Hatalmas tó Razgrad közelében, ideális természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "яз. Пчелина 2",
+                  "text": "Egy másik festői tó Razgrad régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
                   ]
             }
       ],
@@ -2933,6 +3590,24 @@ export const bulgariaCitiesV2: POI[] = [
                         26.524177,
                         43.526007
                   ]
+            },
+            {
+                  "name": "яз. Пчелина",
+                  "text": "Un lac întins în Razgrad, ideal pentru o ieșire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "яз. Пчелина 2",
+                  "text": "Un alt lac pitoresc în regiunea Razgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
+                  ]
             }
       ],
       "en": [
@@ -3006,6 +3681,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.524177,
                         43.526007
+                  ]
+            },
+            {
+                  "name": "яз. Пчелина",
+                  "text": "A large lake in Razgrad, perfect for a nature outing.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "яз. Пчелина 2",
+                  "text": "Another scenic lake located in the Razgrad region.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
                   ]
             }
       ]
@@ -3113,7 +3806,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Ловешки зоопарк",
                   "text": "Der Zoo von Lowetsch beherbergt eine Vielzahl von Tieren und ist ein beliebtes Ausflugsziel für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.72883,
                         43.138589
@@ -3235,6 +3928,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.727369,
                         43.137544
                   ]
+            },
+            {
+                  "name": "яз. Липака",
+                  "text": "Ein See bei Lowetsch, ideal für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        24.75663,
+                        43.131064
+                  ]
+            },
+            {
+                  "name": "яз. Лисец",
+                  "text": "Ein See in der Region Lowetsch, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.67402,
+                        43.181809
+                  ]
+            },
+            {
+                  "name": "Яз. Баховица",
+                  "text": "Ein See bei Lowetsch, ideal um die Ruhe der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.69231,
+                        43.183516
+                  ]
             }
       ],
       "hu": [
@@ -3295,7 +4015,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Ловешки зоопарк",
                   "text": "A lowetschi állatkert számos állatfajnak ad otthont, és kedvelt családi kirándulóhely.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.72883,
                         43.138589
@@ -3417,6 +4137,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.727369,
                         43.137544
                   ]
+            },
+            {
+                  "name": "яз. Липака",
+                  "text": "Egy tó Lovecs környékén, amely ideális a természetkedvelőknek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.75663,
+                        43.131064
+                  ]
+            },
+            {
+                  "name": "яз. Лисец",
+                  "text": "Egy tó Lovecs régiójában, amely nyugodt természetes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.67402,
+                        43.181809
+                  ]
+            },
+            {
+                  "name": "Яз. Баховица",
+                  "text": "Egy tó Lovecs környékén, amely ideális a természet nyugalmának élvezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.69231,
+                        43.183516
+                  ]
             }
       ],
       "ro": [
@@ -3477,7 +4224,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Ловешки зоопарк",
                   "text": "Grădina zoologică din Loveci găzduiește o varietate de animale și este o destinație populară pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.72883,
                         43.138589
@@ -3599,6 +4346,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.727369,
                         43.137544
                   ]
+            },
+            {
+                  "name": "яз. Липака",
+                  "text": "Un lac în apropiere de Loveci, ideal pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.75663,
+                        43.131064
+                  ]
+            },
+            {
+                  "name": "яз. Лисец",
+                  "text": "Un lac în regiunea Loveci, care oferă un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        24.67402,
+                        43.181809
+                  ]
+            },
+            {
+                  "name": "Яз. Баховица",
+                  "text": "Un lac în apropiere de Loveci, ideal pentru a te bucura de liniștea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.69231,
+                        43.183516
+                  ]
             }
       ],
       "en": [
@@ -3659,7 +4433,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Ловешки зоопарк",
                   "text": "The Lovech Zoo houses a variety of animals and is a popular destination for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.72883,
                         43.138589
@@ -3781,6 +4555,33 @@ export const bulgariaCitiesV2: POI[] = [
                         24.727369,
                         43.137544
                   ]
+            },
+            {
+                  "name": "яз. Липака",
+                  "text": "A lake near Lovech, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        24.75663,
+                        43.131064
+                  ]
+            },
+            {
+                  "name": "яз. Лисец",
+                  "text": "A lake in the Lovech region offering a peaceful natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.67402,
+                        43.181809
+                  ]
+            },
+            {
+                  "name": "Яз. Баховица",
+                  "text": "A lake near Lovech, ideal for enjoying the peace of nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.69231,
+                        43.183516
+                  ]
             }
       ]
 },
@@ -3874,6 +4675,42 @@ export const bulgariaCitiesV2: POI[] = [
                         23.222177,
                         43.403817
                   ]
+            },
+            {
+                  "name": "яз. Липовец",
+                  "text": "Der яз. Липовец in Montana ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.266036,
+                        43.407235
+                  ]
+            },
+            {
+                  "name": "яз. Чернила",
+                  "text": "Der яз. Чернила in Montana ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.246888,
+                        43.381015
+                  ]
+            },
+            {
+                  "name": "яз. Долна вода",
+                  "text": "Der яз. Долна вода in Montana ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.214552,
+                        43.474319
+                  ]
+            },
+            {
+                  "name": "яз. Огоста",
+                  "text": "Der Ogosta dam in Montana ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.163882,
+                        43.374514
+                  ]
             }
       ],
       "hu": [
@@ -3920,6 +4757,42 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.222177,
                         43.403817
+                  ]
+            },
+            {
+                  "name": "яз. Липовец",
+                  "text": "A яз. Липовец egy tó Montana területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.266036,
+                        43.407235
+                  ]
+            },
+            {
+                  "name": "яз. Чернила",
+                  "text": "A яз. Чернила egy tó Montana területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.246888,
+                        43.381015
+                  ]
+            },
+            {
+                  "name": "яз. Долна вода",
+                  "text": "A яз. Долна вода egy tó Montana területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.214552,
+                        43.474319
+                  ]
+            },
+            {
+                  "name": "яз. Огоста",
+                  "text": "A Ogosta dam egy tó Montana területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.163882,
+                        43.374514
                   ]
             }
       ],
@@ -3968,6 +4841,42 @@ export const bulgariaCitiesV2: POI[] = [
                         23.222177,
                         43.403817
                   ]
+            },
+            {
+                  "name": "яз. Липовец",
+                  "text": "яз. Липовец din Montana este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.266036,
+                        43.407235
+                  ]
+            },
+            {
+                  "name": "яз. Чернила",
+                  "text": "яз. Чернила din Montana este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.246888,
+                        43.381015
+                  ]
+            },
+            {
+                  "name": "яз. Долна вода",
+                  "text": "яз. Долна вода din Montana este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.214552,
+                        43.474319
+                  ]
+            },
+            {
+                  "name": "яз. Огоста",
+                  "text": "Ogosta dam din Montana este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.163882,
+                        43.374514
+                  ]
             }
       ],
       "en": [
@@ -4014,6 +4923,42 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.222177,
                         43.403817
+                  ]
+            },
+            {
+                  "name": "яз. Липовец",
+                  "text": "The яз. Липовец in Montana is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.266036,
+                        43.407235
+                  ]
+            },
+            {
+                  "name": "яз. Чернила",
+                  "text": "The яз. Чернила in Montana is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.246888,
+                        43.381015
+                  ]
+            },
+            {
+                  "name": "яз. Долна вода",
+                  "text": "The яз. Долна вода in Montana is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.214552,
+                        43.474319
+                  ]
+            },
+            {
+                  "name": "Ogosta dam",
+                  "text": "The Ogosta dam in Montana is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.163882,
+                        43.374514
                   ]
             }
       ]
@@ -4355,7 +5300,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Витус",
                   "text": "Ein Wasserpark in Asenowgrad, der verschiedene Freizeit- und Schwimmbecken für Besucher bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.852147,
                         42.017469
@@ -4414,6 +5359,24 @@ export const bulgariaCitiesV2: POI[] = [
                         24.877596,
                         42.006563
                   ]
+            },
+            {
+                  "name": "Руенското езеро",
+                  "text": "Der Lake Rouen in Asenovgrad ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "яз. 40-те извора",
+                  "text": "Der яз. 40-те извора in Asenovgrad ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
             }
       ],
       "hu": [
@@ -4456,7 +5419,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Витус",
                   "text": "Vizi vidámpark Aszenovgrádban, amely különféle szabadidős és úszómedencéket kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.852147,
                         42.017469
@@ -4515,6 +5478,24 @@ export const bulgariaCitiesV2: POI[] = [
                         24.877596,
                         42.006563
                   ]
+            },
+            {
+                  "name": "Руенското езеро",
+                  "text": "A Lake Rouen egy tó Asenovgrad területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "яз. 40-те извора",
+                  "text": "A яз. 40-те извора egy tó Asenovgrad területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
             }
       ],
       "ro": [
@@ -4557,7 +5538,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Витус",
                   "text": "Un parc acvatic în Asenovgrad, care oferă diverse bazine de agrement și înot pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.852147,
                         42.017469
@@ -4616,6 +5597,24 @@ export const bulgariaCitiesV2: POI[] = [
                         24.877596,
                         42.006563
                   ]
+            },
+            {
+                  "name": "Руенското езеро",
+                  "text": "Lake Rouen din Asenovgrad este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "яз. 40-те извора",
+                  "text": "яз. 40-те извора din Asenovgrad este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
             }
       ],
       "en": [
@@ -4658,7 +5657,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Витус",
                   "text": "A water park in Asenovgrad offering various leisure and swimming pools for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.852147,
                         42.017469
@@ -4716,6 +5715,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.877596,
                         42.006563
+                  ]
+            },
+            {
+                  "name": "Lake Rouen",
+                  "text": "The Lake Rouen in Asenovgrad is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "яз. 40-те извора",
+                  "text": "The яз. 40-те извора in Asenovgrad is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
                   ]
             }
       ]
@@ -4805,7 +5822,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоокът",
                   "text": "Ein kleiner lokaler Zoo, ideal für Familienausflüge in Dupniza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.1423,
                         42.249732
@@ -4873,6 +5890,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.126069,
                         42.267244
                   ]
+            },
+            {
+                  "name": "яз. Турченица",
+                  "text": "Ein ruhiges Gewässer in Dupniza, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
             }
       ],
       "hu": [
@@ -4915,7 +5941,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоокът",
                   "text": "Kis helyi állatkert, amely ideális családi kirándulásokhoz Dupnicában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.1423,
                         42.249732
@@ -4983,6 +6009,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.126069,
                         42.267244
                   ]
+            },
+            {
+                  "name": "яз. Турченица",
+                  "text": "Csendes vízfelület Dupnica területén, ideális a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
             }
       ],
       "ro": [
@@ -5025,7 +6060,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоокът",
                   "text": "O mică grădină zoologică locală, ideală pentru excursii în familie în Dupnița.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.1423,
                         42.249732
@@ -5093,6 +6128,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.126069,
                         42.267244
                   ]
+            },
+            {
+                  "name": "яз. Турченица",
+                  "text": "O zonă liniștită cu apă în Dupnitsa, ideală pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
             }
       ],
       "en": [
@@ -5135,7 +6179,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Зоокът",
                   "text": "A small local zoo, ideal for family outings in Dupnitsa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.1423,
                         42.249732
@@ -5202,6 +6246,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.126069,
                         42.267244
+                  ]
+            },
+            {
+                  "name": "яз. Турченица",
+                  "text": "A quiet body of water in Dupnitsa, ideal for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
                   ]
             }
       ]
@@ -5422,6 +6475,15 @@ export const bulgariaCitiesV2: POI[] = [
                         28.337747,
                         43.42967
                   ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "Ein beeindruckender See in Kawarna mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
+                  ]
             }
       ],
       "hu": [
@@ -5504,6 +6566,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         28.337747,
                         43.42967
+                  ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "Lenyűgöző tó Kavarna területén, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
                   ]
             }
       ],
@@ -5588,6 +6659,15 @@ export const bulgariaCitiesV2: POI[] = [
                         28.337747,
                         43.42967
                   ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "Un lac impresionant în Kavarna, cu o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
+                  ]
             }
       ],
       "en": [
@@ -5670,6 +6750,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         28.337747,
                         43.42967
+                  ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "An impressive lake in Kavarna with a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
                   ]
             }
       ]
@@ -6672,7 +7761,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-tryavna-cities-v2.webp",
   },
   {
-    id: "bulgaria-chiprovtsi-cities-v2",
+    id: "bulgaria-chiprovtsi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "яз. Мартиново",
+                  "text": "Ein See bei Chiprovtsi, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "яз. Мартиново",
+                  "text": "Egy tó Csiprovci környékén, amely kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "яз. Мартиново",
+                  "text": "Un lac în apropiere de Ciprovți, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "яз. Мартиново",
+                  "text": "A lake near Chiprovtsi, inviting recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Chiprowzi", hu: "Csiprovec", ro: "Ciprovți", en: "Chiprovtsi" },
@@ -6717,7 +7851,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-chiprovtsi-cities-v2.webp",
   },
   {
-    id: "bulgaria-devnya-cities-v2",
+    id: "bulgaria-devnya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "яз. Манастир",
+                  "text": "Der яз. Манастир in Devnya ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Белославско езеро",
+                  "text": "Der Белославско езеро in Devnya ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "яз. Манастир",
+                  "text": "A яз. Манастир egy tó Devnya területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Белославско езеро",
+                  "text": "A Белославско езеро egy tó Devnya területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "яз. Манастир",
+                  "text": "яз. Манастир din Devnya este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Белославско езеро",
+                  "text": "Белославско езеро din Devnya este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "яз. Манастир",
+                  "text": "The яз. Манастир in Devnya is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Белославско езеро",
+                  "text": "The Белославско езеро in Devnya is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Dewnja", hu: "Devnya", ro: "Devnea", en: "Devnya" },
@@ -6776,7 +7991,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Волиера \"Крайискърец\" (Клетка за птици)",
                   "text": "Eine Voliere für verschiedene Vogelarten im Stadtpark von Samokow.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.554861,
                         42.333938
@@ -6850,7 +8065,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Волиера \"Крайискърец\" (Клетка за птици)",
                   "text": "Különböző madárfajoknak otthont adó röpde Szamokov városi parkjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.554861,
                         42.333938
@@ -6924,7 +8139,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Волиера \"Крайискърец\" (Клетка за птици)",
                   "text": "O volieră pentru diverse specii de păsări situată în parcul orașului Samokov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.554861,
                         42.333938
@@ -6998,7 +8213,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Волиера \"Крайискърец\" (Клетка за птици)",
                   "text": "An aviary for various bird species located in the city park of Samokov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.554861,
                         42.333938
@@ -7195,6 +8410,15 @@ export const bulgariaCitiesV2: POI[] = [
                         28.168315,
                         43.404295
                   ]
+            },
+            {
+                  "name": "Тепси гьол",
+                  "text": "Ein See bei Baltschik, ideal für einen entspannten Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
+                  ]
             }
       ],
       "hu": [
@@ -7286,6 +8510,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         28.168315,
                         43.404295
+                  ]
+            },
+            {
+                  "name": "Тепси гьол",
+                  "text": "Egy tó Balcsik környékén, amely ideális egy pihentető szabadtéri tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
                   ]
             }
       ],
@@ -7379,6 +8612,15 @@ export const bulgariaCitiesV2: POI[] = [
                         28.168315,
                         43.404295
                   ]
+            },
+            {
+                  "name": "Тепси гьол",
+                  "text": "Un lac în apropiere de Balcic, ideal pentru o ședere relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
+                  ]
             }
       ],
       "en": [
@@ -7470,6 +8712,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         28.168315,
                         43.404295
+                  ]
+            },
+            {
+                  "name": "Tepsi Gyol",
+                  "text": "A lake near Balchik, ideal for a relaxing outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
                   ]
             }
       ]
@@ -7577,10 +8828,19 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "City Park Razlog",
                   "text": "Ein weitläufiger Stadtpark in Raslog mit verschiedenen Erholungsflächen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.466273,
                         41.887294
+                  ]
+            },
+            {
+                  "name": "Кринец",
+                  "text": "Ein kleiner See in Raslog, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
                   ]
             }
       ],
@@ -7597,10 +8857,19 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "City Park Razlog",
                   "text": "Tágas városi park Razlogban, különféle pihenőhelyekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.466273,
                         41.887294
+                  ]
+            },
+            {
+                  "name": "Кринец",
+                  "text": "Kicsi tó Razlog területén, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
                   ]
             }
       ],
@@ -7617,10 +8886,19 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "City Park Razlog",
                   "text": "Un parc orașenesc vast în Razlog, cu diverse zone de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.466273,
                         41.887294
+                  ]
+            },
+            {
+                  "name": "Кринец",
+                  "text": "Un lac mic în Razlog, care te invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
                   ]
             }
       ],
@@ -7637,10 +8915,19 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "City Park Razlog",
                   "text": "A spacious city park in Razlog with various recreational areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.466273,
                         41.887294
+                  ]
+            },
+            {
+                  "name": "Krinets",
+                  "text": "A small lake in Razlog that invites visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
                   ]
             }
       ]
@@ -8270,7 +9557,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Авиационно-космически парк - Омуртаг",
                   "text": "Eine Freiluftausstellung in Omurtag, die der Luft- und Raumfahrt gewidmet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.418455,
                         43.119843
@@ -8299,7 +9586,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Авиационно-космически парк - Омуртаг",
                   "text": "Szabadtéri repülési és űrhajózási kiállítás Omurtagban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.418455,
                         43.119843
@@ -8328,7 +9615,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Авиационно-космически парк - Омуртаг",
                   "text": "O expoziție aerospațială în aer liber în Omurtag.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.418455,
                         43.119843
@@ -8357,7 +9644,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Open-air aerospace exposition - Omurtag",
                   "text": "An open-air aerospace exposition in Omurtag showcasing aircraft and space technology.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.418455,
                         43.119843
@@ -8589,7 +9876,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-straldzha-cities-v2.webp",
   },
   {
-    id: "bulgaria-popovo-cities-v2",
+    id: "bulgaria-popovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "яз. Посабина",
+                  "text": "Ein See bei Popovo, der eine schöne Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "яз. Каваците",
+                  "text": "Ein See bei Popovo, ideal für Liebhaber natürlicher Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "яз. Посабина",
+                  "text": "Egy tó Popovo környékén, amely szép hátteret biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "яз. Каваците",
+                  "text": "Egy tó Popovo környékén, amely ideális a természetes tájak kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "яз. Посабина",
+                  "text": "Un lac în apropiere de Popovo, care oferă un cadru frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "яз. Каваците",
+                  "text": "Un lac în apropiere de Popovo, ideal pentru iubitorii de peisaje naturale.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "яз. Посабина",
+                  "text": "A lake near Popovo offering a beautiful backdrop for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "яз. Каваците",
+                  "text": "A lake near Popovo, ideal for lovers of natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Popowo", hu: "Popovo", ro: "Popovo", en: "Popovo" },
@@ -8680,6 +10048,24 @@ export const bulgariaCitiesV2: POI[] = [
                         25.707435,
                         43.095299
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Der езеро \"Света гора\" in Lyaskovets ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "Park Detski Kut in Lyaskovets ist ein tolles Ziel für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
+                  ]
             }
       ],
       "hu": [
@@ -8726,6 +10112,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.707435,
                         43.095299
+                  ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "A езеро \"Света гора\" egy tó Lyaskovets területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "A Park Detski Kut Lyaskovets városában remek úticél a gyermekes családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
                   ]
             }
       ],
@@ -8774,6 +10178,24 @@ export const bulgariaCitiesV2: POI[] = [
                         25.707435,
                         43.095299
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "езеро \"Света гора\" din Lyaskovets este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "Park Detski Kut din Lyaskovets este o destinație excelentă de joacă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
+                  ]
             }
       ],
       "en": [
@@ -8820,6 +10242,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.707435,
                         43.095299
+                  ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "The езеро \"Света гора\" in Lyaskovets is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "Park Detski Kut in Lyaskovets is a great destination for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
                   ]
             }
       ]
@@ -8913,7 +10353,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-batenberg-cities-v2.webp",
   },
   {
-    id: "bulgaria-kalofer-cities-v2",
+    id: "bulgaria-kalofer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "язовир Беджа",
+                  "text": "Ein friedlicher See in Kalofer, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "язовир Сипея",
+                  "text": "Ein ruhiger Stausee in Kalofer, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "язовир Каркъма",
+                  "text": "Ein naturnaher See in Kalofer, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "язовир Беджа",
+                  "text": "Békés tó Kalofer közelében, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "язовир Сипея",
+                  "text": "Csendes víztározó Kalofer területén, ideális a part menti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "язовир Каркъма",
+                  "text": "Természetközeli tó Kalofer közelében, amely nyugalmat és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "язовир Беджа",
+                  "text": "Un lac liniștit în Kalofer, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "язовир Сипея",
+                  "text": "Un lac de acumulare liniștit în Kalofer, ideal pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "язовир Каркъма",
+                  "text": "Un lac aproape de natură în Kalofer, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "язовир Беджа",
+                  "text": "A peaceful lake in Kalofer surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "язовир Сипея",
+                  "text": "A quiet reservoir in Kalofer, perfect for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "язовир Каркъма",
+                  "text": "A nature-rich lake in Kalofer offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kalofer", hu: "Kalofer", ro: "Kalofer", en: "Kalofer" },
@@ -9408,7 +10965,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-dobroslavtsi-cities-v2.webp",
   },
   {
-    id: "bulgaria-kresna-cities-v2",
+    id: "bulgaria-kresna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "яз. Ридо 3",
+                  "text": "Ein kleiner See in Kresna, der sich gut für eine kurze Pause eignet.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "яз. Ридо 1",
+                  "text": "Ein ruhiges Gewässer in Kresna, ideal für Naturbetrachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "яз. Ридо 2",
+                  "text": "Ein weiterer See in Kresna, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "яз. Ридо 3",
+                  "text": "Kicsi tó Kresna területén, amely alkalmas egy rövid szünetre.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "яз. Ридо 1",
+                  "text": "Csendes víz Kresna közelében, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "яз. Ридо 2",
+                  "text": "Egy újabb tó Kresna területén, amely sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "яз. Ридо 3",
+                  "text": "Un lac mic în Kresna, potrivit pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "яз. Ридо 1",
+                  "text": "O apă liniștită în Kresna, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "яз. Ридо 2",
+                  "text": "Un alt lac în Kresna, care invită la plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "яз. Ридо 3",
+                  "text": "A small lake in Kresna, suitable for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "Rido 1",
+                  "text": "A quiet body of water in Kresna, ideal for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "Rido 2",
+                  "text": "Another lake in Kresna that invites visitors for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kresna", hu: "Kreszna", ro: "Kresna", en: "Kresna" },
@@ -9453,7 +11127,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-kresna-cities-v2.webp",
   },
   {
-    id: "bulgaria-valchedram-cities-v2",
+    id: "bulgaria-valchedram-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "яз. Бутан",
+                  "text": "Ein See bei Valchedram, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "яз. Бутан",
+                  "text": "Egy tó Valchedram környékén, amely a természetben való pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "яз. Бутан",
+                  "text": "Un lac în apropiere de Valchedram, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "яз. Бутан",
+                  "text": "A lake near Valchedram, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Waltschedram", hu: "Valcsedram", ro: "Vâlcedrăm", en: "Valchedram" },
@@ -9895,6 +11614,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.181382,
                         42.498054
                   ]
+            },
+            {
+                  "name": "яз. Луда Яна",
+                  "text": "Ein See bei Panagjurischte, ideal um die natürliche Umgebung zu erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
+                  ]
             }
       ],
       "hu": [
@@ -9905,6 +11633,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.181382,
                         42.498054
+                  ]
+            },
+            {
+                  "name": "яз. Луда Яна",
+                  "text": "Egy tó Panagyuriste környékén, amely ideális a természetes környezet felfedezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
                   ]
             }
       ],
@@ -9917,6 +11654,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.181382,
                         42.498054
                   ]
+            },
+            {
+                  "name": "яз. Луда Яна",
+                  "text": "Un lac în apropiere de Panaghiuriște, ideal pentru a explora împrejurimile naturale.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
+                  ]
             }
       ],
       "en": [
@@ -9927,6 +11673,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.181382,
                         42.498054
+                  ]
+            },
+            {
+                  "name": "яз. Луда Яна",
+                  "text": "A lake near Panagyurishte, ideal for exploring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
                   ]
             }
       ]
@@ -9985,6 +11740,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.017439,
                         42.594104
                   ]
+            },
+            {
+                  "name": "яз. Върбица",
+                  "text": "Der яз. Върбица in Batanovtsi ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
+                  ]
             }
       ],
       "hu": [
@@ -9995,6 +11759,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.017439,
                         42.594104
+                  ]
+            },
+            {
+                  "name": "яз. Върбица",
+                  "text": "A яз. Върбица egy tó Batanovtsi területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
                   ]
             }
       ],
@@ -10007,6 +11780,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.017439,
                         42.594104
                   ]
+            },
+            {
+                  "name": "яз. Върбица",
+                  "text": "яз. Върбица din Batanovtsi este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
+                  ]
             }
       ],
       "en": [
@@ -10017,6 +11799,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.017439,
                         42.594104
+                  ]
+            },
+            {
+                  "name": "яз. Върбица",
+                  "text": "The яз. Върбица in Batanovtsi is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
                   ]
             }
       ]
@@ -10120,6 +11911,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.014715,
                         42.214415
                   ]
+            },
+            {
+                  "name": "Язовир - с. Мененкьово",
+                  "text": "Ein See bei Belovo, der zur Erholung und zum Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.039579,
+                        42.235658
+                  ]
             }
       ],
       "hu": [
@@ -10130,6 +11930,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.014715,
                         42.214415
+                  ]
+            },
+            {
+                  "name": "Язовир - с. Мененкьово",
+                  "text": "Egy tó Belovo környékén, amely pihenésre és a természet élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.039579,
+                        42.235658
                   ]
             }
       ],
@@ -10142,6 +11951,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.014715,
                         42.214415
                   ]
+            },
+            {
+                  "name": "Язовир - с. Мененкьово",
+                  "text": "Un lac în apropiere de Belovo, care invită la recreere și la bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.039579,
+                        42.235658
+                  ]
             }
       ],
       "en": [
@@ -10152,6 +11970,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.014715,
                         42.214415
+                  ]
+            },
+            {
+                  "name": "Язовир - с. Мененкьово",
+                  "text": "A lake near Belovo, inviting recreation and enjoyment of nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.039579,
+                        42.235658
                   ]
             }
       ]
@@ -10668,7 +12495,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-zlatograd-cities-v2.webp",
   },
   {
-    id: "bulgaria-suvorovo-cities-v2",
+    id: "bulgaria-suvorovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Язовир Николаевка",
+                  "text": "Ein großer Stausee in Suworowo, ideal für die Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        27.687407,
+                        43.370017
+                  ]
+            },
+            {
+                  "name": "Язовир Левски",
+                  "text": "Ein ruhiger Ort am See in Suworowo, perfekt zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        27.661155,
+                        43.323279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Язовир Николаевка",
+                  "text": "Nagy víztározó Szuvorovo közelében, ideális a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.687407,
+                        43.370017
+                  ]
+            },
+            {
+                  "name": "Язовир Левски",
+                  "text": "Csendes tóparti hely Szuvorovo területén, tökéletes a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        27.661155,
+                        43.323279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Язовир Николаевка",
+                  "text": "Un lac de acumulare mare în Suvorovo, ideal pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.687407,
+                        43.370017
+                  ]
+            },
+            {
+                  "name": "Язовир Левски",
+                  "text": "Un loc liniștit la lac în Suvorovo, perfect pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.661155,
+                        43.323279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Язовир Николаевка",
+                  "text": "A large reservoir in Suvorovo, ideal for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        27.687407,
+                        43.370017
+                  ]
+            },
+            {
+                  "name": "Язовир Левски",
+                  "text": "A quiet lakeside spot in Suvorovo, perfect for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        27.661155,
+                        43.323279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Suworowo", hu: "Suvorovo", ro: "Suvorovo", en: "Suvorovo" },
@@ -11672,7 +13580,7 @@ export const bulgariaCitiesV2: POI[] = [
             {
                   "name": "Bora Bora",
                   "text": "Ein Wasserpark in Saparewa Banja, der Freizeitspaß mit Thermalwasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.24678,
                         42.287312
@@ -11722,13 +13630,31 @@ export const bulgariaCitiesV2: POI[] = [
                         23.263102,
                         42.289167
                   ]
+            },
+            {
+                  "name": "Паничище",
+                  "text": "Ein See bei Saparewa Banja, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.294152,
+                        42.262681
+                  ]
+            },
+            {
+                  "name": "Ашикларско езеро",
+                  "text": "Ein See bei Saparewa Banja, der eine malerische natürliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.248259,
+                        42.2129
+                  ]
             }
       ],
       "hu": [
             {
                   "name": "Bora Bora",
                   "text": "Vízi vidámpark Szapareva Banjában, amely termálvizes kikapcsolódást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.24678,
                         42.287312
@@ -11778,13 +13704,31 @@ export const bulgariaCitiesV2: POI[] = [
                         23.263102,
                         42.289167
                   ]
+            },
+            {
+                  "name": "Паничище",
+                  "text": "Egy tó Szapareva Banja környékén, amely ideális egy természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.294152,
+                        42.262681
+                  ]
+            },
+            {
+                  "name": "Ашикларско езеро",
+                  "text": "Egy tó Szapareva Banja környékén, amely festői természeti légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        23.248259,
+                        42.2129
+                  ]
             }
       ],
       "ro": [
             {
                   "name": "Bora Bora",
                   "text": "Un parc acvatic în Sapareva Bania, care oferă distracție cu apă termală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.24678,
                         42.287312
@@ -11834,13 +13778,31 @@ export const bulgariaCitiesV2: POI[] = [
                         23.263102,
                         42.289167
                   ]
+            },
+            {
+                  "name": "Паничище",
+                  "text": "Un lac în apropiere de Sapareva Bania, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.294152,
+                        42.262681
+                  ]
+            },
+            {
+                  "name": "Ашикларско езеро",
+                  "text": "Un lac în apropiere de Sapareva Bania, care oferă o atmosferă naturală pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        23.248259,
+                        42.2129
+                  ]
             }
       ],
       "en": [
             {
                   "name": "Bora Bora",
                   "text": "A water park in Saparewa Banja offering recreation with thermal waters.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.24678,
                         42.287312
@@ -11889,6 +13851,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.263102,
                         42.289167
+                  ]
+            },
+            {
+                  "name": "Паничище",
+                  "text": "A lake near Sapareva Banya, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.294152,
+                        42.262681
+                  ]
+            },
+            {
+                  "name": "Ашикларско езеро",
+                  "text": "A lake near Sapareva Banya offering a picturesque natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        23.248259,
+                        42.2129
                   ]
             }
       ]
@@ -11982,7 +13962,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-batenberg-pazardzhik-cities-v2.webp",
   },
   {
-    id: "bulgaria-valchi-dol-cities-v2",
+    id: "bulgaria-valchi-dol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Брестак 2",
+                  "text": "Der Брестак 2 in Valchi Dol ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.539394,
+                        43.448054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Брестак 2",
+                  "text": "A Брестак 2 egy tó Valchi Dol területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.539394,
+                        43.448054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Брестак 2",
+                  "text": "Брестак 2 din Valchi Dol este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.539394,
+                        43.448054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Брестак 2",
+                  "text": "The Брестак 2 in Valchi Dol is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.539394,
+                        43.448054
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Waltschi Dol", hu: "Valcsi Dol", ro: "Vâlci Dol", en: "Valchi Dol" },

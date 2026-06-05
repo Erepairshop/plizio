@@ -5275,7 +5275,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Toon en Ellys' beestenboel",
                   "text": "Ein kleiner Streichelzoo in Eindhoven, ideal für Familien mit Kindern.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.50904,
                         51.423193
@@ -5284,7 +5284,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij \"de Linde\"",
                   "text": "Eine gemütliche Kinderfarm in Eindhoven, auf der Kinder Hoftiere kennenlernen können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.459942,
                         51.441156
@@ -5763,7 +5763,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Toon en Ellys' beestenboel",
                   "text": "Kisméretű állatsimogató Eindhovenben, amely ideális kisgyermekes családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.50904,
                         51.423193
@@ -5772,7 +5772,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij \"de Linde\"",
                   "text": "Hangulatos állatfarm Eindhovenben, ahol a gyerekek háziállatokkal ismerkedhetnek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.459942,
                         51.441156
@@ -6251,7 +6251,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Toon en Ellys' beestenboel",
                   "text": "O mică grădină zoologică cu animale de mângâiat în Eindhoven, ideală pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.50904,
                         51.423193
@@ -6260,7 +6260,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij \"de Linde\"",
                   "text": "O fermă primitoare pentru copii în Eindhoven, unde aceștia pot interacționa cu animale domestice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.459942,
                         51.441156
@@ -6739,7 +6739,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Toon en Ellys' beestenboel",
                   "text": "A small petting zoo in Eindhoven, ideal for families with young children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.50904,
                         51.423193
@@ -6748,7 +6748,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij \"de Linde\"",
                   "text": "A cozy children's farm in Eindhoven where children can learn about farm animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.459942,
                         51.441156
@@ -7179,7 +7179,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark de Oliemeulen",
                   "text": "Ein kleiner Tierpark in Tilburg, der auf Reptilien und exotische Tiere spezialisiert ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.062278,
                         51.570828
@@ -7260,7 +7260,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Kerkibo",
                   "text": "Ein kinderfreundlicher Bauernhof in Tilburg mit verschiedenen Nutztieren zum Streicheln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.082314,
                         51.571941
@@ -7305,7 +7305,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Maria Goretti",
                   "text": "Ein Streichelzoo in Tilburg, der besonders auf die Bedürfnisse von Kindern ausgerichtet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.079203,
                         51.564597
@@ -7487,7 +7487,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark de Oliemeulen",
                   "text": "Egy kis állatkert Tilburgban, amely hüllőkre és egzotikus állatokra specializálódott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.062278,
                         51.570828
@@ -7568,7 +7568,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Kerkibo",
                   "text": "Gyerekbarát tanya Tilburgban, különféle simogatható háziállatokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.082314,
                         51.571941
@@ -7613,7 +7613,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Maria Goretti",
                   "text": "Állatsimogató Tilburgban, amely kifejezetten a gyermekek igényeire szabott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.079203,
                         51.564597
@@ -7795,7 +7795,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark de Oliemeulen",
                   "text": "O mică grădină zoologică din Tilburg specializată în reptile și animale exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.062278,
                         51.570828
@@ -7876,7 +7876,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Kerkibo",
                   "text": "O fermă pentru copii în Tilburg, cu diverse animale domestice care pot fi mângâiate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.082314,
                         51.571941
@@ -7921,7 +7921,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Maria Goretti",
                   "text": "O fermă pentru copii în Tilburg, special concepută pentru nevoile celor mici.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.079203,
                         51.564597
@@ -8103,7 +8103,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark de Oliemeulen",
                   "text": "A small zoo in Tilburg specializing in reptiles and exotic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.062278,
                         51.570828
@@ -8184,7 +8184,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Kerkibo",
                   "text": "A child-friendly farm in Tilburg with various domestic animals to pet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.082314,
                         51.571941
@@ -8229,7 +8229,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Maria Goretti",
                   "text": "A petting zoo in Tilburg specifically tailored to the needs of children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.079203,
                         51.564597
@@ -18381,7 +18381,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Groenhovenbad",
                   "text": "Ein öffentliches Schwimmbad und Freizeitzentrum in Gouda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.689282,
                         52.023897
@@ -18444,7 +18444,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dino Experience Park",
                   "text": "Ein Outdoor-Themenpark in Gouda mit lebensgroßen Dinosaurier-Modellen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.687024,
                         51.998072
@@ -18453,7 +18453,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Goudse Hofsteden",
                   "text": "Ein Kinderbauernhof in Gouda, auf dem Besucher mit verschiedenen Nutztieren in Kontakt kommen können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.696649,
                         52.032513
@@ -18689,7 +18689,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Groenhovenbad",
                   "text": "Nyilvános uszoda és vízi szabadidőközpont Goudában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.689282,
                         52.023897
@@ -18752,7 +18752,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dino Experience Park",
                   "text": "Szabadtéri élménypark Goudában, élethű dinoszaurusz-modellekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.687024,
                         51.998072
@@ -18761,7 +18761,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Goudse Hofsteden",
                   "text": "Városi gyerekgazdaság Goudában, ahol a látogatók különféle háztáji állatokkal ismerkedhetnek meg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.696649,
                         52.032513
@@ -18997,7 +18997,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Groenhovenbad",
                   "text": "O piscină publică și un centru de agrement acvatic situat în Gouda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.689282,
                         52.023897
@@ -19060,7 +19060,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dino Experience Park",
                   "text": "Un parc tematic în aer liber din Gouda, cu modele de dinozauri în mărime naturală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.687024,
                         51.998072
@@ -19069,7 +19069,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Goudse Hofsteden",
                   "text": "O fermă educațională din Gouda, unde vizitatorii pot interacționa cu diverse animale domestice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.696649,
                         52.032513
@@ -19305,7 +19305,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Groenhovenbad",
                   "text": "A public swimming pool and water leisure center located in Gouda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.689282,
                         52.023897
@@ -19368,7 +19368,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dino Experience Park",
                   "text": "An outdoor theme park in Gouda featuring life-sized dinosaur models.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.687024,
                         51.998072
@@ -19377,7 +19377,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Goudse Hofsteden",
                   "text": "A city farm in Gouda where visitors can interact with various farm animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.696649,
                         52.032513
@@ -19673,7 +19673,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Aquadrome",
                   "text": "Das Aquadrome ist ein bekannter Wasserpark in der Stadt Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.896802,
                         52.206754
@@ -19709,7 +19709,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Erve 't Wooldrik",
                   "text": "Kinderboerderij Erve 't Wooldrik ist ein Tierpark in Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.915049,
                         52.216121
@@ -19718,7 +19718,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Noord",
                   "text": "Kinderboerderij Noord ist ein Tierpark in Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.888474,
                         52.242547
@@ -19864,7 +19864,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Aquadrome",
                   "text": "Az Aquadrome egy ismert vízipark Enschede városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.896802,
                         52.206754
@@ -19900,7 +19900,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Erve 't Wooldrik",
                   "text": "A Kinderboerderij Erve 't Wooldrik egy állatkert Enschede városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.915049,
                         52.216121
@@ -19909,7 +19909,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Noord",
                   "text": "A Kinderboerderij Noord egy állatkert Enschede városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.888474,
                         52.242547
@@ -20055,7 +20055,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Aquadrome",
                   "text": "Aquadrome este un parc acvatic cunoscut din orașul Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.896802,
                         52.206754
@@ -20091,7 +20091,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Erve 't Wooldrik",
                   "text": "Kinderboerderij Erve 't Wooldrik este o grădină zoologică din Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.915049,
                         52.216121
@@ -20100,7 +20100,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Noord",
                   "text": "Kinderboerderij Noord este o grădină zoologică din Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.888474,
                         52.242547
@@ -20246,7 +20246,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Aquadrome",
                   "text": "Aquadrome is a known water park located in the city of Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.896802,
                         52.206754
@@ -20282,7 +20282,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Erve 't Wooldrik",
                   "text": "Kinderboerderij Erve 't Wooldrik is a zoo and petting farm in Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.915049,
                         52.216121
@@ -20291,7 +20291,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Noord",
                   "text": "Kinderboerderij Noord is a zoo located in Enschede.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.888474,
                         52.242547
@@ -20749,7 +20749,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Burgers' Zoo",
                   "text": "Burgers' Zoo ist ein bekannter Tierpark in Arnheim mit verschiedenen Ökosystemen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.900079,
                         52.010064
@@ -20902,7 +20902,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Hertenkamp",
                   "text": "Ein lokaler Wildpark in Arnheim, in dem Hirsche beobachtet werden können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.906443,
                         51.99085
@@ -21237,7 +21237,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Burgers' Zoo",
                   "text": "A Burgers' Zoo egy híres állatkert Arnhemben, különböző ökoszisztémákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.900079,
                         52.010064
@@ -21390,7 +21390,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Hertenkamp",
                   "text": "Egy helyi vadaspark Arnheimben, ahol szarvasok láthatók.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.906443,
                         51.99085
@@ -21725,7 +21725,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Burgers' Zoo",
                   "text": "Burgers' Zoo este o grădină zoologică renumită din Arnhem, care prezintă diverse ecosisteme.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.900079,
                         52.010064
@@ -21878,7 +21878,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Hertenkamp",
                   "text": "Un parc local de cerbi în Arnhem, unde animalele pot fi observate de aproape.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.906443,
                         51.99085
@@ -22213,7 +22213,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Burgers' Zoo",
                   "text": "Burgers' Zoo is a famous zoo in Arnhem featuring various ecosystems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.900079,
                         52.010064
@@ -22366,7 +22366,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Hertenkamp",
                   "text": "A local deer park in Arnhem where visitors can see deer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.906443,
                         51.99085
@@ -22473,7 +22473,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dinoland",
                   "text": "Ein Erlebnispark für Familien mit zahlreichen Dinosaurier-Nachbildungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076695,
                         52.504981
@@ -22482,7 +22482,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Wollewei",
                   "text": "Ein kleiner Tierpark oder Streichelzoo für Kinder in Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.074366,
                         52.508802
@@ -22500,7 +22500,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Klooienberg",
                   "text": "Ein gemütlicher Streichelzoo in einem der Wohnviertel von Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076815,
                         52.523576
@@ -22590,7 +22590,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Wezenlanden",
                   "text": "Ein beliebter Kinderbauernhof im Park Wezenlanden in Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.112895,
                         52.50605
@@ -22599,7 +22599,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "Ein freundlicher Streichelzoo für Familien und Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.087602,
                         52.508989
@@ -22617,7 +22617,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Wijkboerderij Stadshagen",
                   "text": "Ein Stadtbauernhof im Viertel Stadshagen, der Tieren und Bildung gewidmet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.050832,
                         52.532969
@@ -22626,7 +22626,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide Dieze Oost",
                   "text": "Eine kleine Tierweide im östlichen Teil von Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.105112,
                         52.520116
@@ -22635,7 +22635,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide de Aa-weide",
                   "text": "Ein lokales Tiergehege im Stadtteil Aa-landen in Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.104678,
                         52.538395
@@ -22907,7 +22907,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dinoland",
                   "text": "Családi élménypark számos dinoszaurusz-replikával.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076695,
                         52.504981
@@ -22916,7 +22916,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Wollewei",
                   "text": "Kisebb állatpark vagy állatsimogató gyerekeknek Zwolléban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.074366,
                         52.508802
@@ -22934,7 +22934,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Klooienberg",
                   "text": "Hangulatos állatsimogató Zwolle egyik lakónegyedében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076815,
                         52.523576
@@ -23024,7 +23024,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Wezenlanden",
                   "text": "Népszerű gyerekfarm a zwollei Wezenlanden parkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.112895,
                         52.50605
@@ -23033,7 +23033,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "Barátságos állatsimogató családok és gyerekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.087602,
                         52.508989
@@ -23051,7 +23051,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Wijkboerderij Stadshagen",
                   "text": "Városi farm Stadshagen negyedben, állatokkal és oktatással.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.050832,
                         52.532969
@@ -23060,7 +23060,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide Dieze Oost",
                   "text": "Kisebb állatpark Zwolle keleti részén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.105112,
                         52.520116
@@ -23069,7 +23069,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide de Aa-weide",
                   "text": "Helyi állatkifutó Zwolle Aa-landen negyedében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.104678,
                         52.538395
@@ -23341,7 +23341,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dinoland",
                   "text": "Un parc de distracții pentru familii, cu numeroase replici de dinozauri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076695,
                         52.504981
@@ -23350,7 +23350,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Wollewei",
                   "text": "Un mic parc zoologic sau o fermă de animale pentru copii în Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.074366,
                         52.508802
@@ -23368,7 +23368,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Klooienberg",
                   "text": "O fermă de animale primitoare într-unul dintre cartierele din Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076815,
                         52.523576
@@ -23458,7 +23458,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Wezenlanden",
                   "text": "O fermă pentru copii populară în parcul Wezenlanden din Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.112895,
                         52.50605
@@ -23467,7 +23467,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "O fermă de animale prietenoasă pentru familii și copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.087602,
                         52.508989
@@ -23485,7 +23485,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Wijkboerderij Stadshagen",
                   "text": "O fermă urbană în cartierul Stadshagen, dedicată animalelor și educației.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.050832,
                         52.532969
@@ -23494,7 +23494,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide Dieze Oost",
                   "text": "O mică pajiște cu animale în partea de est a orașului Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.105112,
                         52.520116
@@ -23503,7 +23503,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide de Aa-weide",
                   "text": "Un țarc de animale local în cartierul Aa-landen din Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.104678,
                         52.538395
@@ -23775,7 +23775,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dinoland",
                   "text": "A family theme park featuring numerous dinosaur replicas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076695,
                         52.504981
@@ -23784,7 +23784,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Wollewei",
                   "text": "A small animal park or petting zoo for children in Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.074366,
                         52.508802
@@ -23802,7 +23802,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "De Klooienberg",
                   "text": "A cozy petting zoo located in one of Zwolle's residential areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.076815,
                         52.523576
@@ -23892,7 +23892,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij Wezenlanden",
                   "text": "A popular children's farm in the Wezenlanden park in Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.112895,
                         52.50605
@@ -23901,7 +23901,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "A friendly petting zoo for families and children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.087602,
                         52.508989
@@ -23919,7 +23919,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Wijkboerderij Stadshagen",
                   "text": "A city farm in the Stadshagen district dedicated to animals and education.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.050832,
                         52.532969
@@ -23928,7 +23928,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide Dieze Oost",
                   "text": "A small animal meadow in the eastern part of Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.105112,
                         52.520116
@@ -23937,7 +23937,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenweide de Aa-weide",
                   "text": "A local animal enclosure in the Aa-landen district of Zwolle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.104678,
                         52.538395
@@ -24350,7 +24350,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "optisport zwembad Wolfslaar",
                   "text": "Das optisport zwembad Wolfslaar ist ein Wasserpark und Schwimmbad in Breda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.803141,
                         51.559813
@@ -24359,7 +24359,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Boerderij Wolfslaar",
                   "text": "Die Boerderij Wolfslaar ist ein lokaler Tierpark und Lehrbauernhof in Breda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.801725,
                         51.561069
@@ -24703,7 +24703,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "optisport zwembad Wolfslaar",
                   "text": "Az optisport zwembad Wolfslaar egy vízipark és uszoda Breda városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.803141,
                         51.559813
@@ -24712,7 +24712,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Boerderij Wolfslaar",
                   "text": "A Boerderij Wolfslaar egy állatkert és oktatófarm Breda városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.801725,
                         51.561069
@@ -25056,7 +25056,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "optisport zwembad Wolfslaar",
                   "text": "Optisport zwembad Wolfslaar este un parc acvatic și o piscină din Breda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.803141,
                         51.559813
@@ -25065,7 +25065,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Boerderij Wolfslaar",
                   "text": "Boerderij Wolfslaar este o grădină zoologică și o fermă educațională din Breda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.801725,
                         51.561069
@@ -25409,7 +25409,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "optisport zwembad Wolfslaar",
                   "text": "Optisport zwembad Wolfslaar is a water park and swimming pool facility in Breda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.803141,
                         51.559813
@@ -25418,7 +25418,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Boerderij Wolfslaar",
                   "text": "Boerderij Wolfslaar is a local zoo and educational farm located in Breda.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.801725,
                         51.561069
@@ -25831,7 +25831,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Sportiom AquaFun",
                   "text": "Ein beliebter Wasserpark und Freizeitzentrum für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.326783,
                         51.700069
@@ -25840,7 +25840,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark Zuiderpark",
                   "text": "Ein kleiner Tierpark im Zuiderpark von 's-Hertogenbosch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.317048,
                         51.685238
@@ -25849,7 +25849,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij de Oosterhoeve",
                   "text": "Ein kinderfreundlicher Streichelzoo in 's-Hertogenbosch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.3357,
                         51.687077
@@ -26247,7 +26247,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Sportiom AquaFun",
                   "text": "Népszerű vízipark és szabadidőközpont az egész család számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.326783,
                         51.700069
@@ -26256,7 +26256,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark Zuiderpark",
                   "text": "Egy kis állatkert 's-Hertogenbosch Zuiderpark nevű parkjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.317048,
                         51.685238
@@ -26265,7 +26265,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij de Oosterhoeve",
                   "text": "Gyerekbarát állatsimogató 's-Hertogenboschban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.3357,
                         51.687077
@@ -26663,7 +26663,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Sportiom AquaFun",
                   "text": "Un parc acvatic popular și centru de agrement pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.326783,
                         51.700069
@@ -26672,7 +26672,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark Zuiderpark",
                   "text": "O mică grădină zoologică situată în Zuiderpark din 's-Hertogenbosch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.317048,
                         51.685238
@@ -26681,7 +26681,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij de Oosterhoeve",
                   "text": "O fermă pedagogică pentru copii în 's-Hertogenbosch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.3357,
                         51.687077
@@ -27079,7 +27079,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Sportiom AquaFun",
                   "text": "A popular water park and leisure center for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.326783,
                         51.700069
@@ -27088,7 +27088,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Dierenpark Zuiderpark",
                   "text": "A small zoo located in the Zuiderpark of 's-Hertogenbosch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.317048,
                         51.685238
@@ -27097,7 +27097,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij de Oosterhoeve",
                   "text": "A child-friendly petting zoo in 's-Hertogenbosch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         5.3357,
                         51.687077
@@ -27528,7 +27528,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "Ein kleiner Streichelzoo in Dordrecht, der besonders bei Familien mit Kindern beliebt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.694213,
                         51.828028
@@ -27537,7 +27537,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Stadsboerderij Weizigt",
                   "text": "Ein ökologischer Lehrbauernhof in Dordrecht, der Nachhaltigkeit und Tierpflege für Besucher erlebbar macht.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.665634,
                         51.806523
@@ -27899,7 +27899,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "Kisméretű állatsimogató Dordrechtben, amely különösen a gyermekes családok körében népszerű.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.694213,
                         51.828028
@@ -27908,7 +27908,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Stadsboerderij Weizigt",
                   "text": "Ökológiai oktatófarm Dordrechtben, amely a fenntarthatóságot és az állatgondozást mutatja be a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.665634,
                         51.806523
@@ -28270,7 +28270,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "O mică grădină zoologică cu animale domestice în Dordrecht, populară în special în rândul familiilor cu copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.694213,
                         51.828028
@@ -28279,7 +28279,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Stadsboerderij Weizigt",
                   "text": "O fermă educațională ecologică din Dordrecht, care promovează sustenabilitatea și îngrijirea animalelor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.665634,
                         51.806523
@@ -28641,7 +28641,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij",
                   "text": "A small petting zoo in Dordrecht, particularly popular with families and children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.694213,
                         51.828028
@@ -28650,7 +28650,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Stadsboerderij Weizigt",
                   "text": "An ecological educational farm in Dordrecht highlighting sustainability and animal care for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.665634,
                         51.806523
@@ -29036,7 +29036,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Rekerhout",
                   "text": "Kinderboerderij De Rekerhout ist ein Streichelzoo in Alkmaar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.75634,
                         52.649041
@@ -29461,7 +29461,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Rekerhout",
                   "text": "A Kinderboerderij De Rekerhout egy állatsimogató Alkmaar városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.75634,
                         52.649041
@@ -29886,7 +29886,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Rekerhout",
                   "text": "Kinderboerderij De Rekerhout este o grădină zoologică cu animale de companie situată în Alkmaar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.75634,
                         52.649041
@@ -30311,7 +30311,7 @@ export const netherlandsCities: POI[] = [
             {
                   "name": "Kinderboerderij De Rekerhout",
                   "text": "Kinderboerderij De Rekerhout is a petting zoo located in Alkmaar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         4.75634,
                         52.649041

@@ -4730,7 +4730,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Die Victoria Botanical Gardens sind ein botanischer Themenpark in Plaisance.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -4966,7 +4966,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "A Victoria Botanical Gardens egy botanikai tematikus park Plaisance területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -5202,7 +5202,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens este un parc tematic botanic din Plaisance.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -5438,7 +5438,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens is a botanical theme park in Plaisance.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -5771,7 +5771,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Historische Gärten mit exotischen Pflanzen und Riesenschildkröten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -5998,7 +5998,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Történelmi kertek egzotikus növényekkel és óriásteknősökkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -6225,7 +6225,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Grădini istorice cu plante exotice și țestoase uriașe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -6452,7 +6452,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Historic gardens featuring exotic plants and giant tortoises.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -6824,7 +6824,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Die Victoria Botanical Gardens sind ein botanischer Park in Mont Buxton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -6997,7 +6997,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "A Victoria Botanical Gardens egy botanikuskert Mont Buxtonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -7170,7 +7170,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens reprezintă un parc botanic în Mont Buxton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -7343,7 +7343,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens is a park and theme park area in Mont Buxton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -7565,7 +7565,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Die Victoria Botanical Gardens dienen als malerischer Erholungspark in Perseverance I.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -7675,7 +7675,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "A Victoria botanikus kert egy festői szabadidőpark Perseverance I területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -7785,7 +7785,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Grădinile Botanice Victoria servesc drept parc de recreere pitoresc în Perseverance I.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -7895,7 +7895,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "The Victoria Botanical Gardens serve as a scenic recreational theme park in Perseverance I.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -12827,7 +12827,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens ist ein Freizeitpark in Sans Souci.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -13036,7 +13036,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "A Victoria Botanical Gardens egy vidámpark Sans Souci városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -13245,7 +13245,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens este un parc de distracții situat în Sans Souci.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
@@ -13454,7 +13454,7 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Victoria Botanical Gardens is a theme park located in Sans Souci.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286

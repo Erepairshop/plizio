@@ -513,6 +513,213 @@ export const germanyCitiesV2: POI[] = [
                         9.209782,
                         48.493758
                   ]
+            },
+            {
+                  "name": "Unterer Gönninger See",
+                  "text": "Der Unterer Gönninger See in Reutlingen ist ein See, der zu einem Spaziergang oder zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.179382,
+                        48.426496
+                  ]
+            },
+            {
+                  "name": "Speicherbecken Pumpspeicherwerk Glems",
+                  "text": "Das Speicherbecken Pumpspeicherwerk Glems in Reutlingen ist ein Gewässer, das eine ruhige Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.299882,
+                        48.494582
+                  ]
+            },
+            {
+                  "name": "Ententeich",
+                  "text": "Der Ententeich in Reutlingen ist ein kleiner See, der sich ideal für eine kurze Pause oder einen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.208057,
+                        48.523491
+                  ]
+            },
+            {
+                  "name": "Breitenbachsee",
+                  "text": "Der Breitenbachsee in Reutlingen ist ein See, der Besuchern eine naturnahe Umgebung zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.174295,
+                        48.470939
+                  ]
+            },
+            {
+                  "name": "Mittlerer Gönninger See",
+                  "text": "Der Mittlerer Gönninger See in Reutlingen ist ein See, der zu ruhigen Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.178539,
+                        48.425505
+                  ]
+            },
+            {
+                  "name": "Schlammstapelbehälter",
+                  "text": "Der Schlammstapelbehälter in Reutlingen ist ein Gewässer, das das Landschaftsbild der Region ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        9.212543,
+                        48.552273
+                  ]
+            },
+            {
+                  "name": "Nachklärbecken",
+                  "text": "Das Nachklärbecken in Reutlingen ist eine Wasserfläche, die sich in die lokale Umgebung einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        9.215552,
+                        48.552507
+                  ]
+            },
+            {
+                  "name": "Filtratpufferbehälter",
+                  "text": "Der Filtratpufferbehälter in Reutlingen ist ein technisches Gewässer in der städtischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.213781,
+                        48.552566
+                  ]
+            },
+            {
+                  "name": "Baggersee Epple Kirchentellinsfurt",
+                  "text": "Der Baggersee Epple Kirchentellinsfurt bei Reutlingen ist ein See, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.151052,
+                        48.54119
+                  ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "Der Baggersee in Reutlingen ist ein See, der eine ruhige Kulisse für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.16727,
+                        48.547555
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nürtingerhofstr.",
+                  "text": "Der Spielplatz Nürtingerhofstr. in Reutlingen ist ein lokaler Spielbereich, in dem Kinder an der frischen Luft spielen können.",
+                  "category": "family",
+                  "coords": [
+                        9.213828,
+                        48.48977
+                  ]
+            },
+            {
+                  "name": "Bahnhofsanger",
+                  "text": "Der Spielplatz Bahnhofsanger in Reutlingen ist ein Treffpunkt für Familien mit Kindern zum gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.229055,
+                        48.468307
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "Der Spielplatz im Stadtgarten Reutlingen ist ein zentral gelegener Ort für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.221316,
+                        48.494083
+                  ]
+            },
+            {
+                  "name": "Nürnberger Straße",
+                  "text": "Der Spielplatz Nürnberger Straße in Reutlingen bietet verschiedene Möglichkeiten zum Klettern und Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.215233,
+                        48.520744
+                  ]
+            },
+            {
+                  "name": "Kids House",
+                  "text": "Das Kids House in Reutlingen ist ein familienfreundlicher Ort, der Kindern Raum zum Entdecken und Spielen gibt.",
+                  "category": "family",
+                  "coords": [
+                        9.220551,
+                        48.513377
+                  ]
+            },
+            {
+                  "name": "Akti - Aktivitätsspielplatz Reutlingen",
+                  "text": "Der Akti - Aktivitätsspielplatz Reutlingen fördert die Bewegung und das aktive Spielen von Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.214725,
+                        48.51632
+                  ]
+            },
+            {
+                  "name": "Spielplatz Betzenried",
+                  "text": "Der Spielplatz Betzenried in Reutlingen ist ein schönes Ziel für Familienausflüge mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.229064,
+                        48.488297
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohe Straße",
+                  "text": "Der Spielplatz Hohe Straße in Reutlingen bietet Kindern einen sicheren Raum zum Spielen in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.226076,
+                        48.460505
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quellenstraße",
+                  "text": "Der Spielplatz Quellenstraße in Reutlingen lädt Kinder zu Spiel und Bewegung an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        9.177574,
+                        48.496747
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rubensstraße",
+                  "text": "Der Spielplatz Rubensstraße in Reutlingen ist ein lokaler Treffpunkt für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.261977,
+                        48.484935
+                  ]
+            },
+            {
+                  "name": "Frauenstraße/Volkspark",
+                  "text": "Der Spielplatz Frauenstraße/Volkspark in Reutlingen bietet viel Platz für Kinder zum Toben in Parknähe.",
+                  "category": "family",
+                  "coords": [
+                        9.203836,
+                        48.488373
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hirschlandstraße",
+                  "text": "Der Spielplatz Hirschlandstraße in Reutlingen ist mit verschiedenen Spielgeräten für Kinder ausgestattet.",
+                  "category": "family",
+                  "coords": [
+                        9.220951,
+                        48.484907
+                  ]
+            },
+            {
+                  "name": "Im Alten Stadion",
+                  "text": "Der Spielplatz Im Alten Stadion in Reutlingen bietet eine abwechslungsreiche Umgebung für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        9.248452,
+                        48.48424
+                  ]
             }
       ],
       "hu": [
@@ -594,6 +801,213 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.209782,
                         48.493758
+                  ]
+            },
+            {
+                  "name": "Unterer Gönninger See",
+                  "text": "A Reutlingen városában található Unterer Gönninger See egy tó, amely kellemes helyszínt biztosít a sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.179382,
+                        48.426496
+                  ]
+            },
+            {
+                  "name": "Speicherbecken Pumpspeicherwerk Glems",
+                  "text": "A Reutlingenben található Speicherbecken Pumpspeicherwerk Glems egy víztározó, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.299882,
+                        48.494582
+                  ]
+            },
+            {
+                  "name": "Ententeich",
+                  "text": "A Reutlingen városában fekvő Ententeich egy kis tó, amely ideális egy rövid sétához vagy pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.208057,
+                        48.523491
+                  ]
+            },
+            {
+                  "name": "Breitenbachsee",
+                  "text": "A Reutlingenben található Breitenbachsee egy tó, amely természetközeli környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.174295,
+                        48.470939
+                  ]
+            },
+            {
+                  "name": "Mittlerer Gönninger See",
+                  "text": "A Reutlingen városában található Mittlerer Gönninger See egy tó, amely nyugodt pillanatokat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.178539,
+                        48.425505
+                  ]
+            },
+            {
+                  "name": "Schlammstapelbehälter",
+                  "text": "A Reutlingenben található Schlammstapelbehälter egy vízfelület, amely kiegészíti a környék tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        9.212543,
+                        48.552273
+                  ]
+            },
+            {
+                  "name": "Nachklärbecken",
+                  "text": "A Reutlingen területén elhelyezkedő Nachklärbecken egy vízfelület, amely illeszkedik a helyi környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.215552,
+                        48.552507
+                  ]
+            },
+            {
+                  "name": "Filtratpufferbehälter",
+                  "text": "A Reutlingenben található Filtratpufferbehälter egy technikai jellegű vízfelület a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.213781,
+                        48.552566
+                  ]
+            },
+            {
+                  "name": "Baggersee Epple Kirchentellinsfurt",
+                  "text": "A Reutlingen közelében fekvő Baggersee Epple Kirchentellinsfurt egy tó, amely kiválóan alkalmas erdei sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.151052,
+                        48.54119
+                  ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "A Reutlingen városában található Baggersee egy tó, amely nyugodt hátteret biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.16727,
+                        48.547555
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nürtingerhofstr.",
+                  "text": "A Reutlingenben található Spielplatz Nürtingerhofstr. egy helyi játszótér, ahol a gyerekek a friss levegőn játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.213828,
+                        48.48977
+                  ]
+            },
+            {
+                  "name": "Bahnhofsanger",
+                  "text": "A Reutlingenben található Bahnhofsanger játszótér találkozási pont a gyermekes családok számára a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.229055,
+                        48.468307
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "A reutlingeni Stadtgarten játszótere egy központi helyszín, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.221316,
+                        48.494083
+                  ]
+            },
+            {
+                  "name": "Nürnberger Straße",
+                  "text": "A Reutlingenben található Nürnberger Straße játszótér különféle lehetőségeket kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.215233,
+                        48.520744
+                  ]
+            },
+            {
+                  "name": "Kids House",
+                  "text": "A reutlingeni Kids House egy családbarát hely, amely teret biztosít a gyerekeknek a felfedezéshez és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.220551,
+                        48.513377
+                  ]
+            },
+            {
+                  "name": "Akti - Aktivitätsspielplatz Reutlingen",
+                  "text": "Az Akti - Aktivitätsspielplatz Reutlingen ösztönzi a gyerekek mozgását és az aktív szabadtéri játékot.",
+                  "category": "family",
+                  "coords": [
+                        9.214725,
+                        48.51632
+                  ]
+            },
+            {
+                  "name": "Spielplatz Betzenried",
+                  "text": "A reutlingeni Spielplatz Betzenried kedvelt úticél a kisgyermekes családok kirándulásaihoz.",
+                  "category": "family",
+                  "coords": [
+                        9.229064,
+                        48.488297
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohe Straße",
+                  "text": "A Reutlingenben található Spielplatz Hohe Straße biztonságos teret kínál a környékbeli gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.226076,
+                        48.460505
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quellenstraße",
+                  "text": "A reutlingeni Spielplatz Quellenstraße játékra és mozgásra hívja a gyerekeket a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        9.177574,
+                        48.496747
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rubensstraße",
+                  "text": "A Reutlingenben található Spielplatz Rubensstraße egy helyi találkozóhely a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.261977,
+                        48.484935
+                  ]
+            },
+            {
+                  "name": "Frauenstraße/Volkspark",
+                  "text": "A reutlingeni Spielplatz Frauenstraße/Volkspark tágas helyet biztosít a gyerekeknek a park közelségében.",
+                  "category": "family",
+                  "coords": [
+                        9.203836,
+                        48.488373
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hirschlandstraße",
+                  "text": "A Reutlingenben található Spielplatz Hirschlandstraße különféle játékokkal várja a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        9.220951,
+                        48.484907
+                  ]
+            },
+            {
+                  "name": "Im Alten Stadion",
+                  "text": "A reutlingeni Im Alten Stadion játszótér változatos környezetet biztosít a játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.248452,
+                        48.48424
                   ]
             }
       ],
@@ -677,6 +1091,213 @@ export const germanyCitiesV2: POI[] = [
                         9.209782,
                         48.493758
                   ]
+            },
+            {
+                  "name": "Unterer Gönninger See",
+                  "text": "Unterer Gönninger See din Reutlingen este un lac ce oferă un cadru plăcut pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.179382,
+                        48.426496
+                  ]
+            },
+            {
+                  "name": "Speicherbecken Pumpspeicherwerk Glems",
+                  "text": "Speicherbecken Pumpspeicherwerk Glems din Reutlingen este un bazin ce oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.299882,
+                        48.494582
+                  ]
+            },
+            {
+                  "name": "Ententeich",
+                  "text": "Ententeich din Reutlingen este un iaz mic, ideal pentru o scurtă pauză sau o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        9.208057,
+                        48.523491
+                  ]
+            },
+            {
+                  "name": "Breitenbachsee",
+                  "text": "Breitenbachsee din Reutlingen este un lac ce oferă vizitatorilor un cadru natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.174295,
+                        48.470939
+                  ]
+            },
+            {
+                  "name": "Mittlerer Gönninger See",
+                  "text": "Mittlerer Gönninger See din Reutlingen este un lac ce invită la momente de liniște în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.178539,
+                        48.425505
+                  ]
+            },
+            {
+                  "name": "Schlammstapelbehälter",
+                  "text": "Schlammstapelbehälter din Reutlingen este un bazin de apă ce completează peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        9.212543,
+                        48.552273
+                  ]
+            },
+            {
+                  "name": "Nachklärbecken",
+                  "text": "Nachklärbecken din Reutlingen este o suprafață de apă integrată în mediul local.",
+                  "category": "natural",
+                  "coords": [
+                        9.215552,
+                        48.552507
+                  ]
+            },
+            {
+                  "name": "Filtratpufferbehälter",
+                  "text": "Filtratpufferbehälter din Reutlingen este un bazin tehnic situat în mediul urban.",
+                  "category": "natural",
+                  "coords": [
+                        9.213781,
+                        48.552566
+                  ]
+            },
+            {
+                  "name": "Baggersee Epple Kirchentellinsfurt",
+                  "text": "Baggersee Epple Kirchentellinsfurt de lângă Reutlingen este un lac potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.151052,
+                        48.54119
+                  ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "Baggersee din Reutlingen este un lac ce oferă un decor liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.16727,
+                        48.547555
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nürtingerhofstr.",
+                  "text": "Spielplatz Nürtingerhofstr. din Reutlingen este un spațiu de joacă local unde copiii se pot distra în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.213828,
+                        48.48977
+                  ]
+            },
+            {
+                  "name": "Bahnhofsanger",
+                  "text": "Terenul de joacă Bahnhofsanger din Reutlingen este un punct de întâlnire pentru familiile cu copii pentru joacă comună.",
+                  "category": "family",
+                  "coords": [
+                        9.229055,
+                        48.468307
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "Locul de joacă din Stadtgarten Reutlingen este un spațiu situat central unde copiii se pot juca în voie.",
+                  "category": "family",
+                  "coords": [
+                        9.221316,
+                        48.494083
+                  ]
+            },
+            {
+                  "name": "Nürnberger Straße",
+                  "text": "Locul de joacă Nürnberger Straße din Reutlingen oferă diverse posibilități pentru cățărare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.215233,
+                        48.520744
+                  ]
+            },
+            {
+                  "name": "Kids House",
+                  "text": "Kids House din Reutlingen este un loc primitor pentru familii, oferind copiilor spațiu pentru explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.220551,
+                        48.513377
+                  ]
+            },
+            {
+                  "name": "Akti - Aktivitätsspielplatz Reutlingen",
+                  "text": "Akti - Aktivitätsspielplatz Reutlingen încurajează mișcarea și joaca activă a copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.214725,
+                        48.51632
+                  ]
+            },
+            {
+                  "name": "Spielplatz Betzenried",
+                  "text": "Locul de joacă Betzenried din Reutlingen este o destinație plăcută pentru excursii cu copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        9.229064,
+                        48.488297
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohe Straße",
+                  "text": "Locul de joacă Hohe Straße din Reutlingen oferă copiilor un spațiu sigur pentru joacă în cartier.",
+                  "category": "family",
+                  "coords": [
+                        9.226076,
+                        48.460505
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quellenstraße",
+                  "text": "Locul de joacă Quellenstraße din Reutlingen invită copiii la joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.177574,
+                        48.496747
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rubensstraße",
+                  "text": "Locul de joacă Rubensstraße din Reutlingen este un punct de întâlnire local pentru copiii care se joacă afară.",
+                  "category": "family",
+                  "coords": [
+                        9.261977,
+                        48.484935
+                  ]
+            },
+            {
+                  "name": "Frauenstraße/Volkspark",
+                  "text": "Locul de joacă Frauenstraße/Volkspark din Reutlingen oferă mult spațiu pentru joaca copiilor în apropierea parcului.",
+                  "category": "family",
+                  "coords": [
+                        9.203836,
+                        48.488373
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hirschlandstraße",
+                  "text": "Locul de joacă Hirschlandstraße din Reutlingen este dotat cu diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.220951,
+                        48.484907
+                  ]
+            },
+            {
+                  "name": "Im Alten Stadion",
+                  "text": "Locul de joacă Im Alten Stadion din Reutlingen oferă un mediu variat pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        9.248452,
+                        48.48424
+                  ]
             }
       ],
       "en": [
@@ -759,12 +1380,1056 @@ export const germanyCitiesV2: POI[] = [
                         9.209782,
                         48.493758
                   ]
+            },
+            {
+                  "name": "Unterer Gönninger See",
+                  "text": "Unterer Gönninger See in Reutlingen is a lake providing a peaceful setting for a walk or a relaxing break.",
+                  "category": "natural",
+                  "coords": [
+                        9.179382,
+                        48.426496
+                  ]
+            },
+            {
+                  "name": "Speicherbecken Pumpspeicherwerk Glems",
+                  "text": "Speicherbecken Pumpspeicherwerk Glems in Reutlingen is a body of water providing a quiet setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.299882,
+                        48.494582
+                  ]
+            },
+            {
+                  "name": "Ententeich",
+                  "text": "Ententeich in Reutlingen is a small pond ideal for a short break or a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        9.208057,
+                        48.523491
+                  ]
+            },
+            {
+                  "name": "Breitenbachsee",
+                  "text": "Breitenbachsee in Reutlingen is a lake offering visitors a natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.174295,
+                        48.470939
+                  ]
+            },
+            {
+                  "name": "Mittlerer Gönninger See",
+                  "text": "Mittlerer Gönninger See in Reutlingen is a lake inviting visitors to enjoy quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.178539,
+                        48.425505
+                  ]
+            },
+            {
+                  "name": "Schlammstapelbehälter",
+                  "text": "Schlammstapelbehälter in Reutlingen is a water basin that complements the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.212543,
+                        48.552273
+                  ]
+            },
+            {
+                  "name": "Nachklärbecken",
+                  "text": "Nachklärbecken in Reutlingen is a water area integrated into the local environment.",
+                  "category": "natural",
+                  "coords": [
+                        9.215552,
+                        48.552507
+                  ]
+            },
+            {
+                  "name": "Filtratpufferbehälter",
+                  "text": "Filtratpufferbehälter in Reutlingen is a technical water basin within the urban area.",
+                  "category": "natural",
+                  "coords": [
+                        9.213781,
+                        48.552566
+                  ]
+            },
+            {
+                  "name": "Baggersee Epple Kirchentellinsfurt",
+                  "text": "Baggersee Epple Kirchentellinsfurt near Reutlingen is a lake well-suited for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.151052,
+                        48.54119
+                  ]
+            },
+            {
+                  "name": "Baggersee",
+                  "text": "Baggersee in Reutlingen is a lake providing a calm backdrop for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        9.16727,
+                        48.547555
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nürtingerhofstr.",
+                  "text": "Spielplatz Nürtingerhofstr. in Reutlingen is a local play area where children can enjoy playing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        9.213828,
+                        48.48977
+                  ]
+            },
+            {
+                  "name": "Bahnhofsanger",
+                  "text": "The Bahnhofsanger playground in Reutlingen is a meeting point for families with children to play together.",
+                  "category": "family",
+                  "coords": [
+                        9.229055,
+                        48.468307
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "The playground in Stadtgarten Reutlingen is a centrally located spot for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.221316,
+                        48.494083
+                  ]
+            },
+            {
+                  "name": "Nürnberger Straße",
+                  "text": "The Nürnberger Straße playground in Reutlingen offers various opportunities for outdoor climbing and play.",
+                  "category": "family",
+                  "coords": [
+                        9.215233,
+                        48.520744
+                  ]
+            },
+            {
+                  "name": "Kids House",
+                  "text": "Kids House in Reutlingen is a family-friendly venue providing space for children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        9.220551,
+                        48.513377
+                  ]
+            },
+            {
+                  "name": "Akti - Aktivitätsspielplatz Reutlingen",
+                  "text": "The Akti - Aktivitätsspielplatz Reutlingen encourages movement and active outdoor play for children.",
+                  "category": "family",
+                  "coords": [
+                        9.214725,
+                        48.51632
+                  ]
+            },
+            {
+                  "name": "Spielplatz Betzenried",
+                  "text": "The Betzenried playground in Reutlingen is a nice destination for family outings with young children.",
+                  "category": "family",
+                  "coords": [
+                        9.229064,
+                        48.488297
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohe Straße",
+                  "text": "The Hohe Straße playground in Reutlingen provides a safe space for neighborhood children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.226076,
+                        48.460505
+                  ]
+            },
+            {
+                  "name": "Spielplatz Quellenstraße",
+                  "text": "The Quellenstraße playground in Reutlingen invites children to play and move in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        9.177574,
+                        48.496747
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rubensstraße",
+                  "text": "The Rubensstraße playground in Reutlingen is a local meeting spot for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        9.261977,
+                        48.484935
+                  ]
+            },
+            {
+                  "name": "Frauenstraße/Volkspark",
+                  "text": "The Frauenstraße/Volkspark playground in Reutlingen offers plenty of space for children to play near the park.",
+                  "category": "family",
+                  "coords": [
+                        9.203836,
+                        48.488373
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hirschlandstraße",
+                  "text": "The Hirschlandstraße playground in Reutlingen is equipped with various play structures for children.",
+                  "category": "family",
+                  "coords": [
+                        9.220951,
+                        48.484907
+                  ]
+            },
+            {
+                  "name": "Im Alten Stadion",
+                  "text": "The Im Alten Stadion playground in Reutlingen provides a diverse environment for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        9.248452,
+                        48.48424
+                  ]
             }
       ]
 }
   },
   {
-    id: "germany-plauen-cities-v2",
+    id: "germany-plauen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gondelteich",
+                  "text": "Der Gondelteich in Plauen ist ein schönes Gewässer im Stadtpark, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.185845,
+                        50.490094
+                  ]
+            },
+            {
+                  "name": "Talsperre Pöhl",
+                  "text": "Die Talsperre Pöhl bei Plauen ist ein beliebtes Ziel für Wassersportler und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        12.206817,
+                        50.534769
+                  ]
+            },
+            {
+                  "name": "Vorsperre Thossfell",
+                  "text": "Die Vorsperre Thoßfell bei Plauen bietet eine ruhige Atmosphäre in der Nähe der Talsperre Pöhl.",
+                  "category": "natural",
+                  "coords": [
+                        12.243979,
+                        50.519404
+                  ]
+            },
+            {
+                  "name": "Vorsperre Neuensalz",
+                  "text": "Die Vorsperre Neuensalz bei Plauen ist ein landschaftlich schön gelegenes Gewässer im Vogtland.",
+                  "category": "natural",
+                  "coords": [
+                        12.225879,
+                        50.511899
+                  ]
+            },
+            {
+                  "name": "Hammerteich",
+                  "text": "Der Hammerteich in Plauen ist ein lokales Gewässer, das sich gut für einen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.13987,
+                        50.486638
+                  ]
+            },
+            {
+                  "name": "Talsperre Pirk",
+                  "text": "Die Talsperre Pirk bei Plauen ist ein attraktives Ziel für Ausflüge und Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.120009,
+                        50.425241
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bärenstein",
+                  "text": "Der Spielplatz Bärenstein in Plauen bietet Kindern abwechslungsreiche Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        12.126948,
+                        50.504454
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtstrand",
+                  "text": "Der Spielplatz Stadtstrand in Plauen ermöglicht Kindern das Spielen in einer besonderen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        12.142046,
+                        50.493016
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Albertplatz",
+                  "text": "Der Spielplatz Am Albertplatz in Plauen ist ein zentral gelegener Ort für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        12.132736,
+                        50.502627
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "Der Spielplatz im Goethepark in Plauen bietet Spielspaß inmitten einer schönen Grünanlage.",
+                  "category": "family",
+                  "coords": [
+                        12.140608,
+                        50.507589
+                  ]
+            },
+            {
+                  "name": "18-Loch-Minigolfanlage",
+                  "text": "Die 18-Loch-Minigolfanlage in Plauen bietet Freizeitspaß und Herausforderungen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.123881,
+                        50.499164
+                  ]
+            },
+            {
+                  "name": "Schillerstraße",
+                  "text": "Der Spielplatz Schillerstraße in Plauen bietet Kindern Raum zum Spielen und Austoben.",
+                  "category": "family",
+                  "coords": [
+                        12.141735,
+                        50.503199
+                  ]
+            },
+            {
+                  "name": "Indoor Spielplatz \"Happy Kids\"",
+                  "text": "Der Indoor Spielplatz \"Happy Kids\" in Plauen bietet wetterunabhängigen Spielspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.144965,
+                        50.486663
+                  ]
+            },
+            {
+                  "name": "Knielohanlage",
+                  "text": "Der Spielplatz Knielohanlage in Plauen ist ein schönes Ziel für einen Familienausflug ins Grüne.",
+                  "category": "family",
+                  "coords": [
+                        12.149347,
+                        50.490952
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heineplatz",
+                  "text": "Der Spielplatz Heineplatz in Plauen bietet verschiedene Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        12.097541,
+                        50.489685
+                  ]
+            },
+            {
+                  "name": "Burgstraße",
+                  "text": "Der Spielplatz Burgstraße in Plauen lädt Kinder zum Spielen und Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        12.128616,
+                        50.496173
+                  ]
+            },
+            {
+                  "name": "Paul-Schneider-Straße",
+                  "text": "Der Spielplatz Paul-Schneider-Straße in Plauen bietet eine sichere Umgebung für spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        12.139688,
+                        50.502953
+                  ]
+            },
+            {
+                  "name": "Bahnhofstraße",
+                  "text": "Der Spielplatz Bahnhofstraße in Plauen bietet Abwechslung und Bewegung für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        12.135181,
+                        50.501717
+                  ]
+            },
+            {
+                  "name": "Tischerstraße",
+                  "text": "Der Spielplatz Tischerstraße in Plauen ist ein beliebter Treffpunkt für Familien aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        12.144483,
+                        50.502372
+                  ]
+            },
+            {
+                  "name": "Hainstraße",
+                  "text": "Der Spielplatz Hainstraße in Plauen bietet Kindern vielfältige Möglichkeiten zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        12.125584,
+                        50.499283
+                  ]
+            },
+            {
+                  "name": "Karlsberg",
+                  "text": "Der Spielplatz Karlsberg in Plauen bietet eine angenehme Atmosphäre zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        12.129438,
+                        50.497841
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Louis-Ferdinand-Schönherr-Straße",
+                  "text": "Der Spielplatz an der Louis-Ferdinand-Schönherr-Straße in Plauen ist ideal für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        12.104837,
+                        50.493073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mosenanlage",
+                  "text": "Der Spielplatz Mosenanlage in Plauen bietet Kindern einen Ort für Freizeit und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        12.13506,
+                        50.49577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gondelteich",
+                  "text": "A plaueni Gondelteich egy szép tó a városi parkban, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.185845,
+                        50.490094
+                  ]
+            },
+            {
+                  "name": "Talsperre Pöhl",
+                  "text": "A Plauen közeli Talsperre Pöhl népszerű célpont a vízi sportok kedvelői és a pihenni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        12.206817,
+                        50.534769
+                  ]
+            },
+            {
+                  "name": "Vorsperre Thossfell",
+                  "text": "A Plauen közeli Vorsperre Thoßfell nyugodt légkört kínál a Talsperre Pöhl szomszédságában.",
+                  "category": "natural",
+                  "coords": [
+                        12.243979,
+                        50.519404
+                  ]
+            },
+            {
+                  "name": "Vorsperre Neuensalz",
+                  "text": "A Plauen melletti Vorsperre Neuensalz egy szép fekvésű vízfelület a Vogtland vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        12.225879,
+                        50.511899
+                  ]
+            },
+            {
+                  "name": "Hammerteich",
+                  "text": "A plaueni Hammerteich egy helyi tó, amely alkalmas egy kellemes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        12.13987,
+                        50.486638
+                  ]
+            },
+            {
+                  "name": "Talsperre Pirk",
+                  "text": "A Plauen közeli Talsperre Pirk vonzó célpont kirándulásokhoz és vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.120009,
+                        50.425241
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bärenstein",
+                  "text": "A plaueni Bärenstein játszótér változatos mászási és játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.126948,
+                        50.504454
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtstrand",
+                  "text": "A plaueni Stadtstrand játszótér különleges hangulatban kínál játéklehetőséget a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.142046,
+                        50.493016
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Albertplatz",
+                  "text": "A plaueni Albertplatznál található játszótér központi hely a gyermekek aktív kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        12.132736,
+                        50.502627
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "A plaueni Goethepark játszótér játékos kikapcsolódást nyújt egy szép zöldövezet közepén.",
+                  "category": "family",
+                  "coords": [
+                        12.140608,
+                        50.507589
+                  ]
+            },
+            {
+                  "name": "18-Loch-Minigolfanlage",
+                  "text": "A plaueni 18 lyukú minigolfpálya szórakozást és kihívásokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.123881,
+                        50.499164
+                  ]
+            },
+            {
+                  "name": "Schillerstraße",
+                  "text": "A plaueni Schillerstraße játszótér lehetőséget nyújt a gyerekeknek a játékra és a mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        12.141735,
+                        50.503199
+                  ]
+            },
+            {
+                  "name": "Indoor Spielplatz \"Happy Kids\"",
+                  "text": "A plaueni \"Happy Kids\" beltéri játszóház az időjárástól független szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.144965,
+                        50.486663
+                  ]
+            },
+            {
+                  "name": "Knielohanlage",
+                  "text": "A plaueni Knielohanlage játszótér kellemes úti cél egy zöldövezeti családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.149347,
+                        50.490952
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heineplatz",
+                  "text": "A plaueni Heineplatz játszótér különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.097541,
+                        50.489685
+                  ]
+            },
+            {
+                  "name": "Burgstraße",
+                  "text": "A plaueni Burgstraße játszótér játékra és időtöltésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        12.128616,
+                        50.496173
+                  ]
+            },
+            {
+                  "name": "Paul-Schneider-Straße",
+                  "text": "A plaueni Paul-Schneider-Straße játszótér biztonságos környezetet nyújt a játszó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.139688,
+                        50.502953
+                  ]
+            },
+            {
+                  "name": "Bahnhofstraße",
+                  "text": "A plaueni Bahnhofstraße játszótér kikapcsolódást és mozgási lehetőséget kínál a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        12.135181,
+                        50.501717
+                  ]
+            },
+            {
+                  "name": "Tischerstraße",
+                  "text": "A plaueni Tischerstraße játszótér a környékbeli családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        12.144483,
+                        50.502372
+                  ]
+            },
+            {
+                  "name": "Hainstraße",
+                  "text": "A plaueni Hainstraße játszótér sokoldalú lehetőséget nyújt a gyerekeknek a mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        12.125584,
+                        50.499283
+                  ]
+            },
+            {
+                  "name": "Karlsberg",
+                  "text": "A plaueni Karlsberg játszótér kellemes környezetet biztosít a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.129438,
+                        50.497841
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Louis-Ferdinand-Schönherr-Straße",
+                  "text": "A plaueni Louis-Ferdinand-Schönherr-Straße melletti játszótér ideális egy rövid játékidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        12.104837,
+                        50.493073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mosenanlage",
+                  "text": "A plaueni Mosenanlage játszótér helyet biztosít a gyerekeknek a kikapcsolódáshoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.13506,
+                        50.49577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gondelteich",
+                  "text": "Gondelteich din Plauen este un lac frumos în parcul orașului, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.185845,
+                        50.490094
+                  ]
+            },
+            {
+                  "name": "Talsperre Pöhl",
+                  "text": "Talsperre Pöhl de lângă Plauen este o destinație populară pentru sporturi nautice și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.206817,
+                        50.534769
+                  ]
+            },
+            {
+                  "name": "Vorsperre Thossfell",
+                  "text": "Vorsperre Thoßfell de lângă Plauen oferă o atmosferă liniștită în apropierea barajului Talsperre Pöhl.",
+                  "category": "natural",
+                  "coords": [
+                        12.243979,
+                        50.519404
+                  ]
+            },
+            {
+                  "name": "Vorsperre Neuensalz",
+                  "text": "Vorsperre Neuensalz de lângă Plauen este un lac situat într-un peisaj frumos în Vogtland.",
+                  "category": "natural",
+                  "coords": [
+                        12.225879,
+                        50.511899
+                  ]
+            },
+            {
+                  "name": "Hammerteich",
+                  "text": "Hammerteich din Plauen este un lac local, potrivit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        12.13987,
+                        50.486638
+                  ]
+            },
+            {
+                  "name": "Talsperre Pirk",
+                  "text": "Talsperre Pirk de lângă Plauen este o destinație atractivă pentru excursii și activități pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.120009,
+                        50.425241
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bärenstein",
+                  "text": "Locul de joacă Bärenstein din Plauen oferă copiilor posibilități variate de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.126948,
+                        50.504454
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtstrand",
+                  "text": "Locul de joacă Stadtstrand din Plauen le permite copiilor să se joace într-o atmosferă specială.",
+                  "category": "family",
+                  "coords": [
+                        12.142046,
+                        50.493016
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Albertplatz",
+                  "text": "Locul de joacă Am Albertplatz din Plauen este un loc situat central unde copiii se pot juca activ.",
+                  "category": "family",
+                  "coords": [
+                        12.132736,
+                        50.502627
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "Locul de joacă din Goethepark, Plauen, oferă distracție în mijlocul unei zone verzi frumoase.",
+                  "category": "family",
+                  "coords": [
+                        12.140608,
+                        50.507589
+                  ]
+            },
+            {
+                  "name": "18-Loch-Minigolfanlage",
+                  "text": "Terenul de minigolf cu 18 găuri din Plauen oferă distracție și provocări pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.123881,
+                        50.499164
+                  ]
+            },
+            {
+                  "name": "Schillerstraße",
+                  "text": "Locul de joacă Schillerstraße din Plauen oferă copiilor spațiu pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        12.141735,
+                        50.503199
+                  ]
+            },
+            {
+                  "name": "Indoor Spielplatz \"Happy Kids\"",
+                  "text": "Locul de joacă interior „Happy Kids” din Plauen oferă distracție pentru familii, indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        12.144965,
+                        50.486663
+                  ]
+            },
+            {
+                  "name": "Knielohanlage",
+                  "text": "Locul de joacă Knielohanlage din Plauen este o destinație frumoasă pentru o ieșire cu familia în natură.",
+                  "category": "family",
+                  "coords": [
+                        12.149347,
+                        50.490952
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heineplatz",
+                  "text": "Locul de joacă Heineplatz din Plauen oferă diverse facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.097541,
+                        50.489685
+                  ]
+            },
+            {
+                  "name": "Burgstraße",
+                  "text": "Locul de joacă Burgstraße din Plauen îi invită pe copii la joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        12.128616,
+                        50.496173
+                  ]
+            },
+            {
+                  "name": "Paul-Schneider-Straße",
+                  "text": "Locul de joacă Paul-Schneider-Straße din Plauen oferă un mediu sigur pentru copiii care se joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.139688,
+                        50.502953
+                  ]
+            },
+            {
+                  "name": "Bahnhofstraße",
+                  "text": "Locul de joacă Bahnhofstraße din Plauen oferă diversitate și mișcare pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        12.135181,
+                        50.501717
+                  ]
+            },
+            {
+                  "name": "Tischerstraße",
+                  "text": "Locul de joacă Tischerstraße din Plauen este un punct de întâlnire popular pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        12.144483,
+                        50.502372
+                  ]
+            },
+            {
+                  "name": "Hainstraße",
+                  "text": "Locul de joacă Hainstraße din Plauen oferă copiilor diverse posibilități de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        12.125584,
+                        50.499283
+                  ]
+            },
+            {
+                  "name": "Karlsberg",
+                  "text": "Locul de joacă Karlsberg din Plauen oferă o atmosferă plăcută pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.129438,
+                        50.497841
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Louis-Ferdinand-Schönherr-Straße",
+                  "text": "Locul de joacă de pe Louis-Ferdinand-Schönherr-Straße din Plauen este ideal pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.104837,
+                        50.493073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mosenanlage",
+                  "text": "Locul de joacă Mosenanlage din Plauen oferă copiilor un loc pentru recreere și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        12.13506,
+                        50.49577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gondelteich",
+                  "text": "The Gondelteich in Plauen is a beautiful body of water in the city park that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        12.185845,
+                        50.490094
+                  ]
+            },
+            {
+                  "name": "Talsperre Pöhl",
+                  "text": "The Talsperre Pöhl near Plauen is a popular destination for water sports enthusiasts and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.206817,
+                        50.534769
+                  ]
+            },
+            {
+                  "name": "Vorsperre Thossfell",
+                  "text": "The Vorsperre Thoßfell near Plauen offers a quiet atmosphere near the Talsperre Pöhl.",
+                  "category": "natural",
+                  "coords": [
+                        12.243979,
+                        50.519404
+                  ]
+            },
+            {
+                  "name": "Vorsperre Neuensalz",
+                  "text": "The Vorsperre Neuensalz near Plauen is a beautifully situated body of water in the Vogtland region.",
+                  "category": "natural",
+                  "coords": [
+                        12.225879,
+                        50.511899
+                  ]
+            },
+            {
+                  "name": "Hammerteich",
+                  "text": "The Hammerteich in Plauen is a local body of water that is well-suited for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        12.13987,
+                        50.486638
+                  ]
+            },
+            {
+                  "name": "Talsperre Pirk",
+                  "text": "The Talsperre Pirk near Plauen is an attractive destination for excursions and leisure activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.120009,
+                        50.425241
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bärenstein",
+                  "text": "The Bärenstein playground in Plauen offers children varied opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        12.126948,
+                        50.504454
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtstrand",
+                  "text": "The Stadtstrand playground in Plauen allows children to play in a special atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        12.142046,
+                        50.493016
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Albertplatz",
+                  "text": "The Am Albertplatz playground in Plauen is a centrally located place for children to run around.",
+                  "category": "family",
+                  "coords": [
+                        12.132736,
+                        50.502627
+                  ]
+            },
+            {
+                  "name": "Goethepark",
+                  "text": "The playground in Goethepark in Plauen offers play fun in the middle of a beautiful green area.",
+                  "category": "family",
+                  "coords": [
+                        12.140608,
+                        50.507589
+                  ]
+            },
+            {
+                  "name": "18-Loch-Minigolfanlage",
+                  "text": "The 18-hole mini-golf course in Plauen offers leisure fun and challenges for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.123881,
+                        50.499164
+                  ]
+            },
+            {
+                  "name": "Schillerstraße",
+                  "text": "The Schillerstraße playground in Plauen offers children space to play and run around.",
+                  "category": "family",
+                  "coords": [
+                        12.141735,
+                        50.503199
+                  ]
+            },
+            {
+                  "name": "Indoor Spielplatz \"Happy Kids\"",
+                  "text": "The \"Happy Kids\" indoor playground in Plauen offers weather-independent fun for families.",
+                  "category": "family",
+                  "coords": [
+                        12.144965,
+                        50.486663
+                  ]
+            },
+            {
+                  "name": "Knielohanlage",
+                  "text": "The Knielohanlage playground in Plauen is a lovely destination for a family outing in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        12.149347,
+                        50.490952
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heineplatz",
+                  "text": "The Spielplatz Heineplatz in Plauen offers various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        12.097541,
+                        50.489685
+                  ]
+            },
+            {
+                  "name": "Burgstraße",
+                  "text": "The Burgstraße playground in Plauen invites children to play and spend time.",
+                  "category": "family",
+                  "coords": [
+                        12.128616,
+                        50.496173
+                  ]
+            },
+            {
+                  "name": "Paul-Schneider-Straße",
+                  "text": "The Paul-Schneider-Straße playground in Plauen offers a safe environment for children at play.",
+                  "category": "family",
+                  "coords": [
+                        12.139688,
+                        50.502953
+                  ]
+            },
+            {
+                  "name": "Bahnhofstraße",
+                  "text": "The Bahnhofstraße playground in Plauen offers variety and exercise for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        12.135181,
+                        50.501717
+                  ]
+            },
+            {
+                  "name": "Tischerstraße",
+                  "text": "The Tischerstraße playground in Plauen is a popular meeting point for families in the area.",
+                  "category": "family",
+                  "coords": [
+                        12.144483,
+                        50.502372
+                  ]
+            },
+            {
+                  "name": "Hainstraße",
+                  "text": "The Hainstraße playground in Plauen offers children diverse opportunities to run around.",
+                  "category": "family",
+                  "coords": [
+                        12.125584,
+                        50.499283
+                  ]
+            },
+            {
+                  "name": "Karlsberg",
+                  "text": "The Karlsberg playground in Plauen offers a pleasant atmosphere for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        12.129438,
+                        50.497841
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Louis-Ferdinand-Schönherr-Straße",
+                  "text": "The playground on Louis-Ferdinand-Schönherr-Straße in Plauen is ideal for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        12.104837,
+                        50.493073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mosenanlage",
+                  "text": "The Mosenanlage playground in Plauen offers children a place for leisure and exercise.",
+                  "category": "family",
+                  "coords": [
+                        12.13506,
+                        50.49577
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Plauen", hu: "Plauen", ro: "Plauen", en: "Plauen" },
@@ -881,7 +2546,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Slawendorf Brandenburg an der Havel",
                   "text": "Eine Rekonstruktion einer slawischen Siedlung aus dem 11. Jahrhundert an der Havel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.551531,
                         52.409847
@@ -890,7 +2555,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Funbad",
                   "text": "Erlebnisbad in Brandenburg an der Havel mit verschiedenen Wasserrutschen und Freizeitbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.541548,
                         52.415704
@@ -985,6 +2650,96 @@ export const germanyCitiesV2: POI[] = [
                         12.564885,
                         52.41093
                   ]
+            },
+            {
+                  "name": "Autobahnsee",
+                  "text": "Der Autobahnsee in Brandenburg an der Havel bietet eine ruhige Wasserfläche in der Natur. Er ist ein Ziel für Entspannung und kurze Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        12.524129,
+                        52.346973
+                  ]
+            },
+            {
+                  "name": "LFA2",
+                  "text": "LFA2 in Brandenburg an der Havel ist ein funktionales Gewässer in einer naturnahen Umgebung. Es bietet eine schlichte Kulisse für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        12.448198,
+                        52.426704
+                  ]
+            },
+            {
+                  "name": "Beetzsee",
+                  "text": "Der Beetzsee in Brandenburg an der Havel ist ein weitläufiges Gewässer, das ideal für Freizeitaktivitäten am und auf dem Wasser ist. Die Umgebung bietet schöne Wege für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        12.574874,
+                        52.451918
+                  ]
+            },
+            {
+                  "name": "Radewege Erdelöcher",
+                  "text": "Die Radewege Erdelöcher in Brandenburg an der Havel bieten eine naturnahe Wasserlandschaft in ruhiger Lage. Es ist ein schöner Ort für Naturbeobachtungen und Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        12.554473,
+                        52.477063
+                  ]
+            },
+            {
+                  "name": "Turngerüst",
+                  "text": "Das Turngerüst in Brandenburg an der Havel bietet Kindern Möglichkeiten für sportliche Betätigung im Freien. Es ist ein einfacher Treffpunkt für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        12.54923,
+                        52.416277
+                  ]
+            },
+            {
+                  "name": "Kletterspielplatz",
+                  "text": "Der Kletterspielplatz in Brandenburg an der Havel bietet spannende Herausforderungen für Kinder. Er ist ein ideales Ziel für Familien, die Wert auf aktive Freizeitgestaltung legen.",
+                  "category": "family",
+                  "coords": [
+                        12.539376,
+                        52.416981
+                  ]
+            },
+            {
+                  "name": "Palmenspielplatz",
+                  "text": "Der Palmenspielplatz in Brandenburg an der Havel lädt Kinder zu fantasievollem Spielen im Freien ein. Die Anlage bietet eine abwechslungsreiche Umgebung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.561248,
+                        52.42393
+                  ]
+            },
+            {
+                  "name": "Schiffs-Spielplatz",
+                  "text": "Der Schiffs-Spielplatz in Brandenburg an der Havel bietet ein besonderes Thema für den Freizeitspaß der Kinder. Familien finden hier eine ansprechende Gestaltung für gemeinsame Stunden.",
+                  "category": "family",
+                  "coords": [
+                        12.556193,
+                        52.410655
+                  ]
+            },
+            {
+                  "name": "Drachenspielplatz",
+                  "text": "Der Drachenspielplatz in Brandenburg an der Havel ist eine fantasievoll gestaltete Anlage für Kinder. Er bietet Raum für kreatives Spiel in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        12.544292,
+                        52.416105
+                  ]
+            },
+            {
+                  "name": "Sportspielplatz",
+                  "text": "Der Sportspielplatz in Brandenburg an der Havel kombiniert Spiel und sportliche Übungen an der frischen Luft. Er ist ein aktives Ziel für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        12.563503,
+                        52.411779
+                  ]
             }
       ],
       "hu": [
@@ -1054,7 +2809,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Slawendorf Brandenburg an der Havel",
                   "text": "Egy 11. századi szláv település rekonstrukciója a Havel folyó partján.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.551531,
                         52.409847
@@ -1063,7 +2818,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Funbad",
                   "text": "Élményfürdő Brandenburg an der Havelben, különféle csúszdákkal és szabadidős medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.541548,
                         52.415704
@@ -1158,6 +2913,96 @@ export const germanyCitiesV2: POI[] = [
                         12.564885,
                         52.41093
                   ]
+            },
+            {
+                  "name": "Autobahnsee",
+                  "text": "A Brandenburg an der Havel területén található Autobahnsee nyugodt vízfelületet kínál a természetben. Pihenésre és rövid vízparti sétákra alkalmas helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        12.524129,
+                        52.346973
+                  ]
+            },
+            {
+                  "name": "LFA2",
+                  "text": "A Brandenburg an der Havel-i LFA2 egy funkcionális vízfelület természetközeli környezetben. Egyszerű hátteret biztosít a szabadban való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.448198,
+                        52.426704
+                  ]
+            },
+            {
+                  "name": "Beetzsee",
+                  "text": "A Brandenburg an der Havel területén található Beetzsee egy kiterjedt vízfelület, amely ideális a vízparti és vízi szabadidős tevékenységekhez. A környék szép sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        12.574874,
+                        52.451918
+                  ]
+            },
+            {
+                  "name": "Radewege Erdelöcher",
+                  "text": "A Brandenburg an der Havel-i Radewege Erdelöcher természetközeli vízfelületet kínál csendes környezetben. Kellemes hely a természet megfigyelésére és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        12.554473,
+                        52.477063
+                  ]
+            },
+            {
+                  "name": "Turngerüst",
+                  "text": "A Brandenburg an der Havel-i Turngerüst sportolási lehetőséget kínál a gyerekeknek a szabadban. Egyszerű találkozóhely a mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.54923,
+                        52.416277
+                  ]
+            },
+            {
+                  "name": "Kletterspielplatz",
+                  "text": "A Brandenburg an der Havel-i mászó játszótér izgalmas kihívásokat kínál a gyerekeknek. Ideális célpont az aktív kikapcsolódást kedvelő családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.539376,
+                        52.416981
+                  ]
+            },
+            {
+                  "name": "Palmenspielplatz",
+                  "text": "A Brandenburg an der Havel-i Palmenspielplatz fantáziadús szabadtéri játékra hívja a gyerekeket. A létesítmény változatos környezetet biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.561248,
+                        52.42393
+                  ]
+            },
+            {
+                  "name": "Schiffs-Spielplatz",
+                  "text": "A Brandenburg an der Havel-i hajós játszótér különleges témát kínál a gyerekek szórakozásához. A családok itt vonzó kialakítást találnak a közös időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        12.556193,
+                        52.410655
+                  ]
+            },
+            {
+                  "name": "Drachenspielplatz",
+                  "text": "A Brandenburg an der Havel-i sárkányos játszótér egy fantáziadúsan kialakított helyszín gyerekeknek. Teret ad a kreatív játéknak biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        12.544292,
+                        52.416105
+                  ]
+            },
+            {
+                  "name": "Sportspielplatz",
+                  "text": "A Brandenburg an der Havel-i sportjátszótér a játékot és a sportos gyakorlatokat ötvözi a friss levegőn. Aktív célpont gyermekek és fiatalok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.563503,
+                        52.411779
+                  ]
             }
       ],
       "ro": [
@@ -1227,7 +3072,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Slawendorf Brandenburg an der Havel",
                   "text": "O reconstrucție a unei așezări slave din secolul al XI-lea pe malul râului Havel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.551531,
                         52.409847
@@ -1236,7 +3081,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Funbad",
                   "text": "Parc acvatic în Brandenburg an der Havel, dotat cu diverse tobogane și bazine recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.541548,
                         52.415704
@@ -1331,6 +3176,96 @@ export const germanyCitiesV2: POI[] = [
                         12.564885,
                         52.41093
                   ]
+            },
+            {
+                  "name": "Autobahnsee",
+                  "text": "Autobahnsee din Brandenburg an der Havel oferă o suprafață de apă liniștită în natură. Este o destinație pentru relaxare și scurte plimbări pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        12.524129,
+                        52.346973
+                  ]
+            },
+            {
+                  "name": "LFA2",
+                  "text": "LFA2 din Brandenburg an der Havel este o suprafață de apă funcțională într-un mediu natural. Oferă un cadru simplu pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        12.448198,
+                        52.426704
+                  ]
+            },
+            {
+                  "name": "Beetzsee",
+                  "text": "Beetzsee din Brandenburg an der Havel este o întindere de apă vastă, ideală pentru activități recreative pe apă și pe mal. Împrejurimile oferă trasee frumoase pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        12.574874,
+                        52.451918
+                  ]
+            },
+            {
+                  "name": "Radewege Erdelöcher",
+                  "text": "Radewege Erdelöcher din Brandenburg an der Havel oferă un peisaj acvatic natural într-o locație liniștită. Este un loc frumos pentru observarea naturii și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.554473,
+                        52.477063
+                  ]
+            },
+            {
+                  "name": "Turngerüst",
+                  "text": "Turngerüst din Brandenburg an der Havel oferă copiilor posibilități de activitate sportivă în aer liber. Este un punct de întâlnire simplu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.54923,
+                        52.416277
+                  ]
+            },
+            {
+                  "name": "Kletterspielplatz",
+                  "text": "Locul de joacă pentru cățărare din Brandenburg an der Havel oferă provocări captivante pentru copii. Este o destinație ideală pentru familiile care pun preț pe activități recreative.",
+                  "category": "family",
+                  "coords": [
+                        12.539376,
+                        52.416981
+                  ]
+            },
+            {
+                  "name": "Palmenspielplatz",
+                  "text": "Locul de joacă Palmen din Brandenburg an der Havel invită copiii la joacă plină de imaginație în aer liber. Instalația oferă un mediu variat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.561248,
+                        52.42393
+                  ]
+            },
+            {
+                  "name": "Schiffs-Spielplatz",
+                  "text": "Locul de joacă cu tematică de navă din Brandenburg an der Havel oferă un cadru deosebit pentru distracția copiilor. Familiile găsesc aici un design atractiv pentru timpul petrecut împreună.",
+                  "category": "family",
+                  "coords": [
+                        12.556193,
+                        52.410655
+                  ]
+            },
+            {
+                  "name": "Drachenspielplatz",
+                  "text": "Locul de joacă cu dragoni din Brandenburg an der Havel este o unitate creativă pentru copii. Oferă spațiu pentru joacă creativă într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        12.544292,
+                        52.416105
+                  ]
+            },
+            {
+                  "name": "Sportspielplatz",
+                  "text": "Locul de joacă sportiv din Brandenburg an der Havel combină joaca cu exercițiile fizice în aer liber. Este o destinație activă pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        12.563503,
+                        52.411779
+                  ]
             }
       ],
       "en": [
@@ -1400,7 +3335,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Slawendorf Brandenburg an der Havel",
                   "text": "A reconstruction of an 11th-century Slavic settlement on the banks of the Havel River.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.551531,
                         52.409847
@@ -1409,7 +3344,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Funbad",
                   "text": "A water park in Brandenburg an der Havel featuring various water slides and leisure pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.541548,
                         52.415704
@@ -1504,6 +3439,96 @@ export const germanyCitiesV2: POI[] = [
                         12.564885,
                         52.41093
                   ]
+            },
+            {
+                  "name": "Autobahnsee",
+                  "text": "The Autobahnsee in Brandenburg an der Havel offers a quiet body of water in nature. It is a destination for relaxation and short walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        12.524129,
+                        52.346973
+                  ]
+            },
+            {
+                  "name": "LFA2",
+                  "text": "LFA2 in Brandenburg an der Havel is a functional body of water in a natural setting. It offers a simple backdrop for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        12.448198,
+                        52.426704
+                  ]
+            },
+            {
+                  "name": "Beetzsee",
+                  "text": "The Beetzsee in Brandenburg an der Havel is an extensive body of water, ideal for leisure activities on and by the water. The area offers beautiful paths for walks.",
+                  "category": "natural",
+                  "coords": [
+                        12.574874,
+                        52.451918
+                  ]
+            },
+            {
+                  "name": "Radewege Erdelöcher",
+                  "text": "The Radewege Erdelöcher in Brandenburg an der Havel offers a near-natural water landscape in a quiet location. It is a nice spot for nature observation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.554473,
+                        52.477063
+                  ]
+            },
+            {
+                  "name": "Turngerüst",
+                  "text": "The Turngerüst in Brandenburg an der Havel offers children opportunities for outdoor physical activity. It is a simple meeting spot for movement and play.",
+                  "category": "family",
+                  "coords": [
+                        12.54923,
+                        52.416277
+                  ]
+            },
+            {
+                  "name": "Kletterspielplatz",
+                  "text": "The climbing playground in Brandenburg an der Havel offers exciting challenges for children. It is an ideal destination for families who value active leisure.",
+                  "category": "family",
+                  "coords": [
+                        12.539376,
+                        52.416981
+                  ]
+            },
+            {
+                  "name": "Palmenspielplatz",
+                  "text": "The Palmenspielplatz in Brandenburg an der Havel invites children for imaginative outdoor play. The facility offers a diverse environment for families.",
+                  "category": "family",
+                  "coords": [
+                        12.561248,
+                        52.42393
+                  ]
+            },
+            {
+                  "name": "Schiffs-Spielplatz",
+                  "text": "The ship-themed playground in Brandenburg an der Havel offers a special theme for children's leisure fun. Families will find an appealing design for hours together.",
+                  "category": "family",
+                  "coords": [
+                        12.556193,
+                        52.410655
+                  ]
+            },
+            {
+                  "name": "Drachenspielplatz",
+                  "text": "The dragon-themed playground in Brandenburg an der Havel is an imaginatively designed facility for children. It offers space for creative play in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        12.544292,
+                        52.416105
+                  ]
+            },
+            {
+                  "name": "Sportspielplatz",
+                  "text": "The sports playground in Brandenburg an der Havel combines play and physical exercises in the fresh air. It is an active destination for children and youth.",
+                  "category": "family",
+                  "coords": [
+                        12.563503,
+                        52.411779
+                  ]
             }
       ]
 },
@@ -1578,7 +3603,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten",
                   "text": "Ein am Theresienstein gelegener Tierpark, der eine Vielzahl heimischer und exotischer Tierarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.925113,
                         50.330811
@@ -1605,7 +3630,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Botanischer Garten",
                   "text": "Ein Teil des Stadtparks Theresienstein mit thematischen Gärten und einer vielfältigen Pflanzensammlung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.922694,
                         50.329328
@@ -1614,7 +3639,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "FreiBadHof",
                   "text": "Ein beliebtes Freibad in Hof mit Sportbecken, Sprunganlage und Liegewiesen für Badegäste.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.928662,
                         50.312167
@@ -1623,7 +3648,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hof Bad",
                   "text": "Eine städtische Badeanstalt in Hof, die Möglichkeiten für Schwimmen und Erholung im Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.920461,
                         50.313956
@@ -1655,6 +3680,33 @@ export const germanyCitiesV2: POI[] = [
                         11.895185,
                         50.304763
                   ]
+            },
+            {
+                  "name": "Göstrastausee Brunnenthal",
+                  "text": "Der Göstrastausee Brunnenthal bei Hof ist ein See, der eine idyllische Kulisse für erholsame Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.863505,
+                        50.348878
+                  ]
+            },
+            {
+                  "name": "Untreusee",
+                  "text": "Der Untreusee in Hof ist ein beliebtes Ziel für Spaziergänger und Naturliebhaber in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        11.908806,
+                        50.277808
+                  ]
+            },
+            {
+                  "name": "Schlangenspielplatz",
+                  "text": "Der Schlangenspielplatz in Hof ist ein origineller Spielbereich, der Kinder zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        11.919854,
+                        50.320176
+                  ]
             }
       ],
       "hu": [
@@ -1679,7 +3731,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten",
                   "text": "A Theresienstein parkban található állatkert, amely számos hazai és egzotikus fajt mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.925113,
                         50.330811
@@ -1706,7 +3758,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Botanischer Garten",
                   "text": "A Theresienstein városi park része tematikus kertekkel és változatos növénygyűjteménnyel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.922694,
                         50.329328
@@ -1715,7 +3767,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "FreiBadHof",
                   "text": "Hof kedvelt strandja úszómedencékkel, ugrótoronnyal és napozóterületekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.928662,
                         50.312167
@@ -1724,7 +3776,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hof Bad",
                   "text": "Városi fürdő Hofban, amely úszási és kikapcsolódási lehetőséget kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.920461,
                         50.313956
@@ -1756,6 +3808,33 @@ export const germanyCitiesV2: POI[] = [
                         11.895185,
                         50.304763
                   ]
+            },
+            {
+                  "name": "Göstrastausee Brunnenthal",
+                  "text": "A Hof közelében található Göstrastausee Brunnenthal egy tó, amely idilli környezetet nyújt a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        11.863505,
+                        50.348878
+                  ]
+            },
+            {
+                  "name": "Untreusee",
+                  "text": "A Hof városában fekvő Untreusee a környékbeli sétálók és természetkedvelők kedvelt úticélja.",
+                  "category": "natural",
+                  "coords": [
+                        11.908806,
+                        50.277808
+                  ]
+            },
+            {
+                  "name": "Schlangenspielplatz",
+                  "text": "A hof-i Schlangenspielplatz egy különleges játszótér, amely felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        11.919854,
+                        50.320176
+                  ]
             }
       ],
       "ro": [
@@ -1780,7 +3859,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten",
                   "text": "O grădină zoologică situată lângă Theresienstein, care adăpostește diverse specii de animale locale și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.925113,
                         50.330811
@@ -1807,7 +3886,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Botanischer Garten",
                   "text": "O parte a parcului Theresienstein cu grădini tematice și o colecție diversă de plante.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.922694,
                         50.329328
@@ -1816,7 +3895,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "FreiBadHof",
                   "text": "Un ștrand popular din Hof, dotat cu bazine sportive, trambuline și zone de relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.928662,
                         50.312167
@@ -1825,7 +3904,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hof Bad",
                   "text": "O facilitate publică de înot din Hof, care oferă oportunități pentru înot și relaxare acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.920461,
                         50.313956
@@ -1857,6 +3936,33 @@ export const germanyCitiesV2: POI[] = [
                         11.895185,
                         50.304763
                   ]
+            },
+            {
+                  "name": "Göstrastausee Brunnenthal",
+                  "text": "Göstrastausee Brunnenthal de lângă Hof este un lac ce oferă un cadru idilic pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        11.863505,
+                        50.348878
+                  ]
+            },
+            {
+                  "name": "Untreusee",
+                  "text": "Untreusee din Hof este o destinație populară pentru plimbări și pentru iubitorii de natură din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        11.908806,
+                        50.277808
+                  ]
+            },
+            {
+                  "name": "Schlangenspielplatz",
+                  "text": "Schlangenspielplatz din Hof este un spațiu de joacă original care invită copiii la explorare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        11.919854,
+                        50.320176
+                  ]
             }
       ],
       "en": [
@@ -1881,7 +3987,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten",
                   "text": "A zoo located at Theresienstein, featuring a variety of native and exotic animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.925113,
                         50.330811
@@ -1908,7 +4014,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Botanischer Garten",
                   "text": "Part of the Theresienstein city park featuring thematic gardens and a diverse plant collection.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.922694,
                         50.329328
@@ -1917,7 +4023,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "FreiBadHof",
                   "text": "A popular outdoor pool in Hof with sports pools, diving facilities, and sunbathing lawns.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.928662,
                         50.312167
@@ -1926,7 +4032,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hof Bad",
                   "text": "A municipal bathing facility in Hof providing opportunities for swimming and water recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.920461,
                         50.313956
@@ -1957,6 +4063,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         11.895185,
                         50.304763
+                  ]
+            },
+            {
+                  "name": "Göstrastausee Brunnenthal",
+                  "text": "Göstrastausee Brunnenthal near Hof is a lake providing an idyllic backdrop for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        11.863505,
+                        50.348878
+                  ]
+            },
+            {
+                  "name": "Untreusee",
+                  "text": "Untreusee in Hof is a popular destination for walkers and nature lovers in the region.",
+                  "category": "natural",
+                  "coords": [
+                        11.908806,
+                        50.277808
+                  ]
+            },
+            {
+                  "name": "Schlangenspielplatz",
+                  "text": "The Schlangenspielplatz in Hof is a unique play area that invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        11.919854,
+                        50.320176
                   ]
             }
       ]
@@ -2140,7 +4273,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Solebad Vonderort",
                   "text": "Das Solebad Vonderort bietet entspannende Solebecken und eine großzügige Saunalandschaft zur Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.901051,
                         51.508185
@@ -2149,7 +4282,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Hesse",
                   "text": "Das Schwimmbad Hesse in Bottrop ist eine beliebte Freizeiteinrichtung mit Schwimmbecken für Sport und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.932997,
                         51.496856
@@ -2158,7 +4291,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hallenbad im Sportpark",
                   "text": "Das Hallenbad im Sportpark bietet ganzjährig Möglichkeiten zum Schwimmen und für sportliche Aktivitäten in Bottrop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.918325,
                         51.526928
@@ -2171,6 +4304,132 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.935018,
                         51.532669
+                  ]
+            },
+            {
+                  "name": "Kruppsee",
+                  "text": "Der Kruppsee in Bottrop bietet eine ruhige Umgebung für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        6.985256,
+                        51.465106
+                  ]
+            },
+            {
+                  "name": "Schlammspeicher",
+                  "text": "Der Schlammspeicher in Bottrop ist ein Gewässer, das sich gut für Beobachtungen in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.982592,
+                        51.515492
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "Das Regenrückhaltebecken in Bottrop dient der Entwässerung und fügt sich in die Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.94848,
+                        51.49073
+                  ]
+            },
+            {
+                  "name": "Biotop",
+                  "text": "Das Biotop in Bottrop bietet einen natürlichen Rückzugsort für Pflanzen und Tiere.",
+                  "category": "natural",
+                  "coords": [
+                        6.919093,
+                        51.503741
+                  ]
+            },
+            {
+                  "name": "Tiger Jump",
+                  "text": "Tiger Jump in Bottrop bietet als Trampolinpark sportliche Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.881412,
+                        51.493737
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pferdebrink/Rauchstr.",
+                  "text": "Der Spielplatz Pferdebrink/Rauchstr. in Bottrop bietet abwechslungsreiche Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.939337,
+                        51.494756
+                  ]
+            },
+            {
+                  "name": "Kreisel für Kinder",
+                  "text": "Der Spielplatz Kreisel für Kinder in Bottrop ist ein schöner Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.925662,
+                        51.519466
+                  ]
+            },
+            {
+                  "name": "BDKJ-Abenteuerspielplatz",
+                  "text": "Der BDKJ-Abenteuerspielplatz in Bottrop bietet spannende Erlebnisse für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        6.947746,
+                        51.518189
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga 2",
+                  "text": "Der Spielplatz Olga 2 in Bottrop bietet vielfältige Spielmöglichkeiten in einer freundlichen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        6.872039,
+                        51.501979
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Sehen und Höhren",
+                  "text": "Das Erfahrungsfeld Sehen und Höhren in Bottrop ist ein Spielplatz, der die Sinne anspricht.",
+                  "category": "family",
+                  "coords": [
+                        6.875715,
+                        51.496661
+                  ]
+            },
+            {
+                  "name": "Freibad Dellwig",
+                  "text": "Der Spielplatz am Freibad Dellwig in Bottrop lädt Kinder zum Spielen an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        6.934751,
+                        51.496976
+                  ]
+            },
+            {
+                  "name": "Spielplatz Corinthweg",
+                  "text": "Der Spielplatz Corinthweg in Bottrop bietet einen geschützten Raum für kindliche Abenteuer.",
+                  "category": "family",
+                  "coords": [
+                        6.93884,
+                        51.514415
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga1 mit Wasserspielen",
+                  "text": "Der Spielplatz Olga1 mit Wasserspielen in Bottrop bietet Kindern eine erfrischende Abwechslung.",
+                  "category": "family",
+                  "coords": [
+                        6.874513,
+                        51.500514
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wacholderweg",
+                  "text": "Der Spielplatz Wacholderweg in Bottrop bietet Kindern viel Platz für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        6.895098,
+                        51.520842
                   ]
             }
       ],
@@ -2257,7 +4516,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Solebad Vonderort",
                   "text": "A Solebad Vonderort pihentető sós vizes medencéket és tágas szaunavilágot kínál a kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.901051,
                         51.508185
@@ -2266,7 +4525,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Hesse",
                   "text": "A bottropi Hesse uszoda népszerű szabadidős létesítmény, úszómedencékkel sportoláshoz és pihenéshez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.932997,
                         51.496856
@@ -2275,7 +4534,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hallenbad im Sportpark",
                   "text": "A sportpark fedett uszodája egész évben úszási és sportolási lehetőségeket kínál Bottropban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.918325,
                         51.526928
@@ -2288,6 +4547,132 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.935018,
                         51.532669
+                  ]
+            },
+            {
+                  "name": "Kruppsee",
+                  "text": "A bottropi Kruppsee nyugodt környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.985256,
+                        51.465106
+                  ]
+            },
+            {
+                  "name": "Schlammspeicher",
+                  "text": "A bottropi Schlammspeicher egy olyan vízfelület, amely alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        6.982592,
+                        51.515492
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "A bottropi Regenrückhaltebecken a vízelvezetést szolgálja, és illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        6.94848,
+                        51.49073
+                  ]
+            },
+            {
+                  "name": "Biotop",
+                  "text": "A bottropi Biotop természetes életteret biztosít a növényeknek és állatoknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.919093,
+                        51.503741
+                  ]
+            },
+            {
+                  "name": "Tiger Jump",
+                  "text": "A bottropi Tiger Jump trambulinpark sportos szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.881412,
+                        51.493737
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pferdebrink/Rauchstr.",
+                  "text": "A bottropi Pferdebrink/Rauchstr. játszótér változatos játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.939337,
+                        51.494756
+                  ]
+            },
+            {
+                  "name": "Kreisel für Kinder",
+                  "text": "A bottropi Kreisel für Kinder játszótér remek hely a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.925662,
+                        51.519466
+                  ]
+            },
+            {
+                  "name": "BDKJ-Abenteuerspielplatz",
+                  "text": "A bottropi BDKJ kalandjátszótér izgalmas élményeket kínál a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        6.947746,
+                        51.518189
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga 2",
+                  "text": "A bottropi Olga 2 játszótér sokféle játéklehetőséget kínál barátságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        6.872039,
+                        51.501979
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Sehen und Höhren",
+                  "text": "A bottropi Erfahrungsfeld Sehen und Höhren játszótér a gyerekek érzékszerveire hat.",
+                  "category": "family",
+                  "coords": [
+                        6.875715,
+                        51.496661
+                  ]
+            },
+            {
+                  "name": "Freibad Dellwig",
+                  "text": "A bottropi Dellwig strand melletti játszótér friss levegőn való játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        6.934751,
+                        51.496976
+                  ]
+            },
+            {
+                  "name": "Spielplatz Corinthweg",
+                  "text": "A bottropi Corinthweg játszótér védett helyet biztosít a gyermeki kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.93884,
+                        51.514415
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga1 mit Wasserspielen",
+                  "text": "A bottropi Olga1 játszótér vízi játékaival frissítő kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.874513,
+                        51.500514
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wacholderweg",
+                  "text": "A bottropi Wacholderweg játszótér tágas helyet biztosít a gyerekeknek a mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.895098,
+                        51.520842
                   ]
             }
       ],
@@ -2374,7 +4759,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Solebad Vonderort",
                   "text": "Solebad Vonderort oferă bazine relaxante cu apă sărată și o zonă generoasă de saune pentru recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.901051,
                         51.508185
@@ -2383,7 +4768,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Hesse",
                   "text": "Piscina Hesse din Bottrop este o facilitate de agrement populară, cu bazine pentru sport și relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.932997,
                         51.496856
@@ -2392,7 +4777,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hallenbad im Sportpark",
                   "text": "Piscina interioară din parcul sportiv oferă oportunități de înot și activități sportive pe tot parcursul anului în Bottrop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.918325,
                         51.526928
@@ -2405,6 +4790,132 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.935018,
                         51.532669
+                  ]
+            },
+            {
+                  "name": "Kruppsee",
+                  "text": "Lacul Kruppsee din Bottrop oferă un mediu liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.985256,
+                        51.465106
+                  ]
+            },
+            {
+                  "name": "Schlammspeicher",
+                  "text": "Schlammspeicher din Bottrop este un corp de apă potrivit pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.982592,
+                        51.515492
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "Bazinul de retenție a apei pluviale din Bottrop servește la drenaj și se integrează în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        6.94848,
+                        51.49073
+                  ]
+            },
+            {
+                  "name": "Biotop",
+                  "text": "Biotopul din Bottrop oferă un refugiu natural pentru plante și animale.",
+                  "category": "natural",
+                  "coords": [
+                        6.919093,
+                        51.503741
+                  ]
+            },
+            {
+                  "name": "Tiger Jump",
+                  "text": "Tiger Jump din Bottrop oferă divertisment sportiv pentru întreaga familie în parcul său de trambuline.",
+                  "category": "family",
+                  "coords": [
+                        6.881412,
+                        51.493737
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pferdebrink/Rauchstr.",
+                  "text": "Locul de joacă Pferdebrink/Rauchstr. din Bottrop oferă echipamente de joacă variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.939337,
+                        51.494756
+                  ]
+            },
+            {
+                  "name": "Kreisel für Kinder",
+                  "text": "Locul de joacă Kreisel für Kinder din Bottrop este un loc frumos pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.925662,
+                        51.519466
+                  ]
+            },
+            {
+                  "name": "BDKJ-Abenteuerspielplatz",
+                  "text": "Terenul de joacă de aventură BDKJ din Bottrop oferă experiențe captivante pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        6.947746,
+                        51.518189
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga 2",
+                  "text": "Locul de joacă Olga 2 din Bottrop oferă diverse facilități de joacă într-un mediu prietenos.",
+                  "category": "family",
+                  "coords": [
+                        6.872039,
+                        51.501979
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Sehen und Höhren",
+                  "text": "Terenul de experiență Văz și Auz din Bottrop este un loc de joacă ce stimulează simțurile.",
+                  "category": "family",
+                  "coords": [
+                        6.875715,
+                        51.496661
+                  ]
+            },
+            {
+                  "name": "Freibad Dellwig",
+                  "text": "Locul de joacă de la ștrandul Dellwig din Bottrop îi invită pe copii la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.934751,
+                        51.496976
+                  ]
+            },
+            {
+                  "name": "Spielplatz Corinthweg",
+                  "text": "Locul de joacă Corinthweg din Bottrop oferă un spațiu protejat pentru aventurile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        6.93884,
+                        51.514415
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga1 mit Wasserspielen",
+                  "text": "Locul de joacă Olga1 cu jocuri de apă din Bottrop oferă copiilor o distracție răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        6.874513,
+                        51.500514
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wacholderweg",
+                  "text": "Locul de joacă Wacholderweg din Bottrop oferă copiilor mult spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.895098,
+                        51.520842
                   ]
             }
       ],
@@ -2491,7 +5002,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Solebad Vonderort",
                   "text": "Solebad Vonderort offers relaxing brine pools and a spacious sauna landscape for recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.901051,
                         51.508185
@@ -2500,7 +5011,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Hesse",
                   "text": "The Schwimmbad Hesse in Bottrop is a popular leisure facility with swimming pools for sports and relaxation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.932997,
                         51.496856
@@ -2509,7 +5020,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hallenbad im Sportpark",
                   "text": "The indoor pool in the sport park offers year-round opportunities for swimming and sports activities in Bottrop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.918325,
                         51.526928
@@ -2522,6 +5033,132 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.935018,
                         51.532669
+                  ]
+            },
+            {
+                  "name": "Kruppsee",
+                  "text": "The Kruppsee in Bottrop offers a quiet environment for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        6.985256,
+                        51.465106
+                  ]
+            },
+            {
+                  "name": "Schlammspeicher",
+                  "text": "The Schlammspeicher in Bottrop is a body of water suitable for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        6.982592,
+                        51.515492
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "The stormwater retention basin in Bottrop serves drainage purposes and blends into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.94848,
+                        51.49073
+                  ]
+            },
+            {
+                  "name": "Biotop",
+                  "text": "The biotope in Bottrop offers a natural sanctuary for plants and animals.",
+                  "category": "natural",
+                  "coords": [
+                        6.919093,
+                        51.503741
+                  ]
+            },
+            {
+                  "name": "Tiger Jump",
+                  "text": "Tiger Jump in Bottrop offers sporting entertainment for the whole family as a trampoline park.",
+                  "category": "family",
+                  "coords": [
+                        6.881412,
+                        51.493737
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pferdebrink/Rauchstr.",
+                  "text": "The Pferdebrink/Rauchstr. playground in Bottrop offers various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        6.939337,
+                        51.494756
+                  ]
+            },
+            {
+                  "name": "Kreisel für Kinder",
+                  "text": "The Kreisel für Kinder playground in Bottrop is a nice place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        6.925662,
+                        51.519466
+                  ]
+            },
+            {
+                  "name": "BDKJ-Abenteuerspielplatz",
+                  "text": "The BDKJ adventure playground in Bottrop offers exciting experiences for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        6.947746,
+                        51.518189
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga 2",
+                  "text": "The Olga 2 playground in Bottrop offers various play options in a friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        6.872039,
+                        51.501979
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Sehen und Höhren",
+                  "text": "The Erfahrungsfeld Sehen und Höhren in Bottrop is a playground designed to stimulate the senses.",
+                  "category": "family",
+                  "coords": [
+                        6.875715,
+                        51.496661
+                  ]
+            },
+            {
+                  "name": "Freibad Dellwig",
+                  "text": "The playground at the Dellwig outdoor pool in Bottrop invites children to play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        6.934751,
+                        51.496976
+                  ]
+            },
+            {
+                  "name": "Spielplatz Corinthweg",
+                  "text": "The Corinthweg playground in Bottrop offers a sheltered space for children's adventures.",
+                  "category": "family",
+                  "coords": [
+                        6.93884,
+                        51.514415
+                  ]
+            },
+            {
+                  "name": "Spielplatz Olga1 mit Wasserspielen",
+                  "text": "The Olga1 playground with water games in Bottrop offers children a refreshing variety.",
+                  "category": "family",
+                  "coords": [
+                        6.874513,
+                        51.500514
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wacholderweg",
+                  "text": "The Wacholderweg playground in Bottrop offers children plenty of space for exercise and play.",
+                  "category": "family",
+                  "coords": [
+                        6.895098,
+                        51.520842
                   ]
             }
       ]
@@ -2551,7 +5188,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Wirgarten",
                   "text": "Ein kleiner Tierpark in Fulda, der sich ideal für Familienausflüge eignet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.654665,
                         50.544678
@@ -2578,7 +5215,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tümpelgarten",
                   "text": "Ein Schauaquarium und Vivarium in Fulda, das verschiedene Fischarten und Reptilien präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.658654,
                         50.55905
@@ -2623,7 +5260,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Rosenbad",
                   "text": "Ein beliebtes Freibad in Fulda mit weitläufigen Liegewiesen und Wasserattraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.669641,
                         50.546153
@@ -2645,6 +5282,222 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.674543,
                         50.549762
+                  ]
+            },
+            {
+                  "name": "Breitweiher",
+                  "text": "Der Breitweiher in Fulda bietet eine ruhige Atmosphäre am Wasser für kurze Spaziergänge. Die naturnahe Umgebung lädt zur Entspannung im Freien ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.719364,
+                        50.501219
+                  ]
+            },
+            {
+                  "name": "Spielplatz des KGV Johannisau-Fulda",
+                  "text": "Der Spielplatz des KGV Johannisau-Fulda bietet Kindern eine sichere Spielumgebung im Grünen. Er ist ein schöner Ort für Familien innerhalb der Kleingartenanlage.",
+                  "category": "family",
+                  "coords": [
+                        9.6657,
+                        50.533071
+                  ]
+            },
+            {
+                  "name": "Spielplatz Katholische Familienbildungsstätte",
+                  "text": "Der Spielplatz der Katholischen Familienbildungsstätte in Fulda bietet kinderfreundliche Möglichkeiten zum Spielen. Er ist ein zentraler Treffpunkt für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        9.662841,
+                        50.551925
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Waidesgrund",
+                  "text": "Der Kinderspielplatz Waidesgrund in Fulda lädt Kinder zum Entdecken und Spielen ein. Familien schätzen die Anlage als Ziel für einen Ausflug in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        9.705916,
+                        50.561935
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Hochhaus",
+                  "text": "Der Spielplatz am Hochhaus in Fulda bietet Kindern Raum für Bewegung in der Nachbarschaft. Er ist eine praktische Anlage für den täglichen Freizeitspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.663019,
+                        50.547036
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pausenhof Domschule",
+                  "text": "Der Spielplatz Pausenhof Domschule in Fulda bietet Kindern vielfältige Möglichkeiten zum Spielen in den Pausen. Er ist ein wichtiger Ort für die Schülergemeinschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.667773,
+                        50.554017
+                  ]
+            },
+            {
+                  "name": "Spielplatz Restaurant Wiesenmühle",
+                  "text": "Der Spielplatz am Restaurant Wiesenmühle in Fulda bietet Familien eine schöne Ergänzung zum Restaurantbesuch. Kinder können hier sicher im Freien spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.66904,
+                        50.550722
+                  ]
+            },
+            {
+                  "name": "KGV Horas",
+                  "text": "Der Spielplatz KGV Horas in Fulda bietet eine kinderfreundliche Umgebung in einer ruhigen Kleingartenanlage. Er ist ein idealer Ort für Familien in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.660392,
+                        50.568252
+                  ]
+            },
+            {
+                  "name": "Sp4ce Zone",
+                  "text": "Sp4ce Zone in Fulda bietet Unterhaltung und Abwechslung für Besucher in der Spielhalle. Es ist ein moderner Ort für Indoor-Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        9.675698,
+                        50.547026
+                  ]
+            },
+            {
+                  "name": "Edelzeller Siedlung",
+                  "text": "Der Spielplatz Edelzeller Siedlung in Fulda bietet Kindern in der Wohngegend Raum zum Spielen und Bewegen. Er ist ein beliebter Treffpunkt für Familien vor Ort.",
+                  "category": "family",
+                  "coords": [
+                        9.694688,
+                        50.537414
+                  ]
+            },
+            {
+                  "name": "Oberglogauer Straße",
+                  "text": "Ein familienfreundlicher Spielplatz in Fulda für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        9.701205,
+                        50.54274
+                  ]
+            },
+            {
+                  "name": "Ferdinand Braun Park",
+                  "text": "Ein schöner Spielplatz im Ferdinand Braun Park in Fulda für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.685548,
+                        50.546539
+                  ]
+            },
+            {
+                  "name": "Hundeshagenpark",
+                  "text": "Der Spielplatz im Hundeshagenpark in Fulda bietet viel Platz zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.673923,
+                        50.557821
+                  ]
+            },
+            {
+                  "name": "Scharnhortstraße",
+                  "text": "Ein Spielplatz in der Scharnhortstraße in Fulda, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        9.68301,
+                        50.559147
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz An der Tränke",
+                  "text": "Ein Wasserspielplatz in Fulda, der Kindern an warmen Tagen viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        9.667134,
+                        50.551789
+                  ]
+            },
+            {
+                  "name": "Grezzbachpark",
+                  "text": "Der Spielplatz im Grezzbachpark in Fulda lädt Kinder zum Entdecken und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        9.709614,
+                        50.543797
+                  ]
+            },
+            {
+                  "name": "Havelstraße",
+                  "text": "Ein familienfreundlicher Spielplatz in der Havelstraße in Fulda.",
+                  "category": "family",
+                  "coords": [
+                        9.678752,
+                        50.530513
+                  ]
+            },
+            {
+                  "name": "Mondrianplatz",
+                  "text": "Ein Spielplatz am Mondrianplatz in Fulda für Spiel und Spaß im Quartier.",
+                  "category": "family",
+                  "coords": [
+                        9.650684,
+                        50.539262
+                  ]
+            },
+            {
+                  "name": "Wäldchen",
+                  "text": "Ein naturnaher Spielplatz im Wäldchen in Fulda für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        9.646803,
+                        50.543885
+                  ]
+            },
+            {
+                  "name": "Minigolfpark Künzell",
+                  "text": "Ein Minigolfplatz in Fulda, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.711957,
+                        50.544
+                  ]
+            },
+            {
+                  "name": "Tränke Süd",
+                  "text": "Ein Spielplatz im Bereich Tränke Süd in Fulda für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.668764,
+                        50.552147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlosspark",
+                  "text": "Ein schöner Spielplatz im Schlosspark Fulda in historischer Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        9.679548,
+                        50.555907
+                  ]
+            },
+            {
+                  "name": "Galgengraben",
+                  "text": "Ein familienfreundlicher Spielplatz am Galgengraben in Fulda.",
+                  "category": "family",
+                  "coords": [
+                        9.688661,
+                        50.56262
+                  ]
+            },
+            {
+                  "name": "Haderwaldsiedlung",
+                  "text": "Ein Spielplatz in der Haderwaldsiedlung in Fulda für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.643018,
+                        50.543088
                   ]
             }
       ],
@@ -2670,7 +5523,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Wirgarten",
                   "text": "Kis állatpark Fuldában, amely ideális célpont családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.654665,
                         50.544678
@@ -2697,7 +5550,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tümpelgarten",
                   "text": "Bemutató akvárium és vivárium Fuldában, amely különféle halfajokat és hüllőket mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.658654,
                         50.55905
@@ -2742,7 +5595,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Rosenbad",
                   "text": "Népszerű szabadtéri strand Fuldában, tágas pihenőparkkal és vízi attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.669641,
                         50.546153
@@ -2764,6 +5617,222 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.674543,
                         50.549762
+                  ]
+            },
+            {
+                  "name": "Breitweiher",
+                  "text": "A Fulda városában található Breitweiher nyugodt vízparti hangulatot biztosít rövid sétákhoz. A természetközeli környezet kikapcsolódásra hív a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        9.719364,
+                        50.501219
+                  ]
+            },
+            {
+                  "name": "Spielplatz des KGV Johannisau-Fulda",
+                  "text": "A Fulda-i KGV Johannisau játszótere biztonságos szabadtéri környezetet kínál a gyerekeknek. Kedvelt helyszín a családok számára a kiskert-övezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.6657,
+                        50.533071
+                  ]
+            },
+            {
+                  "name": "Spielplatz Katholische Familienbildungsstätte",
+                  "text": "A Fulda-i Katolikus Családi Oktatási Központ játszótere gyermekbarát játéklehetőségeket kínál. Központi találkozóhely a családi programokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.662841,
+                        50.551925
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Waidesgrund",
+                  "text": "A Fulda-i Waidesgrund játszótér felfedezésre és játékra hívja a gyerekeket. A családok kedvelt városi kirándulóhelyként tartják számon.",
+                  "category": "family",
+                  "coords": [
+                        9.705916,
+                        50.561935
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Hochhaus",
+                  "text": "A Fulda-i magasépület melletti játszótér mozgási lehetőséget biztosít a gyerekeknek a környéken. Praktikus helyszín a napi szabadtéri szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.663019,
+                        50.547036
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pausenhof Domschule",
+                  "text": "A Fulda-i Domschule udvarán található játszótér változatos játéklehetőségeket kínál a gyerekeknek a szünetekben. Fontos helyszín a diákok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.667773,
+                        50.554017
+                  ]
+            },
+            {
+                  "name": "Spielplatz Restaurant Wiesenmühle",
+                  "text": "A Fulda-i Wiesenmühle étterem melletti játszótér kellemes kiegészítést nyújt a családoknak az éttermi látogatáshoz. A gyerekek itt biztonságban játszhatnak a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        9.66904,
+                        50.550722
+                  ]
+            },
+            {
+                  "name": "KGV Horas",
+                  "text": "A Fulda-i KGV Horas játszótere gyermekbarát környezetet kínál egy csendes kiskert-övezetben. Ideális helyszín a környékbeli családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.660392,
+                        50.568252
+                  ]
+            },
+            {
+                  "name": "Sp4ce Zone",
+                  "text": "A Fulda-i Sp4ce Zone szórakozást és változatosságot kínál a látogatóknak a játékteremben. Modern helyszín a beltéri szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        9.675698,
+                        50.547026
+                  ]
+            },
+            {
+                  "name": "Edelzeller Siedlung",
+                  "text": "A Fulda-i Edelzeller Siedlung játszótere helyet biztosít a környéken élő gyerekeknek a játékhoz és mozgáshoz. Kedvelt helyi találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.694688,
+                        50.537414
+                  ]
+            },
+            {
+                  "name": "Oberglogauer Straße",
+                  "text": "Családbarát játszótér Fuldában, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.701205,
+                        50.54274
+                  ]
+            },
+            {
+                  "name": "Ferdinand Braun Park",
+                  "text": "Szép játszótér a fuldai Ferdinand Braun Parkban az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.685548,
+                        50.546539
+                  ]
+            },
+            {
+                  "name": "Hundeshagenpark",
+                  "text": "A fuldai Hundeshagenpark játszótere sok helyet kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.673923,
+                        50.557821
+                  ]
+            },
+            {
+                  "name": "Scharnhortstraße",
+                  "text": "Játszótér a fuldai Scharnhortstraße utcában, ideális családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.68301,
+                        50.559147
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz An der Tränke",
+                  "text": "Vizes játszótér Fuldában, amely sok örömet okoz a gyerekeknek a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        9.667134,
+                        50.551789
+                  ]
+            },
+            {
+                  "name": "Grezzbachpark",
+                  "text": "A fuldai Grezzbachpark játszótere felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        9.709614,
+                        50.543797
+                  ]
+            },
+            {
+                  "name": "Havelstraße",
+                  "text": "Családbarát játszótér a fuldai Havelstraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        9.678752,
+                        50.530513
+                  ]
+            },
+            {
+                  "name": "Mondrianplatz",
+                  "text": "Játszótér a fuldai Mondrianplatzon a környékbeli gyerekek szórakozására.",
+                  "category": "family",
+                  "coords": [
+                        9.650684,
+                        50.539262
+                  ]
+            },
+            {
+                  "name": "Wäldchen",
+                  "text": "Természetközeli játszótér a fuldai Wäldchen területén kis kalandoroknak.",
+                  "category": "family",
+                  "coords": [
+                        9.646803,
+                        50.543885
+                  ]
+            },
+            {
+                  "name": "Minigolfpark Künzell",
+                  "text": "Minigolfpálya Fuldában, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.711957,
+                        50.544
+                  ]
+            },
+            {
+                  "name": "Tränke Süd",
+                  "text": "Játszótér Fulda Tränke Süd részén aktív gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.668764,
+                        50.552147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlosspark",
+                  "text": "Szép játszótér a fuldai Schlossparkban, történelmi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.679548,
+                        50.555907
+                  ]
+            },
+            {
+                  "name": "Galgengraben",
+                  "text": "Családbarát játszótér a fuldai Galgengrabennél.",
+                  "category": "family",
+                  "coords": [
+                        9.688661,
+                        50.56262
+                  ]
+            },
+            {
+                  "name": "Haderwaldsiedlung",
+                  "text": "Játszótér a fuldai Haderwaldsiedlungban a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.643018,
+                        50.543088
                   ]
             }
       ],
@@ -2789,7 +5858,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Wirgarten",
                   "text": "Un mic parc zoologic din Fulda, ideal pentru ieșiri în familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.654665,
                         50.544678
@@ -2816,7 +5885,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tümpelgarten",
                   "text": "Un acvariu și vivariu din Fulda care prezintă diverse specii de pești și reptile.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.658654,
                         50.55905
@@ -2861,7 +5930,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Rosenbad",
                   "text": "Un ștrand în aer liber popular din Fulda, cu zone de relaxare și atracții acvatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.669641,
                         50.546153
@@ -2883,6 +5952,222 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.674543,
                         50.549762
+                  ]
+            },
+            {
+                  "name": "Breitweiher",
+                  "text": "Breitweiher din Fulda oferă o atmosferă liniștită lângă apă pentru scurte plimbări. Mediul natural invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.719364,
+                        50.501219
+                  ]
+            },
+            {
+                  "name": "Spielplatz des KGV Johannisau-Fulda",
+                  "text": "Locul de joacă al KGV Johannisau-Fulda oferă copiilor un mediu sigur de joacă în natură. Este un loc frumos pentru familii în cadrul asociației de grădinărit.",
+                  "category": "family",
+                  "coords": [
+                        9.6657,
+                        50.533071
+                  ]
+            },
+            {
+                  "name": "Spielplatz Katholische Familienbildungsstätte",
+                  "text": "Locul de joacă al Centrului Catolic de Educație Familială din Fulda oferă opțiuni de joacă prietenoase pentru copii. Este un punct de întâlnire central pentru activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        9.662841,
+                        50.551925
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Waidesgrund",
+                  "text": "Locul de joacă Waidesgrund din Fulda invită copiii la explorare și joacă. Familiile apreciază unitatea ca destinație pentru o ieșire în oraș.",
+                  "category": "family",
+                  "coords": [
+                        9.705916,
+                        50.561935
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Hochhaus",
+                  "text": "Locul de joacă de lângă blocul turn din Fulda oferă copiilor spațiu pentru mișcare în cartier. Este o facilitate practică pentru distracția zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.663019,
+                        50.547036
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pausenhof Domschule",
+                  "text": "Locul de joacă din curtea școlii Dom din Fulda oferă copiilor diverse opțiuni de joacă în timpul pauzelor. Este un loc important pentru comunitatea școlară.",
+                  "category": "family",
+                  "coords": [
+                        9.667773,
+                        50.554017
+                  ]
+            },
+            {
+                  "name": "Spielplatz Restaurant Wiesenmühle",
+                  "text": "Locul de joacă de la restaurantul Wiesenmühle din Fulda oferă familiilor o completare frumoasă la vizita la restaurant. Copiii se pot juca aici în siguranță în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.66904,
+                        50.550722
+                  ]
+            },
+            {
+                  "name": "KGV Horas",
+                  "text": "Locul de joacă KGV Horas din Fulda oferă un mediu prietenos pentru copii într-o asociație liniștită de grădinărit. Este un loc ideal pentru familiile din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        9.660392,
+                        50.568252
+                  ]
+            },
+            {
+                  "name": "Sp4ce Zone",
+                  "text": "Sp4ce Zone din Fulda oferă divertisment și varietate vizitatorilor în sala de jocuri. Este un loc modern pentru activități recreative în interior.",
+                  "category": "family",
+                  "coords": [
+                        9.675698,
+                        50.547026
+                  ]
+            },
+            {
+                  "name": "Edelzeller Siedlung",
+                  "text": "Locul de joacă Edelzeller Siedlung din Fulda oferă copiilor din zonă spațiu pentru joacă și mișcare. Este un punct de întâlnire popular pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        9.694688,
+                        50.537414
+                  ]
+            },
+            {
+                  "name": "Oberglogauer Straße",
+                  "text": "Un teren de joacă pentru familii în Fulda, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.701205,
+                        50.54274
+                  ]
+            },
+            {
+                  "name": "Ferdinand Braun Park",
+                  "text": "Un teren de joacă frumos în Ferdinand Braun Park din Fulda pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.685548,
+                        50.546539
+                  ]
+            },
+            {
+                  "name": "Hundeshagenpark",
+                  "text": "Locul de joacă din Hundeshagenpark din Fulda oferă mult spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.673923,
+                        50.557821
+                  ]
+            },
+            {
+                  "name": "Scharnhortstraße",
+                  "text": "Un teren de joacă pe Scharnhortstraße în Fulda, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        9.68301,
+                        50.559147
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz An der Tränke",
+                  "text": "Un teren de joacă cu apă în Fulda, ideal pentru copii în zilele călduroase.",
+                  "category": "family",
+                  "coords": [
+                        9.667134,
+                        50.551789
+                  ]
+            },
+            {
+                  "name": "Grezzbachpark",
+                  "text": "Locul de joacă din Grezzbachpark din Fulda invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.709614,
+                        50.543797
+                  ]
+            },
+            {
+                  "name": "Havelstraße",
+                  "text": "Un teren de joacă pentru familii pe Havelstraße în Fulda.",
+                  "category": "family",
+                  "coords": [
+                        9.678752,
+                        50.530513
+                  ]
+            },
+            {
+                  "name": "Mondrianplatz",
+                  "text": "Un teren de joacă în Mondrianplatz din Fulda pentru distracție în cartier.",
+                  "category": "family",
+                  "coords": [
+                        9.650684,
+                        50.539262
+                  ]
+            },
+            {
+                  "name": "Wäldchen",
+                  "text": "Un teren de joacă în natură în Wäldchen, Fulda, pentru mici aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        9.646803,
+                        50.543885
+                  ]
+            },
+            {
+                  "name": "Minigolfpark Künzell",
+                  "text": "Un teren de minigolf în Fulda, care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.711957,
+                        50.544
+                  ]
+            },
+            {
+                  "name": "Tränke Süd",
+                  "text": "Un teren de joacă în zona Tränke Süd din Fulda pentru copii activi.",
+                  "category": "family",
+                  "coords": [
+                        9.668764,
+                        50.552147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlosspark",
+                  "text": "Un teren de joacă frumos în Schlosspark Fulda, într-un cadru istoric.",
+                  "category": "family",
+                  "coords": [
+                        9.679548,
+                        50.555907
+                  ]
+            },
+            {
+                  "name": "Galgengraben",
+                  "text": "Un teren de joacă pentru familii la Galgengraben în Fulda.",
+                  "category": "family",
+                  "coords": [
+                        9.688661,
+                        50.56262
+                  ]
+            },
+            {
+                  "name": "Haderwaldsiedlung",
+                  "text": "Un teren de joacă în Haderwaldsiedlung din Fulda pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        9.643018,
+                        50.543088
                   ]
             }
       ],
@@ -2908,7 +6193,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Wirgarten",
                   "text": "A small animal park in Fulda, ideal for family visits.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.654665,
                         50.544678
@@ -2935,7 +6220,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tümpelgarten",
                   "text": "A public aquarium and vivarium in Fulda featuring various fish species and reptiles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.658654,
                         50.55905
@@ -2980,7 +6265,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Rosenbad",
                   "text": "A popular outdoor swimming pool in Fulda with extensive lawns and water attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.669641,
                         50.546153
@@ -3002,6 +6287,222 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.674543,
                         50.549762
+                  ]
+            },
+            {
+                  "name": "Breitweiher",
+                  "text": "The Breitweiher in Fulda offers a peaceful atmosphere by the water for short walks. The near-natural environment invites relaxation outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.719364,
+                        50.501219
+                  ]
+            },
+            {
+                  "name": "Spielplatz des KGV Johannisau-Fulda",
+                  "text": "The KGV Johannisau-Fulda playground offers children a safe play environment in a green setting. It is a nice spot for families within the allotment garden area.",
+                  "category": "family",
+                  "coords": [
+                        9.6657,
+                        50.533071
+                  ]
+            },
+            {
+                  "name": "Spielplatz Katholische Familienbildungsstätte",
+                  "text": "The playground of the Catholic Family Education Center in Fulda offers child-friendly play opportunities. It is a central meeting spot for family activities.",
+                  "category": "family",
+                  "coords": [
+                        9.662841,
+                        50.551925
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Waidesgrund",
+                  "text": "The Waidesgrund playground in Fulda invites children to explore and play. Families value the facility as a destination for an outing in the city.",
+                  "category": "family",
+                  "coords": [
+                        9.705916,
+                        50.561935
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Hochhaus",
+                  "text": "The playground at the high-rise in Fulda offers children space for movement in the neighborhood. It is a practical facility for daily outdoor leisure fun.",
+                  "category": "family",
+                  "coords": [
+                        9.663019,
+                        50.547036
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pausenhof Domschule",
+                  "text": "The Domschule schoolyard playground in Fulda offers children various play opportunities during breaks. It is an important spot for the student community.",
+                  "category": "family",
+                  "coords": [
+                        9.667773,
+                        50.554017
+                  ]
+            },
+            {
+                  "name": "Spielplatz Restaurant Wiesenmühle",
+                  "text": "The playground at the Wiesenmühle restaurant in Fulda offers families a nice addition to their restaurant visit. Children can play safely outdoors here.",
+                  "category": "family",
+                  "coords": [
+                        9.66904,
+                        50.550722
+                  ]
+            },
+            {
+                  "name": "KGV Horas",
+                  "text": "The KGV Horas playground in Fulda offers a child-friendly environment in a quiet allotment garden area. It is an ideal spot for local families.",
+                  "category": "family",
+                  "coords": [
+                        9.660392,
+                        50.568252
+                  ]
+            },
+            {
+                  "name": "Sp4ce Zone",
+                  "text": "Sp4ce Zone in Fulda offers entertainment and variety for visitors in its amusement arcade. It is a modern spot for indoor leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        9.675698,
+                        50.547026
+                  ]
+            },
+            {
+                  "name": "Edelzeller Siedlung",
+                  "text": "The Edelzeller Siedlung playground in Fulda offers children in the residential area space for play and movement. It is a popular local meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.694688,
+                        50.537414
+                  ]
+            },
+            {
+                  "name": "Oberglogauer Straße",
+                  "text": "A family-friendly playground in Fulda where children can play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.701205,
+                        50.54274
+                  ]
+            },
+            {
+                  "name": "Ferdinand Braun Park",
+                  "text": "A nice playground in Ferdinand Braun Park in Fulda for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.685548,
+                        50.546539
+                  ]
+            },
+            {
+                  "name": "Hundeshagenpark",
+                  "text": "The playground in Hundeshagenpark in Fulda offers plenty of space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        9.673923,
+                        50.557821
+                  ]
+            },
+            {
+                  "name": "Scharnhortstraße",
+                  "text": "A playground in Scharnhortstraße in Fulda, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        9.68301,
+                        50.559147
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz An der Tränke",
+                  "text": "A water playground in Fulda that offers great fun for children on warm days.",
+                  "category": "family",
+                  "coords": [
+                        9.667134,
+                        50.551789
+                  ]
+            },
+            {
+                  "name": "Grezzbachpark",
+                  "text": "The playground in Grezzbachpark in Fulda invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        9.709614,
+                        50.543797
+                  ]
+            },
+            {
+                  "name": "Havelstraße",
+                  "text": "A family-friendly playground in Havelstraße in Fulda.",
+                  "category": "family",
+                  "coords": [
+                        9.678752,
+                        50.530513
+                  ]
+            },
+            {
+                  "name": "Mondrianplatz",
+                  "text": "A playground at Mondrianplatz in Fulda for fun and games in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        9.650684,
+                        50.539262
+                  ]
+            },
+            {
+                  "name": "Wäldchen",
+                  "text": "A nature-oriented playground in the Wäldchen in Fulda for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        9.646803,
+                        50.543885
+                  ]
+            },
+            {
+                  "name": "Minigolfpark Künzell",
+                  "text": "A miniature golf course in Fulda offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.711957,
+                        50.544
+                  ]
+            },
+            {
+                  "name": "Tränke Süd",
+                  "text": "A playground in the Tränke Süd area in Fulda for active children.",
+                  "category": "family",
+                  "coords": [
+                        9.668764,
+                        50.552147
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlosspark",
+                  "text": "A beautiful playground in the Schlosspark Fulda in historical surroundings.",
+                  "category": "family",
+                  "coords": [
+                        9.679548,
+                        50.555907
+                  ]
+            },
+            {
+                  "name": "Galgengraben",
+                  "text": "A family-friendly playground at Galgengraben in Fulda.",
+                  "category": "family",
+                  "coords": [
+                        9.688661,
+                        50.56262
+                  ]
+            },
+            {
+                  "name": "Haderwaldsiedlung",
+                  "text": "A playground in the Haderwaldsiedlung in Fulda for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        9.643018,
+                        50.543088
                   ]
             }
       ]
@@ -3149,7 +6650,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
                   "text": "Ein modernes Sport- und Erlebnisbad mit Saunalandschaft in Speyer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.450014,
                         49.314106
@@ -3176,7 +6677,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Sea Life Speyer",
                   "text": "Ein großes Aquarium in Speyer mit zahlreichen Meeresbewohnern aus verschiedenen Regionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.447367,
                         49.31886
@@ -3185,7 +6686,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bademaxx",
                   "text": "Das Sport- und Erlebnisbad in Speyer bietet Schwimmbecken und verschiedene Wellnessbereiche.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.451307,
                         49.313966
@@ -3198,6 +6699,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.43051,
                         49.323326
+                  ]
+            },
+            {
+                  "name": "Bannweide",
+                  "text": "Die Bannweide in Speyer ist ein See, der eine ruhige Atmosphäre für Entspannung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.490292,
+                        49.369495
+                  ]
+            },
+            {
+                  "name": "Hohwiesensee",
+                  "text": "Der Hohwiesensee in Speyer ist ein See, der zu erholsamen Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.513645,
+                        49.35882
+                  ]
+            },
+            {
+                  "name": "Anglersee",
+                  "text": "Der Anglersee in Speyer ist ein See, der für seine ruhige Lage und die natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.521926,
+                        49.361494
+                  ]
+            },
+            {
+                  "name": "Gänsedrecksee",
+                  "text": "Der Gänsedrecksee in Speyer ist ein See, der eine friedliche Kulisse für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.460741,
+                        49.359915
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Der Silbersee in Speyer ist ein See, der Besuchern eine angenehme Umgebung für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.458152,
+                        49.362262
+                  ]
+            },
+            {
+                  "name": "Biersiedersee",
+                  "text": "Der Biersiedersee in Speyer ist ein See, der sich harmonisch in die lokale Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        8.454078,
+                        49.362073
+                  ]
+            },
+            {
+                  "name": "Mondsee",
+                  "text": "Der Mondsee in Speyer ist ein See, der eine ruhige und entspannte Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.448317,
+                        49.361309
+                  ]
+            },
+            {
+                  "name": "Speyerlachsee",
+                  "text": "Der Speyerlachsee in Speyer ist ein See, der zu gemütlichen Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.445948,
+                        49.357454
+                  ]
+            },
+            {
+                  "name": "Sonnensee",
+                  "text": "Der Sonnensee in Speyer ist ein See, der Besuchern einen schönen Ort zum Verweilen in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.448477,
+                        49.358469
+                  ]
+            },
+            {
+                  "name": "Steinhäuserwühlsee",
+                  "text": "Der Steinhäuserwühlsee in Speyer ist ein See, der eine natürliche Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.441422,
+                        49.340486
+                  ]
+            },
+            {
+                  "name": "Großer Eichelgartensee",
+                  "text": "Der Großer Eichelgartensee in Speyer ist ein See, der sich gut für Erkundungen in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        8.51942,
+                        49.280562
+                  ]
+            },
+            {
+                  "name": "Neptunsee",
+                  "text": "Der Neptunsee in Speyer ist ein See, der eine friedliche Umgebung für Freizeitaktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.513914,
+                        49.272946
+                  ]
+            },
+            {
+                  "name": "Kleiner Eichelgartensee",
+                  "text": "Der Kleiner Eichelgartensee in Speyer ist ein See, der Ruhe und Entspannung am Wasser ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        8.522087,
+                        49.278864
+                  ]
+            },
+            {
+                  "name": "Trompeterbau",
+                  "text": "Der Trompeterbau in Speyer ist ein See, der Besuchern eine naturnahe Auszeit ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        8.468412,
+                        49.308496
+                  ]
+            },
+            {
+                  "name": "Kuhunter",
+                  "text": "Der Kuhunter in Speyer ist ein See, der für entspannte Momente in der Natur genutzt werden kann.",
+                  "category": "natural",
+                  "coords": [
+                        8.45675,
+                        49.354474
+                  ]
+            },
+            {
+                  "name": "Kleiner Rheinhäuser See",
+                  "text": "Der Kleiner Rheinhäuser See in Speyer ist ein See, der eine ruhige Kulisse für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.504968,
+                        49.27814
+                  ]
+            },
+            {
+                  "name": "Elendherbergwühl",
+                  "text": "Der Elendherbergwühl in Speyer ist ein See, der sich in der natürlichen Landschaft der Region befindet.",
+                  "category": "natural",
+                  "coords": [
+                        8.457455,
+                        49.348161
+                  ]
+            },
+            {
+                  "name": "Wammsee",
+                  "text": "Der Wammsee in Speyer ist ein See, der Besuchern einen Ort für naturnahe Erlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.448584,
+                        49.342664
+                  ]
+            },
+            {
+                  "name": "Großer Rheinhäuser See",
+                  "text": "Der Großer Rheinhäuser See in Speyer ist ein See, der eine weitläufige Wasserfläche in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.509139,
+                        49.274799
+                  ]
+            },
+            {
+                  "name": "Erlichsee (östlicher Teil)",
+                  "text": "Der Erlichsee (östlicher Teil) in Speyer ist ein See, der Teil eines größeren Erholungsgebiets ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.50618,
+                        49.265134
+                  ]
+            },
+            {
+                  "name": "Kleiner Weiher",
+                  "text": "Der Kleiner Weiher in Speyer ist ein See, der eine friedliche Umgebung für kurze Pausen im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.385439,
+                        49.261228
+                  ]
+            },
+            {
+                  "name": "Baggersee Angelwald",
+                  "text": "Der Baggersee Angelwald in Speyer ist ein See, der Möglichkeiten für ruhige Beobachtungen in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.48073,
+                        49.35043
+                  ]
+            },
+            {
+                  "name": "Binsfeld",
+                  "text": "Der Binsfeld in Speyer ist ein See, der als lokales Ziel für Erholung und Entspannung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.454034,
+                        49.357817
+                  ]
+            },
+            {
+                  "name": "Erlichsee",
+                  "text": "Der Erlichsee in Speyer ist ein See, der Besuchern Raum für Aktivitäten im Freien und Naturnähe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.501709,
+                        49.269531
+                  ]
+            },
+            {
+                  "name": "Kollersee",
+                  "text": "Der Kollersee in Speyer ist ein See, der eine angenehme Umgebung für Freizeit am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.472096,
+                        49.380119
                   ]
             }
       ],
@@ -3295,7 +7021,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
                   "text": "Modern sport- és élményfürdő szaunarészleggel Speyer városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.450014,
                         49.314106
@@ -3322,7 +7048,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Sea Life Speyer",
                   "text": "Speyer nagyméretű akváriuma, amely számos vízi élőlényt mutat be a Rajnától a trópusokig.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.447367,
                         49.31886
@@ -3331,7 +7057,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bademaxx",
                   "text": "Speyeri sport- és élményfürdő úszómedencékkel és különféle wellness-részlegekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.451307,
                         49.313966
@@ -3344,6 +7070,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.43051,
                         49.323326
+                  ]
+            },
+            {
+                  "name": "Bannweide",
+                  "text": "A Speyerben található Bannweide egy tó, amely nyugodt légkört biztosít a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        8.490292,
+                        49.369495
+                  ]
+            },
+            {
+                  "name": "Hohwiesensee",
+                  "text": "A Speyer városában fekvő Hohwiesensee egy tó, amely vízparti kikapcsolódásra hívja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        8.513645,
+                        49.35882
+                  ]
+            },
+            {
+                  "name": "Anglersee",
+                  "text": "A Speyerben található Anglersee csendes elhelyezkedéséről és természetes környezetéről ismert tó.",
+                  "category": "natural",
+                  "coords": [
+                        8.521926,
+                        49.361494
+                  ]
+            },
+            {
+                  "name": "Gänsedrecksee",
+                  "text": "A Speyerben lévő Gänsedrecksee egy tó, amely békés környezetet nyújt a természetközeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.460741,
+                        49.359915
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "A Speyerben található Silbersee egy tó, amely kellemes környezetet biztosít a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        8.458152,
+                        49.362262
+                  ]
+            },
+            {
+                  "name": "Biersiedersee",
+                  "text": "A Speyerben fekvő Biersiedersee egy tó, amely harmonikusan illeszkedik a helyi tájba.",
+                  "category": "natural",
+                  "coords": [
+                        8.454078,
+                        49.362073
+                  ]
+            },
+            {
+                  "name": "Mondsee",
+                  "text": "A Speyer területén található Mondsee egy tó, amely nyugodt és pihentető légkört biztosít a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        8.448317,
+                        49.361309
+                  ]
+            },
+            {
+                  "name": "Speyerlachsee",
+                  "text": "A Speyerben fekvő Speyerlachsee egy tó, amely kellemes sétákra hív a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        8.445948,
+                        49.357454
+                  ]
+            },
+            {
+                  "name": "Sonnensee",
+                  "text": "A Speyerben található Sonnensee egy tó, amely szép helyszínt kínál a természetben való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.448477,
+                        49.358469
+                  ]
+            },
+            {
+                  "name": "Steinhäuserwühlsee",
+                  "text": "A Speyer városában található Steinhäuserwühlsee egy tó, amely természetes környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        8.441422,
+                        49.340486
+                  ]
+            },
+            {
+                  "name": "Großer Eichelgartensee",
+                  "text": "A Speyerben lévő Großer Eichelgartensee egy tó, amely kiválóan alkalmas a természet felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        8.51942,
+                        49.280562
+                  ]
+            },
+            {
+                  "name": "Neptunsee",
+                  "text": "A Speyerben található Neptunsee egy tó, amely békés környezetet biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.513914,
+                        49.272946
+                  ]
+            },
+            {
+                  "name": "Kleiner Eichelgartensee",
+                  "text": "A Speyerben fekvő Kleiner Eichelgartensee egy tó, amely csendet és pihenést kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        8.522087,
+                        49.278864
+                  ]
+            },
+            {
+                  "name": "Trompeterbau",
+                  "text": "A Speyerben található Trompeterbau egy tó, amely természetközeli kikapcsolódást tesz lehetővé a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        8.468412,
+                        49.308496
+                  ]
+            },
+            {
+                  "name": "Kuhunter",
+                  "text": "A Speyerben fekvő Kuhunter egy tó, amely pihentető pillanatokra ad lehetőséget a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.45675,
+                        49.354474
+                  ]
+            },
+            {
+                  "name": "Kleiner Rheinhäuser See",
+                  "text": "A Speyerben lévő Kleiner Rheinhäuser See egy tó, amely nyugodt hátteret biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.504968,
+                        49.27814
+                  ]
+            },
+            {
+                  "name": "Elendherbergwühl",
+                  "text": "A Speyerben található Elendherbergwühl egy tó, amely a környék természetes tájképének része.",
+                  "category": "natural",
+                  "coords": [
+                        8.457455,
+                        49.348161
+                  ]
+            },
+            {
+                  "name": "Wammsee",
+                  "text": "A Speyerben fekvő Wammsee egy tó, amely természetközeli élményeket kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        8.448584,
+                        49.342664
+                  ]
+            },
+            {
+                  "name": "Großer Rheinhäuser See",
+                  "text": "A Speyerben található Großer Rheinhäuser See egy tó, amely tágas vízfelületet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.509139,
+                        49.274799
+                  ]
+            },
+            {
+                  "name": "Erlichsee (östlicher Teil)",
+                  "text": "A Speyerben fekvő Erlichsee (keleti rész) egy tó, amely egy nagyobb pihenőövezet része.",
+                  "category": "natural",
+                  "coords": [
+                        8.50618,
+                        49.265134
+                  ]
+            },
+            {
+                  "name": "Kleiner Weiher",
+                  "text": "A Speyerben található Kleiner Weiher egy tó, amely békés környezetet kínál a zöldben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        8.385439,
+                        49.261228
+                  ]
+            },
+            {
+                  "name": "Baggersee Angelwald",
+                  "text": "A Speyerben lévő Baggersee Angelwald egy tó, amely lehetőséget ad a természet csendes megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        8.48073,
+                        49.35043
+                  ]
+            },
+            {
+                  "name": "Binsfeld",
+                  "text": "A Speyerben található Binsfeld egy tó, amely a kikapcsolódás és pihenés helyi úticéljaként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.454034,
+                        49.357817
+                  ]
+            },
+            {
+                  "name": "Erlichsee",
+                  "text": "A Speyerben fekvő Erlichsee egy tó, amely teret ad a látogatóknak a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.501709,
+                        49.269531
+                  ]
+            },
+            {
+                  "name": "Kollersee",
+                  "text": "A Speyerben található Kollersee egy tó, amely kellemes környezetet biztosít a vízparti szabadidőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        8.472096,
+                        49.380119
                   ]
             }
       ],
@@ -3441,7 +7392,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
                   "text": "Un parc acvatic modern și bazin sportiv cu zonă de wellness în Speyer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.450014,
                         49.314106
@@ -3468,7 +7419,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Sea Life Speyer",
                   "text": "Un acvariu mare din Speyer care găzduiește numeroase specii marine din diverse regiuni.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.447367,
                         49.31886
@@ -3477,7 +7428,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bademaxx",
                   "text": "Centrul acvatic din Speyer oferă piscine pentru înot și diverse zone de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.451307,
                         49.313966
@@ -3490,6 +7441,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.43051,
                         49.323326
+                  ]
+            },
+            {
+                  "name": "Bannweide",
+                  "text": "Bannweide din Speyer este un lac ce oferă o atmosferă liniștită pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.490292,
+                        49.369495
+                  ]
+            },
+            {
+                  "name": "Hohwiesensee",
+                  "text": "Hohwiesensee din Speyer este un lac ce invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.513645,
+                        49.35882
+                  ]
+            },
+            {
+                  "name": "Anglersee",
+                  "text": "Anglersee din Speyer este un lac cunoscut pentru locația sa liniștită și cadrul natural.",
+                  "category": "natural",
+                  "coords": [
+                        8.521926,
+                        49.361494
+                  ]
+            },
+            {
+                  "name": "Gänsedrecksee",
+                  "text": "Gänsedrecksee din Speyer este un lac ce oferă un decor pașnic pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.460741,
+                        49.359915
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Silbersee din Speyer este un lac ce oferă vizitatorilor un cadru plăcut pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.458152,
+                        49.362262
+                  ]
+            },
+            {
+                  "name": "Biersiedersee",
+                  "text": "Biersiedersee din Speyer este un lac ce se integrează armonios în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        8.454078,
+                        49.362073
+                  ]
+            },
+            {
+                  "name": "Mondsee",
+                  "text": "Mondsee din Speyer este un lac ce oferă o atmosferă liniștită și relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.448317,
+                        49.361309
+                  ]
+            },
+            {
+                  "name": "Speyerlachsee",
+                  "text": "Speyerlachsee din Speyer este un lac ce invită la plimbări plăcute pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        8.445948,
+                        49.357454
+                  ]
+            },
+            {
+                  "name": "Sonnensee",
+                  "text": "Sonnensee din Speyer este un lac ce oferă vizitatorilor un loc plăcut pentru petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.448477,
+                        49.358469
+                  ]
+            },
+            {
+                  "name": "Steinhäuserwühlsee",
+                  "text": "Steinhäuserwühlsee din Speyer este un lac ce oferă un cadru natural pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.441422,
+                        49.340486
+                  ]
+            },
+            {
+                  "name": "Großer Eichelgartensee",
+                  "text": "Großer Eichelgartensee din Speyer este un lac potrivit pentru explorarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.51942,
+                        49.280562
+                  ]
+            },
+            {
+                  "name": "Neptunsee",
+                  "text": "Neptunsee din Speyer este un lac ce oferă un cadru pașnic pentru activități de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.513914,
+                        49.272946
+                  ]
+            },
+            {
+                  "name": "Kleiner Eichelgartensee",
+                  "text": "Kleiner Eichelgartensee din Speyer este un lac ce permite liniște și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.522087,
+                        49.278864
+                  ]
+            },
+            {
+                  "name": "Trompeterbau",
+                  "text": "Trompeterbau din Speyer este un lac ce permite vizitatorilor o evadare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.468412,
+                        49.308496
+                  ]
+            },
+            {
+                  "name": "Kuhunter",
+                  "text": "Kuhunter din Speyer este un lac ce poate fi folosit pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.45675,
+                        49.354474
+                  ]
+            },
+            {
+                  "name": "Kleiner Rheinhäuser See",
+                  "text": "Kleiner Rheinhäuser See din Speyer este un lac ce oferă un decor liniștit pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        8.504968,
+                        49.27814
+                  ]
+            },
+            {
+                  "name": "Elendherbergwühl",
+                  "text": "Elendherbergwühl din Speyer este un lac situat în peisajul natural al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        8.457455,
+                        49.348161
+                  ]
+            },
+            {
+                  "name": "Wammsee",
+                  "text": "Wammsee din Speyer este un lac ce oferă vizitatorilor un loc pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.448584,
+                        49.342664
+                  ]
+            },
+            {
+                  "name": "Großer Rheinhäuser See",
+                  "text": "Großer Rheinhäuser See din Speyer este un lac ce oferă o suprafață mare de apă în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.509139,
+                        49.274799
+                  ]
+            },
+            {
+                  "name": "Erlichsee (östlicher Teil)",
+                  "text": "Erlichsee (partea de est) din Speyer este un lac ce face parte dintr-o zonă de recreere mai mare.",
+                  "category": "natural",
+                  "coords": [
+                        8.50618,
+                        49.265134
+                  ]
+            },
+            {
+                  "name": "Kleiner Weiher",
+                  "text": "Kleiner Weiher din Speyer este un lac ce oferă un cadru pașnic pentru scurte pauze în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.385439,
+                        49.261228
+                  ]
+            },
+            {
+                  "name": "Baggersee Angelwald",
+                  "text": "Baggersee Angelwald din Speyer este un lac ce oferă ocazii pentru observații liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.48073,
+                        49.35043
+                  ]
+            },
+            {
+                  "name": "Binsfeld",
+                  "text": "Binsfeld din Speyer este un lac cunoscut ca destinație locală pentru recreere și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.454034,
+                        49.357817
+                  ]
+            },
+            {
+                  "name": "Erlichsee",
+                  "text": "Erlichsee din Speyer este un lac ce oferă vizitatorilor spațiu pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.501709,
+                        49.269531
+                  ]
+            },
+            {
+                  "name": "Kollersee",
+                  "text": "Kollersee din Speyer este un lac ce oferă un cadru plăcut pentru petrecerea timpului liber pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.472096,
+                        49.380119
                   ]
             }
       ],
@@ -3587,7 +7763,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "bademaxx - Das Sport- und Erlebnisbad in Speyer",
                   "text": "A modern sports and adventure pool with a sauna area in Speyer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.450014,
                         49.314106
@@ -3614,7 +7790,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Sea Life Speyer",
                   "text": "A large aquarium in Speyer featuring numerous marine creatures from different regions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.447367,
                         49.31886
@@ -3623,7 +7799,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bademaxx",
                   "text": "The sports and adventure pool in Speyer offers swimming pools and various wellness areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.451307,
                         49.313966
@@ -3636,6 +7812,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.43051,
                         49.323326
+                  ]
+            },
+            {
+                  "name": "Bannweide",
+                  "text": "Bannweide in Speyer is a lake providing a calm atmosphere for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.490292,
+                        49.369495
+                  ]
+            },
+            {
+                  "name": "Hohwiesensee",
+                  "text": "Hohwiesensee in Speyer is a lake inviting visitors to enjoy relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.513645,
+                        49.35882
+                  ]
+            },
+            {
+                  "name": "Anglersee",
+                  "text": "Anglersee in Speyer is a lake known for its quiet location and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        8.521926,
+                        49.361494
+                  ]
+            },
+            {
+                  "name": "Gänsedrecksee",
+                  "text": "Gänsedrecksee in Speyer is a lake providing a peaceful backdrop for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.460741,
+                        49.359915
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Silbersee in Speyer is a lake offering visitors a pleasant setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        8.458152,
+                        49.362262
+                  ]
+            },
+            {
+                  "name": "Biersiedersee",
+                  "text": "Biersiedersee in Speyer is a lake that blends harmoniously into the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.454078,
+                        49.362073
+                  ]
+            },
+            {
+                  "name": "Mondsee",
+                  "text": "Mondsee in Speyer is a lake providing a quiet and relaxed atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.448317,
+                        49.361309
+                  ]
+            },
+            {
+                  "name": "Speyerlachsee",
+                  "text": "Speyerlachsee in Speyer is a lake inviting for pleasant walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        8.445948,
+                        49.357454
+                  ]
+            },
+            {
+                  "name": "Sonnensee",
+                  "text": "Sonnensee in Speyer is a lake offering visitors a nice spot to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.448477,
+                        49.358469
+                  ]
+            },
+            {
+                  "name": "Steinhäuserwühlsee",
+                  "text": "Steinhäuserwühlsee in Speyer is a lake providing a natural setting for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        8.441422,
+                        49.340486
+                  ]
+            },
+            {
+                  "name": "Großer Eichelgartensee",
+                  "text": "Großer Eichelgartensee in Speyer is a lake well-suited for nature exploration.",
+                  "category": "natural",
+                  "coords": [
+                        8.51942,
+                        49.280562
+                  ]
+            },
+            {
+                  "name": "Neptunsee",
+                  "text": "Neptunsee in Speyer is a lake providing a peaceful environment for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        8.513914,
+                        49.272946
+                  ]
+            },
+            {
+                  "name": "Kleiner Eichelgartensee",
+                  "text": "Kleiner Eichelgartensee in Speyer is a lake allowing for peace and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.522087,
+                        49.278864
+                  ]
+            },
+            {
+                  "name": "Trompeterbau",
+                  "text": "Trompeterbau in Speyer is a lake providing visitors with a getaway in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        8.468412,
+                        49.308496
+                  ]
+            },
+            {
+                  "name": "Kuhunter",
+                  "text": "Kuhunter in Speyer is a lake that can be used for relaxed moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.45675,
+                        49.354474
+                  ]
+            },
+            {
+                  "name": "Kleiner Rheinhäuser See",
+                  "text": "Kleiner Rheinhäuser See in Speyer is a lake providing a calm backdrop for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        8.504968,
+                        49.27814
+                  ]
+            },
+            {
+                  "name": "Elendherbergwühl",
+                  "text": "Elendherbergwühl in Speyer is a lake located within the natural landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        8.457455,
+                        49.348161
+                  ]
+            },
+            {
+                  "name": "Wammsee",
+                  "text": "Wammsee in Speyer is a lake providing visitors with a spot for nature-oriented experiences.",
+                  "category": "natural",
+                  "coords": [
+                        8.448584,
+                        49.342664
+                  ]
+            },
+            {
+                  "name": "Großer Rheinhäuser See",
+                  "text": "Großer Rheinhäuser See in Speyer is a lake offering an extensive water surface in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.509139,
+                        49.274799
+                  ]
+            },
+            {
+                  "name": "Erlichsee (östlicher Teil)",
+                  "text": "Erlichsee (eastern part) in Speyer is a lake that is part of a larger recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        8.50618,
+                        49.265134
+                  ]
+            },
+            {
+                  "name": "Kleiner Weiher",
+                  "text": "Kleiner Weiher in Speyer is a lake offering a peaceful setting for short breaks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.385439,
+                        49.261228
+                  ]
+            },
+            {
+                  "name": "Baggersee Angelwald",
+                  "text": "Baggersee Angelwald in Speyer is a lake providing opportunities for quiet nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        8.48073,
+                        49.35043
+                  ]
+            },
+            {
+                  "name": "Binsfeld",
+                  "text": "Binsfeld in Speyer is a lake known as a local destination for recreation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        8.454034,
+                        49.357817
+                  ]
+            },
+            {
+                  "name": "Erlichsee",
+                  "text": "Erlichsee in Speyer is a lake offering visitors space for outdoor activities and closeness to nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.501709,
+                        49.269531
+                  ]
+            },
+            {
+                  "name": "Kollersee",
+                  "text": "Kollersee in Speyer is a lake offering a pleasant setting for leisure by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.472096,
+                        49.380119
                   ]
             }
       ]
@@ -3855,7 +8256,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hainbad",
                   "text": "Ein malerisches historisches Flussbad am Regnitzufer im bamberger Hain-Park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.893502,
                         49.885196
@@ -3864,7 +8265,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Stadionbad",
                   "text": "Ein beliebtes Freibad in Bamberg mit verschiedenen Becken und Liegewiesen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.925652,
                         49.899563
@@ -3873,7 +8274,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bambados - Das Familien- und Sportbad",
                   "text": "Ein modernes Hallenbad in Bamberg für Familien- und Sportaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.923758,
                         49.899735
@@ -3886,6 +8287,42 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         10.887531,
                         49.890565
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Hainstraße",
+                  "text": "Die Minigolfanlage Hainstraße in Bamberg ist ein ideales Ziel für einen sportlichen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        10.897595,
+                        49.882959
+                  ]
+            },
+            {
+                  "name": "1. MGC Bamberg",
+                  "text": "Der 1. MGC Bamberg bietet Minigolf-Spaß in einer gepflegten Anlage für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.905764,
+                        49.882735
+                  ]
+            },
+            {
+                  "name": "Spielplatz unterm Regenbogen",
+                  "text": "Der Spielplatz unterm Regenbogen in Bamberg bietet Kindern fantasievolle Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        10.908787,
+                        49.895978
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Bamberg-Bug",
+                  "text": "Die Minigolfanlage Bamberg-Bug bietet Freizeitvergnügen in reizvoller Umgebung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.90315,
+                        49.871607
                   ]
             }
       ],
@@ -4055,7 +8492,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hainbad",
                   "text": "Festői történelmi folyami strand a Regnitz partján, a bambergi Hain-parkban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.893502,
                         49.885196
@@ -4064,7 +8501,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Stadionbad",
                   "text": "Népszerű szabadtéri strand Bambergben, különféle medencékkel és napozóhelyekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.925652,
                         49.899563
@@ -4073,7 +8510,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bambados - Das Familien- und Sportbad",
                   "text": "Modern fedett uszoda Bambergben, amely családi és sportolási lehetőségeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.923758,
                         49.899735
@@ -4086,6 +8523,42 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         10.887531,
                         49.890565
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Hainstraße",
+                  "text": "A bambergi Hainstraße minigolfpálya ideális célpont egy sportos családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.897595,
+                        49.882959
+                  ]
+            },
+            {
+                  "name": "1. MGC Bamberg",
+                  "text": "Az 1. MGC Bamberg minigolf-szórakozást kínál ápolt környezetben, minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        10.905764,
+                        49.882735
+                  ]
+            },
+            {
+                  "name": "Spielplatz unterm Regenbogen",
+                  "text": "A bambergi \"unterm Regenbogen\" játszótér ötletes játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.908787,
+                        49.895978
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Bamberg-Bug",
+                  "text": "A Bamberg-Bug minigolfpálya szabadidős kikapcsolódást nyújt szép környezetben az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        10.90315,
+                        49.871607
                   ]
             }
       ],
@@ -4255,7 +8728,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hainbad",
                   "text": "O ștrand istoric pitoresc pe malul râului Regnitz, în parcul Hain din Bamberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.893502,
                         49.885196
@@ -4264,7 +8737,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Stadionbad",
                   "text": "Un ștrand popular în aer liber din Bamberg, cu diverse bazine și zone de plajă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.925652,
                         49.899563
@@ -4273,7 +8746,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bambados - Das Familien- und Sportbad",
                   "text": "O piscină interioară modernă din Bamberg pentru activități de familie și sport.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.923758,
                         49.899735
@@ -4286,6 +8759,42 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         10.887531,
                         49.890565
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Hainstraße",
+                  "text": "Terenul de minigolf din Hainstraße, Bamberg, este o destinație ideală pentru o ieșire sportivă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        10.897595,
+                        49.882959
+                  ]
+            },
+            {
+                  "name": "1. MGC Bamberg",
+                  "text": "1. MGC Bamberg oferă distracție la minigolf într-o bază bine întreținută, pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.905764,
+                        49.882735
+                  ]
+            },
+            {
+                  "name": "Spielplatz unterm Regenbogen",
+                  "text": "Locul de joacă „unterm Regenbogen” din Bamberg oferă copiilor posibilități de joacă pline de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        10.908787,
+                        49.895978
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Bamberg-Bug",
+                  "text": "Terenul de minigolf Bamberg-Bug oferă distracție în timpul liber, într-un cadru atractiv, pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.90315,
+                        49.871607
                   ]
             }
       ],
@@ -4455,7 +8964,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Hainbad",
                   "text": "A picturesque historic river pool on the banks of the Regnitz in Bamberg's Hain Park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.893502,
                         49.885196
@@ -4464,7 +8973,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Stadionbad",
                   "text": "A popular outdoor swimming pool in Bamberg with various pools and sunbathing areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.925652,
                         49.899563
@@ -4473,7 +8982,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Bambados - Das Familien- und Sportbad",
                   "text": "A modern indoor swimming pool in Bamberg for family and sports activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.923758,
                         49.899735
@@ -4486,6 +8995,42 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         10.887531,
                         49.890565
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Hainstraße",
+                  "text": "The Hainstraße miniature golf course in Bamberg is an ideal destination for a sporting family outing.",
+                  "category": "family",
+                  "coords": [
+                        10.897595,
+                        49.882959
+                  ]
+            },
+            {
+                  "name": "1. MGC Bamberg",
+                  "text": "The 1. MGC Bamberg offers miniature golf fun in a well-maintained facility for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.905764,
+                        49.882735
+                  ]
+            },
+            {
+                  "name": "Spielplatz unterm Regenbogen",
+                  "text": "The \"unterm Regenbogen\" playground in Bamberg offers imaginative play options for children.",
+                  "category": "family",
+                  "coords": [
+                        10.908787,
+                        49.895978
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Bamberg-Bug",
+                  "text": "The Bamberg-Bug miniature golf course offers leisure fun in charming surroundings for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.90315,
+                        49.871607
                   ]
             }
       ]
@@ -4988,10 +9533,136 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Westenergie-Park",
                   "text": "Ein Sport- und Freizeitgelände in Siegen, das für verschiedene Outdoor-Aktivitäten genutzt wird.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.026227,
                         50.877956
+                  ]
+            },
+            {
+                  "name": "Mühlenweiher",
+                  "text": "Der Mühlenweiher in Siegen ist ein kleiner See, der Besuchern eine ruhige Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.088563,
+                        50.856719
+                  ]
+            },
+            {
+                  "name": "Bottenbacher Weiher",
+                  "text": "Der Bottenbacher Weiher in Siegen ist ein See, der zum Entspannen in einer natürlichen Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.01699,
+                        50.936999
+                  ]
+            },
+            {
+                  "name": "Naturfreibad",
+                  "text": "Das Naturfreibad in Siegen ist ein See, der Besuchern eine erfrischende Umgebung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.997801,
+                        50.824303
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "Das Regenrückhaltebecken in Siegen ist ein See, der als Wasserfläche Teil der lokalen Infrastruktur ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.002853,
+                        50.858137
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
+                  "text": "Der Abenteuerspielplatz des RaBauKi e.V. in Siegen bietet Kindern Raum für kreatives und aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.984341,
+                        50.877004
+                  ]
+            },
+            {
+                  "name": "Spielplatz Häusling",
+                  "text": "Der Spielplatz Häusling in Siegen ist ein lokaler Spielbereich für Kinder in einer naturnahen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.027371,
+                        50.864567
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kinderklink",
+                  "text": "Ein Spielplatz in Siegen, der Kindern Raum für Bewegung und Spiel im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.018199,
+                        50.884524
+                  ]
+            },
+            {
+                  "name": "Samuel-Frank-Straße",
+                  "text": "Dieser Spielplatz in Siegen ist ein familienfreundlicher Ort für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        8.036,
+                        50.889533
+                  ]
+            },
+            {
+                  "name": "Ackerstraße",
+                  "text": "Ein Ort in Siegen, der speziell für das Spielen und die Freizeitgestaltung von Kindern angelegt wurde.",
+                  "category": "family",
+                  "coords": [
+                        8.037743,
+                        50.892694
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz an der Alche",
+                  "text": "Spielplatz in Siegen, der eine gute Gelegenheit für Kinder bietet, an der frischen Luft zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.007215,
+                        50.880612
+                  ]
+            },
+            {
+                  "name": "Paul-Fickeler-Weg",
+                  "text": "Ein kinderfreundlicher Spielplatz in Siegen, ideal für einen Ausflug mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.016514,
+                        50.860379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Calvary Chapel",
+                  "text": "Dieser Spielplatz in Siegen bietet verschiedene Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.990561,
+                        50.8516
+                  ]
+            },
+            {
+                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
+                  "text": "Ein weitläufiger Spielplatz in Siegen, der Kindern viel Platz für Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.991654,
+                        50.858573
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hauptmarkt",
+                  "text": "Zentral gelegener Spielplatz in Siegen, der sich gut für eine kurze Pause mit Kindern eignet.",
+                  "category": "family",
+                  "coords": [
+                        8.027476,
+                        50.896445
                   ]
             }
       ],
@@ -5062,10 +9733,136 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Westenergie-Park",
                   "text": "Siegeni sport- és szabadidőpark, amely különféle szabadtéri tevékenységeknek ad helyet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.026227,
                         50.877956
+                  ]
+            },
+            {
+                  "name": "Mühlenweiher",
+                  "text": "A Siegenben található Mühlenweiher egy kis tó, amely nyugodt hátteret biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.088563,
+                        50.856719
+                  ]
+            },
+            {
+                  "name": "Bottenbacher Weiher",
+                  "text": "A Siegen városában fekvő Bottenbacher Weiher egy tó, amely pihenésre hív a természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.01699,
+                        50.936999
+                  ]
+            },
+            {
+                  "name": "Naturfreibad",
+                  "text": "A Siegenben található Naturfreibad egy tó, amely frissítő környezetet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.997801,
+                        50.824303
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "A Siegenben található Regenrückhaltebecken egy vízfelület, amely a helyi infrastruktúra része.",
+                  "category": "natural",
+                  "coords": [
+                        8.002853,
+                        50.858137
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
+                  "text": "A siegeni RaBauKi e.V. kalandjátszótér teret ad a gyerekeknek a kreatív és aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.984341,
+                        50.877004
+                  ]
+            },
+            {
+                  "name": "Spielplatz Häusling",
+                  "text": "A Siegenben található Spielplatz Häusling egy helyi játszótér a gyerekek számára természetközeli környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.027371,
+                        50.864567
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kinderklink",
+                  "text": "Egy játszótér Siegenben, amely szabadtéri játéklehetőséget biztosít a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.018199,
+                        50.884524
+                  ]
+            },
+            {
+                  "name": "Samuel-Frank-Straße",
+                  "text": "Ez a siegeni játszótér családbarát hely a gyermekek számára a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.036,
+                        50.889533
+                  ]
+            },
+            {
+                  "name": "Ackerstraße",
+                  "text": "Egy siegeni helyszín, amelyet kifejezetten a gyermekek játéka és szabadideje számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        8.037743,
+                        50.892694
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz an der Alche",
+                  "text": "Siegeni játszótér, amely jó lehetőséget nyújt a gyermekeknek a friss levegőn való játékra.",
+                  "category": "family",
+                  "coords": [
+                        8.007215,
+                        50.880612
+                  ]
+            },
+            {
+                  "name": "Paul-Fickeler-Weg",
+                  "text": "Gyermekbarát játszótér Siegenben, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.016514,
+                        50.860379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Calvary Chapel",
+                  "text": "Ez a siegeni játszótér különféle lehetőségeket kínál a mászásra és a játékra.",
+                  "category": "family",
+                  "coords": [
+                        7.990561,
+                        50.8516
+                  ]
+            },
+            {
+                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
+                  "text": "Tágas játszótér Siegenben, amely sok helyet biztosít a gyermekek tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        7.991654,
+                        50.858573
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hauptmarkt",
+                  "text": "Központi elhelyezkedésű játszótér Siegenben, amely alkalmas egy rövid szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.027476,
+                        50.896445
                   ]
             }
       ],
@@ -5136,10 +9933,136 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Westenergie-Park",
                   "text": "Un parc de sport și recreere din Siegen, utilizat pentru diverse activități în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.026227,
                         50.877956
+                  ]
+            },
+            {
+                  "name": "Mühlenweiher",
+                  "text": "Mühlenweiher din Siegen este un iaz mic ce oferă vizitatorilor un decor liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        8.088563,
+                        50.856719
+                  ]
+            },
+            {
+                  "name": "Bottenbacher Weiher",
+                  "text": "Bottenbacher Weiher din Siegen este un lac ce invită la relaxare într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        8.01699,
+                        50.936999
+                  ]
+            },
+            {
+                  "name": "Naturfreibad",
+                  "text": "Naturfreibad din Siegen este un lac ce oferă vizitatorilor un cadru revigorant în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.997801,
+                        50.824303
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "Regenrückhaltebecken din Siegen este o suprafață de apă ce face parte din infrastructura locală.",
+                  "category": "natural",
+                  "coords": [
+                        8.002853,
+                        50.858137
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
+                  "text": "Terenul de joacă de aventură al RaBauKi e.V. din Siegen oferă copiilor spațiu pentru joacă creativă și activă.",
+                  "category": "family",
+                  "coords": [
+                        7.984341,
+                        50.877004
+                  ]
+            },
+            {
+                  "name": "Spielplatz Häusling",
+                  "text": "Locul de joacă Häusling din Siegen este un spațiu de joacă local pentru copii, într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        8.027371,
+                        50.864567
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kinderklink",
+                  "text": "Un loc de joacă în Siegen, care oferă copiilor spațiu pentru mișcare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.018199,
+                        50.884524
+                  ]
+            },
+            {
+                  "name": "Samuel-Frank-Straße",
+                  "text": "Acest loc de joacă din Siegen este un spațiu primitor unde copiii se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        8.036,
+                        50.889533
+                  ]
+            },
+            {
+                  "name": "Ackerstraße",
+                  "text": "O locație din Siegen amenajată special pentru joaca și petrecerea timpului liber al copiilor.",
+                  "category": "family",
+                  "coords": [
+                        8.037743,
+                        50.892694
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz an der Alche",
+                  "text": "Loc de joacă în Siegen, care oferă copiilor o ocazie bună de a se juca la aer curat.",
+                  "category": "family",
+                  "coords": [
+                        8.007215,
+                        50.880612
+                  ]
+            },
+            {
+                  "name": "Paul-Fickeler-Weg",
+                  "text": "Un loc de joacă prietenos pentru copii în Siegen, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        8.016514,
+                        50.860379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Calvary Chapel",
+                  "text": "Acest loc de joacă din Siegen oferă diverse posibilități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.990561,
+                        50.8516
+                  ]
+            },
+            {
+                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
+                  "text": "Un loc de joacă spațios în Siegen, care oferă copiilor mult loc pentru activități.",
+                  "category": "family",
+                  "coords": [
+                        7.991654,
+                        50.858573
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hauptmarkt",
+                  "text": "Loc de joacă situat central în Siegen, potrivit pentru o scurtă pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        8.027476,
+                        50.896445
                   ]
             }
       ],
@@ -5210,10 +10133,136 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Westenergie-Park",
                   "text": "A sports and leisure park in Siegen used for various outdoor activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.026227,
                         50.877956
+                  ]
+            },
+            {
+                  "name": "Mühlenweiher",
+                  "text": "Mühlenweiher in Siegen is a small lake providing visitors with a quiet backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.088563,
+                        50.856719
+                  ]
+            },
+            {
+                  "name": "Bottenbacher Weiher",
+                  "text": "Bottenbacher Weiher in Siegen is a lake inviting for relaxation in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        8.01699,
+                        50.936999
+                  ]
+            },
+            {
+                  "name": "Naturfreibad",
+                  "text": "The Naturfreibad in Siegen is a lake offering visitors a refreshing environment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        7.997801,
+                        50.824303
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken",
+                  "text": "The Regenrückhaltebecken in Siegen is a body of water that is part of the local infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        8.002853,
+                        50.858137
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
+                  "text": "The adventure playground of RaBauKi e.V. in Siegen offers children space for creative and active play.",
+                  "category": "family",
+                  "coords": [
+                        7.984341,
+                        50.877004
+                  ]
+            },
+            {
+                  "name": "Spielplatz Häusling",
+                  "text": "The Häusling playground in Siegen is a local play area for children in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        8.027371,
+                        50.864567
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kinderklink",
+                  "text": "A playground in Siegen that offers children space for outdoor play and physical activity.",
+                  "category": "family",
+                  "coords": [
+                        8.018199,
+                        50.884524
+                  ]
+            },
+            {
+                  "name": "Samuel-Frank-Straße",
+                  "text": "This playground in Siegen is a family-friendly spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        8.036,
+                        50.889533
+                  ]
+            },
+            {
+                  "name": "Ackerstraße",
+                  "text": "A location in Siegen specifically designed for children's play and leisure time.",
+                  "category": "family",
+                  "coords": [
+                        8.037743,
+                        50.892694
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz an der Alche",
+                  "text": "Playground in Siegen providing a good opportunity for children to play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        8.007215,
+                        50.880612
+                  ]
+            },
+            {
+                  "name": "Paul-Fickeler-Weg",
+                  "text": "A child-friendly playground in Siegen, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.016514,
+                        50.860379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Calvary Chapel",
+                  "text": "This playground in Siegen offers various opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        7.990561,
+                        50.8516
+                  ]
+            },
+            {
+                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
+                  "text": "A spacious playground in Siegen that offers children plenty of room for activities.",
+                  "category": "family",
+                  "coords": [
+                        7.991654,
+                        50.858573
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hauptmarkt",
+                  "text": "Centrally located playground in Siegen, suitable for a short break with children.",
+                  "category": "family",
+                  "coords": [
+                        8.027476,
+                        50.896445
                   ]
             }
       ]
@@ -5321,6 +10370,231 @@ export const germanyCitiesV2: POI[] = [
                         8.677555,
                         53.856324
                   ]
+            },
+            {
+                  "name": "Gudendorfer See",
+                  "text": "Der Gudendorfer See in Cuxhaven lädt zu einem entspannten Aufenthalt in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        8.677677,
+                        53.795127
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "Das Löschwasserbecken in Cuxhaven ist ein funktionales Gewässer, das das Landschaftsbild ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        8.644469,
+                        53.813697
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Brucknerstraße\"",
+                  "text": "Der Spielplatz \"Brucknerstraße\" in Cuxhaven bietet Kindern vielfältige Möglichkeiten zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.691086,
+                        53.866639
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Eduard-Karstens-Weg\"",
+                  "text": "Der Spielplatz \"Eduard-Karstens-Weg\" in Cuxhaven lädt junge Besucher zum Toben im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        8.724494,
+                        53.842232
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Schumannstraße\"",
+                  "text": "Der Spielplatz \"Schumannstraße\" in Cuxhaven ist ein schöner Ort für Spiel und Spaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.688616,
+                        53.86824
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Peter-Martens-Weg\"",
+                  "text": "Der Spielplatz \"Peter-Martens-Weg\" in Cuxhaven bietet eine sichere Umgebung für spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.72436,
+                        53.844125
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Franz-Rotter-Allee\"",
+                  "text": "Der Spielplatz \"Franz-Rotter-Allee\" in Cuxhaven bietet Raum für Bewegung und Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        8.679373,
+                        53.861177
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Tamms Weg\"",
+                  "text": "Der Spielplatz \"Tamms Weg\" in Cuxhaven ist ein beliebter Anlaufpunkt für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        8.723175,
+                        53.85098
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Brockeswalde",
+                  "text": "Die Minigolfanlage Brockeswalde in Cuxhaven bietet Spielfreude für die ganze Familie im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        8.654454,
+                        53.864057
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Philosophenweg\"",
+                  "text": "Der Spielplatz \"Philosophenweg\" in Cuxhaven bietet Kindern eine abwechslungsreiche Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.697345,
+                        53.85936
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Fröbelstraße\"",
+                  "text": "Der Spielplatz \"Fröbelstraße\" in Cuxhaven ist ein einladender Ort für Kinder und ihre Eltern.",
+                  "category": "family",
+                  "coords": [
+                        8.686214,
+                        53.860244
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Der Spielplatz Schlossgarten in Cuxhaven bietet eine historische Kulisse für kindliches Spiel.",
+                  "category": "family",
+                  "coords": [
+                        8.693573,
+                        53.856521
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Grenzstraße\"",
+                  "text": "Der Spielplatz \"Grenzstraße\" in Cuxhaven bietet Kindern Raum für gemeinsames Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.684452,
+                        53.862781
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Küddow-/Warthestraße\"",
+                  "text": "Der Spielplatz \"Küddow-/Warthestraße\" in Cuxhaven bietet verschiedene Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.680553,
+                        53.851068
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Matthias-Claudius-Weg\"",
+                  "text": "Der Spielplatz \"Matthias-Claudius-Weg\" in Cuxhaven bietet eine angenehme Atmosphäre für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.685719,
+                        53.854475
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"VOCO\"",
+                  "text": "Der Spielplatz \"VOCO\" in Cuxhaven ist ein schöner Ort für Kinder, um draußen aktiv zu sein.",
+                  "category": "family",
+                  "coords": [
+                        8.701555,
+                        53.849055
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Alma-Rogge-Weg\"",
+                  "text": "Der Spielplatz \"Alma-Rogge-Weg\" in Cuxhaven bietet Platz zum Toben in einer ruhigen Wohngegend.",
+                  "category": "family",
+                  "coords": [
+                        8.675649,
+                        53.851102
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Katharina-von-Bora-Weg\"",
+                  "text": "Der Spielplatz \"Katharina-von-Bora-Weg\" in Cuxhaven bietet Kindern vielfältigen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.725153,
+                        53.839103
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Töpfers Weg\"",
+                  "text": "Der Spielplatz \"Töpfers Weg\" in Cuxhaven lädt zum Spielen und Entdecken im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        8.688647,
+                        53.848384
+                  ]
+            },
+            {
+                  "name": "Spielplatz Siedelhof",
+                  "text": "Der Spielplatz Siedelhof in Cuxhaven bietet eine freundliche Umgebung für die Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.69168,
+                        53.850651
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Wasserwerk",
+                  "text": "Der Spielplatz Am Wasserwerk in Cuxhaven bietet Abwechslung für junge Besucher in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        8.667849,
+                        53.851202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenweg",
+                  "text": "Der Spielplatz Ulmenweg in Cuxhaven bietet Kindern vielfältige Möglichkeiten für Spiel und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        8.676341,
+                        53.848289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Carl-Schade-Weg",
+                  "text": "Der Spielplatz Carl-Schade-Weg in Cuxhaven ist ein schöner Ort für einen Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        8.667659,
+                        53.86171
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Wolfgang-Geiger-Ring\"",
+                  "text": "Der Spielplatz \"Wolfgang-Geiger-Ring\" in Cuxhaven bietet Raum für aktives Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.662633,
+                        53.829313
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Mittelstraße\"",
+                  "text": "Der Spielplatz \"Mittelstraße\" in Cuxhaven bietet Kindern in der Stadt einen Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.695229,
+                        53.867839
+                  ]
             }
       ],
       "hu": [
@@ -5376,6 +10650,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.677555,
                         53.856324
+                  ]
+            },
+            {
+                  "name": "Gudendorfer See",
+                  "text": "A cuxhaveni Gudendorfer See pihentető időtöltésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.677677,
+                        53.795127
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "A cuxhaveni Löschwasserbecken egy funkcionális vízfelület, amely kiegészíti a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        8.644469,
+                        53.813697
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Brucknerstraße\"",
+                  "text": "A cuxhaveni \"Brucknerstraße\" játszótér sokféle játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.691086,
+                        53.866639
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Eduard-Karstens-Weg\"",
+                  "text": "A cuxhaveni \"Eduard-Karstens-Weg\" játszótér szabadtéri játékra hívja a fiatal látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        8.724494,
+                        53.842232
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Schumannstraße\"",
+                  "text": "A cuxhaveni \"Schumannstraße\" játszótér remek hely a családi játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.688616,
+                        53.86824
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Peter-Martens-Weg\"",
+                  "text": "A cuxhaveni \"Peter-Martens-Weg\" játszótér biztonságos környezetet nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.72436,
+                        53.844125
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Franz-Rotter-Allee\"",
+                  "text": "A cuxhaveni \"Franz-Rotter-Allee\" játszótér helyet biztosít a mozgáshoz és a szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        8.679373,
+                        53.861177
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Tamms Weg\"",
+                  "text": "A cuxhaveni \"Tamms Weg\" játszótér a környékbeli gyerekek kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        8.723175,
+                        53.85098
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Brockeswalde",
+                  "text": "A cuxhaveni Brockeswalde minigolfpálya játékos kikapcsolódást nyújt az egész családnak a természetben.",
+                  "category": "family",
+                  "coords": [
+                        8.654454,
+                        53.864057
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Philosophenweg\"",
+                  "text": "A cuxhaveni \"Philosophenweg\" játszótér változatos környezetet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.697345,
+                        53.85936
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Fröbelstraße\"",
+                  "text": "A cuxhaveni \"Fröbelstraße\" játszótér hívogató hely a gyerekek és szüleik számára.",
+                  "category": "family",
+                  "coords": [
+                        8.686214,
+                        53.860244
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "A cuxhaveni Schlossgarten játszótér történelmi környezetet biztosít a gyerekjátékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.693573,
+                        53.856521
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Grenzstraße\"",
+                  "text": "A cuxhaveni \"Grenzstraße\" játszótér helyet biztosít a gyerekeknek a közös szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.684452,
+                        53.862781
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Küddow-/Warthestraße\"",
+                  "text": "A cuxhaveni \"Küddow-/Warthestraße\" játszótér különféle játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.680553,
+                        53.851068
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Matthias-Claudius-Weg\"",
+                  "text": "A cuxhaveni \"Matthias-Claudius-Weg\" játszótér kellemes környezetet biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.685719,
+                        53.854475
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"VOCO\"",
+                  "text": "A cuxhaveni \"VOCO\" játszótér remek hely a gyerekeknek a szabadtéri aktivitáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.701555,
+                        53.849055
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Alma-Rogge-Weg\"",
+                  "text": "A cuxhaveni \"Alma-Rogge-Weg\" játszótér játéklehetőséget biztosít egy csendes lakóövezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.675649,
+                        53.851102
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Katharina-von-Bora-Weg\"",
+                  "text": "A cuxhaveni \"Katharina-von-Bora-Weg\" játszótér változatos szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.725153,
+                        53.839103
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Töpfers Weg\"",
+                  "text": "A cuxhaveni \"Töpfers Weg\" játszótér szabadtéri játékra és felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        8.688647,
+                        53.848384
+                  ]
+            },
+            {
+                  "name": "Spielplatz Siedelhof",
+                  "text": "A cuxhaveni Siedelhof játszótér barátságos környezetet biztosít a gyerekek szabadidejéhez.",
+                  "category": "family",
+                  "coords": [
+                        8.69168,
+                        53.850651
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Wasserwerk",
+                  "text": "A cuxhaveni Am Wasserwerk játszótér kikapcsolódást nyújt a fiatal látogatóknak a természetben.",
+                  "category": "family",
+                  "coords": [
+                        8.667849,
+                        53.851202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenweg",
+                  "text": "A cuxhaveni Ulmenweg játszótér sokféle lehetőséget kínál a gyerekeknek a játékra és mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        8.676341,
+                        53.848289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Carl-Schade-Weg",
+                  "text": "A cuxhaveni Carl-Schade-Weg játszótér remek hely egy családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.667659,
+                        53.86171
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Wolfgang-Geiger-Ring\"",
+                  "text": "A cuxhaveni \"Wolfgang-Geiger-Ring\" játszótér helyet biztosít az aktív szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.662633,
+                        53.829313
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Mittelstraße\"",
+                  "text": "A cuxhaveni \"Mittelstraße\" játszótér játéklehetőséget biztosít a városi gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.695229,
+                        53.867839
                   ]
             }
       ],
@@ -5433,6 +10932,231 @@ export const germanyCitiesV2: POI[] = [
                         8.677555,
                         53.856324
                   ]
+            },
+            {
+                  "name": "Gudendorfer See",
+                  "text": "Lacul Gudendorfer din Cuxhaven invită la o ședere relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.677677,
+                        53.795127
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "Bazinul de apă pentru incendii din Cuxhaven este un corp de apă funcțional care completează peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        8.644469,
+                        53.813697
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Brucknerstraße\"",
+                  "text": "Locul de joacă „Brucknerstraße” din Cuxhaven oferă copiilor diverse oportunități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.691086,
+                        53.866639
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Eduard-Karstens-Weg\"",
+                  "text": "Locul de joacă „Eduard-Karstens-Weg” din Cuxhaven îi invită pe tinerii vizitatori la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.724494,
+                        53.842232
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Schumannstraße\"",
+                  "text": "Locul de joacă „Schumannstraße” din Cuxhaven este un loc frumos pentru joacă și distracție cu familia.",
+                  "category": "family",
+                  "coords": [
+                        8.688616,
+                        53.86824
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Peter-Martens-Weg\"",
+                  "text": "Locul de joacă „Peter-Martens-Weg” din Cuxhaven oferă un mediu sigur pentru copiii care se joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.72436,
+                        53.844125
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Franz-Rotter-Allee\"",
+                  "text": "Locul de joacă „Franz-Rotter-Allee” din Cuxhaven oferă spațiu pentru mișcare și recreere.",
+                  "category": "family",
+                  "coords": [
+                        8.679373,
+                        53.861177
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Tamms Weg\"",
+                  "text": "Locul de joacă „Tamms Weg” din Cuxhaven este un punct de atracție popular pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        8.723175,
+                        53.85098
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Brockeswalde",
+                  "text": "Terenul de minigolf Brockeswalde din Cuxhaven oferă bucuria jocului pentru întreaga familie, în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        8.654454,
+                        53.864057
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Philosophenweg\"",
+                  "text": "Locul de joacă „Philosophenweg” din Cuxhaven oferă copiilor un mediu variat pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.697345,
+                        53.85936
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Fröbelstraße\"",
+                  "text": "Locul de joacă „Fröbelstraße” din Cuxhaven este un loc primitor pentru copii și părinții lor.",
+                  "category": "family",
+                  "coords": [
+                        8.686214,
+                        53.860244
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "Locul de joacă Schlossgarten din Cuxhaven oferă un cadru istoric pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        8.693573,
+                        53.856521
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Grenzstraße\"",
+                  "text": "Locul de joacă „Grenzstraße” din Cuxhaven oferă copiilor spațiu pentru joaca împreună în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.684452,
+                        53.862781
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Küddow-/Warthestraße\"",
+                  "text": "Locul de joacă „Küddow-/Warthestraße” din Cuxhaven oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.680553,
+                        53.851068
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Matthias-Claudius-Weg\"",
+                  "text": "Locul de joacă „Matthias-Claudius-Weg” din Cuxhaven oferă o atmosferă plăcută pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.685719,
+                        53.854475
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"VOCO\"",
+                  "text": "Locul de joacă „VOCO” din Cuxhaven este un loc frumos pentru ca copiii să fie activi în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.701555,
+                        53.849055
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Alma-Rogge-Weg\"",
+                  "text": "Locul de joacă „Alma-Rogge-Weg” din Cuxhaven oferă spațiu de joacă într-o zonă rezidențială liniștită.",
+                  "category": "family",
+                  "coords": [
+                        8.675649,
+                        53.851102
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Katharina-von-Bora-Weg\"",
+                  "text": "Locul de joacă „Katharina-von-Bora-Weg” din Cuxhaven oferă copiilor o distracție variată.",
+                  "category": "family",
+                  "coords": [
+                        8.725153,
+                        53.839103
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Töpfers Weg\"",
+                  "text": "Locul de joacă „Töpfers Weg” din Cuxhaven invită la joacă și explorare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.688647,
+                        53.848384
+                  ]
+            },
+            {
+                  "name": "Spielplatz Siedelhof",
+                  "text": "Locul de joacă Siedelhof din Cuxhaven oferă un mediu prietenos pentru recreerea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        8.69168,
+                        53.850651
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Wasserwerk",
+                  "text": "Locul de joacă Am Wasserwerk din Cuxhaven oferă diversitate pentru tinerii vizitatori în natură.",
+                  "category": "family",
+                  "coords": [
+                        8.667849,
+                        53.851202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenweg",
+                  "text": "Locul de joacă Ulmenweg din Cuxhaven oferă copiilor diverse posibilități de joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.676341,
+                        53.848289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Carl-Schade-Weg",
+                  "text": "Locul de joacă Carl-Schade-Weg din Cuxhaven este un loc frumos pentru o după-amiază în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.667659,
+                        53.86171
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Wolfgang-Geiger-Ring\"",
+                  "text": "Locul de joacă „Wolfgang-Geiger-Ring” din Cuxhaven oferă spațiu pentru joaca activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.662633,
+                        53.829313
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Mittelstraße\"",
+                  "text": "Locul de joacă „Mittelstraße” din Cuxhaven oferă copiilor din oraș un loc pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.695229,
+                        53.867839
+                  ]
             }
       ],
       "en": [
@@ -5488,6 +11212,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.677555,
                         53.856324
+                  ]
+            },
+            {
+                  "name": "Gudendorfer See",
+                  "text": "The Gudendorfer See in Cuxhaven invites you to a relaxing stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.677677,
+                        53.795127
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "The fire water basin in Cuxhaven is a functional body of water that complements the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.644469,
+                        53.813697
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Brucknerstraße\"",
+                  "text": "The \"Brucknerstraße\" playground in Cuxhaven offers children various opportunities to play.",
+                  "category": "family",
+                  "coords": [
+                        8.691086,
+                        53.866639
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Eduard-Karstens-Weg\"",
+                  "text": "The \"Eduard-Karstens-Weg\" playground in Cuxhaven invites young visitors to romp around outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.724494,
+                        53.842232
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Schumannstraße\"",
+                  "text": "The \"Schumannstraße\" playground in Cuxhaven is a nice place for play and fun with the family.",
+                  "category": "family",
+                  "coords": [
+                        8.688616,
+                        53.86824
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Peter-Martens-Weg\"",
+                  "text": "The \"Peter-Martens-Weg\" playground in Cuxhaven offers a safe environment for children at play.",
+                  "category": "family",
+                  "coords": [
+                        8.72436,
+                        53.844125
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Franz-Rotter-Allee\"",
+                  "text": "The \"Franz-Rotter-Allee\" playground in Cuxhaven offers space for exercise and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        8.679373,
+                        53.861177
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Tamms Weg\"",
+                  "text": "The \"Tamms Weg\" playground in Cuxhaven is a popular spot for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        8.723175,
+                        53.85098
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Brockeswalde",
+                  "text": "The Brockeswalde miniature golf course in Cuxhaven offers playing fun for the whole family in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        8.654454,
+                        53.864057
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Philosophenweg\"",
+                  "text": "The \"Philosophenweg\" playground in Cuxhaven offers children a varied environment for play.",
+                  "category": "family",
+                  "coords": [
+                        8.697345,
+                        53.85936
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Fröbelstraße\"",
+                  "text": "The \"Fröbelstraße\" playground in Cuxhaven is an inviting place for children and their parents.",
+                  "category": "family",
+                  "coords": [
+                        8.686214,
+                        53.860244
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schlossgarten",
+                  "text": "The Schlossgarten playground in Cuxhaven offers a historical backdrop for children's play.",
+                  "category": "family",
+                  "coords": [
+                        8.693573,
+                        53.856521
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Grenzstraße\"",
+                  "text": "The \"Grenzstraße\" playground in Cuxhaven offers children space for playing together outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.684452,
+                        53.862781
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Küddow-/Warthestraße\"",
+                  "text": "The \"Küddow-/Warthestraße\" playground in Cuxhaven offers various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        8.680553,
+                        53.851068
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Matthias-Claudius-Weg\"",
+                  "text": "The \"Matthias-Claudius-Weg\" playground in Cuxhaven offers a pleasant atmosphere for families.",
+                  "category": "family",
+                  "coords": [
+                        8.685719,
+                        53.854475
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"VOCO\"",
+                  "text": "The \"VOCO\" playground in Cuxhaven is a nice place for children to be active outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.701555,
+                        53.849055
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Alma-Rogge-Weg\"",
+                  "text": "The \"Alma-Rogge-Weg\" playground in Cuxhaven offers space to romp around in a quiet residential area.",
+                  "category": "family",
+                  "coords": [
+                        8.675649,
+                        53.851102
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Katharina-von-Bora-Weg\"",
+                  "text": "The \"Katharina-von-Bora-Weg\" playground in Cuxhaven offers children diverse play fun.",
+                  "category": "family",
+                  "coords": [
+                        8.725153,
+                        53.839103
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Töpfers Weg\"",
+                  "text": "The \"Töpfers Weg\" playground in Cuxhaven invites you to play and discover outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.688647,
+                        53.848384
+                  ]
+            },
+            {
+                  "name": "Spielplatz Siedelhof",
+                  "text": "The Siedelhof playground in Cuxhaven offers a friendly environment for children's leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        8.69168,
+                        53.850651
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Wasserwerk",
+                  "text": "The Am Wasserwerk playground in Cuxhaven offers variety for young visitors in nature.",
+                  "category": "family",
+                  "coords": [
+                        8.667849,
+                        53.851202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenweg",
+                  "text": "The Ulmenweg playground in Cuxhaven offers children various opportunities for play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        8.676341,
+                        53.848289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Carl-Schade-Weg",
+                  "text": "The Carl-Schade-Weg playground in Cuxhaven is a nice place for a family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        8.667659,
+                        53.86171
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Wolfgang-Geiger-Ring\"",
+                  "text": "The \"Wolfgang-Geiger-Ring\" playground in Cuxhaven offers space for active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        8.662633,
+                        53.829313
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Mittelstraße\"",
+                  "text": "The \"Mittelstraße\" playground in Cuxhaven offers children in the city a place to play.",
+                  "category": "family",
+                  "coords": [
+                        8.695229,
+                        53.867839
                   ]
             }
       ]
@@ -5572,7 +11521,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Soestebad Cloppenburg",
                   "text": "Ein lokales Freizeitbad in Cloppenburg für Schwimmer und Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.048219,
                         52.847889
@@ -5619,7 +11568,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Soestebad Cloppenburg",
                   "text": "Helyi szabadidős fürdő Cloppenburgban úszók és családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.048219,
                         52.847889
@@ -5666,7 +11615,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Soestebad Cloppenburg",
                   "text": "O piscină locală de agrement în Cloppenburg pentru înotători și familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.048219,
                         52.847889
@@ -5713,7 +11662,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Soestebad Cloppenburg",
                   "text": "A local leisure pool in Cloppenburg for swimmers and families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.048219,
                         52.847889
@@ -5906,6 +11855,60 @@ export const germanyCitiesV2: POI[] = [
                         7.20451,
                         53.3648
                   ]
+            },
+            {
+                  "name": "Hieve - Kleines Meer",
+                  "text": "Ein See bei Emden, der als Naherholungsziel für Naturfreunde und Spaziergänger dient.",
+                  "category": "natural",
+                  "coords": [
+                        7.276419,
+                        53.412423
+                  ]
+            },
+            {
+                  "name": "Bansmeer",
+                  "text": "Dieser See in Emden bietet eine ruhige Umgebung für Beobachtungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        7.299833,
+                        53.370069
+                  ]
+            },
+            {
+                  "name": "Uphuser Meer",
+                  "text": "Ein Gewässer in Emden, das zu entspannten Stunden am Wasser und in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.276287,
+                        53.375392
+                  ]
+            },
+            {
+                  "name": "Kurze Uphuser Maar",
+                  "text": "Ein kleinerer See in Emden, der sich gut für einen ruhigen Spaziergang in der Umgebung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        7.271214,
+                        53.378551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Brauersgraben",
+                  "text": "Ein Spielplatz in Emden, auf dem Kinder in sicherer Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        7.20895,
+                        53.368378
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tileman-Wiarda-Str. Wolthusen",
+                  "text": "Ein Ort für Kinder in Emden, der Möglichkeiten zum Spielen und Klettern bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.228837,
+                        53.379247
+                  ]
             }
       ],
       "hu": [
@@ -5987,6 +11990,60 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.20451,
                         53.3648
+                  ]
+            },
+            {
+                  "name": "Hieve - Kleines Meer",
+                  "text": "Egy Emden környéki tó, amely pihenőhelyként szolgál a természetkedvelők és sétálók számára.",
+                  "category": "natural",
+                  "coords": [
+                        7.276419,
+                        53.412423
+                  ]
+            },
+            {
+                  "name": "Bansmeer",
+                  "text": "Ez az emdeni tó nyugodt környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        7.299833,
+                        53.370069
+                  ]
+            },
+            {
+                  "name": "Uphuser Meer",
+                  "text": "Egy emdeni vízfelület, amely pihentető órákra hív a vízparton és a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.276287,
+                        53.375392
+                  ]
+            },
+            {
+                  "name": "Kurze Uphuser Maar",
+                  "text": "Egy kisebb tó Emdenben, amely alkalmas egy csendes sétára a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        7.271214,
+                        53.378551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Brauersgraben",
+                  "text": "Egy emdeni játszótér, ahol a gyermekek biztonságos környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.20895,
+                        53.368378
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tileman-Wiarda-Str. Wolthusen",
+                  "text": "Egy emdeni helyszín gyermekeknek, amely játék- és mászólehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        7.228837,
+                        53.379247
                   ]
             }
       ],
@@ -6070,6 +12127,60 @@ export const germanyCitiesV2: POI[] = [
                         7.20451,
                         53.3648
                   ]
+            },
+            {
+                  "name": "Hieve - Kleines Meer",
+                  "text": "Un lac lângă Emden, care servește ca destinație de relaxare pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        7.276419,
+                        53.412423
+                  ]
+            },
+            {
+                  "name": "Bansmeer",
+                  "text": "Acest lac din Emden oferă un mediu liniștit pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.299833,
+                        53.370069
+                  ]
+            },
+            {
+                  "name": "Uphuser Meer",
+                  "text": "O întindere de apă în Emden care invită la ore de relaxare pe mal și în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.276287,
+                        53.375392
+                  ]
+            },
+            {
+                  "name": "Kurze Uphuser Maar",
+                  "text": "Un lac mai mic în Emden, potrivit pentru o plimbare liniștită în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        7.271214,
+                        53.378551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Brauersgraben",
+                  "text": "Un loc de joacă în Emden, unde copiii se pot juca într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        7.20895,
+                        53.368378
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tileman-Wiarda-Str. Wolthusen",
+                  "text": "O locație pentru copii în Emden, care oferă oportunități de joacă și cățărare.",
+                  "category": "family",
+                  "coords": [
+                        7.228837,
+                        53.379247
+                  ]
             }
       ],
       "en": [
@@ -6151,6 +12262,60 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.20451,
                         53.3648
+                  ]
+            },
+            {
+                  "name": "Hieve - Kleines Meer",
+                  "text": "A lake near Emden serving as a recreation destination for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        7.276419,
+                        53.412423
+                  ]
+            },
+            {
+                  "name": "Bansmeer",
+                  "text": "This lake in Emden provides a peaceful environment for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        7.299833,
+                        53.370069
+                  ]
+            },
+            {
+                  "name": "Uphuser Meer",
+                  "text": "A body of water in Emden inviting for relaxing hours by the water and in nature.",
+                  "category": "natural",
+                  "coords": [
+                        7.276287,
+                        53.375392
+                  ]
+            },
+            {
+                  "name": "Kurze Uphuser Maar",
+                  "text": "A smaller lake in Emden, suitable for a quiet walk in the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        7.271214,
+                        53.378551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Brauersgraben",
+                  "text": "A playground in Emden where children can play in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        7.20895,
+                        53.368378
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tileman-Wiarda-Str. Wolthusen",
+                  "text": "A spot for children in Emden offering opportunities for play and climbing.",
+                  "category": "family",
+                  "coords": [
+                        7.228837,
+                        53.379247
                   ]
             }
       ]
@@ -6295,6 +12460,105 @@ export const germanyCitiesV2: POI[] = [
                         8.24119,
                         48.763
                   ]
+            },
+            {
+                  "name": "Löschwasserrückhaltung",
+                  "text": "Die Löschwasserrückhaltung in Baden Baden ist ein Gewässer, das zur landschaftlichen Gestaltung beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        8.341443,
+                        48.775973
+                  ]
+            },
+            {
+                  "name": "Apachenland-Spielplatz",
+                  "text": "Der Apachenland-Spielplatz in Baden Baden bietet Kindern ein spannendes Gelände zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        8.231591,
+                        48.767953
+                  ]
+            },
+            {
+                  "name": "Sägmüllermatte",
+                  "text": "Der Spielplatz Sägmüllermatte in Baden Baden lädt zu Spiel und Bewegung an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        8.2565,
+                        48.738354
+                  ]
+            },
+            {
+                  "name": "Paris",
+                  "text": "Der Spielplatz Paris in Baden Baden bietet Kindern Raum für fantasievolles Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.20448,
+                        48.779078
+                  ]
+            },
+            {
+                  "name": "Ooswinkel",
+                  "text": "Der Spielplatz Ooswinkel in Baden Baden ist ein schöner Treffpunkt für Familien in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        8.213918,
+                        48.775875
+                  ]
+            },
+            {
+                  "name": "Bolzplatz Steinbruch Hardberg",
+                  "text": "Ein Bolzplatz in Baden-Baden, der Kindern und Jugendlichen Raum für sportliche Aktivitäten im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.22224,
+                        48.781688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Winzerstraße",
+                  "text": "Ein schöner Spielplatz in Baden-Baden, der Kindern vielfältige Möglichkeiten zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.215663,
+                        48.781676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Draseiert",
+                  "text": "Dieser Spielplatz in Baden-Baden bietet eine sichere Umgebung für Kinder zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.211605,
+                        48.784533
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebersteinburg",
+                  "text": "Ein familienfreundlicher Spielplatz in Baden-Baden, ideal für eine kleine Auszeit mit Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.271128,
+                        48.778985
+                  ]
+            },
+            {
+                  "name": "Spielplatz Langenäcker",
+                  "text": "Der Spielplatz in Baden-Baden lädt Kinder zum Klettern und Spielen an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        8.275839,
+                        48.775565
+                  ]
+            },
+            {
+                  "name": "Reise um die Welt",
+                  "text": "Ein abwechslungsreicher Spielplatz in Baden-Baden, der Kindern Raum für kreatives Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.212656,
+                        48.779693
+                  ]
             }
       ],
       "hu": [
@@ -6386,6 +12650,105 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.24119,
                         48.763
+                  ]
+            },
+            {
+                  "name": "Löschwasserrückhaltung",
+                  "text": "A Baden Baden-i Löschwasserrückhaltung egy vízfelület, amely hozzájárul a táj képéhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.341443,
+                        48.775973
+                  ]
+            },
+            {
+                  "name": "Apachenland-Spielplatz",
+                  "text": "A Baden Baden-i Apachenland játszótér izgalmas terepet kínál a gyerekeknek a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.231591,
+                        48.767953
+                  ]
+            },
+            {
+                  "name": "Sägmüllermatte",
+                  "text": "A Baden Baden-i Sägmüllermatte játszótér játékra és mozgásra hív a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        8.2565,
+                        48.738354
+                  ]
+            },
+            {
+                  "name": "Paris",
+                  "text": "A Baden Baden-i Paris játszótér helyet biztosít a gyerekeknek az ötletes szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.20448,
+                        48.779078
+                  ]
+            },
+            {
+                  "name": "Ooswinkel",
+                  "text": "A Baden Baden-i Ooswinkel játszótér kellemes találkozóhely a családoknak a természetben.",
+                  "category": "family",
+                  "coords": [
+                        8.213918,
+                        48.775875
+                  ]
+            },
+            {
+                  "name": "Bolzplatz Steinbruch Hardberg",
+                  "text": "Egy Baden-Baden-i focipálya, amely szabadtéri sportolási lehetőséget nyújt a gyermekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        8.22224,
+                        48.781688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Winzerstraße",
+                  "text": "Egy szép játszótér Baden-Badenben, amely változatos játék- és felfedezési lehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.215663,
+                        48.781676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Draseiert",
+                  "text": "Ez a Baden-Baden-i játszótér biztonságos környezetet biztosít a gyerekeknek a játékhoz és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.211605,
+                        48.784533
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebersteinburg",
+                  "text": "Egy családbarát játszótér Baden-Badenben, amely ideális egy kis szabadtéri kikapcsolódáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.271128,
+                        48.778985
+                  ]
+            },
+            {
+                  "name": "Spielplatz Langenäcker",
+                  "text": "A Baden-Baden-i játszótér mászásra és játékra hívja a gyerekeket a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        8.275839,
+                        48.775565
+                  ]
+            },
+            {
+                  "name": "Reise um die Welt",
+                  "text": "Egy változatos játszótér Baden-Badenben, amely teret ad a gyerekeknek a kreatív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.212656,
+                        48.779693
                   ]
             }
       ],
@@ -6479,6 +12842,105 @@ export const germanyCitiesV2: POI[] = [
                         8.24119,
                         48.763
                   ]
+            },
+            {
+                  "name": "Löschwasserrückhaltung",
+                  "text": "Rezervorul de apă pentru incendii din Baden Baden este un corp de apă care contribuie la amenajarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        8.341443,
+                        48.775973
+                  ]
+            },
+            {
+                  "name": "Apachenland-Spielplatz",
+                  "text": "Locul de joacă Apachenland din Baden Baden oferă copiilor un teren captivant de explorat.",
+                  "category": "family",
+                  "coords": [
+                        8.231591,
+                        48.767953
+                  ]
+            },
+            {
+                  "name": "Sägmüllermatte",
+                  "text": "Locul de joacă Sägmüllermatte din Baden Baden invită la joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.2565,
+                        48.738354
+                  ]
+            },
+            {
+                  "name": "Paris",
+                  "text": "Locul de joacă Paris din Baden Baden oferă copiilor spațiu pentru joaca plină de imaginație în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.20448,
+                        48.779078
+                  ]
+            },
+            {
+                  "name": "Ooswinkel",
+                  "text": "Locul de joacă Ooswinkel din Baden Baden este un punct de întâlnire frumos pentru familii în natură.",
+                  "category": "family",
+                  "coords": [
+                        8.213918,
+                        48.775875
+                  ]
+            },
+            {
+                  "name": "Bolzplatz Steinbruch Hardberg",
+                  "text": "Un teren de fotbal în Baden-Baden, care oferă copiilor și tinerilor spațiu pentru activități sportive în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.22224,
+                        48.781688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Winzerstraße",
+                  "text": "Un loc de joacă frumos în Baden-Baden, care oferă copiilor numeroase posibilități de joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        8.215663,
+                        48.781676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Draseiert",
+                  "text": "Acest loc de joacă din Baden-Baden oferă un mediu sigur pentru copii, unde aceștia se pot juca în voie.",
+                  "category": "family",
+                  "coords": [
+                        8.211605,
+                        48.784533
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebersteinburg",
+                  "text": "Un loc de joacă primitor în Baden-Baden, ideal pentru o mică pauză în aer liber alături de copii.",
+                  "category": "family",
+                  "coords": [
+                        8.271128,
+                        48.778985
+                  ]
+            },
+            {
+                  "name": "Spielplatz Langenäcker",
+                  "text": "Locul de joacă din Baden-Baden îi invită pe copii la cățărat și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.275839,
+                        48.775565
+                  ]
+            },
+            {
+                  "name": "Reise um die Welt",
+                  "text": "Un loc de joacă diversificat în Baden-Baden, care oferă copiilor spațiu pentru jocuri creative.",
+                  "category": "family",
+                  "coords": [
+                        8.212656,
+                        48.779693
+                  ]
             }
       ],
       "en": [
@@ -6570,6 +13032,105 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.24119,
                         48.763
+                  ]
+            },
+            {
+                  "name": "Löschwasserrückhaltung",
+                  "text": "The fire water retention basin in Baden Baden is a body of water that contributes to the landscape design.",
+                  "category": "natural",
+                  "coords": [
+                        8.341443,
+                        48.775973
+                  ]
+            },
+            {
+                  "name": "Apachenland-Spielplatz",
+                  "text": "The Apachenland playground in Baden Baden offers children an exciting terrain to explore.",
+                  "category": "family",
+                  "coords": [
+                        8.231591,
+                        48.767953
+                  ]
+            },
+            {
+                  "name": "Sägmüllermatte",
+                  "text": "The Sägmüllermatte playground in Baden Baden invites you to play and exercise in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        8.2565,
+                        48.738354
+                  ]
+            },
+            {
+                  "name": "Paris",
+                  "text": "The Paris playground in Baden Baden offers children space for imaginative outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        8.20448,
+                        48.779078
+                  ]
+            },
+            {
+                  "name": "Ooswinkel",
+                  "text": "The Ooswinkel playground in Baden Baden is a lovely meeting point for families in nature.",
+                  "category": "family",
+                  "coords": [
+                        8.213918,
+                        48.775875
+                  ]
+            },
+            {
+                  "name": "Bolzplatz Steinbruch Hardberg",
+                  "text": "A football pitch in Baden-Baden that offers children and teenagers space for outdoor sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        8.22224,
+                        48.781688
+                  ]
+            },
+            {
+                  "name": "Spielplatz Winzerstraße",
+                  "text": "A nice playground in Baden-Baden that offers children various opportunities for playing and exploring.",
+                  "category": "family",
+                  "coords": [
+                        8.215663,
+                        48.781676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Draseiert",
+                  "text": "This playground in Baden-Baden provides a safe environment for children to run around and play.",
+                  "category": "family",
+                  "coords": [
+                        8.211605,
+                        48.784533
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebersteinburg",
+                  "text": "A family-friendly playground in Baden-Baden, ideal for a short break outdoors with children.",
+                  "category": "family",
+                  "coords": [
+                        8.271128,
+                        48.778985
+                  ]
+            },
+            {
+                  "name": "Spielplatz Langenäcker",
+                  "text": "The playground in Baden-Baden invites children to climb and play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        8.275839,
+                        48.775565
+                  ]
+            },
+            {
+                  "name": "Reise um die Welt",
+                  "text": "A varied playground in Baden-Baden that offers children space for creative play.",
+                  "category": "family",
+                  "coords": [
+                        8.212656,
+                        48.779693
                   ]
             }
       ]
@@ -6743,7 +13304,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Freibad Storchennest",
                   "text": "Beliebtes Freibad in Arnsberg mit verschiedenen Schwimmbecken und Liegewiesen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.068344,
                         51.380358
@@ -6887,7 +13448,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Freibad Storchennest",
                   "text": "Népszerű szabadtéri strand Arnsbergben medencékkel és napozóterületekkel a családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.068344,
                         51.380358
@@ -7031,7 +13592,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Freibad Storchennest",
                   "text": "Ștrand public popular în Arnsberg, dotat cu bazine de înot și zone de plajă pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.068344,
                         51.380358
@@ -7175,7 +13736,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Freibad Storchennest",
                   "text": "A popular outdoor swimming pool in Arnsberg with various basins and sunbathing lawns for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.068344,
                         51.380358
@@ -7285,6 +13846,87 @@ export const germanyCitiesV2: POI[] = [
                         6.774689,
                         51.103831
                   ]
+            },
+            {
+                  "name": "Hitdorfer See",
+                  "text": "Ein See in Dormagen, der sich gut für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.930828,
+                        51.072811
+                  ]
+            },
+            {
+                  "name": "Stöckenbergsee",
+                  "text": "Ein ruhiger See in Dormagen, ideal für Erholungssuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.935772,
+                        51.069887
+                  ]
+            },
+            {
+                  "name": "Blaue Donau",
+                  "text": "Dieses Gewässer in Dormagen bietet eine malerische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        6.932302,
+                        51.078762
+                  ]
+            },
+            {
+                  "name": "Schlupkotensee",
+                  "text": "Ein See in der Umgebung von Dormagen, der zu einer kleinen Auszeit im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.897229,
+                        51.158394
+                  ]
+            },
+            {
+                  "name": "Hasselrather See",
+                  "text": "Ein lokaler See in Dormagen, der eine entspannte Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.800073,
+                        51.035762
+                  ]
+            },
+            {
+                  "name": "Straberg-Nievenheimer See",
+                  "text": "Ein bekannter See in Dormagen, der Möglichkeiten zur Freizeitgestaltung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.781309,
+                        51.102038
+                  ]
+            },
+            {
+                  "name": "Am Blankenwasser",
+                  "text": "Ein See bei Dormagen, der sich durch seine ruhige Lage auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        6.765147,
+                        51.159795
+                  ]
+            },
+            {
+                  "name": "Buschbergsee",
+                  "text": "Dieses Gewässer in Dormagen ist ein Ziel für Spaziergänger und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        6.915071,
+                        51.072381
+                  ]
+            },
+            {
+                  "name": "Zehntgasse",
+                  "text": "Ein Spielplatz in Dormagen, der Kindern einen sicheren Ort zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.850168,
+                        51.120922
+                  ]
             }
       ],
       "hu": [
@@ -7367,6 +14009,87 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.774689,
                         51.103831
+                  ]
+            },
+            {
+                  "name": "Hitdorfer See",
+                  "text": "Egy Dormagenben található tó, amely alkalmas parti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        6.930828,
+                        51.072811
+                  ]
+            },
+            {
+                  "name": "Stöckenbergsee",
+                  "text": "Csendes tó Dormagenben, ideális a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.935772,
+                        51.069887
+                  ]
+            },
+            {
+                  "name": "Blaue Donau",
+                  "text": "Ez a dormageni vízfelület festői környezetet kínál a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        6.932302,
+                        51.078762
+                  ]
+            },
+            {
+                  "name": "Schlupkotensee",
+                  "text": "Dormagen környéki tó, amely egy kis zöldövezeti kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.897229,
+                        51.158394
+                  ]
+            },
+            {
+                  "name": "Hasselrather See",
+                  "text": "Egy helyi tó Dormagenben, amely pihentető hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        6.800073,
+                        51.035762
+                  ]
+            },
+            {
+                  "name": "Straberg-Nievenheimer See",
+                  "text": "Ismert tó Dormagenben, amely szabadidős lehetőségeket kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.781309,
+                        51.102038
+                  ]
+            },
+            {
+                  "name": "Am Blankenwasser",
+                  "text": "Dormagen közeli tó, amelyet csendes elhelyezkedése jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        6.765147,
+                        51.159795
+                  ]
+            },
+            {
+                  "name": "Buschbergsee",
+                  "text": "Ez a dormageni vízfelület a sétálók és pihenni vágyók célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        6.915071,
+                        51.072381
+                  ]
+            },
+            {
+                  "name": "Zehntgasse",
+                  "text": "Játszótér Dormagenben, amely biztonságos helyet nyújt a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.850168,
+                        51.120922
                   ]
             }
       ],
@@ -7451,6 +14174,87 @@ export const germanyCitiesV2: POI[] = [
                         6.774689,
                         51.103831
                   ]
+            },
+            {
+                  "name": "Hitdorfer See",
+                  "text": "Un lac în Dormagen, potrivit pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        6.930828,
+                        51.072811
+                  ]
+            },
+            {
+                  "name": "Stöckenbergsee",
+                  "text": "Un lac liniștit în Dormagen, ideal pentru cei care caută relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.935772,
+                        51.069887
+                  ]
+            },
+            {
+                  "name": "Blaue Donau",
+                  "text": "Această întindere de apă din Dormagen oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.932302,
+                        51.078762
+                  ]
+            },
+            {
+                  "name": "Schlupkotensee",
+                  "text": "Un lac în zona Dormagen, care invită la o mică pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.897229,
+                        51.158394
+                  ]
+            },
+            {
+                  "name": "Hasselrather See",
+                  "text": "Un lac local în Dormagen, care oferă o atmosferă relaxată lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        6.800073,
+                        51.035762
+                  ]
+            },
+            {
+                  "name": "Straberg-Nievenheimer See",
+                  "text": "Un lac cunoscut în Dormagen, care oferă posibilități de petrecere a timpului liber în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.781309,
+                        51.102038
+                  ]
+            },
+            {
+                  "name": "Am Blankenwasser",
+                  "text": "Un lac lângă Dormagen, caracterizat prin locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        6.765147,
+                        51.159795
+                  ]
+            },
+            {
+                  "name": "Buschbergsee",
+                  "text": "Această întindere de apă din Dormagen este o destinație pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.915071,
+                        51.072381
+                  ]
+            },
+            {
+                  "name": "Zehntgasse",
+                  "text": "Un loc de joacă în Dormagen, care oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.850168,
+                        51.120922
+                  ]
             }
       ],
       "en": [
@@ -7533,6 +14337,87 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.774689,
                         51.103831
+                  ]
+            },
+            {
+                  "name": "Hitdorfer See",
+                  "text": "A lake in Dormagen suitable for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        6.930828,
+                        51.072811
+                  ]
+            },
+            {
+                  "name": "Stöckenbergsee",
+                  "text": "A quiet lake in Dormagen, ideal for those seeking relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.935772,
+                        51.069887
+                  ]
+            },
+            {
+                  "name": "Blaue Donau",
+                  "text": "This body of water in Dormagen offers a scenic backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.932302,
+                        51.078762
+                  ]
+            },
+            {
+                  "name": "Schlupkotensee",
+                  "text": "A lake in the Dormagen area, inviting for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        6.897229,
+                        51.158394
+                  ]
+            },
+            {
+                  "name": "Hasselrather See",
+                  "text": "A local lake in Dormagen offering a relaxed atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.800073,
+                        51.035762
+                  ]
+            },
+            {
+                  "name": "Straberg-Nievenheimer See",
+                  "text": "A well-known lake in Dormagen offering opportunities for leisure activities in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.781309,
+                        51.102038
+                  ]
+            },
+            {
+                  "name": "Am Blankenwasser",
+                  "text": "A lake near Dormagen characterized by its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        6.765147,
+                        51.159795
+                  ]
+            },
+            {
+                  "name": "Buschbergsee",
+                  "text": "This body of water in Dormagen is a destination for walkers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        6.915071,
+                        51.072381
+                  ]
+            },
+            {
+                  "name": "Zehntgasse",
+                  "text": "A playground in Dormagen offering children a safe place to play.",
+                  "category": "family",
+                  "coords": [
+                        6.850168,
+                        51.120922
                   ]
             }
       ]
@@ -7671,7 +14556,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "Ein Tiergehege am Landshuter Hofberg, in dem vorwiegend heimische Wildtierarten beobachtet werden können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.159528,
                         48.532577
@@ -7720,6 +14605,123 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.17158,
                         48.524337
+                  ]
+            },
+            {
+                  "name": "Badeplatz Jenkofen",
+                  "text": "Ein malerischer See bei Landshut, der zu entspannten Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.239909,
+                        48.531481
+                  ]
+            },
+            {
+                  "name": "Echinger Stausee",
+                  "text": "Der Echinger Stausee bei Landshut bietet eine ruhige Umgebung für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        12.045726,
+                        48.503403
+                  ]
+            },
+            {
+                  "name": "Stausee Altheim",
+                  "text": "Ein schöner Stausee in der Region Landshut, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.202511,
+                        48.573668
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtpark Ost",
+                  "text": "Ein zentral gelegener Spielplatz in Landshut, der Kindern viel Platz zum Spielen im Grünen bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.145833,
+                        48.538902
+                  ]
+            },
+            {
+                  "name": "Hofgarten Spielplatz",
+                  "text": "Dieser Spielplatz in Landshut ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        12.15941,
+                        48.530783
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mühleninsel",
+                  "text": "Ein liebevoll gestalteter Spielplatz in Landshut, der zum Toben und Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        12.149373,
+                        48.53796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterwöhr",
+                  "text": "Der Spielplatz in Landshut bietet abwechslungsreiche Spielgeräte für verschiedene Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        12.172738,
+                        48.552005
+                  ]
+            },
+            {
+                  "name": "Spielplatz Roseggerstraße",
+                  "text": "Ein schöner Ort für Kinder in Landshut, um sich an der frischen Luft zu bewegen.",
+                  "category": "family",
+                  "coords": [
+                        12.150331,
+                        48.517779
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenstraße",
+                  "text": "Dieser Spielplatz in Landshut bietet Kindern Raum für Bewegung und gemeinsame Erlebnisse.",
+                  "category": "family",
+                  "coords": [
+                        12.131348,
+                        48.550933
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kirschenstraße",
+                  "text": "Ein gepflegter Spielplatz in Landshut, auf dem Kinder in einer sicheren Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        12.154785,
+                        48.510365
+                  ]
+            },
+            {
+                  "name": "Spielplatz Milanstraße",
+                  "text": "Ein familienfreundlicher Spielplatz in Landshut, ideal für einen Ausflug am Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        12.134062,
+                        48.519927
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hofangerweg",
+                  "text": "Der Spielplatz in Landshut lädt Kinder dazu ein, draußen zu spielen und aktiv zu sein.",
+                  "category": "family",
+                  "coords": [
+                        12.137064,
+                        48.543054
+                  ]
+            },
+            {
+                  "name": "Sonnblickweg",
+                  "text": "Ein schöner Spielplatz in Landshut, der Kindern vielfältige Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.136154,
+                        48.531398
                   ]
             }
       ],
@@ -7808,7 +14810,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "Vadaspark a landshuti Hofberg oldalában, ahol főként hazai vadon élő állatfajok láthatók.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.159528,
                         48.532577
@@ -7857,6 +14859,123 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.17158,
                         48.524337
+                  ]
+            },
+            {
+                  "name": "Badeplatz Jenkofen",
+                  "text": "Egy festői tó Landshut közelében, amely pihentető sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.239909,
+                        48.531481
+                  ]
+            },
+            {
+                  "name": "Echinger Stausee",
+                  "text": "Az Echinger-víztározó Landshut közelében nyugodt környezetet biztosít a természet megfigyeléséhez és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        12.045726,
+                        48.503403
+                  ]
+            },
+            {
+                  "name": "Stausee Altheim",
+                  "text": "Egy szép víztározó Landshut térségében, amely ideális egy természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.202511,
+                        48.573668
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtpark Ost",
+                  "text": "Egy központi fekvésű játszótér Landshutban, amely sok helyet biztosít a gyerekeknek a zöldben való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.145833,
+                        48.538902
+                  ]
+            },
+            {
+                  "name": "Hofgarten Spielplatz",
+                  "text": "Ez a landshuti játszótér kedvelt találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.15941,
+                        48.530783
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mühleninsel",
+                  "text": "Egy kedvesen kialakított játszótér Landshutban, amely hancúrozásra és pihenésre hív.",
+                  "category": "family",
+                  "coords": [
+                        12.149373,
+                        48.53796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterwöhr",
+                  "text": "A landshuti játszótér változatos játékokat kínál a különböző korosztályok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.172738,
+                        48.552005
+                  ]
+            },
+            {
+                  "name": "Spielplatz Roseggerstraße",
+                  "text": "Egy szép hely Landshutban a gyerekeknek a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.150331,
+                        48.517779
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenstraße",
+                  "text": "Ez a landshuti játszótér teret ad a gyerekeknek a mozgáshoz és a közös élményekhez.",
+                  "category": "family",
+                  "coords": [
+                        12.131348,
+                        48.550933
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kirschenstraße",
+                  "text": "Egy gondozott játszótér Landshutban, ahol a gyerekek biztonságos környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.154785,
+                        48.510365
+                  ]
+            },
+            {
+                  "name": "Spielplatz Milanstraße",
+                  "text": "Egy családbarát játszótér Landshutban, amely ideális egy délutáni kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.134062,
+                        48.519927
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hofangerweg",
+                  "text": "A landshuti játszótér szabadtéri játékra és aktív kikapcsolódásra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        12.137064,
+                        48.543054
+                  ]
+            },
+            {
+                  "name": "Sonnblickweg",
+                  "text": "Egy szép játszótér Landshutban, amely változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.136154,
+                        48.531398
                   ]
             }
       ],
@@ -7945,7 +15064,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "O rezervație de animale pe dealul Hofberg din Landshut, unde pot fi observate specii locale de animale sălbatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.159528,
                         48.532577
@@ -7994,6 +15113,123 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.17158,
                         48.524337
+                  ]
+            },
+            {
+                  "name": "Badeplatz Jenkofen",
+                  "text": "Un lac pitoresc lângă Landshut, care invită la plimbări relaxante în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.239909,
+                        48.531481
+                  ]
+            },
+            {
+                  "name": "Echinger Stausee",
+                  "text": "Lacul de acumulare Echinger de lângă Landshut oferă un mediu liniștit pentru observarea naturii și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.045726,
+                        48.503403
+                  ]
+            },
+            {
+                  "name": "Stausee Altheim",
+                  "text": "Un lac de acumulare frumos în regiunea Landshut, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.202511,
+                        48.573668
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtpark Ost",
+                  "text": "Un loc de joacă situat central în Landshut, care oferă copiilor mult spațiu de joacă în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        12.145833,
+                        48.538902
+                  ]
+            },
+            {
+                  "name": "Hofgarten Spielplatz",
+                  "text": "Acest loc de joacă din Landshut este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        12.15941,
+                        48.530783
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mühleninsel",
+                  "text": "Un loc de joacă amenajat cu grijă în Landshut, care invită la joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        12.149373,
+                        48.53796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterwöhr",
+                  "text": "Locul de joacă din Landshut oferă echipamente de joacă variate pentru diferite grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        12.172738,
+                        48.552005
+                  ]
+            },
+            {
+                  "name": "Spielplatz Roseggerstraße",
+                  "text": "Un loc frumos în Landshut unde copiii pot face mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.150331,
+                        48.517779
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenstraße",
+                  "text": "Acest loc de joacă din Landshut oferă copiilor spațiu pentru mișcare și experiențe comune.",
+                  "category": "family",
+                  "coords": [
+                        12.131348,
+                        48.550933
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kirschenstraße",
+                  "text": "Un loc de joacă bine întreținut în Landshut, unde copiii se pot juca într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        12.154785,
+                        48.510365
+                  ]
+            },
+            {
+                  "name": "Spielplatz Milanstraße",
+                  "text": "Un loc de joacă primitor în Landshut, ideal pentru o ieșire după-amiaza.",
+                  "category": "family",
+                  "coords": [
+                        12.134062,
+                        48.519927
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hofangerweg",
+                  "text": "Locul de joacă din Landshut îi invită pe copii să se joace afară și să fie activi.",
+                  "category": "family",
+                  "coords": [
+                        12.137064,
+                        48.543054
+                  ]
+            },
+            {
+                  "name": "Sonnblickweg",
+                  "text": "Un loc de joacă frumos în Landshut, care oferă copiilor numeroase posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.136154,
+                        48.531398
                   ]
             }
       ],
@@ -8082,7 +15318,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "An animal enclosure on Landshut's Hofberg where visitors can observe mainly native wildlife species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.159528,
                         48.532577
@@ -8131,6 +15367,123 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.17158,
                         48.524337
+                  ]
+            },
+            {
+                  "name": "Badeplatz Jenkofen",
+                  "text": "A picturesque lake near Landshut that invites for relaxed walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.239909,
+                        48.531481
+                  ]
+            },
+            {
+                  "name": "Echinger Stausee",
+                  "text": "The Echinger reservoir near Landshut offers a quiet environment for nature observation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        12.045726,
+                        48.503403
+                  ]
+            },
+            {
+                  "name": "Stausee Altheim",
+                  "text": "A beautiful reservoir in the Landshut region, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.202511,
+                        48.573668
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stadtpark Ost",
+                  "text": "A centrally located playground in Landshut that offers children plenty of space to play in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        12.145833,
+                        48.538902
+                  ]
+            },
+            {
+                  "name": "Hofgarten Spielplatz",
+                  "text": "This playground in Landshut is a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        12.15941,
+                        48.530783
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mühleninsel",
+                  "text": "A lovingly designed playground in Landshut that invites children to play and linger.",
+                  "category": "family",
+                  "coords": [
+                        12.149373,
+                        48.53796
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterwöhr",
+                  "text": "The playground in Landshut offers varied play equipment for different age groups.",
+                  "category": "family",
+                  "coords": [
+                        12.172738,
+                        48.552005
+                  ]
+            },
+            {
+                  "name": "Spielplatz Roseggerstraße",
+                  "text": "A nice place for children in Landshut to get active in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        12.150331,
+                        48.517779
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ulmenstraße",
+                  "text": "This playground in Landshut offers children space for movement and shared experiences.",
+                  "category": "family",
+                  "coords": [
+                        12.131348,
+                        48.550933
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kirschenstraße",
+                  "text": "A well-maintained playground in Landshut where children can play in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        12.154785,
+                        48.510365
+                  ]
+            },
+            {
+                  "name": "Spielplatz Milanstraße",
+                  "text": "A family-friendly playground in Landshut, ideal for an afternoon outing.",
+                  "category": "family",
+                  "coords": [
+                        12.134062,
+                        48.519927
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hofangerweg",
+                  "text": "The playground in Landshut invites children to play outside and be active.",
+                  "category": "family",
+                  "coords": [
+                        12.137064,
+                        48.543054
+                  ]
+            },
+            {
+                  "name": "Sonnblickweg",
+                  "text": "A nice playground in Landshut that offers children various play options.",
+                  "category": "family",
+                  "coords": [
+                        12.136154,
+                        48.531398
                   ]
             }
       ]
@@ -8215,7 +15568,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Strandbad Gifiz",
                   "text": "Ein beliebtes Freibad am Gifizsee mit Liegewiesen und Sportmöglichkeiten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.936806,
                         48.457506
@@ -8265,6 +15618,231 @@ export const germanyCitiesV2: POI[] = [
                         7.891203,
                         48.462715
                   ]
+            },
+            {
+                  "name": "Gifiz-See",
+                  "text": "Der Gifiz-See in Offenburg lädt zu Spaziergängen und zur Erholung in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        7.938608,
+                        48.452924
+                  ]
+            },
+            {
+                  "name": "Möschlesee",
+                  "text": "Ein ruhiger See in Offenburg, ideal für eine kleine Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        7.966357,
+                        48.432577
+                  ]
+            },
+            {
+                  "name": "Pappelwaldsee",
+                  "text": "Der Pappelwaldsee in Offenburg bietet eine idyllische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        7.981332,
+                        48.416527
+                  ]
+            },
+            {
+                  "name": "Schlossblicksee",
+                  "text": "Ein See in Offenburg, der zu ruhigen Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.963883,
+                        48.438257
+                  ]
+            },
+            {
+                  "name": "Angelsee Weier",
+                  "text": "Ein Angelsee in Offenburg in einer entspannten natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        7.917812,
+                        48.505367
+                  ]
+            },
+            {
+                  "name": "Königswaldsee",
+                  "text": "Der Königswaldsee in Offenburg ist ein schöner Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        7.918853,
+                        48.446384
+                  ]
+            },
+            {
+                  "name": "Burgerwaldsee",
+                  "text": "Ein Waldsee in Offenburg, ideal für erholsame Spaziergänge unter Bäumen.",
+                  "category": "natural",
+                  "coords": [
+                        7.90794,
+                        48.459001
+                  ]
+            },
+            {
+                  "name": "Schutterwälder Baggersee",
+                  "text": "Der Schutterwälder Baggersee bei Offenburg lädt zur Erholung am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        7.887535,
+                        48.466755
+                  ]
+            },
+            {
+                  "name": "Spielplatz Franz-Volk-Park",
+                  "text": "Ein zentraler Spielplatz im Franz-Volk-Park in Offenburg für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.943525,
+                        48.477746
+                  ]
+            },
+            {
+                  "name": "Gustav-Rée-Anlage",
+                  "text": "Ein Spielplatz in der Gustav-Rée-Anlage in Offenburg für Spielpausen in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        7.946102,
+                        48.471577
+                  ]
+            },
+            {
+                  "name": "Spielplatz Augustaplatz",
+                  "text": "Ein familienfreundlicher Spielplatz am Augustaplatz in Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.951843,
+                        48.469553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Damaschkeweg",
+                  "text": "Ein Spielplatz am Damaschkeweg in Offenburg, ideal für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        7.951986,
+                        48.47728
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebertplatz",
+                  "text": "Ein Spielplatz am Ebertplatz in Offenburg für täglichen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        7.953091,
+                        48.475526
+                  ]
+            },
+            {
+                  "name": "Spielplatz Dreifaltigkeitskirche",
+                  "text": "Ein Spielplatz an der Dreifaltigkeitskirche in Offenburg für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.949301,
+                        48.470757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brachfeldstraße",
+                  "text": "Ein kleiner Spielplatz in der Brachfeldstraße in Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.959009,
+                        48.47008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tagmess",
+                  "text": "Ein Spielplatz im Bereich Tagmess in Offenburg für Kinder zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        7.959927,
+                        48.474073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rindfleischgrund",
+                  "text": "Ein familienfreundlicher Spielplatz am Rindfleischgrund in Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.966471,
+                        48.47299
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lonsstraße",
+                  "text": "Ein Spielplatz in der Lonsstraße in Offenburg für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        7.96208,
+                        48.47708
+                  ]
+            },
+            {
+                  "name": "Spielplatz Otto-Kähni-Weg",
+                  "text": "Ein Spielplatz am Otto-Kähni-Weg in Offenburg für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        7.952176,
+                        48.471374
+                  ]
+            },
+            {
+                  "name": "Gifiz-Süd",
+                  "text": "Ein Spielplatz im Bereich Gifiz-Süd in Offenburg in Seenähe.",
+                  "category": "family",
+                  "coords": [
+                        7.942448,
+                        48.449144
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Straße",
+                  "text": "Ein Spielplatz in der Berliner Straße in Offenburg für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.925586,
+                        48.46326
+                  ]
+            },
+            {
+                  "name": "Kleinkindsandspielbereich",
+                  "text": "Ein Sandspielbereich für Kleinkinder in Offenburg für sicheres Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.945117,
+                        48.465711
+                  ]
+            },
+            {
+                  "name": "Kletterwand",
+                  "text": "Eine Kletterwand in Offenburg, die Kindern sportliche Herausforderungen bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.944096,
+                        48.466866
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badstraße/Mühlbach",
+                  "text": "Ein Spielplatz an der Badstraße/Mühlbach in Offenburg am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        7.942554,
+                        48.465956
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nordweststadt Theodor-Heuss-Realschule",
+                  "text": "Ein Spielplatz an der Theodor-Heuss-Realschule in Offenburg für Schüler und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.938438,
+                        48.478935
+                  ]
             }
       ],
       "hu": [
@@ -8298,7 +15876,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Strandbad Gifiz",
                   "text": "Népszerű szabadtéri strand a Gifiz-tónál, napozópázsittal és sportolási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.936806,
                         48.457506
@@ -8348,6 +15926,231 @@ export const germanyCitiesV2: POI[] = [
                         7.891203,
                         48.462715
                   ]
+            },
+            {
+                  "name": "Gifiz-See",
+                  "text": "Az offenburgi Gifiz-See pihentető sétákra és kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.938608,
+                        48.452924
+                  ]
+            },
+            {
+                  "name": "Möschlesee",
+                  "text": "Csendes tó Offenburgban, ideális egy kis kikapcsolódáshoz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        7.966357,
+                        48.432577
+                  ]
+            },
+            {
+                  "name": "Pappelwaldsee",
+                  "text": "Az offenburgi Pappelwaldsee idilli környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        7.981332,
+                        48.416527
+                  ]
+            },
+            {
+                  "name": "Schlossblicksee",
+                  "text": "Tó Offenburgban, amely nyugodt percekre hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        7.963883,
+                        48.438257
+                  ]
+            },
+            {
+                  "name": "Angelsee Weier",
+                  "text": "Horgásztó Offenburgban, pihentető természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.917812,
+                        48.505367
+                  ]
+            },
+            {
+                  "name": "Königswaldsee",
+                  "text": "Az offenburgi Königswaldsee szép hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        7.918853,
+                        48.446384
+                  ]
+            },
+            {
+                  "name": "Burgerwaldsee",
+                  "text": "Erdei tó Offenburgban, ideális pihentető sétákhoz a fák alatt.",
+                  "category": "natural",
+                  "coords": [
+                        7.90794,
+                        48.459001
+                  ]
+            },
+            {
+                  "name": "Schutterwälder Baggersee",
+                  "text": "Az Offenburg melletti Schutterwälder Baggersee kikapcsolódásra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        7.887535,
+                        48.466755
+                  ]
+            },
+            {
+                  "name": "Spielplatz Franz-Volk-Park",
+                  "text": "Központi játszótér az offenburgi Franz-Volk-Parkban gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.943525,
+                        48.477746
+                  ]
+            },
+            {
+                  "name": "Gustav-Rée-Anlage",
+                  "text": "Játszótér az offenburgi Gustav-Rée-Anlage területén városi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.946102,
+                        48.471577
+                  ]
+            },
+            {
+                  "name": "Spielplatz Augustaplatz",
+                  "text": "Családbarát játszótér az offenburgi Augustaplatzon.",
+                  "category": "family",
+                  "coords": [
+                        7.951843,
+                        48.469553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Damaschkeweg",
+                  "text": "Játszótér az offenburgi Damaschkewegen, ideális a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.951986,
+                        48.47728
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebertplatz",
+                  "text": "Játszótér az offenburgi Ebertplatzon a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.953091,
+                        48.475526
+                  ]
+            },
+            {
+                  "name": "Spielplatz Dreifaltigkeitskirche",
+                  "text": "Játszótér az offenburgi Dreifaltigkeitskirche mellett családoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.949301,
+                        48.470757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brachfeldstraße",
+                  "text": "Kis játszótér az offenburgi Brachfeldstraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        7.959009,
+                        48.47008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tagmess",
+                  "text": "Játszótér Offenburg Tagmess részén, ahol a gyerekek mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.959927,
+                        48.474073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rindfleischgrund",
+                  "text": "Családbarát játszótér az offenburgi Rindfleischgrundnál.",
+                  "category": "family",
+                  "coords": [
+                        7.966471,
+                        48.47299
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lonsstraße",
+                  "text": "Játszótér az offenburgi Lonsstraße utcában játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.96208,
+                        48.47708
+                  ]
+            },
+            {
+                  "name": "Spielplatz Otto-Kähni-Weg",
+                  "text": "Játszótér az offenburgi Otto-Kähni-Wegen kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        7.952176,
+                        48.471374
+                  ]
+            },
+            {
+                  "name": "Gifiz-Süd",
+                  "text": "Játszótér az offenburgi Gifiz-Süd területén, a tó közelében.",
+                  "category": "family",
+                  "coords": [
+                        7.942448,
+                        48.449144
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Straße",
+                  "text": "Játszótér az offenburgi Berliner Straße utcában gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.925586,
+                        48.46326
+                  ]
+            },
+            {
+                  "name": "Kleinkindsandspielbereich",
+                  "text": "Homokozó kisgyermekek számára Offenburgban a biztonságos játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.945117,
+                        48.465711
+                  ]
+            },
+            {
+                  "name": "Kletterwand",
+                  "text": "Mászófal Offenburgban, amely sportos kihívásokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.944096,
+                        48.466866
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badstraße/Mühlbach",
+                  "text": "Játszótér az offenburgi Badstraße/Mühlbachnál a víz mellett.",
+                  "category": "family",
+                  "coords": [
+                        7.942554,
+                        48.465956
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nordweststadt Theodor-Heuss-Realschule",
+                  "text": "Játszótér az offenburgi Theodor-Heuss-Realschule mellett diákoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.938438,
+                        48.478935
+                  ]
             }
       ],
       "ro": [
@@ -8381,7 +16184,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Strandbad Gifiz",
                   "text": "O zonă populară de scăldat pe malul lacului Gifiz, cu peluze și facilități sportive.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.936806,
                         48.457506
@@ -8431,6 +16234,231 @@ export const germanyCitiesV2: POI[] = [
                         7.891203,
                         48.462715
                   ]
+            },
+            {
+                  "name": "Gifiz-See",
+                  "text": "Lacul Gifiz-See din Offenburg este ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.938608,
+                        48.452924
+                  ]
+            },
+            {
+                  "name": "Möschlesee",
+                  "text": "Un lac liniștit în Offenburg, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.966357,
+                        48.432577
+                  ]
+            },
+            {
+                  "name": "Pappelwaldsee",
+                  "text": "Lacul Pappelwaldsee din Offenburg oferă un cadru idilic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.981332,
+                        48.416527
+                  ]
+            },
+            {
+                  "name": "Schlossblicksee",
+                  "text": "Un lac în Offenburg care invită la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        7.963883,
+                        48.438257
+                  ]
+            },
+            {
+                  "name": "Angelsee Weier",
+                  "text": "Un lac de pescuit în Offenburg într-un cadru natural relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        7.917812,
+                        48.505367
+                  ]
+            },
+            {
+                  "name": "Königswaldsee",
+                  "text": "Lacul Königswaldsee din Offenburg este un loc frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        7.918853,
+                        48.446384
+                  ]
+            },
+            {
+                  "name": "Burgerwaldsee",
+                  "text": "Un lac de pădure în Offenburg, ideal pentru plimbări relaxante printre copaci.",
+                  "category": "natural",
+                  "coords": [
+                        7.90794,
+                        48.459001
+                  ]
+            },
+            {
+                  "name": "Schutterwälder Baggersee",
+                  "text": "Lacul Schutterwälder Baggersee de lângă Offenburg invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        7.887535,
+                        48.466755
+                  ]
+            },
+            {
+                  "name": "Spielplatz Franz-Volk-Park",
+                  "text": "Un teren de joacă central în Franz-Volk-Park din Offenburg pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.943525,
+                        48.477746
+                  ]
+            },
+            {
+                  "name": "Gustav-Rée-Anlage",
+                  "text": "Un teren de joacă în Gustav-Rée-Anlage din Offenburg pentru pauze de joacă în oraș.",
+                  "category": "family",
+                  "coords": [
+                        7.946102,
+                        48.471577
+                  ]
+            },
+            {
+                  "name": "Spielplatz Augustaplatz",
+                  "text": "Un teren de joacă pentru familii în Augustaplatz din Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.951843,
+                        48.469553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Damaschkeweg",
+                  "text": "Un teren de joacă pe Damaschkeweg în Offenburg, ideal pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        7.951986,
+                        48.47728
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebertplatz",
+                  "text": "Un teren de joacă în Ebertplatz din Offenburg pentru distracție zilnică.",
+                  "category": "family",
+                  "coords": [
+                        7.953091,
+                        48.475526
+                  ]
+            },
+            {
+                  "name": "Spielplatz Dreifaltigkeitskirche",
+                  "text": "Un teren de joacă lângă Dreifaltigkeitskirche din Offenburg pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.949301,
+                        48.470757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brachfeldstraße",
+                  "text": "Un mic teren de joacă pe Brachfeldstraße în Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.959009,
+                        48.47008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tagmess",
+                  "text": "Un teren de joacă în zona Tagmess din Offenburg pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.959927,
+                        48.474073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rindfleischgrund",
+                  "text": "Un teren de joacă pentru familii la Rindfleischgrund în Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.966471,
+                        48.47299
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lonsstraße",
+                  "text": "Un teren de joacă pe Lonsstraße în Offenburg pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        7.96208,
+                        48.47708
+                  ]
+            },
+            {
+                  "name": "Spielplatz Otto-Kähni-Weg",
+                  "text": "Un teren de joacă pe Otto-Kähni-Weg în Offenburg pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        7.952176,
+                        48.471374
+                  ]
+            },
+            {
+                  "name": "Gifiz-Süd",
+                  "text": "Un teren de joacă în zona Gifiz-Süd din Offenburg, aproape de lac.",
+                  "category": "family",
+                  "coords": [
+                        7.942448,
+                        48.449144
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Straße",
+                  "text": "Un teren de joacă pe Berliner Straße în Offenburg pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.925586,
+                        48.46326
+                  ]
+            },
+            {
+                  "name": "Kleinkindsandspielbereich",
+                  "text": "O zonă de joacă cu nisip pentru copii mici în Offenburg pentru joacă în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        7.945117,
+                        48.465711
+                  ]
+            },
+            {
+                  "name": "Kletterwand",
+                  "text": "Un perete de escaladă în Offenburg care oferă provocări sportive pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.944096,
+                        48.466866
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badstraße/Mühlbach",
+                  "text": "Un teren de joacă pe Badstraße/Mühlbach în Offenburg, lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        7.942554,
+                        48.465956
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nordweststadt Theodor-Heuss-Realschule",
+                  "text": "Un teren de joacă la Theodor-Heuss-Realschule în Offenburg pentru elevi și copii.",
+                  "category": "family",
+                  "coords": [
+                        7.938438,
+                        48.478935
+                  ]
             }
       ],
       "en": [
@@ -8464,7 +16492,7 @@ export const germanyCitiesV2: POI[] = [
             {
                   "name": "Strandbad Gifiz",
                   "text": "A popular outdoor swimming area at Lake Gifiz with sunbathing lawns and sports facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.936806,
                         48.457506
@@ -8513,6 +16541,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.891203,
                         48.462715
+                  ]
+            },
+            {
+                  "name": "Gifiz-See",
+                  "text": "The Gifiz-See in Offenburg is a place for relaxing walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        7.938608,
+                        48.452924
+                  ]
+            },
+            {
+                  "name": "Möschlesee",
+                  "text": "A quiet lake in Offenburg, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        7.966357,
+                        48.432577
+                  ]
+            },
+            {
+                  "name": "Pappelwaldsee",
+                  "text": "The Pappelwaldsee in Offenburg offers an idyllic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        7.981332,
+                        48.416527
+                  ]
+            },
+            {
+                  "name": "Schlossblicksee",
+                  "text": "A lake in Offenburg that invites you to enjoy quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.963883,
+                        48.438257
+                  ]
+            },
+            {
+                  "name": "Angelsee Weier",
+                  "text": "A fishing lake in Offenburg in a relaxed natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        7.917812,
+                        48.505367
+                  ]
+            },
+            {
+                  "name": "Königswaldsee",
+                  "text": "The Königswaldsee in Offenburg is a beautiful place for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        7.918853,
+                        48.446384
+                  ]
+            },
+            {
+                  "name": "Burgerwaldsee",
+                  "text": "A forest lake in Offenburg, ideal for relaxing walks among the trees.",
+                  "category": "natural",
+                  "coords": [
+                        7.90794,
+                        48.459001
+                  ]
+            },
+            {
+                  "name": "Schutterwälder Baggersee",
+                  "text": "The Schutterwälder Baggersee near Offenburg is a spot for relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.887535,
+                        48.466755
+                  ]
+            },
+            {
+                  "name": "Spielplatz Franz-Volk-Park",
+                  "text": "A central playground in the Franz-Volk-Park in Offenburg for children.",
+                  "category": "family",
+                  "coords": [
+                        7.943525,
+                        48.477746
+                  ]
+            },
+            {
+                  "name": "Gustav-Rée-Anlage",
+                  "text": "A playground in the Gustav-Rée-Anlage in Offenburg for play breaks in the city.",
+                  "category": "family",
+                  "coords": [
+                        7.946102,
+                        48.471577
+                  ]
+            },
+            {
+                  "name": "Spielplatz Augustaplatz",
+                  "text": "A family-friendly playground at Augustaplatz in Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.951843,
+                        48.469553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Damaschkeweg",
+                  "text": "A playground at Damaschkeweg in Offenburg, ideal for children from the area.",
+                  "category": "family",
+                  "coords": [
+                        7.951986,
+                        48.47728
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ebertplatz",
+                  "text": "A playground at Ebertplatz in Offenburg for daily play fun.",
+                  "category": "family",
+                  "coords": [
+                        7.953091,
+                        48.475526
+                  ]
+            },
+            {
+                  "name": "Spielplatz Dreifaltigkeitskirche",
+                  "text": "A playground at the Dreifaltigkeitskirche in Offenburg for families.",
+                  "category": "family",
+                  "coords": [
+                        7.949301,
+                        48.470757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brachfeldstraße",
+                  "text": "A small playground in Brachfeldstraße in Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.959009,
+                        48.47008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tagmess",
+                  "text": "A playground in the Tagmess area in Offenburg for children to run around.",
+                  "category": "family",
+                  "coords": [
+                        7.959927,
+                        48.474073
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rindfleischgrund",
+                  "text": "A family-friendly playground at Rindfleischgrund in Offenburg.",
+                  "category": "family",
+                  "coords": [
+                        7.966471,
+                        48.47299
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lonsstraße",
+                  "text": "A playground in Lonsstraße in Offenburg for fun and games.",
+                  "category": "family",
+                  "coords": [
+                        7.96208,
+                        48.47708
+                  ]
+            },
+            {
+                  "name": "Spielplatz Otto-Kähni-Weg",
+                  "text": "A playground at Otto-Kähni-Weg in Offenburg for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        7.952176,
+                        48.471374
+                  ]
+            },
+            {
+                  "name": "Gifiz-Süd",
+                  "text": "A playground in the Gifiz-Süd area in Offenburg near the lake.",
+                  "category": "family",
+                  "coords": [
+                        7.942448,
+                        48.449144
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Straße",
+                  "text": "A playground in Berliner Straße in Offenburg for children.",
+                  "category": "family",
+                  "coords": [
+                        7.925586,
+                        48.46326
+                  ]
+            },
+            {
+                  "name": "Kleinkindsandspielbereich",
+                  "text": "A sand play area for toddlers in Offenburg for safe play.",
+                  "category": "family",
+                  "coords": [
+                        7.945117,
+                        48.465711
+                  ]
+            },
+            {
+                  "name": "Kletterwand",
+                  "text": "A climbing wall in Offenburg offering sporty challenges for children.",
+                  "category": "family",
+                  "coords": [
+                        7.944096,
+                        48.466866
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badstraße/Mühlbach",
+                  "text": "A playground at Badstraße/Mühlbach in Offenburg by the water.",
+                  "category": "family",
+                  "coords": [
+                        7.942554,
+                        48.465956
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nordweststadt Theodor-Heuss-Realschule",
+                  "text": "A playground at the Theodor-Heuss-Realschule in Offenburg for students and children.",
+                  "category": "family",
+                  "coords": [
+                        7.938438,
+                        48.478935
                   ]
             }
       ]
@@ -8602,6 +16855,231 @@ export const germanyCitiesV2: POI[] = [
                         7.048268,
                         51.333008
                   ]
+            },
+            {
+                  "name": "Abtskücher Teich",
+                  "text": "Ein Teich in Velbert, der eine schöne Kulisse für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.989668,
+                        51.338711
+                  ]
+            },
+            {
+                  "name": "Kettwiger Stausee",
+                  "text": "Ein Stausee bei Velbert, der als beliebtes Ausflugsziel in der Natur gilt.",
+                  "category": "natural",
+                  "coords": [
+                        6.944763,
+                        51.359614
+                  ]
+            },
+            {
+                  "name": "Mühlengraben",
+                  "text": "Ein ruhiges Gewässer in Velbert, ideal für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        6.937195,
+                        51.361879
+                  ]
+            },
+            {
+                  "name": "Baldeneysee",
+                  "text": "Ein großer See in der Nähe von Velbert, der vielfältige Möglichkeiten zur Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.040125,
+                        51.397249
+                  ]
+            },
+            {
+                  "name": "Alte Bahn",
+                  "text": "Ein Spielplatz in Velbert, der Kindern Raum zum Toben und Bewegen gibt.",
+                  "category": "family",
+                  "coords": [
+                        7.052414,
+                        51.331533
+                  ]
+            },
+            {
+                  "name": "Friedrich-Ebert-Straße",
+                  "text": "Dieser Spielplatz in Velbert bietet Spielgeräte für verschiedene Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        7.038894,
+                        51.341863
+                  ]
+            },
+            {
+                  "name": "Herminghauspark Spielplatz",
+                  "text": "Ein beliebter Spielplatz in Velbert, der in eine Parkanlage eingebettet ist.",
+                  "category": "family",
+                  "coords": [
+                        7.03375,
+                        51.339382
+                  ]
+            },
+            {
+                  "name": "Josefinenanger",
+                  "text": "Spielplatz in Velbert, der eine familienfreundliche Umgebung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.019958,
+                        51.351226
+                  ]
+            },
+            {
+                  "name": "Heidekamp",
+                  "text": "Ein Spielplatz in Velbert, ideal für eine Pause während eines Familienausflugs.",
+                  "category": "family",
+                  "coords": [
+                        7.028506,
+                        51.327204
+                  ]
+            },
+            {
+                  "name": "Friedensstraße",
+                  "text": "Ein Ort zum Spielen und Entdecken für Kinder in Velbert.",
+                  "category": "family",
+                  "coords": [
+                        7.048113,
+                        51.342735
+                  ]
+            },
+            {
+                  "name": "Weidenstraße",
+                  "text": "Kinderfreundliche Anlage in Velbert, die zum gemeinsamen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.046562,
+                        51.335652
+                  ]
+            },
+            {
+                  "name": "Friedrichstraße",
+                  "text": "Ein Spielplatz in Velbert, der verschiedene Spielgeräte im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.049993,
+                        51.33722
+                  ]
+            },
+            {
+                  "name": "Paracelsusstraße",
+                  "text": "Ein moderner Spielplatz in Velbert, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        7.009995,
+                        51.348365
+                  ]
+            },
+            {
+                  "name": "Schmalenhofer Straße",
+                  "text": "Dieser Spielplatz in Velbert ist ein Treffpunkt für Familien aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        7.065263,
+                        51.330206
+                  ]
+            },
+            {
+                  "name": "Blumenstraße",
+                  "text": "Ein schön gestalteter Spielplatz in Velbert, der zum Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.046588,
+                        51.338449
+                  ]
+            },
+            {
+                  "name": "Stettiner Weg",
+                  "text": "Ein Spielplatz in Velbert, der eine gute Auswahl an Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.027214,
+                        51.330893
+                  ]
+            },
+            {
+                  "name": "Marsstraße",
+                  "text": "Ein Ort für Kinder in Velbert, um an der frischen Luft aktiv zu sein.",
+                  "category": "family",
+                  "coords": [
+                        7.020336,
+                        51.330336
+                  ]
+            },
+            {
+                  "name": "Landsteinerweg",
+                  "text": "Zentraler Spielplatz in Velbert, der gut für Familien erreichbar ist.",
+                  "category": "family",
+                  "coords": [
+                        7.017635,
+                        51.3479
+                  ]
+            },
+            {
+                  "name": "Sauerbruchstraße",
+                  "text": "Ein sicherer Spielplatz in Velbert für Kinder zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.020814,
+                        51.348643
+                  ]
+            },
+            {
+                  "name": "Pettenkoferweg",
+                  "text": "Ein kleinerer Spielplatz in Velbert, ideal für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        7.016028,
+                        51.346409
+                  ]
+            },
+            {
+                  "name": "Am Buschberg",
+                  "text": "Ein Spielplatz in Velbert mit verschiedenen Klettermöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.029841,
+                        51.344253
+                  ]
+            },
+            {
+                  "name": "Am Höfgessiepen",
+                  "text": "Spielplatz in Velbert, der Kindern eine abwechslungsreiche Freizeit bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.05143,
+                        51.350051
+                  ]
+            },
+            {
+                  "name": "Am Schwanefeld",
+                  "text": "Ein Ort in Velbert, an dem Kinder sicher spielen und sich bewegen können.",
+                  "category": "family",
+                  "coords": [
+                        7.044785,
+                        51.351875
+                  ]
+            },
+            {
+                  "name": "Brangenberger Straße",
+                  "text": "Ein familienfreundlicher Spielplatz in Velbert mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        7.064154,
+                        51.338656
+                  ]
+            },
+            {
+                  "name": "Fliederbusch",
+                  "text": "Ein Spielplatz in Velbert, der Kindern eine schöne Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.011382,
+                        51.324128
+                  ]
             }
       ],
       "hu": [
@@ -8639,6 +17117,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.048268,
                         51.333008
+                  ]
+            },
+            {
+                  "name": "Abtskücher Teich",
+                  "text": "Egy velberti tó, amely szép hátteret biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.989668,
+                        51.338711
+                  ]
+            },
+            {
+                  "name": "Kettwiger Stausee",
+                  "text": "Velbert közeli víztározó, amely népszerű kirándulóhely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.944763,
+                        51.359614
+                  ]
+            },
+            {
+                  "name": "Mühlengraben",
+                  "text": "Csendes vízfelület Velbertben, ideális a természet kedvelőinek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.937195,
+                        51.361879
+                  ]
+            },
+            {
+                  "name": "Baldeneysee",
+                  "text": "Nagy tó Velbert közelében, amely változatos pihenési lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        7.040125,
+                        51.397249
+                  ]
+            },
+            {
+                  "name": "Alte Bahn",
+                  "text": "Játszótér Velbertben, amely teret ad a gyermekeknek a mozgásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        7.052414,
+                        51.331533
+                  ]
+            },
+            {
+                  "name": "Friedrich-Ebert-Straße",
+                  "text": "Ez a velberti játszótér különféle korosztályok számára kínál játékokat.",
+                  "category": "family",
+                  "coords": [
+                        7.038894,
+                        51.341863
+                  ]
+            },
+            {
+                  "name": "Herminghauspark Spielplatz",
+                  "text": "Népszerű velberti játszótér, amely egy parkban található.",
+                  "category": "family",
+                  "coords": [
+                        7.03375,
+                        51.339382
+                  ]
+            },
+            {
+                  "name": "Josefinenanger",
+                  "text": "Játszótér Velbertben, amely családbarát környezetet biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.019958,
+                        51.351226
+                  ]
+            },
+            {
+                  "name": "Heidekamp",
+                  "text": "Velberti játszótér, amely ideális egy szünetre a családi kirándulás alatt.",
+                  "category": "family",
+                  "coords": [
+                        7.028506,
+                        51.327204
+                  ]
+            },
+            {
+                  "name": "Friedensstraße",
+                  "text": "Játék- és felfedezőhely gyermekek számára Velbertben.",
+                  "category": "family",
+                  "coords": [
+                        7.048113,
+                        51.342735
+                  ]
+            },
+            {
+                  "name": "Weidenstraße",
+                  "text": "Gyermekbarát helyszín Velbertben, amely közös játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        7.046562,
+                        51.335652
+                  ]
+            },
+            {
+                  "name": "Friedrichstraße",
+                  "text": "Játszótér Velbertben, amely különféle szabadtéri játékokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        7.049993,
+                        51.33722
+                  ]
+            },
+            {
+                  "name": "Paracelsusstraße",
+                  "text": "Modern játszótér Velbertben, amely sok örömet okoz a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.009995,
+                        51.348365
+                  ]
+            },
+            {
+                  "name": "Schmalenhofer Straße",
+                  "text": "Ez a velberti játszótér a környékbeli családok találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        7.065263,
+                        51.330206
+                  ]
+            },
+            {
+                  "name": "Blumenstraße",
+                  "text": "Szépen kialakított játszótér Velbertben, amely maradásra hív.",
+                  "category": "family",
+                  "coords": [
+                        7.046588,
+                        51.338449
+                  ]
+            },
+            {
+                  "name": "Stettiner Weg",
+                  "text": "Játszótér Velbertben, amely a játéklehetőségek jó választékát kínálja.",
+                  "category": "family",
+                  "coords": [
+                        7.027214,
+                        51.330893
+                  ]
+            },
+            {
+                  "name": "Marsstraße",
+                  "text": "Egy helyszín gyermekeknek Velbertben, hogy aktívak legyenek a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        7.020336,
+                        51.330336
+                  ]
+            },
+            {
+                  "name": "Landsteinerweg",
+                  "text": "Központi játszótér Velbertben, amely jól elérhető a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.017635,
+                        51.3479
+                  ]
+            },
+            {
+                  "name": "Sauerbruchstraße",
+                  "text": "Biztonságos játszótér Velbertben a gyermekeknek a felfedezéshez és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.020814,
+                        51.348643
+                  ]
+            },
+            {
+                  "name": "Pettenkoferweg",
+                  "text": "Kisebb játszótér Velbertben, ideális egy rövid játékszünetre.",
+                  "category": "family",
+                  "coords": [
+                        7.016028,
+                        51.346409
+                  ]
+            },
+            {
+                  "name": "Am Buschberg",
+                  "text": "Játszótér Velbertben különféle mászólehetőségekkel gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.029841,
+                        51.344253
+                  ]
+            },
+            {
+                  "name": "Am Höfgessiepen",
+                  "text": "Játszótér Velbertben, amely változatos szabadidőt kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.05143,
+                        51.350051
+                  ]
+            },
+            {
+                  "name": "Am Schwanefeld",
+                  "text": "Helyszín Velbertben, ahol a gyermekek biztonságosan játszhatnak és mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.044785,
+                        51.351875
+                  ]
+            },
+            {
+                  "name": "Brangenberger Straße",
+                  "text": "Családbarát játszótér Velbertben különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        7.064154,
+                        51.338656
+                  ]
+            },
+            {
+                  "name": "Fliederbusch",
+                  "text": "Játszótér Velbertben, amely szép környezetet biztosít a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.011382,
+                        51.324128
                   ]
             }
       ],
@@ -8678,6 +17381,231 @@ export const germanyCitiesV2: POI[] = [
                         7.048268,
                         51.333008
                   ]
+            },
+            {
+                  "name": "Abtskücher Teich",
+                  "text": "Un iaz în Velbert, care oferă un cadru frumos pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        6.989668,
+                        51.338711
+                  ]
+            },
+            {
+                  "name": "Kettwiger Stausee",
+                  "text": "Un lac de acumulare lângă Velbert, considerat o destinație populară de excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.944763,
+                        51.359614
+                  ]
+            },
+            {
+                  "name": "Mühlengraben",
+                  "text": "O întindere de apă liniștită în Velbert, ideală pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        6.937195,
+                        51.361879
+                  ]
+            },
+            {
+                  "name": "Baldeneysee",
+                  "text": "Un lac mare lângă Velbert, care oferă diverse posibilități de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        7.040125,
+                        51.397249
+                  ]
+            },
+            {
+                  "name": "Alte Bahn",
+                  "text": "Un loc de joacă în Velbert, care oferă copiilor spațiu pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        7.052414,
+                        51.331533
+                  ]
+            },
+            {
+                  "name": "Friedrich-Ebert-Straße",
+                  "text": "Acest loc de joacă din Velbert oferă echipamente de joacă pentru diverse grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        7.038894,
+                        51.341863
+                  ]
+            },
+            {
+                  "name": "Herminghauspark Spielplatz",
+                  "text": "Un loc de joacă popular în Velbert, situat într-un parc.",
+                  "category": "family",
+                  "coords": [
+                        7.03375,
+                        51.339382
+                  ]
+            },
+            {
+                  "name": "Josefinenanger",
+                  "text": "Loc de joacă în Velbert, care oferă un mediu prietenos pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        7.019958,
+                        51.351226
+                  ]
+            },
+            {
+                  "name": "Heidekamp",
+                  "text": "Un loc de joacă în Velbert, ideal pentru o pauză în timpul unei ieșiri cu familia.",
+                  "category": "family",
+                  "coords": [
+                        7.028506,
+                        51.327204
+                  ]
+            },
+            {
+                  "name": "Friedensstraße",
+                  "text": "Un loc de joacă și explorare pentru copii în Velbert.",
+                  "category": "family",
+                  "coords": [
+                        7.048113,
+                        51.342735
+                  ]
+            },
+            {
+                  "name": "Weidenstraße",
+                  "text": "O facilitate prietenoasă pentru copii în Velbert, care invită la joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        7.046562,
+                        51.335652
+                  ]
+            },
+            {
+                  "name": "Friedrichstraße",
+                  "text": "Un loc de joacă în Velbert, care oferă diverse echipamente de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.049993,
+                        51.33722
+                  ]
+            },
+            {
+                  "name": "Paracelsusstraße",
+                  "text": "Un loc de joacă modern în Velbert, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        7.009995,
+                        51.348365
+                  ]
+            },
+            {
+                  "name": "Schmalenhofer Straße",
+                  "text": "Acest loc de joacă din Velbert este un punct de întâlnire pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        7.065263,
+                        51.330206
+                  ]
+            },
+            {
+                  "name": "Blumenstraße",
+                  "text": "Un loc de joacă frumos amenajat în Velbert, care invită la relaxare.",
+                  "category": "family",
+                  "coords": [
+                        7.046588,
+                        51.338449
+                  ]
+            },
+            {
+                  "name": "Stettiner Weg",
+                  "text": "Un loc de joacă în Velbert, care oferă o selecție bună de posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.027214,
+                        51.330893
+                  ]
+            },
+            {
+                  "name": "Marsstraße",
+                  "text": "Un loc pentru copii în Velbert, pentru a fi activi la aer curat.",
+                  "category": "family",
+                  "coords": [
+                        7.020336,
+                        51.330336
+                  ]
+            },
+            {
+                  "name": "Landsteinerweg",
+                  "text": "Loc de joacă central în Velbert, ușor accesibil pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.017635,
+                        51.3479
+                  ]
+            },
+            {
+                  "name": "Sauerbruchstraße",
+                  "text": "Un loc de joacă sigur în Velbert pentru copii, pentru explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.020814,
+                        51.348643
+                  ]
+            },
+            {
+                  "name": "Pettenkoferweg",
+                  "text": "Un loc de joacă mai mic în Velbert, ideal pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.016028,
+                        51.346409
+                  ]
+            },
+            {
+                  "name": "Am Buschberg",
+                  "text": "Un loc de joacă în Velbert cu diverse posibilități de cățărare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.029841,
+                        51.344253
+                  ]
+            },
+            {
+                  "name": "Am Höfgessiepen",
+                  "text": "Loc de joacă în Velbert, care oferă copiilor un timp liber variat.",
+                  "category": "family",
+                  "coords": [
+                        7.05143,
+                        51.350051
+                  ]
+            },
+            {
+                  "name": "Am Schwanefeld",
+                  "text": "Un loc în Velbert unde copiii se pot juca și pot face mișcare în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        7.044785,
+                        51.351875
+                  ]
+            },
+            {
+                  "name": "Brangenberger Straße",
+                  "text": "Un loc de joacă prietenos pentru familii în Velbert, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.064154,
+                        51.338656
+                  ]
+            },
+            {
+                  "name": "Fliederbusch",
+                  "text": "Un loc de joacă în Velbert, care oferă copiilor un mediu plăcut pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.011382,
+                        51.324128
+                  ]
             }
       ],
       "en": [
@@ -8715,6 +17643,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.048268,
                         51.333008
+                  ]
+            },
+            {
+                  "name": "Abtskücher Teich",
+                  "text": "A pond in Velbert offering a lovely backdrop for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        6.989668,
+                        51.338711
+                  ]
+            },
+            {
+                  "name": "Kettwiger Stausee",
+                  "text": "A reservoir near Velbert considered a popular excursion destination in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.944763,
+                        51.359614
+                  ]
+            },
+            {
+                  "name": "Mühlengraben",
+                  "text": "A quiet body of water in Velbert, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        6.937195,
+                        51.361879
+                  ]
+            },
+            {
+                  "name": "Baldeneysee",
+                  "text": "A large lake near Velbert offering diverse opportunities for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        7.040125,
+                        51.397249
+                  ]
+            },
+            {
+                  "name": "Alte Bahn",
+                  "text": "A playground in Velbert providing children with space to run around and move.",
+                  "category": "family",
+                  "coords": [
+                        7.052414,
+                        51.331533
+                  ]
+            },
+            {
+                  "name": "Friedrich-Ebert-Straße",
+                  "text": "This playground in Velbert offers play equipment for various age groups.",
+                  "category": "family",
+                  "coords": [
+                        7.038894,
+                        51.341863
+                  ]
+            },
+            {
+                  "name": "Herminghauspark Spielplatz",
+                  "text": "A popular playground in Velbert nestled within a park area.",
+                  "category": "family",
+                  "coords": [
+                        7.03375,
+                        51.339382
+                  ]
+            },
+            {
+                  "name": "Josefinenanger",
+                  "text": "Playground in Velbert offering a family-friendly environment for children.",
+                  "category": "family",
+                  "coords": [
+                        7.019958,
+                        51.351226
+                  ]
+            },
+            {
+                  "name": "Heidekamp",
+                  "text": "A playground in Velbert, ideal for a break during a family outing.",
+                  "category": "family",
+                  "coords": [
+                        7.028506,
+                        51.327204
+                  ]
+            },
+            {
+                  "name": "Friedensstraße",
+                  "text": "A place for children to play and discover in Velbert.",
+                  "category": "family",
+                  "coords": [
+                        7.048113,
+                        51.342735
+                  ]
+            },
+            {
+                  "name": "Weidenstraße",
+                  "text": "Child-friendly facility in Velbert inviting for playing together.",
+                  "category": "family",
+                  "coords": [
+                        7.046562,
+                        51.335652
+                  ]
+            },
+            {
+                  "name": "Friedrichstraße",
+                  "text": "A playground in Velbert offering various outdoor play equipment.",
+                  "category": "family",
+                  "coords": [
+                        7.049993,
+                        51.33722
+                  ]
+            },
+            {
+                  "name": "Paracelsusstraße",
+                  "text": "A modern playground in Velbert that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        7.009995,
+                        51.348365
+                  ]
+            },
+            {
+                  "name": "Schmalenhofer Straße",
+                  "text": "This playground in Velbert is a meeting point for families from the area.",
+                  "category": "family",
+                  "coords": [
+                        7.065263,
+                        51.330206
+                  ]
+            },
+            {
+                  "name": "Blumenstraße",
+                  "text": "A beautifully designed playground in Velbert inviting for a stay.",
+                  "category": "family",
+                  "coords": [
+                        7.046588,
+                        51.338449
+                  ]
+            },
+            {
+                  "name": "Stettiner Weg",
+                  "text": "A playground in Velbert offering a good selection of play options.",
+                  "category": "family",
+                  "coords": [
+                        7.027214,
+                        51.330893
+                  ]
+            },
+            {
+                  "name": "Marsstraße",
+                  "text": "A place for children in Velbert to be active in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        7.020336,
+                        51.330336
+                  ]
+            },
+            {
+                  "name": "Landsteinerweg",
+                  "text": "Central playground in Velbert, easily accessible for families.",
+                  "category": "family",
+                  "coords": [
+                        7.017635,
+                        51.3479
+                  ]
+            },
+            {
+                  "name": "Sauerbruchstraße",
+                  "text": "A safe playground in Velbert for children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        7.020814,
+                        51.348643
+                  ]
+            },
+            {
+                  "name": "Pettenkoferweg",
+                  "text": "A smaller playground in Velbert, ideal for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        7.016028,
+                        51.346409
+                  ]
+            },
+            {
+                  "name": "Am Buschberg",
+                  "text": "A playground in Velbert with various climbing options for children.",
+                  "category": "family",
+                  "coords": [
+                        7.029841,
+                        51.344253
+                  ]
+            },
+            {
+                  "name": "Am Höfgessiepen",
+                  "text": "Playground in Velbert offering children a varied leisure time.",
+                  "category": "family",
+                  "coords": [
+                        7.05143,
+                        51.350051
+                  ]
+            },
+            {
+                  "name": "Am Schwanefeld",
+                  "text": "A place in Velbert where children can play and move around safely.",
+                  "category": "family",
+                  "coords": [
+                        7.044785,
+                        51.351875
+                  ]
+            },
+            {
+                  "name": "Brangenberger Straße",
+                  "text": "A family-friendly playground in Velbert with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        7.064154,
+                        51.338656
+                  ]
+            },
+            {
+                  "name": "Fliederbusch",
+                  "text": "A playground in Velbert offering children a nice environment for play.",
+                  "category": "family",
+                  "coords": [
+                        7.011382,
+                        51.324128
                   ]
             }
       ]
@@ -8831,6 +17984,231 @@ export const germanyCitiesV2: POI[] = [
                         7.626829,
                         51.206885
                   ]
+            },
+            {
+                  "name": "Jubachtalsperre",
+                  "text": "Die Jubachtalsperre bei Lüdenscheid ist ein idyllischer Stausee, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        7.612129,
+                        51.164136
+                  ]
+            },
+            {
+                  "name": "Fürwiggetalsperre",
+                  "text": "Die Fürwiggetalsperre bei Lüdenscheid bietet eine malerische Kulisse für erholsame Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        7.688115,
+                        51.146222
+                  ]
+            },
+            {
+                  "name": "Fuelbecketalsperre",
+                  "text": "Ein schöner Stausee bei Lüdenscheid, der zu Erkundungen in der waldreichen Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.663447,
+                        51.246568
+                  ]
+            },
+            {
+                  "name": "Vorstaubecken der Fuelbecketalsperre",
+                  "text": "Ein ruhiges Gewässer bei Lüdenscheid, ideal für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        7.669505,
+                        51.245514
+                  ]
+            },
+            {
+                  "name": "Versetalsperre",
+                  "text": "Die Versetalsperre bei Lüdenscheid ist ein bedeutender Stausee und ein beliebtes Ziel für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        7.678722,
+                        51.177273
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnanlage 76-126",
+                  "text": "Ein Spielplatz in Lüdenscheid, der Kindern innerhalb der Wohnanlage Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.610628,
+                        51.223546
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brighouse Park",
+                  "text": "Dieser Spielplatz in Lüdenscheid bietet Kindern abwechslungsreiche Möglichkeiten zum Klettern und Toben.",
+                  "category": "family",
+                  "coords": [
+                        7.628907,
+                        51.214383
+                  ]
+            },
+            {
+                  "name": "Captain Fun - Kids Club",
+                  "text": "Ein Indoor-Spielplatz in Lüdenscheid, der Kindern wetterunabhängigen Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.631591,
+                        51.215914
+                  ]
+            },
+            {
+                  "name": "Gamer - Die Gameshow",
+                  "text": "Diese Spielhalle in Lüdenscheid bietet abwechslungsreiche Unterhaltung für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        7.65383,
+                        51.230248
+                  ]
+            },
+            {
+                  "name": "Quartiersplatz Knapper Grundschule",
+                  "text": "Ein Spielplatz in Lüdenscheid, der als Treffpunkt für Kinder im Quartier dient.",
+                  "category": "family",
+                  "coords": [
+                        7.624445,
+                        51.220413
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ludwigstraße",
+                  "text": "Ein schöner Spielplatz in Lüdenscheid, der zum Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.620928,
+                        51.224955
+                  ]
+            },
+            {
+                  "name": "Spielplatz Piepersloh",
+                  "text": "Der Spielplatz in Lüdenscheid bietet Kindern Raum für Bewegung und gemeinsame Erlebnisse.",
+                  "category": "family",
+                  "coords": [
+                        7.666698,
+                        51.197849
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Grünewald",
+                  "text": "Ein familienfreundlicher Spielplatz in Lüdenscheid, ideal für eine kleine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        7.622699,
+                        51.223437
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stüttinghausen",
+                  "text": "Dieser Spielplatz in Lüdenscheid bietet Kindern verschiedene Möglichkeiten zum Klettern und Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        7.59091,
+                        51.211095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Vogelberg",
+                  "text": "Ein schön gelegener Spielplatz in Lüdenscheid, auf dem Kinder in Ruhe spielen können.",
+                  "category": "family",
+                  "coords": [
+                        7.639095,
+                        51.234412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hotopstraße",
+                  "text": "Ein zentraler Spielplatz in Lüdenscheid, der Kindern viel Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.645051,
+                        51.224202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Olpendahl - Südteil",
+                  "text": "Ein Spielplatz in Lüdenscheid, der Kindern Raum für Bewegung an der frischen Luft bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.620291,
+                        51.23383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wermecker Grund",
+                  "text": "Dieser Spielplatz in Lüdenscheid bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.625318,
+                        51.225606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterm Freihof",
+                  "text": "Ein gepflegter Spielplatz in Lüdenscheid, ideal für Familien aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        7.610366,
+                        51.22542
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bruktererweg",
+                  "text": "Der Spielplatz in Lüdenscheid lädt Kinder zum Entdecken und Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        7.61219,
+                        51.212854
+                  ]
+            },
+            {
+                  "name": "Spielplatz Harlingerstraße",
+                  "text": "Ein schöner Spielplatz in Lüdenscheid, der Kindern Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.614484,
+                        51.213461
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schubertstraße",
+                  "text": "Dieser Spielplatz in Lüdenscheid bietet Kindern verschiedene Spielgeräte in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        7.593249,
+                        51.221725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nelly-Pütz-Platz",
+                  "text": "Ein zentral gelegener Spielplatz in Lüdenscheid, der als Treffpunkt für Kinder dient.",
+                  "category": "family",
+                  "coords": [
+                        7.601735,
+                        51.225436
+                  ]
+            },
+            {
+                  "name": "Spielplatz Orffstraße",
+                  "text": "Ein familienfreundlicher Spielplatz in Lüdenscheid, ideal für eine Pause an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        7.594304,
+                        51.224094
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hasenkamp",
+                  "text": "Der Spielplatz in Lüdenscheid bietet Kindern Raum für Bewegung und kreatives Spiel.",
+                  "category": "family",
+                  "coords": [
+                        7.618054,
+                        51.231747
+                  ]
             }
       ],
       "hu": [
@@ -8895,6 +18273,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.626829,
                         51.206885
+                  ]
+            },
+            {
+                  "name": "Jubachtalsperre",
+                  "text": "A Lüdenscheid közelében található Jubachtalsperre egy idilli víztározó, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        7.612129,
+                        51.164136
+                  ]
+            },
+            {
+                  "name": "Fürwiggetalsperre",
+                  "text": "A Lüdenscheid közelében található Fürwiggetalsperre festői környezetet biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        7.688115,
+                        51.146222
+                  ]
+            },
+            {
+                  "name": "Fuelbecketalsperre",
+                  "text": "Egy szép víztározó Lüdenscheid közelében, amely az erdős környék felfedezésére hív.",
+                  "category": "natural",
+                  "coords": [
+                        7.663447,
+                        51.246568
+                  ]
+            },
+            {
+                  "name": "Vorstaubecken der Fuelbecketalsperre",
+                  "text": "Egy nyugodt vízfelület Lüdenscheid közelében, amely ideális a természet kedvelőinek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        7.669505,
+                        51.245514
+                  ]
+            },
+            {
+                  "name": "Versetalsperre",
+                  "text": "A Lüdenscheid közelében található Versetalsperre egy jelentős víztározó és a túrázók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        7.678722,
+                        51.177273
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnanlage 76-126",
+                  "text": "Egy Lüdenscheid-i játszótér, amely a lakóparkon belül biztosít helyet a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.610628,
+                        51.223546
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brighouse Park",
+                  "text": "Ez a Lüdenscheid-i játszótér változatos mászási és játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.628907,
+                        51.214383
+                  ]
+            },
+            {
+                  "name": "Captain Fun - Kids Club",
+                  "text": "Egy Lüdenscheid-i fedett játszótér, amely az időjárástól független játékélményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.631591,
+                        51.215914
+                  ]
+            },
+            {
+                  "name": "Gamer - Die Gameshow",
+                  "text": "Ez a Lüdenscheid-i játékterem változatos szórakozást kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        7.65383,
+                        51.230248
+                  ]
+            },
+            {
+                  "name": "Quartiersplatz Knapper Grundschule",
+                  "text": "Egy Lüdenscheid-i játszótér, amely találkozóhelyként szolgál a környékbeli gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        7.624445,
+                        51.220413
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ludwigstraße",
+                  "text": "Egy szép játszótér Lüdenscheidben, amely szabadtéri játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        7.620928,
+                        51.224955
+                  ]
+            },
+            {
+                  "name": "Spielplatz Piepersloh",
+                  "text": "A Lüdenscheid-i játszótér teret ad a gyerekeknek a mozgáshoz és a közös élményekhez.",
+                  "category": "family",
+                  "coords": [
+                        7.666698,
+                        51.197849
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Grünewald",
+                  "text": "Egy családbarát játszótér Lüdenscheidben, amely ideális egy rövid szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        7.622699,
+                        51.223437
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stüttinghausen",
+                  "text": "Ez a Lüdenscheid-i játszótér különféle mászási és csúszdázási lehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.59091,
+                        51.211095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Vogelberg",
+                  "text": "Egy szép fekvésű játszótér Lüdenscheidben, ahol a gyerekek nyugodtan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.639095,
+                        51.234412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hotopstraße",
+                  "text": "Egy központi játszótér Lüdenscheidben, amely sok helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.645051,
+                        51.224202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Olpendahl - Südteil",
+                  "text": "Egy Lüdenscheid-i játszótér, amely teret ad a gyerekeknek a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.620291,
+                        51.23383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wermecker Grund",
+                  "text": "Ez a Lüdenscheid-i játszótér változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.625318,
+                        51.225606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterm Freihof",
+                  "text": "Egy gondozott játszótér Lüdenscheidben, amely ideális a környékbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.610366,
+                        51.22542
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bruktererweg",
+                  "text": "A Lüdenscheid-i játszótér felfedezésre és szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        7.61219,
+                        51.212854
+                  ]
+            },
+            {
+                  "name": "Spielplatz Harlingerstraße",
+                  "text": "Egy szép játszótér Lüdenscheidben, amely teret ad a gyerekeknek a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.614484,
+                        51.213461
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schubertstraße",
+                  "text": "Ez a Lüdenscheid-i játszótér különféle játékokat kínál a gyerekeknek biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        7.593249,
+                        51.221725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nelly-Pütz-Platz",
+                  "text": "Egy központi fekvésű játszótér Lüdenscheidben, amely találkozóhelyként szolgál a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        7.601735,
+                        51.225436
+                  ]
+            },
+            {
+                  "name": "Spielplatz Orffstraße",
+                  "text": "Egy családbarát játszótér Lüdenscheidben, amely ideális egy kis szünetre a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        7.594304,
+                        51.224094
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hasenkamp",
+                  "text": "A Lüdenscheid-i játszótér teret ad a gyerekeknek a mozgáshoz és a kreatív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.618054,
+                        51.231747
                   ]
             }
       ],
@@ -8961,6 +18564,231 @@ export const germanyCitiesV2: POI[] = [
                         7.626829,
                         51.206885
                   ]
+            },
+            {
+                  "name": "Jubachtalsperre",
+                  "text": "Lacul de acumulare Jubachtalsperre de lângă Lüdenscheid este un loc idilic, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.612129,
+                        51.164136
+                  ]
+            },
+            {
+                  "name": "Fürwiggetalsperre",
+                  "text": "Lacul de acumulare Fürwiggetalsperre de lângă Lüdenscheid oferă un cadru pitoresc pentru ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        7.688115,
+                        51.146222
+                  ]
+            },
+            {
+                  "name": "Fuelbecketalsperre",
+                  "text": "Un lac de acumulare frumos lângă Lüdenscheid, care invită la explorarea împrejurimilor împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        7.663447,
+                        51.246568
+                  ]
+            },
+            {
+                  "name": "Vorstaubecken der Fuelbecketalsperre",
+                  "text": "Un luciu de apă liniștit lângă Lüdenscheid, ideal pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        7.669505,
+                        51.245514
+                  ]
+            },
+            {
+                  "name": "Versetalsperre",
+                  "text": "Lacul de acumulare Versetalsperre de lângă Lüdenscheid este o destinație populară pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        7.678722,
+                        51.177273
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnanlage 76-126",
+                  "text": "Un loc de joacă în Lüdenscheid, care oferă copiilor din complexul rezidențial spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.610628,
+                        51.223546
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brighouse Park",
+                  "text": "Acest loc de joacă din Lüdenscheid oferă copiilor posibilități variate de cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.628907,
+                        51.214383
+                  ]
+            },
+            {
+                  "name": "Captain Fun - Kids Club",
+                  "text": "Un loc de joacă interior în Lüdenscheid, care oferă copiilor distracție indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        7.631591,
+                        51.215914
+                  ]
+            },
+            {
+                  "name": "Gamer - Die Gameshow",
+                  "text": "Această sală de jocuri din Lüdenscheid oferă divertisment variat pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        7.65383,
+                        51.230248
+                  ]
+            },
+            {
+                  "name": "Quartiersplatz Knapper Grundschule",
+                  "text": "Un loc de joacă în Lüdenscheid, care servește drept punct de întâlnire pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        7.624445,
+                        51.220413
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ludwigstraße",
+                  "text": "Un loc de joacă frumos în Lüdenscheid, care invită la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.620928,
+                        51.224955
+                  ]
+            },
+            {
+                  "name": "Spielplatz Piepersloh",
+                  "text": "Locul de joacă din Lüdenscheid oferă copiilor spațiu pentru mișcare și experiențe comune.",
+                  "category": "family",
+                  "coords": [
+                        7.666698,
+                        51.197849
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Grünewald",
+                  "text": "Un loc de joacă primitor în Lüdenscheid, ideal pentru o scurtă pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        7.622699,
+                        51.223437
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stüttinghausen",
+                  "text": "Acest loc de joacă din Lüdenscheid oferă copiilor diverse posibilități de cățărat și alunecat pe tobogan.",
+                  "category": "family",
+                  "coords": [
+                        7.59091,
+                        51.211095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Vogelberg",
+                  "text": "Un loc de joacă frumos situat în Lüdenscheid, unde copiii se pot juca în liniște.",
+                  "category": "family",
+                  "coords": [
+                        7.639095,
+                        51.234412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hotopstraße",
+                  "text": "Un loc de joacă central în Lüdenscheid, care oferă copiilor mult spațiu pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        7.645051,
+                        51.224202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Olpendahl - Südteil",
+                  "text": "Un loc de joacă în Lüdenscheid, care oferă copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.620291,
+                        51.23383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wermecker Grund",
+                  "text": "Acest loc de joacă din Lüdenscheid oferă posibilități de joacă variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.625318,
+                        51.225606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterm Freihof",
+                  "text": "Un loc de joacă bine întreținut în Lüdenscheid, ideal pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        7.610366,
+                        51.22542
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bruktererweg",
+                  "text": "Locul de joacă din Lüdenscheid îi invită pe copii la explorare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.61219,
+                        51.212854
+                  ]
+            },
+            {
+                  "name": "Spielplatz Harlingerstraße",
+                  "text": "Un loc de joacă frumos în Lüdenscheid, care oferă copiilor spațiu pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        7.614484,
+                        51.213461
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schubertstraße",
+                  "text": "Acest loc de joacă din Lüdenscheid oferă copiilor diverse echipamente de joacă într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        7.593249,
+                        51.221725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nelly-Pütz-Platz",
+                  "text": "Un loc de joacă situat central în Lüdenscheid, care servește drept punct de întâlnire pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.601735,
+                        51.225436
+                  ]
+            },
+            {
+                  "name": "Spielplatz Orffstraße",
+                  "text": "Un loc de joacă primitor în Lüdenscheid, ideal pentru o pauză în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.594304,
+                        51.224094
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hasenkamp",
+                  "text": "Locul de joacă din Lüdenscheid oferă copiilor spațiu pentru mișcare și jocuri creative.",
+                  "category": "family",
+                  "coords": [
+                        7.618054,
+                        51.231747
+                  ]
             }
       ],
       "en": [
@@ -9025,6 +18853,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.626829,
                         51.206885
+                  ]
+            },
+            {
+                  "name": "Jubachtalsperre",
+                  "text": "The Jubachtalsperre near Lüdenscheid is an idyllic reservoir, ideal for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        7.612129,
+                        51.164136
+                  ]
+            },
+            {
+                  "name": "Fürwiggetalsperre",
+                  "text": "The Fürwiggetalsperre near Lüdenscheid offers a picturesque backdrop for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.688115,
+                        51.146222
+                  ]
+            },
+            {
+                  "name": "Fuelbecketalsperre",
+                  "text": "A beautiful reservoir near Lüdenscheid that invites exploration of the wooded surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.663447,
+                        51.246568
+                  ]
+            },
+            {
+                  "name": "Vorstaubecken der Fuelbecketalsperre",
+                  "text": "A quiet body of water near Lüdenscheid, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        7.669505,
+                        51.245514
+                  ]
+            },
+            {
+                  "name": "Versetalsperre",
+                  "text": "The Versetalsperre near Lüdenscheid is a major reservoir and a popular destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        7.678722,
+                        51.177273
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnanlage 76-126",
+                  "text": "A playground in Lüdenscheid that offers children space to play within the residential complex.",
+                  "category": "family",
+                  "coords": [
+                        7.610628,
+                        51.223546
+                  ]
+            },
+            {
+                  "name": "Spielplatz Brighouse Park",
+                  "text": "This playground in Lüdenscheid offers children varied opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        7.628907,
+                        51.214383
+                  ]
+            },
+            {
+                  "name": "Captain Fun - Kids Club",
+                  "text": "An indoor playground in Lüdenscheid that offers children play fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        7.631591,
+                        51.215914
+                  ]
+            },
+            {
+                  "name": "Gamer - Die Gameshow",
+                  "text": "This amusement arcade in Lüdenscheid offers varied entertainment for visitors.",
+                  "category": "family",
+                  "coords": [
+                        7.65383,
+                        51.230248
+                  ]
+            },
+            {
+                  "name": "Quartiersplatz Knapper Grundschule",
+                  "text": "A playground in Lüdenscheid that serves as a meeting point for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        7.624445,
+                        51.220413
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ludwigstraße",
+                  "text": "A nice playground in Lüdenscheid that invites for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        7.620928,
+                        51.224955
+                  ]
+            },
+            {
+                  "name": "Spielplatz Piepersloh",
+                  "text": "The playground in Lüdenscheid offers children space for movement and shared experiences.",
+                  "category": "family",
+                  "coords": [
+                        7.666698,
+                        51.197849
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Grünewald",
+                  "text": "A family-friendly playground in Lüdenscheid, ideal for a short break with children.",
+                  "category": "family",
+                  "coords": [
+                        7.622699,
+                        51.223437
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stüttinghausen",
+                  "text": "This playground in Lüdenscheid offers children various opportunities for climbing and sliding.",
+                  "category": "family",
+                  "coords": [
+                        7.59091,
+                        51.211095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Vogelberg",
+                  "text": "A beautifully located playground in Lüdenscheid where children can play in peace.",
+                  "category": "family",
+                  "coords": [
+                        7.639095,
+                        51.234412
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hotopstraße",
+                  "text": "A central playground in Lüdenscheid that offers children plenty of space to run around.",
+                  "category": "family",
+                  "coords": [
+                        7.645051,
+                        51.224202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Im Olpendahl - Südteil",
+                  "text": "A playground in Lüdenscheid that offers children space for movement in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        7.620291,
+                        51.23383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wermecker Grund",
+                  "text": "This playground in Lüdenscheid offers varied play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        7.625318,
+                        51.225606
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterm Freihof",
+                  "text": "A well-maintained playground in Lüdenscheid, ideal for families from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        7.610366,
+                        51.22542
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bruktererweg",
+                  "text": "The playground in Lüdenscheid invites children to explore and play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        7.61219,
+                        51.212854
+                  ]
+            },
+            {
+                  "name": "Spielplatz Harlingerstraße",
+                  "text": "A nice playground in Lüdenscheid that offers children space to run around.",
+                  "category": "family",
+                  "coords": [
+                        7.614484,
+                        51.213461
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schubertstraße",
+                  "text": "This playground in Lüdenscheid offers children various play equipment in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        7.593249,
+                        51.221725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Nelly-Pütz-Platz",
+                  "text": "A centrally located playground in Lüdenscheid that serves as a meeting point for children.",
+                  "category": "family",
+                  "coords": [
+                        7.601735,
+                        51.225436
+                  ]
+            },
+            {
+                  "name": "Spielplatz Orffstraße",
+                  "text": "A family-friendly playground in Lüdenscheid, ideal for a break in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        7.594304,
+                        51.224094
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hasenkamp",
+                  "text": "The playground in Lüdenscheid offers children space for movement and creative play.",
+                  "category": "family",
+                  "coords": [
+                        7.618054,
+                        51.231747
                   ]
             }
       ]
@@ -9132,6 +19185,204 @@ export const germanyCitiesV2: POI[] = [
                         6.722669,
                         51.535399
                   ]
+            },
+            {
+                  "name": "Rotbachsee",
+                  "text": "Der Rotbachsee in Dinslaken lädt zu Spaziergängen und zur Erholung in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.782511,
+                        51.569121
+                  ]
+            },
+            {
+                  "name": "Tenderingssee",
+                  "text": "Der Tenderingssee bei Dinslaken ist ein beliebtes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        6.72144,
+                        51.597521
+                  ]
+            },
+            {
+                  "name": "Hügelstraße",
+                  "text": "Ein familienfreundlicher Spielplatz in der Hügelstraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.771405,
+                        51.556415
+                  ]
+            },
+            {
+                  "name": "An der Fliehburg",
+                  "text": "Ein Spielplatz an der Fliehburg in Dinslaken für Kinder zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        6.756998,
+                        51.552695
+                  ]
+            },
+            {
+                  "name": "Karl-Leisner-Straße",
+                  "text": "Ein Spielplatz in der Karl-Leisner-Straße in Dinslaken für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        6.741594,
+                        51.552735
+                  ]
+            },
+            {
+                  "name": "Niederfeldstraße",
+                  "text": "Ein familienfreundlicher Spielplatz in der Niederfeldstraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.751233,
+                        51.552085
+                  ]
+            },
+            {
+                  "name": "Nibelungenstraße",
+                  "text": "Ein Spielplatz in der Nibelungenstraße in Dinslaken für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        6.716674,
+                        51.579397
+                  ]
+            },
+            {
+                  "name": "Roonstraße/Lessingstraße",
+                  "text": "Ein Spielplatz an der Roonstraße/Lessingstraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.737361,
+                        51.564521
+                  ]
+            },
+            {
+                  "name": "Rotbachstraße",
+                  "text": "Ein Spielplatz in der Rotbachstraße in Dinslaken, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.71152,
+                        51.563049
+                  ]
+            },
+            {
+                  "name": "Sandrastraße",
+                  "text": "Ein familienfreundlicher Spielplatz in der Sandrastraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.744724,
+                        51.578792
+                  ]
+            },
+            {
+                  "name": "Hainweg",
+                  "text": "Ein Spielplatz am Hainweg in Dinslaken für Kinder zum Toben im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        6.752466,
+                        51.572138
+                  ]
+            },
+            {
+                  "name": "Blumenanger",
+                  "text": "Ein familienfreundlicher Spielplatz am Blumenanger in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.755291,
+                        51.57251
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Franz-Lenze-Platz",
+                  "text": "Ein Spielplatz am Franz-Lenze-Platz in Dinslaken für Spielspaß im Quartier.",
+                  "category": "family",
+                  "coords": [
+                        6.724015,
+                        51.537551
+                  ]
+            },
+            {
+                  "name": "Am Talgraben",
+                  "text": "Ein Spielplatz Am Talgraben in Dinslaken für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        6.763853,
+                        51.556653
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rilkeweg",
+                  "text": "Ein familienfreundlicher Spielplatz im Rilkeweg in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.726208,
+                        51.568757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Memeler Straße",
+                  "text": "Ein Spielplatz in der Memeler Straße in Dinslaken für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.72054,
+                        51.54813
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niesmannshof",
+                  "text": "Ein familienfreundlicher Spielplatz am Niesmannshof in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.708459,
+                        51.565708
+                  ]
+            },
+            {
+                  "name": "Windmühle",
+                  "text": "Der Spielplatz Windmühle in Dinslaken ist ein schönes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.767274,
+                        51.558814
+                  ]
+            },
+            {
+                  "name": "Spielplatz Küpperstraße",
+                  "text": "Ein Spielplatz in der Küpperstraße in Dinslaken für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        6.759148,
+                        51.55838
+                  ]
+            },
+            {
+                  "name": "Baßfeldshof",
+                  "text": "Ein familienfreundlicher Spielplatz am Baßfeldshof in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.735298,
+                        51.578212
+                  ]
+            },
+            {
+                  "name": "Thomashof",
+                  "text": "Der Spielplatz Thomashof in Dinslaken bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.720164,
+                        51.565558
+                  ]
+            },
+            {
+                  "name": "Damaschkeweg",
+                  "text": "Ein schöner Spielplatz am Damaschkeweg in Dinslaken für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.716241,
+                        51.568614
+                  ]
             }
       ],
       "hu": [
@@ -9187,6 +19438,204 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.722669,
                         51.535399
+                  ]
+            },
+            {
+                  "name": "Rotbachsee",
+                  "text": "A dinslakeni Rotbachsee pihentető sétákra és kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.782511,
+                        51.569121
+                  ]
+            },
+            {
+                  "name": "Tenderingssee",
+                  "text": "A Dinslaken melletti Tenderingssee kedvelt célpont a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.72144,
+                        51.597521
+                  ]
+            },
+            {
+                  "name": "Hügelstraße",
+                  "text": "Családbarát játszótér a dinslakeni Hügelstraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        6.771405,
+                        51.556415
+                  ]
+            },
+            {
+                  "name": "An der Fliehburg",
+                  "text": "Játszótér a dinslakeni Fliehburgnál, ahol a gyerekek felfedezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        6.756998,
+                        51.552695
+                  ]
+            },
+            {
+                  "name": "Karl-Leisner-Straße",
+                  "text": "Játszótér a dinslakeni Karl-Leisner-Straße utcában játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.741594,
+                        51.552735
+                  ]
+            },
+            {
+                  "name": "Niederfeldstraße",
+                  "text": "Családbarát játszótér a dinslakeni Niederfeldstraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        6.751233,
+                        51.552085
+                  ]
+            },
+            {
+                  "name": "Nibelungenstraße",
+                  "text": "Játszótér a dinslakeni Nibelungenstraße utcában kis kalandoroknak.",
+                  "category": "family",
+                  "coords": [
+                        6.716674,
+                        51.579397
+                  ]
+            },
+            {
+                  "name": "Roonstraße/Lessingstraße",
+                  "text": "Játszótér a dinslakeni Roonstraße/Lessingstraße sarkán.",
+                  "category": "family",
+                  "coords": [
+                        6.737361,
+                        51.564521
+                  ]
+            },
+            {
+                  "name": "Rotbachstraße",
+                  "text": "Játszótér a dinslakeni Rotbachstraße utcában, ideális családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.71152,
+                        51.563049
+                  ]
+            },
+            {
+                  "name": "Sandrastraße",
+                  "text": "Családbarát játszótér a dinslakeni Sandrastraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        6.744724,
+                        51.578792
+                  ]
+            },
+            {
+                  "name": "Hainweg",
+                  "text": "Játszótér a dinslakeni Hainwegen a zöldben való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.752466,
+                        51.572138
+                  ]
+            },
+            {
+                  "name": "Blumenanger",
+                  "text": "Családbarát játszótér a dinslakeni Blumenangernél.",
+                  "category": "family",
+                  "coords": [
+                        6.755291,
+                        51.57251
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Franz-Lenze-Platz",
+                  "text": "Játszótér a dinslakeni Franz-Lenze-Platzon a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.724015,
+                        51.537551
+                  ]
+            },
+            {
+                  "name": "Am Talgraben",
+                  "text": "Játszótér az Am Talgrabennél Dinslakenben gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.763853,
+                        51.556653
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rilkeweg",
+                  "text": "Családbarát játszótér a dinslakeni Rilkewegen.",
+                  "category": "family",
+                  "coords": [
+                        6.726208,
+                        51.568757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Memeler Straße",
+                  "text": "Játszótér a dinslakeni Memeler Straße utcában gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.72054,
+                        51.54813
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niesmannshof",
+                  "text": "Családbarát játszótér a dinslakeni Niesmannshofnál.",
+                  "category": "family",
+                  "coords": [
+                        6.708459,
+                        51.565708
+                  ]
+            },
+            {
+                  "name": "Windmühle",
+                  "text": "A dinslakeni Windmühle játszótér kedvelt célpont a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.767274,
+                        51.558814
+                  ]
+            },
+            {
+                  "name": "Spielplatz Küpperstraße",
+                  "text": "Játszótér a dinslakeni Küpperstraße utcában játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.759148,
+                        51.55838
+                  ]
+            },
+            {
+                  "name": "Baßfeldshof",
+                  "text": "Családbarát játszótér a dinslakeni Baßfeldshofnál.",
+                  "category": "family",
+                  "coords": [
+                        6.735298,
+                        51.578212
+                  ]
+            },
+            {
+                  "name": "Thomashof",
+                  "text": "A dinslakeni Thomashof játszótér változatos játéklehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.720164,
+                        51.565558
+                  ]
+            },
+            {
+                  "name": "Damaschkeweg",
+                  "text": "Egy szép játszótér a dinslakeni Damaschkeweg utcában az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        6.716241,
+                        51.568614
                   ]
             }
       ],
@@ -9244,6 +19693,204 @@ export const germanyCitiesV2: POI[] = [
                         6.722669,
                         51.535399
                   ]
+            },
+            {
+                  "name": "Rotbachsee",
+                  "text": "Lacul Rotbachsee din Dinslaken este ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.782511,
+                        51.569121
+                  ]
+            },
+            {
+                  "name": "Tenderingssee",
+                  "text": "Lacul Tenderingssee de lângă Dinslaken este o destinație populară pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.72144,
+                        51.597521
+                  ]
+            },
+            {
+                  "name": "Hügelstraße",
+                  "text": "Un teren de joacă pentru familii pe Hügelstraße în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.771405,
+                        51.556415
+                  ]
+            },
+            {
+                  "name": "An der Fliehburg",
+                  "text": "Un teren de joacă la Fliehburg în Dinslaken pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.756998,
+                        51.552695
+                  ]
+            },
+            {
+                  "name": "Karl-Leisner-Straße",
+                  "text": "Un teren de joacă pe Karl-Leisner-Straße în Dinslaken pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        6.741594,
+                        51.552735
+                  ]
+            },
+            {
+                  "name": "Niederfeldstraße",
+                  "text": "Un teren de joacă pentru familii pe Niederfeldstraße în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.751233,
+                        51.552085
+                  ]
+            },
+            {
+                  "name": "Nibelungenstraße",
+                  "text": "Un teren de joacă pe Nibelungenstraße în Dinslaken pentru mici aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        6.716674,
+                        51.579397
+                  ]
+            },
+            {
+                  "name": "Roonstraße/Lessingstraße",
+                  "text": "Un teren de joacă la intersecția Roonstraße/Lessingstraße în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.737361,
+                        51.564521
+                  ]
+            },
+            {
+                  "name": "Rotbachstraße",
+                  "text": "Un teren de joacă pe Rotbachstraße în Dinslaken, ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.71152,
+                        51.563049
+                  ]
+            },
+            {
+                  "name": "Sandrastraße",
+                  "text": "Un teren de joacă pentru familii pe Sandrastraße în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.744724,
+                        51.578792
+                  ]
+            },
+            {
+                  "name": "Hainweg",
+                  "text": "Un teren de joacă pe Hainweg în Dinslaken pentru joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        6.752466,
+                        51.572138
+                  ]
+            },
+            {
+                  "name": "Blumenanger",
+                  "text": "Un teren de joacă pentru familii la Blumenanger în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.755291,
+                        51.57251
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Franz-Lenze-Platz",
+                  "text": "Un teren de joacă în Franz-Lenze-Platz din Dinslaken pentru distracție locală.",
+                  "category": "family",
+                  "coords": [
+                        6.724015,
+                        51.537551
+                  ]
+            },
+            {
+                  "name": "Am Talgraben",
+                  "text": "Un teren de joacă Am Talgraben în Dinslaken pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.763853,
+                        51.556653
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rilkeweg",
+                  "text": "Un teren de joacă pentru familii pe Rilkeweg în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.726208,
+                        51.568757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Memeler Straße",
+                  "text": "Un teren de joacă pe Memeler Straße în Dinslaken pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.72054,
+                        51.54813
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niesmannshof",
+                  "text": "Un teren de joacă pentru familii la Niesmannshof în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.708459,
+                        51.565708
+                  ]
+            },
+            {
+                  "name": "Windmühle",
+                  "text": "Locul de joacă Windmühle din Dinslaken este o destinație frumoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.767274,
+                        51.558814
+                  ]
+            },
+            {
+                  "name": "Spielplatz Küpperstraße",
+                  "text": "Un teren de joacă pe Küpperstraße în Dinslaken pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        6.759148,
+                        51.55838
+                  ]
+            },
+            {
+                  "name": "Baßfeldshof",
+                  "text": "Un teren de joacă pentru familii la Baßfeldshof în Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.735298,
+                        51.578212
+                  ]
+            },
+            {
+                  "name": "Thomashof",
+                  "text": "Locul de joacă Thomashof din Dinslaken oferă diverse facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        6.720164,
+                        51.565558
+                  ]
+            },
+            {
+                  "name": "Damaschkeweg",
+                  "text": "Un loc de joacă frumos pe Damaschkeweg în Dinslaken pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.716241,
+                        51.568614
+                  ]
             }
       ],
       "en": [
@@ -9300,6 +19947,204 @@ export const germanyCitiesV2: POI[] = [
                         6.722669,
                         51.535399
                   ]
+            },
+            {
+                  "name": "Rotbachsee",
+                  "text": "The Rotbachsee in Dinslaken is a place for relaxing walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.782511,
+                        51.569121
+                  ]
+            },
+            {
+                  "name": "Tenderingssee",
+                  "text": "The Tenderingssee near Dinslaken is a popular destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.72144,
+                        51.597521
+                  ]
+            },
+            {
+                  "name": "Hügelstraße",
+                  "text": "A family-friendly playground in Hügelstraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.771405,
+                        51.556415
+                  ]
+            },
+            {
+                  "name": "An der Fliehburg",
+                  "text": "A playground at An der Fliehburg in Dinslaken for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        6.756998,
+                        51.552695
+                  ]
+            },
+            {
+                  "name": "Karl-Leisner-Straße",
+                  "text": "A playground in Karl-Leisner-Straße in Dinslaken for fun and games.",
+                  "category": "family",
+                  "coords": [
+                        6.741594,
+                        51.552735
+                  ]
+            },
+            {
+                  "name": "Niederfeldstraße",
+                  "text": "A family-friendly playground in Niederfeldstraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.751233,
+                        51.552085
+                  ]
+            },
+            {
+                  "name": "Nibelungenstraße",
+                  "text": "A playground in Nibelungenstraße in Dinslaken for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        6.716674,
+                        51.579397
+                  ]
+            },
+            {
+                  "name": "Roonstraße/Lessingstraße",
+                  "text": "A playground at Roonstraße/Lessingstraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.737361,
+                        51.564521
+                  ]
+            },
+            {
+                  "name": "Rotbachstraße",
+                  "text": "A playground in Rotbachstraße in Dinslaken, ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        6.71152,
+                        51.563049
+                  ]
+            },
+            {
+                  "name": "Sandrastraße",
+                  "text": "A family-friendly playground in Sandrastraße in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.744724,
+                        51.578792
+                  ]
+            },
+            {
+                  "name": "Hainweg",
+                  "text": "A playground at Hainweg in Dinslaken for children to play in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        6.752466,
+                        51.572138
+                  ]
+            },
+            {
+                  "name": "Blumenanger",
+                  "text": "A family-friendly playground at Blumenanger in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.755291,
+                        51.57251
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Franz-Lenze-Platz",
+                  "text": "A playground at Franz-Lenze-Platz in Dinslaken for fun in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        6.724015,
+                        51.537551
+                  ]
+            },
+            {
+                  "name": "Am Talgraben",
+                  "text": "A playground Am Talgraben in Dinslaken for children to play.",
+                  "category": "family",
+                  "coords": [
+                        6.763853,
+                        51.556653
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rilkeweg",
+                  "text": "A family-friendly playground in Rilkeweg in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.726208,
+                        51.568757
+                  ]
+            },
+            {
+                  "name": "Spielplatz Memeler Straße",
+                  "text": "A playground in Memeler Straße in Dinslaken for children.",
+                  "category": "family",
+                  "coords": [
+                        6.72054,
+                        51.54813
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niesmannshof",
+                  "text": "A family-friendly playground at Niesmannshof in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.708459,
+                        51.565708
+                  ]
+            },
+            {
+                  "name": "Windmühle",
+                  "text": "The Windmühle playground in Dinslaken is a nice destination for families.",
+                  "category": "family",
+                  "coords": [
+                        6.767274,
+                        51.558814
+                  ]
+            },
+            {
+                  "name": "Spielplatz Küpperstraße",
+                  "text": "A playground in Küpperstraße in Dinslaken for fun and games.",
+                  "category": "family",
+                  "coords": [
+                        6.759148,
+                        51.55838
+                  ]
+            },
+            {
+                  "name": "Baßfeldshof",
+                  "text": "A family-friendly playground at Baßfeldshof in Dinslaken.",
+                  "category": "family",
+                  "coords": [
+                        6.735298,
+                        51.578212
+                  ]
+            },
+            {
+                  "name": "Thomashof",
+                  "text": "The Thomashof playground in Dinslaken offers varied play options for children.",
+                  "category": "family",
+                  "coords": [
+                        6.720164,
+                        51.565558
+                  ]
+            },
+            {
+                  "name": "Damaschkeweg",
+                  "text": "A nice playground on Damaschkeweg in Dinslaken for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.716241,
+                        51.568614
+                  ]
             }
       ]
 },
@@ -9351,7 +20196,484 @@ export const germanyCitiesV2: POI[] = [
     image: "/poi-images/germany-dinslaken-cities-v2.webp",
   },
   {
-    id: "germany-ratingen-cities-v2",
+    id: "germany-ratingen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fliedner-See",
+                  "text": "Ein See in Ratingen, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.748828,
+                        51.294128
+                  ]
+            },
+            {
+                  "name": "Lambertus-See",
+                  "text": "Ein ruhiger See in Ratingen, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        6.754629,
+                        51.294414
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "Ein bekannter See in Ratingen, der als Erholungsgebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        6.821906,
+                        51.28463
+                  ]
+            },
+            {
+                  "name": "Schmitzsee",
+                  "text": "Dieses Gewässer in Ratingen bietet eine entspannte Atmosphäre am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        6.774388,
+                        51.315435
+                  ]
+            },
+            {
+                  "name": "Membranbecken",
+                  "text": "Ein See in Ratingen, der zu Beobachtungen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.893419,
+                        51.329166
+                  ]
+            },
+            {
+                  "name": "Angermunder See",
+                  "text": "Ein See bei Ratingen, der eine schöne Kulisse für Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.789544,
+                        51.318856
+                  ]
+            },
+            {
+                  "name": "Rahmer See",
+                  "text": "Ein ruhiges Gewässer in der Umgebung von Ratingen für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        6.768529,
+                        51.356042
+                  ]
+            },
+            {
+                  "name": "Suitbertus-See",
+                  "text": "Ein lokaler See in Ratingen, ideal für einen kurzen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.744318,
+                        51.294072
+                  ]
+            },
+            {
+                  "name": "Waldsee",
+                  "text": "Ein Waldsee in Ratingen, der eine idyllische Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.856442,
+                        51.339
+                  ]
+            },
+            {
+                  "name": "Fontaneweg",
+                  "text": "Ein Spielplatz in Ratingen, der Kindern eine sichere Spielumgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.876183,
+                        51.298519
+                  ]
+            },
+            {
+                  "name": "Rodelberg",
+                  "text": "Spielplatz in Ratingen, der Möglichkeiten zum Toben und Bewegen bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.821349,
+                        51.296632
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz am Rodelberg",
+                  "text": "Ein Wasserspielplatz in Ratingen, der Kindern an warmen Tagen Abkühlung bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.821725,
+                        51.298038
+                  ]
+            },
+            {
+                  "name": "Minigolf Blauer See",
+                  "text": "Die Minigolfanlage Blauer See in Ratingen ist ein schönes Ziel für einen gemeinsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        6.857224,
+                        51.308391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fliedner-See",
+                  "text": "Ratingeni tó, amely alkalmas természetjáró sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        6.748828,
+                        51.294128
+                  ]
+            },
+            {
+                  "name": "Lambertus-See",
+                  "text": "Csendes tó Ratingenben, ideális egy zöldövezeti pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        6.754629,
+                        51.294414
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "Ismert tó Ratingenben, amely pihenőhelyként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        6.821906,
+                        51.28463
+                  ]
+            },
+            {
+                  "name": "Schmitzsee",
+                  "text": "Ez a ratingeni vízfelület pihentető hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        6.774388,
+                        51.315435
+                  ]
+            },
+            {
+                  "name": "Membranbecken",
+                  "text": "Ratingeni tó, amely természetmegfigyelésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.893419,
+                        51.329166
+                  ]
+            },
+            {
+                  "name": "Angermunder See",
+                  "text": "Ratingen közeli tó, amely szép hátteret biztosít a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.789544,
+                        51.318856
+                  ]
+            },
+            {
+                  "name": "Rahmer See",
+                  "text": "Csendes vízfelület Ratingen környékén a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        6.768529,
+                        51.356042
+                  ]
+            },
+            {
+                  "name": "Suitbertus-See",
+                  "text": "Helyi tó Ratingenben, ideális egy rövid vízparti sétára.",
+                  "category": "natural",
+                  "coords": [
+                        6.744318,
+                        51.294072
+                  ]
+            },
+            {
+                  "name": "Waldsee",
+                  "text": "Erdei tó Ratingenben, amely idilli környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        6.856442,
+                        51.339
+                  ]
+            },
+            {
+                  "name": "Fontaneweg",
+                  "text": "Játszótér Ratingenben, amely biztonságos játékkörnyezetet biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.876183,
+                        51.298519
+                  ]
+            },
+            {
+                  "name": "Rodelberg",
+                  "text": "Játszótér Ratingenben, amely lehetőséget ad a mozgásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        6.821349,
+                        51.296632
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz am Rodelberg",
+                  "text": "Vizes játszótér Ratingenben, amely hűsítő játékot kínál a gyerekeknek a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        6.821725,
+                        51.298038
+                  ]
+            },
+            {
+                  "name": "Minigolf Blauer See",
+                  "text": "A ratingeni Blauer See minigolfpálya remek úticél egy közös családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.857224,
+                        51.308391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fliedner-See",
+                  "text": "Un lac în Ratingen, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.748828,
+                        51.294128
+                  ]
+            },
+            {
+                  "name": "Lambertus-See",
+                  "text": "Un lac liniștit în Ratingen, ideal pentru o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.754629,
+                        51.294414
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "Un lac cunoscut în Ratingen, care servește ca zonă de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        6.821906,
+                        51.28463
+                  ]
+            },
+            {
+                  "name": "Schmitzsee",
+                  "text": "Această întindere de apă din Ratingen oferă o atmosferă relaxată pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        6.774388,
+                        51.315435
+                  ]
+            },
+            {
+                  "name": "Membranbecken",
+                  "text": "Un lac în Ratingen care invită la observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.893419,
+                        51.329166
+                  ]
+            },
+            {
+                  "name": "Angermunder See",
+                  "text": "Un lac lângă Ratingen, care oferă un cadru frumos pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        6.789544,
+                        51.318856
+                  ]
+            },
+            {
+                  "name": "Rahmer See",
+                  "text": "O întindere de apă liniștită în zona Ratingen pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.768529,
+                        51.356042
+                  ]
+            },
+            {
+                  "name": "Suitbertus-See",
+                  "text": "Un lac local în Ratingen, ideal pentru o scurtă plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.744318,
+                        51.294072
+                  ]
+            },
+            {
+                  "name": "Waldsee",
+                  "text": "Un lac de pădure în Ratingen, care oferă un cadru idilic pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        6.856442,
+                        51.339
+                  ]
+            },
+            {
+                  "name": "Fontaneweg",
+                  "text": "Un loc de joacă în Ratingen, care oferă copiilor un mediu sigur de joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.876183,
+                        51.298519
+                  ]
+            },
+            {
+                  "name": "Rodelberg",
+                  "text": "Loc de joacă în Ratingen, care oferă oportunități de mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        6.821349,
+                        51.296632
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz am Rodelberg",
+                  "text": "Un loc de joacă cu apă în Ratingen, care oferă răcoare copiilor în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        6.821725,
+                        51.298038
+                  ]
+            },
+            {
+                  "name": "Minigolf Blauer See",
+                  "text": "Terenul de minigolf Blauer See din Ratingen este o destinație frumoasă pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.857224,
+                        51.308391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fliedner-See",
+                  "text": "A lake in Ratingen suitable for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.748828,
+                        51.294128
+                  ]
+            },
+            {
+                  "name": "Lambertus-See",
+                  "text": "A quiet lake in Ratingen, ideal for a break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        6.754629,
+                        51.294414
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "A well-known lake in Ratingen serving as a recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        6.821906,
+                        51.28463
+                  ]
+            },
+            {
+                  "name": "Schmitzsee",
+                  "text": "This body of water in Ratingen offers a relaxed atmosphere along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        6.774388,
+                        51.315435
+                  ]
+            },
+            {
+                  "name": "Membranbecken",
+                  "text": "A lake in Ratingen inviting for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        6.893419,
+                        51.329166
+                  ]
+            },
+            {
+                  "name": "Angermunder See",
+                  "text": "A lake near Ratingen providing a lovely backdrop for excursions.",
+                  "category": "natural",
+                  "coords": [
+                        6.789544,
+                        51.318856
+                  ]
+            },
+            {
+                  "name": "Rahmer See",
+                  "text": "A quiet body of water in the Ratingen area for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.768529,
+                        51.356042
+                  ]
+            },
+            {
+                  "name": "Suitbertus-See",
+                  "text": "A local lake in Ratingen, ideal for a short walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.744318,
+                        51.294072
+                  ]
+            },
+            {
+                  "name": "Waldsee",
+                  "text": "A forest lake in Ratingen offering an idyllic setting for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        6.856442,
+                        51.339
+                  ]
+            },
+            {
+                  "name": "Fontaneweg",
+                  "text": "A playground in Ratingen providing a safe play environment for children.",
+                  "category": "family",
+                  "coords": [
+                        6.876183,
+                        51.298519
+                  ]
+            },
+            {
+                  "name": "Rodelberg",
+                  "text": "Playground in Ratingen offering opportunities for running around and moving.",
+                  "category": "family",
+                  "coords": [
+                        6.821349,
+                        51.296632
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz am Rodelberg",
+                  "text": "A water playground in Ratingen offering cooling fun for children on warm days.",
+                  "category": "family",
+                  "coords": [
+                        6.821725,
+                        51.298038
+                  ]
+            },
+            {
+                  "name": "Minigolf Blauer See",
+                  "text": "The Minigolf Blauer See in Ratingen is a great destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        6.857224,
+                        51.308391
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DE",
     name: { de: "Ratingen", hu: "Ratingen", ro: "Ratingen", en: "Ratingen" },

@@ -3617,7 +3617,7 @@ imageHint: "Nitra Castle on the hill overlooking the city",
             {
                   "name": "Aquapark Trnava",
                   "text": "Ein moderner Wasserpark mit verschiedenen Innen- und Außenbecken in Trnava.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.585777,
                         48.382752
@@ -3772,7 +3772,7 @@ imageHint: "Nitra Castle on the hill overlooking the city",
             {
                   "name": "Aquapark Trnava",
                   "text": "Modern vízipark különféle beltéri és kültéri medencékkel Nagyszombatban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.585777,
                         48.382752
@@ -3927,7 +3927,7 @@ imageHint: "Nitra Castle on the hill overlooking the city",
             {
                   "name": "Aquapark Trnava",
                   "text": "Un parc acvatic modern care oferă diverse piscine interioare și exterioare în Trnava.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.585777,
                         48.382752
@@ -4082,7 +4082,7 @@ imageHint: "Nitra Castle on the hill overlooking the city",
             {
                   "name": "Aquapark Trnava",
                   "text": "A modern water park offering various indoor and outdoor swimming facilities in Trnava.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.585777,
                         48.382752
@@ -4302,7 +4302,7 @@ imageHint: "Trnava main square with the City Tower and churches",
             {
                   "name": "Kúpalisko Martin",
                   "text": "Ein beliebtes Freibad in Martin mit verschiedenen Becken und Liegeflächen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.908236,
                         49.055418
@@ -4475,7 +4475,7 @@ imageHint: "Trnava main square with the City Tower and churches",
             {
                   "name": "Kúpalisko Martin",
                   "text": "Népszerű strandfürdő Turócszentmártonban különböző medencékkel és napozóhelyekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.908236,
                         49.055418
@@ -4648,7 +4648,7 @@ imageHint: "Trnava main square with the City Tower and churches",
             {
                   "name": "Kúpalisko Martin",
                   "text": "Un ștrand popular în Martin, cu diverse bazine și zone de plajă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.908236,
                         49.055418
@@ -4821,7 +4821,7 @@ imageHint: "Trnava main square with the City Tower and churches",
             {
                   "name": "Kúpalisko Martin",
                   "text": "A popular seasonal swimming pool in Martin with various pools and sunbathing areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.908236,
                         49.055418
@@ -5032,7 +5032,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Lumapark",
                   "text": "Ein lokaler Freizeitpark in Trenčín, der Unterhaltung für Familien bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.05,
                         48.895658
@@ -5059,7 +5059,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Letné kúpalisko Trenčín",
                   "text": "Ein beliebtes Freibad in Trenčín mit verschiedenen Wasserattraktionen für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.04394,
                         48.901371
@@ -5241,7 +5241,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Lumapark",
                   "text": "Helyi vidámpark Trencsénben, amely szórakozást nyújt a családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.05,
                         48.895658
@@ -5268,7 +5268,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Letné kúpalisko Trenčín",
                   "text": "Népszerű szabadtéri strand Trencsénben, különféle vízi attrakciókkal a látogatók számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.04394,
                         48.901371
@@ -5450,7 +5450,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Lumapark",
                   "text": "Un parc de distracții local în Trenčín, care oferă divertisment pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.05,
                         48.895658
@@ -5477,7 +5477,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Letné kúpalisko Trenčín",
                   "text": "Un ștrand popular în aer liber din Trenčín, cu diverse atracții acvative pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.04394,
                         48.901371
@@ -5659,7 +5659,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Lumapark",
                   "text": "A local amusement park in Trenčín providing entertainment for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.05,
                         48.895658
@@ -5686,7 +5686,7 @@ imageHint: "Building of Matica slovenská in Martin",
             {
                   "name": "Letné kúpalisko Trenčín",
                   "text": "A popular outdoor swimming pool in Trenčín with various water attractions for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.04394,
                         48.901371
@@ -6729,7 +6729,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Mini ZOO",
                   "text": "Ein kleiner Tierpark in Nové Zámky, ideal für Familienbesuche.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.135745,
                         47.975232
@@ -6738,7 +6738,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Termálne kúpalisko Štrand Emila Tatárika",
                   "text": "Ein großes Thermalbad in Nové Zámky mit mehreren Becken und Freizeitanlagen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.185013,
                         47.998867
@@ -6848,7 +6848,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Mini ZOO",
                   "text": "Kisméretű állatkert Érsekújvárott, amely ideális családi kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.135745,
                         47.975232
@@ -6857,7 +6857,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Termálne kúpalisko Štrand Emila Tatárika",
                   "text": "Hatalmas termálfürdő Érsekújvárott több medencével és szabadidős lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.185013,
                         47.998867
@@ -6967,7 +6967,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Mini ZOO",
                   "text": "O mică grădină zoologică în Nové Zámky, ideală pentru vizite cu familia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.135745,
                         47.975232
@@ -6976,7 +6976,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Termálne kúpalisko Štrand Emila Tatárika",
                   "text": "Un ștrand termal mare în Nové Zámky, cu mai multe bazine și facilități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.185013,
                         47.998867
@@ -7086,7 +7086,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Mini ZOO",
                   "text": "A small zoo in Nové Zámky, ideal for family visits.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.135745,
                         47.975232
@@ -7095,7 +7095,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             {
                   "name": "Termálne kúpalisko Štrand Emila Tatárika",
                   "text": "A large thermal swimming pool complex in Nové Zámky with several pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.185013,
                         47.998867
@@ -7868,7 +7868,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             {
                   "name": "BUBO Landia",
                   "text": "Ein familienfreundlicher Themenpark und Spielplatz für Kinder in Bardejov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.29474,
                         49.31361
@@ -8014,7 +8014,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             {
                   "name": "BUBO Landia",
                   "text": "Családbarát vidámpark és játszótér gyerekeknek Bártfán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.29474,
                         49.31361
@@ -8160,7 +8160,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             {
                   "name": "BUBO Landia",
                   "text": "Un parc tematic și loc de joacă pentru copii, ideal pentru familii, în Bardejov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.29474,
                         49.31361
@@ -8306,7 +8306,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             {
                   "name": "BUBO Landia",
                   "text": "A family-friendly theme park and playground for children in Bardejov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.29474,
                         49.31361
@@ -8490,7 +8490,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             {
                   "name": "Luminaverse",
                   "text": "Ein moderner Themenpark in Liptovský Mikuláš mit interaktiven Lichtinstallationen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.593714,
                         49.090569
@@ -8627,7 +8627,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             {
                   "name": "Luminaverse",
                   "text": "Modern vidámpark Liptószentmiklóson interaktív fényinstallációkkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.593714,
                         49.090569
@@ -8764,7 +8764,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             {
                   "name": "Luminaverse",
                   "text": "Un parc tematic modern în Liptovský Mikuláš cu instalații de lumină interactive.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.593714,
                         49.090569
@@ -8901,7 +8901,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             {
                   "name": "Luminaverse",
                   "text": "A modern theme park in Liptovský Mikuláš featuring interactive light installations.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.593714,
                         49.090569
@@ -9094,7 +9094,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             {
                   "name": "Miraj Resort",
                   "text": "Ein Freizeit- und Erholungskomplex in Lučenec mit Poollandschaft und Wellnessangeboten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.68756,
                         48.340145
@@ -9186,7 +9186,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             {
                   "name": "Miraj Resort",
                   "text": "Szabadidő- és üdülőközpont Losoncon, medencékkel és wellness szolgáltatásokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.68756,
                         48.340145
@@ -9278,7 +9278,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             {
                   "name": "Miraj Resort",
                   "text": "Un complex de agrement și recreere în Lučenec, cu piscine și servicii wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.68756,
                         48.340145
@@ -9370,7 +9370,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             {
                   "name": "Miraj Resort",
                   "text": "A leisure and recreation complex in Lučenec with a pool area and wellness services.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.68756,
                         48.340145
@@ -10455,7 +10455,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Lezecka stena",
                   "text": "Eine Sport- und Freizeiteinrichtung in Ružomberok, die Möglichkeiten zum Klettern bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -10464,7 +10464,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "Ein Seilpark in der Nähe des Stausees Hrabovo, der verschiedene Kletterparcours bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -10491,7 +10491,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Královstvo HRABOVO",
                   "text": "Ein Familienfreizeitpark im Gebiet Hrabovo, der verschiedene Attraktionen für Kinder bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274176,
                         49.073235
@@ -10727,7 +10727,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Lezecka stena",
                   "text": "Sport- és szabadidős létesítmény Rózsahegyen, amely falmászási lehetőséget kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -10736,7 +10736,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "Kötélpálya a Hrabovói-víztározó közelében, amely különböző mászópályákat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -10763,7 +10763,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Královstvo HRABOVO",
                   "text": "Családi szabadidőpark Hrabovo területén, amely különféle attrakciókat kínál gyermekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274176,
                         49.073235
@@ -10999,7 +10999,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Lezecka stena",
                   "text": "O facilitate sportivă și de agrement din Ružomberok, care oferă posibilități de escaladă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -11008,7 +11008,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "Un parc de aventură cu corzi lângă lacul Hrabovo, care oferă diverse trasee de cățărare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -11035,7 +11035,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Královstvo HRABOVO",
                   "text": "Un parc de distracții pentru familii în zona Hrabovo, care oferă diverse atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274176,
                         49.073235
@@ -11271,7 +11271,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Lezecka stena",
                   "text": "A sports and leisure facility in Ružomberok offering climbing opportunities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -11280,7 +11280,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "A rope park near the Hrabovo reservoir offering various climbing courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -11307,7 +11307,7 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
             {
                   "name": "Královstvo HRABOVO",
                   "text": "A family leisure park in the Hrabovo area offering various attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274176,
                         49.073235
@@ -12132,7 +12132,7 @@ imageHint: "Andrássy Palace in Trebišov with the park",
             {
                   "name": "Mestské kúpalisko",
                   "text": "Ein öffentliches Schwimmbad in Čadca, das sommerliche Erholung für Einwohner und Besucher bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.78089,
                         49.440345
@@ -12188,7 +12188,7 @@ imageHint: "Andrássy Palace in Trebišov with the park",
             {
                   "name": "Mestské kúpalisko",
                   "text": "Nyilvános uszoda Csacán, amely nyári kikapcsolódást nyújt a lakosoknak és a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.78089,
                         49.440345
@@ -12244,7 +12244,7 @@ imageHint: "Andrássy Palace in Trebišov with the park",
             {
                   "name": "Mestské kúpalisko",
                   "text": "O piscină publică în Čadca, care oferă recreere pe timp de vară pentru locuitori și vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.78089,
                         49.440345
@@ -12300,7 +12300,7 @@ imageHint: "Andrássy Palace in Trebišov with the park",
             {
                   "name": "Mestské kúpalisko",
                   "text": "A public swimming pool in Čadca offering summer recreation for residents and visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.78089,
                         49.440345
@@ -12449,7 +12449,7 @@ imageHint: "Rimavská Sobota main square with the church",
             {
                   "name": "Thermalpark DS",
                   "text": "Ein beliebter Thermalbadpark in Dunajská Streda mit verschiedenen Thermalbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.607838,
                         47.984168
@@ -12487,7 +12487,7 @@ imageHint: "Rimavská Sobota main square with the church",
             {
                   "name": "Thermalpark DS",
                   "text": "Népszerű termálfürdő Dunaszerdahelyen, számos melegvizes medencével.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.607838,
                         47.984168
@@ -12525,7 +12525,7 @@ imageHint: "Rimavská Sobota main square with the church",
             {
                   "name": "Thermalpark DS",
                   "text": "Un parc acvatic termal popular din Dunajská Streda, cu diverse bazine termale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.607838,
                         47.984168
@@ -12563,7 +12563,7 @@ imageHint: "Rimavská Sobota main square with the church",
             {
                   "name": "Thermalpark DS",
                   "text": "A popular thermal water park in Dunajská Streda with various thermal pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.607838,
                         47.984168
@@ -13625,7 +13625,7 @@ imageHint: "Senica city center and the Záhorie Gallery building",
             {
                   "name": "Letné kúpalisko Pezinok",
                   "text": "Ein öffentliches Freibad in Pezinok, das während der Sommermonate geöffnet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.269161,
                         48.300938
@@ -13798,7 +13798,7 @@ imageHint: "Senica city center and the Záhorie Gallery building",
             {
                   "name": "Letné kúpalisko Pezinok",
                   "text": "Nyilvános szabadtéri strand Bazinban, amely a nyári szezonban tart nyitva.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.269161,
                         48.300938
@@ -13971,7 +13971,7 @@ imageHint: "Senica city center and the Záhorie Gallery building",
             {
                   "name": "Letné kúpalisko Pezinok",
                   "text": "Un complex de piscine în aer liber în Pezinok, deschis în timpul verii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.269161,
                         48.300938
@@ -14144,7 +14144,7 @@ imageHint: "Senica city center and the Záhorie Gallery building",
             {
                   "name": "Letné kúpalisko Pezinok",
                   "text": "A public outdoor swimming pool complex in Pezinok open during the summer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.269161,
                         48.300938
@@ -15223,7 +15223,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             {
                   "name": "Letné kúpalisko Púchov",
                   "text": "Ein saisonales Freibad und eine Freizeiteinrichtung in Púchov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.322163,
                         49.118371
@@ -15306,7 +15306,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             {
                   "name": "Letné kúpalisko Púchov",
                   "text": "Szezonális szabadtéri medence és szabadidős létesítmény Puhóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.322163,
                         49.118371
@@ -15389,7 +15389,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             {
                   "name": "Letné kúpalisko Púchov",
                   "text": "O piscină în aer liber sezonieră și facilitate de recreere în Púchov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.322163,
                         49.118371
@@ -15472,7 +15472,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             {
                   "name": "Letné kúpalisko Púchov",
                   "text": "A seasonal outdoor swimming pool and recreational facility in Púchov.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.322163,
                         49.118371
@@ -16858,7 +16858,7 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
             {
                   "name": "Ranč na Striebornom jazere",
                   "text": "Ein Erholungsgebiet und Park im Western-Stil in der Nähe von Galanta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.727509,
                         48.209024
@@ -16950,7 +16950,7 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
             {
                   "name": "Ranč na Striebornom jazere",
                   "text": "Western stílusú üdülőhely és park Galánta közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.727509,
                         48.209024
@@ -17042,7 +17042,7 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
             {
                   "name": "Ranč na Striebornom jazere",
                   "text": "O zonă de recreere și parc cu tematică western situată lângă Galanta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.727509,
                         48.209024
@@ -17134,7 +17134,7 @@ imageHint: "Stará Ľubovňa Castle on the hill above the town",
             {
                   "name": "Silver Lake Ranch",
                   "text": "A Western-themed recreation area and park located near Galanta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.727509,
                         48.209024
@@ -17292,7 +17292,7 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
             {
                   "name": "Prírodný amfiteáter",
                   "text": "Ein Naturbühne in Detva, auf der regelmäßig Folklorefestivals stattfinden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.421048,
                         48.573734
@@ -17339,7 +17339,7 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
             {
                   "name": "Prírodný amfiteáter",
                   "text": "Gyetvai szabadtéri színpad, amely rendszeresen otthont ad népművészeti fesztiváloknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.421048,
                         48.573734
@@ -17386,7 +17386,7 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
             {
                   "name": "Prírodný amfiteáter",
                   "text": "Un amfiteatru natural în Detva, unde au loc festivaluri de folclor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.421048,
                         48.573734
@@ -17433,7 +17433,7 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
             {
                   "name": "Prírodný amfiteáter",
                   "text": "A natural amphitheatre in Detva used for hosting traditional folklore festivals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.421048,
                         48.573734
@@ -19081,7 +19081,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "Mini ZOO Kormorán",
                   "text": "Ein kleiner Zoo beim Hotel Kormorán in Šamorín, ideal für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.306382,
                         48.008936
@@ -19090,7 +19090,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "x-bionic aquatic sphere",
                   "text": "Ein multifunktionales Sport- und Freizeitzentrum in Šamorín mit Wasserattraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.29911,
                         48.016447
@@ -19164,7 +19164,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "Mini ZOO Kormorán",
                   "text": "Kisméretű állatkert a somorjai Kormorán Hotelnél, amely ideális családoknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.306382,
                         48.008936
@@ -19173,7 +19173,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "x-bionic aquatic sphere",
                   "text": "Somorjai multifunkcionális sport- és szabadidőközpont vízi attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.29911,
                         48.016447
@@ -19247,7 +19247,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "Mini ZOO Kormorán",
                   "text": "O mică grădină zoologică la Hotelul Kormorán din Šamorín, ideală pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.306382,
                         48.008936
@@ -19256,7 +19256,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "x-bionic aquatic sphere",
                   "text": "Un centru multifuncțional de sport și agrement din Šamorín, cu atracții acvatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.29911,
                         48.016447
@@ -19330,7 +19330,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "Mini ZOO Kormorán",
                   "text": "A small zoo at the Kormorán Hotel in Šamorín, ideal for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.306382,
                         48.008936
@@ -19339,7 +19339,7 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
             {
                   "name": "x-bionic aquatic sphere",
                   "text": "A multifunctional sports and leisure resort in Šamorín featuring water attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.29911,
                         48.016447
@@ -20032,7 +20032,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "Ein bekanntes Thermalbad und Erholungszentrum in Štúrovo mit zahlreichen Pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -20068,7 +20068,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Zábavný park VadašLand",
                   "text": "Ein Vergnügungspark für Familien innerhalb des Vadaš Thermal Resorts.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -20122,7 +20122,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "Ein Schwimmbad und Freibad für sportliche Aktivitäten und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -20250,7 +20250,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "Népszerű termálfürdő és üdülőközpont Párkányban, számos medencével.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -20286,7 +20286,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Zábavný park VadašLand",
                   "text": "Családi szórakoztató park a Vadaš termálfürdő területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -20340,7 +20340,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "Sportolásra és kikapcsolódásra alkalmas uszoda és strandfürdő.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -20468,7 +20468,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "O stațiune balneară populară din Štúrovo, cu numeroase bazine și facilități de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -20504,7 +20504,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Zábavný park VadašLand",
                   "text": "Un parc de distracții pentru familii în incinta complexului termal Vadaš.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -20558,7 +20558,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "O piscină și ștrand pentru activități sportive și relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -20686,7 +20686,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "A popular thermal resort in Štúrovo offering numerous pools and recreational facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -20722,7 +20722,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Zábavný park VadašLand",
                   "text": "A family amusement park located within the Vadaš thermal resort area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -20776,7 +20776,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "A swimming pool and outdoor bath for sports and recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -20951,7 +20951,7 @@ imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom",
             {
                   "name": "Mini ZOO",
                   "text": "Ein kleiner Tierpark in Fiľakovo, der besonders für Familien mit Kindern ein beliebtes Ziel ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.826971,
                         48.270867
@@ -21043,7 +21043,7 @@ imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom",
             {
                   "name": "Mini ZOO",
                   "text": "Kisebb állatpark Füleken, amely népszerű célpont a gyermekes családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.826971,
                         48.270867
@@ -21135,7 +21135,7 @@ imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom",
             {
                   "name": "Mini ZOO",
                   "text": "Un mic parc zoologic în Fiľakovo, o destinație populară mai ales pentru familiile cu copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.826971,
                         48.270867
@@ -21227,7 +21227,7 @@ imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom",
             {
                   "name": "Mini ZOO",
                   "text": "A small animal park in Fiľakovo, which is a popular destination especially for families with children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.826971,
                         48.270867
@@ -24706,7 +24706,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Lezecka stena",
                   "text": "Lezecka stena ist ein Freizeitpark in Vlkolínec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -24715,7 +24715,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "Ein kleiner Bauernhof mit Tieren für Besucher in der Nähe von Vlkolínec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -25131,7 +25131,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Lezecka stena",
                   "text": "A Lezecka stena egy vidámpark Vlkolínecben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -25140,7 +25140,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "Kis állatfarm a látogatók számára Vlkolínec közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -25556,7 +25556,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Lezecka stena",
                   "text": "Lezecka stena este un parc de distracții în Vlkolínec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -25565,7 +25565,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "O mică fermă cu animale pentru vizitatori lângă Vlkolínec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -25981,7 +25981,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Lezecka stena",
                   "text": "Lezecka stena is a theme park in Vlkolínec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.271956,
                         49.073297
@@ -25990,7 +25990,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "A small farm with animals for visitors near Vlkolínec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -28881,7 +28881,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             {
                   "name": "Lesný skanzen Tisovec",
                   "text": "Ein forstwirtschaftliches Freilichtmuseum in Tisovec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.931727,
                         48.692562
@@ -28928,7 +28928,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             {
                   "name": "Lesný skanzen Tisovec",
                   "text": "Erdészeti skanzen Tisovecben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.931727,
                         48.692562
@@ -28975,7 +28975,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             {
                   "name": "Lesný skanzen Tisovec",
                   "text": "Un muzeu forestier în aer liber în Tisovec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.931727,
                         48.692562
@@ -29022,7 +29022,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             {
                   "name": "Lesný skanzen Tisovec",
                   "text": "A forestry open-air museum in Tisovec.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.931727,
                         48.692562
@@ -29623,7 +29623,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             {
                   "name": "Thermal Corvinus Veľký Meder",
                   "text": "Ein beliebter Wasserpark mit Thermalbecken in Veľký Meder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.758999,
                         47.846384
@@ -29643,7 +29643,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             {
                   "name": "Thermal Corvinus Veľký Meder",
                   "text": "Népszerű termálvizes élményfürdő Nagymegyeren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.758999,
                         47.846384
@@ -29663,7 +29663,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             {
                   "name": "Thermal Corvinus Veľký Meder",
                   "text": "Un parc acvatic popular cu bazine termale în Veľký Meder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.758999,
                         47.846384
@@ -29683,7 +29683,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             {
                   "name": "Thermal Corvinus Veľký Meder",
                   "text": "A popular water park with thermal pools in Veľký Meder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.758999,
                         47.846384

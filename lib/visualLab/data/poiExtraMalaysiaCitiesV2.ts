@@ -4499,7 +4499,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taman Kucing",
                   "text": "Taman Kucing ist ein lokaler Tierpark und Zoo in Sungai Petani.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.463507,
                         5.648022
@@ -4519,7 +4519,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taman Kucing",
                   "text": "A Taman Kucing egy helyi állatpark és állatkert Sungai Petani városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.463507,
                         5.648022
@@ -4539,7 +4539,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taman Kucing",
                   "text": "Taman Kucing este un parc de animale și o grădină zoologică situată în Sungai Petani.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.463507,
                         5.648022
@@ -4559,7 +4559,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taman Kucing",
                   "text": "Taman Kucing is a local animal park and zoo situated in Sungai Petani.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.463507,
                         5.648022
@@ -4766,7 +4766,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taiping Zoo & Night Safari",
                   "text": "Taiping Zoo & Night Safari ist ein zoologischer Garten in Taiping, der Tag- und Nachtbeobachtungen anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.750458,
                         4.853866
@@ -4894,7 +4894,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taiping Zoo & Night Safari",
                   "text": "A Taiping Zoo & Night Safari egy állatkert Taiping városában, amely nappali és éjszakai állatnézést is kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.750458,
                         4.853866
@@ -5022,7 +5022,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taiping Zoo & Night Safari",
                   "text": "Taiping Zoo & Night Safari este un parc zoologic major din Taiping.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.750458,
                         4.853866
@@ -5150,7 +5150,7 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             {
                   "name": "Taiping Zoo & Night Safari",
                   "text": "Taiping Zoo & Night Safari is a major zoological park in Taiping that offers both daytime and nocturnal animal viewings.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.750458,
                         4.853866

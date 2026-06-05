@@ -336,7 +336,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Western Fair District",
                   "text": "Der Freizeitpark Western Fair District in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.219843,
                         42.98944
@@ -345,7 +345,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Pad",
                   "text": "Ein Wasserspielplatz (Spray Pad) in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.255858,
                         42.981675
@@ -435,7 +435,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Ein Wasserspielplatz (Splash Pad) in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.228961,
                         42.966171
@@ -444,7 +444,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Gibbons Park Spray Pad",
                   "text": "Der Wasserspielplatz im Gibbons Park in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.261822,
                         42.998748
@@ -698,7 +698,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Western Fair District",
                   "text": "A Western Fair District élménypark Londonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.219843,
                         42.98944
@@ -707,7 +707,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Pad",
                   "text": "Vízi játszótér (Spray Pad) London városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.255858,
                         42.981675
@@ -797,7 +797,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Splash Pad vízi játszótér Londonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.228961,
                         42.966171
@@ -806,7 +806,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Gibbons Park Spray Pad",
                   "text": "A Gibbons Park vízi játszótere Londonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.261822,
                         42.998748
@@ -1060,7 +1060,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Western Fair District",
                   "text": "Parcul tematic Western Fair District din London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.219843,
                         42.98944
@@ -1069,7 +1069,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Pad",
                   "text": "Un parc acvatic cu fântâni (Spray Pad) în London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.255858,
                         42.981675
@@ -1159,7 +1159,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Un parc acvatic de tip Splash Pad în London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.228961,
                         42.966171
@@ -1168,7 +1168,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Gibbons Park Spray Pad",
                   "text": "Parcul acvatic Gibbons Park Spray Pad din London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.261822,
                         42.998748
@@ -1422,7 +1422,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Western Fair District",
                   "text": "The Western Fair District theme park in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.219843,
                         42.98944
@@ -1431,7 +1431,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Pad",
                   "text": "A water park and spray pad in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.255858,
                         42.981675
@@ -1521,7 +1521,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "A Splash Pad water park located in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.228961,
                         42.966171
@@ -1530,7 +1530,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Gibbons Park Spray Pad",
                   "text": "The Gibbons Park Spray Pad water park in London.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.261822,
                         42.998748
@@ -2188,7 +2188,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Reptilia",
                   "text": "Reptilia ist ein auf Reptilien spezialisierter Zoo in Vaughan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.519627,
                         43.833531
@@ -2415,7 +2415,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Reptilia",
                   "text": "A Reptilia egy hüllőkre szakosodott állatkert Vaughanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.519627,
                         43.833531
@@ -2642,7 +2642,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Reptilia",
                   "text": "Reptilia este o grădină zoologică specializată pe reptile din Vaughan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.519627,
                         43.833531
@@ -2869,7 +2869,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Reptilia",
                   "text": "Reptilia is a zoo specializing in reptiles in Vaughan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.519627,
                         43.833531
@@ -6240,7 +6240,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Burnaby Village Museum",
                   "text": "Das Burnaby Village Museum ist ein bekanntes Freilichtmuseum und Themenpark in Burnaby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.9664,
                         49.239863
@@ -6341,7 +6341,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Burnaby Village Museum",
                   "text": "A Burnaby Village Museum egy elismert szabadtéri múzeum és vidámpark Burnabyban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.9664,
                         49.239863
@@ -6442,7 +6442,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Burnaby Village Museum",
                   "text": "Muzeul Satului Burnaby este un parc tematic și muzeu în aer liber recunoscut din Burnaby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.9664,
                         49.239863
@@ -6543,7 +6543,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Burnaby Village Museum",
                   "text": "The Burnaby Village Museum is a recognized open-air museum and theme park in Burnaby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.9664,
                         49.239863
@@ -12317,7 +12317,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Woodlands Waterpark",
                   "text": "Der Woodlands Waterpark ist eine Freizeitanlage mit Wasserattraktionen in St. Albert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -113.61176,
                         53.64711
@@ -12400,7 +12400,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Woodlands Waterpark",
                   "text": "A Woodlands Waterpark egy rekreációs vízi park St. Albert városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -113.61176,
                         53.64711
@@ -12483,7 +12483,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Woodlands Waterpark",
                   "text": "Woodlands Waterpark este un parc acvatic de agrement din St. Albert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -113.61176,
                         53.64711
@@ -12566,7 +12566,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Woodlands Waterpark",
                   "text": "Woodlands Waterpark is a recreational aquatic facility in St. Albert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -113.61176,
                         53.64711
@@ -14960,7 +14960,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash ON",
                   "text": "Splash ON ist ein Wasserpark in Barrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.688728,
                         44.381981
@@ -14969,7 +14969,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Heritage Park splash pad",
                   "text": "Das Heritage Park Splash Pad ist eine Wasserspielanlage zur Erholung in Barrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.685801,
                         44.387984
@@ -15034,7 +15034,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash ON",
                   "text": "A Splash ON egy vízi park és látványosság Barrie városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.688728,
                         44.381981
@@ -15043,7 +15043,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Heritage Park splash pad",
                   "text": "A Heritage Park splash pad egy rekreációs vízi létesítmény Barrie területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.685801,
                         44.387984
@@ -15108,7 +15108,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash ON",
                   "text": "Splash ON este un parc acvatic de atracție situat în Barrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.688728,
                         44.381981
@@ -15117,7 +15117,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Heritage Park splash pad",
                   "text": "Heritage Park splash pad este o facilitate acvatică de recreere situată în Barrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.685801,
                         44.387984
@@ -15182,7 +15182,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash ON",
                   "text": "Splash ON is an aquatic water park attraction situated in Barrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.688728,
                         44.381981
@@ -15191,7 +15191,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Heritage Park splash pad",
                   "text": "The Heritage Park splash pad is a recreational aquatic facility located in Barrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.685801,
                         44.387984
@@ -15575,7 +15575,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Outdoor Aqua Park",
                   "text": "Der Outdoor Aqua Park ist ein Wasserpark in Kingston.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.498819,
                         44.239344
@@ -15901,7 +15901,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Outdoor Aqua Park",
                   "text": "Az Outdoor Aqua Park egy vízipark Kingston városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.498819,
                         44.239344
@@ -16227,7 +16227,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Outdoor Aqua Park",
                   "text": "Outdoor Aqua Park este un parc acvatic în Kingston.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.498819,
                         44.239344
@@ -16553,7 +16553,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Outdoor Aqua Park",
                   "text": "Outdoor Aqua Park is a water park in Kingston.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -76.498819,
                         44.239344
@@ -16933,7 +16933,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "McDonald Water Park",
                   "text": "Der McDonald Water Park in Kamloops bietet familienfreundliche Wasseraktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -120.362948,
                         50.689165
@@ -17169,7 +17169,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "McDonald Water Park",
                   "text": "A kamloop-i McDonald Water Park családbarát vízi programokat kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -120.362948,
                         50.689165
@@ -17405,7 +17405,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "McDonald Water Park",
                   "text": "McDonald Water Park din Kamloops oferă activități acvatice pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -120.362948,
                         50.689165
@@ -17641,7 +17641,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "McDonald Water Park",
                   "text": "McDonald Water Park in Kamloops offers family-friendly water activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -120.362948,
                         50.689165
@@ -18614,7 +18614,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Rotoract Spray Park",
                   "text": "Der Rotoract Spray Park ist ein Wasserpark in Prince George.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.73419,
                         53.906003
@@ -18706,7 +18706,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Rotoract Spray Park",
                   "text": "A Rotoract Spray Park egy vízipark Prince George városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.73419,
                         53.906003
@@ -18798,7 +18798,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Rotoract Spray Park",
                   "text": "Rotoract Spray Park este un parc acvatic în Prince George.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.73419,
                         53.906003
@@ -18890,7 +18890,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Rotoract Spray Park",
                   "text": "Rotoract Spray Park is a water park in Prince George.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.73419,
                         53.906003
@@ -22506,7 +22506,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of Niagara",
                   "text": "Das Aquarium of Niagara ist eine aquatische Einrichtung in Niagara Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.060149,
                         43.094327
@@ -22515,7 +22515,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Fallsview Indoor Waterpark",
                   "text": "Der Fallsview Indoor Waterpark ist ein großer Indoor-Freizeitwasserpark in Niagara Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.071721,
                         43.092524
@@ -22940,7 +22940,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of Niagara",
                   "text": "Az Aquarium of Niagara egy vízi létesítmény Niagara Falls városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.060149,
                         43.094327
@@ -22949,7 +22949,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Fallsview Indoor Waterpark",
                   "text": "A Fallsview Indoor Waterpark egy nagy fedett szabadidős vízipark Niagara Fallsban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.071721,
                         43.092524
@@ -23374,7 +23374,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of Niagara",
                   "text": "Aquarium of Niagara este o facilitate acvatică situată în Niagara Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.060149,
                         43.094327
@@ -23383,7 +23383,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Fallsview Indoor Waterpark",
                   "text": "Fallsview Indoor Waterpark este un mare parc acvatic de agrement acoperit din Niagara Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.071721,
                         43.092524
@@ -23808,7 +23808,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Aquarium of Niagara",
                   "text": "The Aquarium of Niagara is an aquatic facility located in Niagara Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.060149,
                         43.094327
@@ -23817,7 +23817,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Fallsview Indoor Waterpark",
                   "text": "The Fallsview Indoor Waterpark is a large indoor recreational water park in Niagara Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.071721,
                         43.092524
@@ -25308,7 +25308,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Park",
                   "text": "Der Spray Park ist ein Wasserpark in New Westminster.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.907705,
                         49.21643
@@ -25481,7 +25481,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Park",
                   "text": "A Spray Park egy élményfürdő New Westminster városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.907705,
                         49.21643
@@ -25654,7 +25654,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Park",
                   "text": "Spray Park este un parc acvatic situat în New Westminster.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.907705,
                         49.21643
@@ -25827,7 +25827,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Spray Park",
                   "text": "Spray Park is a water park located in New Westminster.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -122.907705,
                         49.21643
@@ -27661,7 +27661,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Jardin de Verre et de Métal",
                   "text": "Der Jardin de Verre et de Métal ist ein Freizeitpark in Blainville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.874083,
                         45.682054
@@ -27771,7 +27771,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Jardin de Verre et de Métal",
                   "text": "A Jardin de Verre et de Métal egy tematikus park Blainville városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.874083,
                         45.682054
@@ -27881,7 +27881,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Jardin de Verre et de Métal",
                   "text": "Jardin de Verre et de Métal este un parc tematic situat în Blainville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.874083,
                         45.682054
@@ -27991,7 +27991,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Jardin de Verre et de Métal",
                   "text": "Jardin de Verre et de Métal is a theme park located in Blainville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -73.874083,
                         45.682054
@@ -28633,7 +28633,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Zoo de Granby",
                   "text": "Der Zoo de Granby ist ein Tierpark in Granby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.721467,
                         45.418091
@@ -28642,7 +28642,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Amazoo Iögo",
                   "text": "Amazoo Iögo ist ein Wasserpark in Granby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.720271,
                         45.419671
@@ -28743,7 +28743,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Zoo de Granby",
                   "text": "A Zoo de Granby egy állatkert Granby-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.721467,
                         45.418091
@@ -28752,7 +28752,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Amazoo Iögo",
                   "text": "Az Amazoo Iögo egy vízipark Granby-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.720271,
                         45.419671
@@ -28853,7 +28853,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Zoo de Granby",
                   "text": "Zoo de Granby este o grădină zoologică situată în Granby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.721467,
                         45.418091
@@ -28862,7 +28862,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Amazoo Iögo",
                   "text": "Amazoo Iögo este un parc acvatic din Granby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.720271,
                         45.419671
@@ -28963,7 +28963,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Zoo de Granby",
                   "text": "Zoo de Granby is a zoological park situated in Granby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.721467,
                         45.418091
@@ -28972,7 +28972,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Amazoo Iögo",
                   "text": "Amazoo Iögo is a water park located in Granby.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -72.720271,
                         45.419671
@@ -29173,7 +29173,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Stanley Spray Park",
                   "text": "Der Stanley Spray Park ist ein Wasserpark in Brandon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.95759,
                         49.846289
@@ -29220,7 +29220,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Stanley Spray Park",
                   "text": "A Stanley Spray Park egy vízipark Brandon városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.95759,
                         49.846289
@@ -29267,7 +29267,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Stanley Spray Park",
                   "text": "Stanley Spray Park este un parc acvatic din Brandon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.95759,
                         49.846289
@@ -29314,7 +29314,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Stanley Spray Park",
                   "text": "Stanley Spray Park is a water park located in Brandon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.95759,
                         49.846289
@@ -30172,7 +30172,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Entomica",
                   "text": "Entomica ist ein Insektarium und Zoo in Sault Ste. Marie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -84.345702,
                         46.515674
@@ -30399,7 +30399,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Entomica",
                   "text": "Az Entomica egy rovarbemutató és állatkert Sault Ste. Marie-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -84.345702,
                         46.515674
@@ -30626,7 +30626,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Entomica",
                   "text": "Entomica este o expoziție zoologică situată în Sault Ste. Marie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -84.345702,
                         46.515674
@@ -30853,7 +30853,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Entomica",
                   "text": "Entomica is an insectarium and zoo situated in Sault Ste. Marie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -84.345702,
                         46.515674
@@ -31306,7 +31306,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Iron Horse Park",
                   "text": "Der Iron Horse Park ist ein Themenpark in Airdrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -114.020717,
                         51.286389
@@ -31353,7 +31353,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Iron Horse Park",
                   "text": "Az Iron Horse Park egy vidámpark Airdrie-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -114.020717,
                         51.286389
@@ -31400,7 +31400,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Iron Horse Park",
                   "text": "Iron Horse Park este un parc tematic din Airdrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -114.020717,
                         51.286389
@@ -31447,7 +31447,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Iron Horse Park",
                   "text": "Iron Horse Park is a theme park located in Airdrie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -114.020717,
                         51.286389
@@ -32197,7 +32197,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Der Splash Pad ist ein Wasserpark in Burlington.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.799483,
                         43.320645
@@ -32316,7 +32316,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "A Splash Pad egy vízi park Burlingtonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.799483,
                         43.320645
@@ -32435,7 +32435,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "Splash Pad este un parc acvatic din Burlington.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.799483,
                         43.320645
@@ -32554,7 +32554,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Splash Pad",
                   "text": "The Splash Pad is a water park in Burlington.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.799483,
                         43.320645
@@ -36085,7 +36085,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Place Elliot-Tardif",
                   "text": "Der Place Elliot-Tardif ist ein Wasserpark in Victoriaville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -71.977505,
                         46.068856
@@ -36132,7 +36132,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Place Elliot-Tardif",
                   "text": "A Place Elliot-Tardif egy vízi park Victoriaville-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -71.977505,
                         46.068856
@@ -36179,7 +36179,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Place Elliot-Tardif",
                   "text": "Place Elliot-Tardif este un parc acvatic din Victoriaville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -71.977505,
                         46.068856
@@ -36226,7 +36226,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Place Elliot-Tardif",
                   "text": "Place Elliot-Tardif is a water park located in Victoriaville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -71.977505,
                         46.068856
@@ -37201,7 +37201,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "L'Île des Moussaillons",
                   "text": "L'Île des Moussaillons ist ein Freizeitpark in Rimouski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.501529,
                         48.455534
@@ -37239,7 +37239,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "L'Île des Moussaillons",
                   "text": "A L'Île des Moussaillons egy vidámpark Rimouski városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.501529,
                         48.455534
@@ -37277,7 +37277,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "L'Île des Moussaillons",
                   "text": "L'Île des Moussaillons este un parc de distracții în Rimouski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.501529,
                         48.455534
@@ -37315,7 +37315,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "L'Île des Moussaillons",
                   "text": "L'Île des Moussaillons is a theme park located in Rimouski.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.501529,
                         48.455534
@@ -37390,7 +37390,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "The Social Bowl",
                   "text": "The Social Bowl ist ein Themenpark in Swift Current.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -107.793704,
                         50.28232
@@ -37464,7 +37464,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "The Social Bowl",
                   "text": "A The Social Bowl egy vidámpark Swift Current városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -107.793704,
                         50.28232
@@ -37538,7 +37538,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "The Social Bowl",
                   "text": "The Social Bowl este un parc tematic în Swift Current.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -107.793704,
                         50.28232
@@ -37612,7 +37612,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "The Social Bowl",
                   "text": "The Social Bowl is a theme park in Swift Current.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -107.793704,
                         50.28232
@@ -37723,7 +37723,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Water Park and Pool",
                   "text": "Der Water Park and Pool ist ein Wasserpark in Yorkton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.491123,
                         51.210853
@@ -37761,7 +37761,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Water Park and Pool",
                   "text": "A Water Park and Pool egy vízi park Yorktonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.491123,
                         51.210853
@@ -37799,7 +37799,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Water Park and Pool",
                   "text": "Water Park and Pool este un parc acvatic din Yorkton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.491123,
                         51.210853
@@ -37837,7 +37837,7 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             {
                   "name": "Water Park and Pool",
                   "text": "Water Park and Pool is a recreational water park in Yorkton.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.491123,
                         51.210853

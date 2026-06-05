@@ -1142,7 +1142,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "해주동물원",
                   "text": "Der Haeju Zoo ist ein zoologischer Garten in Haeju.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         125.701782,
                         38.032596
@@ -1180,7 +1180,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "해주동물원",
                   "text": "A Haeju Zoo egy állatkert Haeju városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         125.701782,
                         38.032596
@@ -1218,7 +1218,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "해주동물원",
                   "text": "Haeju Zoo este o grădină zoologică în Haeju.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         125.701782,
                         38.032596
@@ -1256,7 +1256,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "Haeju Zoo",
                   "text": "Haeju Zoo is a zoo in Haeju.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         125.701782,
                         38.032596
@@ -1339,7 +1339,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "강계물놀이장",
                   "text": "Wasserpark in Kanggye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.595677,
                         40.979435
@@ -1357,7 +1357,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "강계동물원",
                   "text": "Zoo in Kanggye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.574067,
                         40.964192
@@ -1422,7 +1422,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "강계물놀이장",
                   "text": "Vízipark Kanggye-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.595677,
                         40.979435
@@ -1440,7 +1440,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "강계동물원",
                   "text": "Állatkert Kanggye-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.574067,
                         40.964192
@@ -1505,7 +1505,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "강계물놀이장",
                   "text": "Parc acvatic în Kanggye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.595677,
                         40.979435
@@ -1523,7 +1523,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "강계동물원",
                   "text": "Grădină zoologică în Kanggye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.574067,
                         40.964192
@@ -1588,7 +1588,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "Kanggye Water Park",
                   "text": "Water park in Kanggye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.595677,
                         40.979435
@@ -1606,7 +1606,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             {
                   "name": "Kanggye Zoo",
                   "text": "Zoo in Kanggye.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.574067,
                         40.964192

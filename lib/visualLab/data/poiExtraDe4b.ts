@@ -660,7 +660,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Kaifu Sommerfreibad",
                   "text": "Der weitläufige Außenbereich des traditionsreichen Kaifu-Bades, ideal für sportliches Schwimmen im Sommer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.962712,
                         53.571872
@@ -808,6 +808,213 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.961749,
                         53.558006
+                  ]
+            },
+            {
+                  "name": "Parksee",
+                  "text": "Der Parksee in Altona ist ein zentral gelegenes Gewässer in einer Grünanlage.",
+                  "category": "natural",
+                  "coords": [
+                        9.981157,
+                        53.561992
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken Kronsaalsweg",
+                  "text": "Das Rückhaltebecken Kronsaalsweg in Altona fügt sich in die lokale Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.913848,
+                        53.597839
+                  ]
+            },
+            {
+                  "name": "Brakenburger Brack",
+                  "text": "Das Brakenburger Brack in Altona ist ein historisch entstandenes Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        9.876761,
+                        53.499743
+                  ]
+            },
+            {
+                  "name": "Flottbek",
+                  "text": "Die Flottbek in Altona ist ein Wasserlauf, der das Stadtbild prägt.",
+                  "category": "natural",
+                  "coords": [
+                        9.870051,
+                        53.553329
+                  ]
+            },
+            {
+                  "name": "Schiffloch",
+                  "text": "Das Schiffloch in Altona ist ein markanter Ort am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.998141,
+                        53.580493
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "Der Bürgerhaus-See in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Außenalster",
+                  "text": "Die Außenalster in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.005994,
+                        53.568917
+                  ]
+            },
+            {
+                  "name": "Binnenalster",
+                  "text": "Die Binnenalster in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.995706,
+                        53.554798
+                  ]
+            },
+            {
+                  "name": "Alte Süderelbe",
+                  "text": "Die Alte Süderelbe in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.838855,
+                        53.52171
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kloksi",
+                  "text": "Der Spielplatz Kloksi in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.966029,
+                        53.567894
+                  ]
+            },
+            {
+                  "name": "Hof Spielplatz",
+                  "text": "Der Hof Spielplatz in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.907891,
+                        53.568419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Ziegelteich",
+                  "text": "Der Spielplatz Am Ziegelteich in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.933895,
+                        53.574362
+                  ]
+            },
+            {
+                  "name": "Spielplatz Paulsenplatz",
+                  "text": "Der Spielplatz Paulsenplatz in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.956917,
+                        53.559754
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bellealliancestraße",
+                  "text": "Der Spielplatz Bellealliancestraße in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.961771,
+                        53.568775
+                  ]
+            },
+            {
+                  "name": "Spielplatz Apostelkirche",
+                  "text": "Der Spielplatz Apostelkirche in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.945546,
+                        53.576079
+                  ]
+            },
+            {
+                  "name": "Ophagenspielplatz (OPI)",
+                  "text": "Der Ophagenspielplatz (OPI) in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.947604,
+                        53.569101
+                  ]
+            },
+            {
+                  "name": "Spielplatz Alsenpark",
+                  "text": "Der Spielplatz Alsenpark in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.949995,
+                        53.565776
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Bahrenfeld",
+                  "text": "Der Aktivspielplatz Bahrenfeld in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.901463,
+                        53.56024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grabenstraße",
+                  "text": "Der Spielplatz Grabenstraße in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.972435,
+                        53.55954
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Schanzenacker",
+                  "text": "Der Abenteuerspielplatz Schanzenacker in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.962081,
+                        53.563751
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Am Brunnenhof",
+                  "text": "Der Abenteuerspielplatz Am Brunnenhof in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.958841,
+                        53.553873
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gustav-Falke-Straße",
+                  "text": "Der Spielplatz Gustav-Falke-Straße in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.969859,
+                        53.569726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sillemstraße",
+                  "text": "Der Spielplatz Sillemstraße in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.943398,
+                        53.579036
                   ]
             }
       ],
@@ -1064,7 +1271,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Kaifu Sommerfreibad",
                   "text": "A patinás Kaifu-Bad tágas szabadtéri része, amely ideális a nyári sportoláshoz és úszáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.962712,
                         53.571872
@@ -1212,6 +1419,213 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.961749,
                         53.558006
+                  ]
+            },
+            {
+                  "name": "Parksee",
+                  "text": "Az altonai Parksee egy központi fekvésű tó egy parkban.",
+                  "category": "natural",
+                  "coords": [
+                        9.981157,
+                        53.561992
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken Kronsaalsweg",
+                  "text": "Az altonai Kronsaalsweg visszatartó medence illeszkedik a helyi környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.913848,
+                        53.597839
+                  ]
+            },
+            {
+                  "name": "Brakenburger Brack",
+                  "text": "Az altonai Brakenburger Brack egy történelmileg kialakult vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        9.876761,
+                        53.499743
+                  ]
+            },
+            {
+                  "name": "Flottbek",
+                  "text": "Az altonai Flottbek egy vízfolyás, amely meghatározza a városképet.",
+                  "category": "natural",
+                  "coords": [
+                        9.870051,
+                        53.553329
+                  ]
+            },
+            {
+                  "name": "Schiffloch",
+                  "text": "Az altonai Schiffloch egy jellegzetes vízparti helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        9.998141,
+                        53.580493
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "Az Altona városában található Bürgerhaus-See egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Außenalster",
+                  "text": "Az Altona városában található Außenalster egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.005994,
+                        53.568917
+                  ]
+            },
+            {
+                  "name": "Binnenalster",
+                  "text": "Az Altona városában található Binnenalster egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.995706,
+                        53.554798
+                  ]
+            },
+            {
+                  "name": "Alte Süderelbe",
+                  "text": "Az Altona városában található Alte Süderelbe egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.838855,
+                        53.52171
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kloksi",
+                  "text": "Az Altona városában található Spielplatz Kloksi változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.966029,
+                        53.567894
+                  ]
+            },
+            {
+                  "name": "Hof Spielplatz",
+                  "text": "Az Altona városában található Hof Spielplatz változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.907891,
+                        53.568419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Ziegelteich",
+                  "text": "Az Altona városában található Spielplatz Am Ziegelteich változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.933895,
+                        53.574362
+                  ]
+            },
+            {
+                  "name": "Spielplatz Paulsenplatz",
+                  "text": "Az Altona városában található Spielplatz Paulsenplatz változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.956917,
+                        53.559754
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bellealliancestraße",
+                  "text": "Az Altona városában található Spielplatz Bellealliancestraße változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.961771,
+                        53.568775
+                  ]
+            },
+            {
+                  "name": "Spielplatz Apostelkirche",
+                  "text": "Az Altona városában található Spielplatz Apostelkirche változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.945546,
+                        53.576079
+                  ]
+            },
+            {
+                  "name": "Ophagenspielplatz (OPI)",
+                  "text": "Az Altona városában található Ophagenspielplatz (OPI) változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.947604,
+                        53.569101
+                  ]
+            },
+            {
+                  "name": "Spielplatz Alsenpark",
+                  "text": "Az Altona városában található Spielplatz Alsenpark változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.949995,
+                        53.565776
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Bahrenfeld",
+                  "text": "Az Altona városában található Aktivspielplatz Bahrenfeld változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.901463,
+                        53.56024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grabenstraße",
+                  "text": "Az Altona városában található Spielplatz Grabenstraße változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.972435,
+                        53.55954
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Schanzenacker",
+                  "text": "Az Altona városában található Abenteuerspielplatz Schanzenacker változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.962081,
+                        53.563751
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Am Brunnenhof",
+                  "text": "Az Altona városában található Abenteuerspielplatz Am Brunnenhof változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.958841,
+                        53.553873
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gustav-Falke-Straße",
+                  "text": "Az Altona városában található Spielplatz Gustav-Falke-Straße változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.969859,
+                        53.569726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sillemstraße",
+                  "text": "Az Altona városában található Spielplatz Sillemstraße változatos játéklehetőségeket kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.943398,
+                        53.579036
                   ]
             }
       ],
@@ -1468,7 +1882,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Kaifu Sommerfreibad",
                   "text": "Zona exterioară spațioasă a băii tradiționale Kaifu, ideală pentru înot sportiv pe timpul verii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.962712,
                         53.571872
@@ -1616,6 +2030,213 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.961749,
                         53.558006
+                  ]
+            },
+            {
+                  "name": "Parksee",
+                  "text": "Lacul din parc din Altona este un corp de apă situat central într-un spațiu verde.",
+                  "category": "natural",
+                  "coords": [
+                        9.981157,
+                        53.561992
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken Kronsaalsweg",
+                  "text": "Bazinul de retenție Kronsaalsweg din Altona se integrează în mediul local.",
+                  "category": "natural",
+                  "coords": [
+                        9.913848,
+                        53.597839
+                  ]
+            },
+            {
+                  "name": "Brakenburger Brack",
+                  "text": "Brakenburger Brack din Altona este un corp de apă format istoric.",
+                  "category": "natural",
+                  "coords": [
+                        9.876761,
+                        53.499743
+                  ]
+            },
+            {
+                  "name": "Flottbek",
+                  "text": "Flottbek din Altona este un curs de apă care definește peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        9.870051,
+                        53.553329
+                  ]
+            },
+            {
+                  "name": "Schiffloch",
+                  "text": "Schiffloch din Altona este un loc distinctiv lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.998141,
+                        53.580493
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "Bürgerhaus-See din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Außenalster",
+                  "text": "Außenalster din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.005994,
+                        53.568917
+                  ]
+            },
+            {
+                  "name": "Binnenalster",
+                  "text": "Binnenalster din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.995706,
+                        53.554798
+                  ]
+            },
+            {
+                  "name": "Alte Süderelbe",
+                  "text": "Alte Süderelbe din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.838855,
+                        53.52171
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kloksi",
+                  "text": "Spielplatz Kloksi din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.966029,
+                        53.567894
+                  ]
+            },
+            {
+                  "name": "Hof Spielplatz",
+                  "text": "Hof Spielplatz din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.907891,
+                        53.568419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Ziegelteich",
+                  "text": "Spielplatz Am Ziegelteich din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.933895,
+                        53.574362
+                  ]
+            },
+            {
+                  "name": "Spielplatz Paulsenplatz",
+                  "text": "Spielplatz Paulsenplatz din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.956917,
+                        53.559754
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bellealliancestraße",
+                  "text": "Spielplatz Bellealliancestraße din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.961771,
+                        53.568775
+                  ]
+            },
+            {
+                  "name": "Spielplatz Apostelkirche",
+                  "text": "Spielplatz Apostelkirche din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.945546,
+                        53.576079
+                  ]
+            },
+            {
+                  "name": "Ophagenspielplatz (OPI)",
+                  "text": "Ophagenspielplatz (OPI) din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.947604,
+                        53.569101
+                  ]
+            },
+            {
+                  "name": "Spielplatz Alsenpark",
+                  "text": "Spielplatz Alsenpark din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.949995,
+                        53.565776
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Bahrenfeld",
+                  "text": "Aktivspielplatz Bahrenfeld din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.901463,
+                        53.56024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grabenstraße",
+                  "text": "Spielplatz Grabenstraße din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.972435,
+                        53.55954
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Schanzenacker",
+                  "text": "Abenteuerspielplatz Schanzenacker din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.962081,
+                        53.563751
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Am Brunnenhof",
+                  "text": "Abenteuerspielplatz Am Brunnenhof din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.958841,
+                        53.553873
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gustav-Falke-Straße",
+                  "text": "Spielplatz Gustav-Falke-Straße din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.969859,
+                        53.569726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sillemstraße",
+                  "text": "Spielplatz Sillemstraße din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.943398,
+                        53.579036
                   ]
             }
       ],
@@ -1872,7 +2493,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Kaifu Sommerfreibad",
                   "text": "The spacious outdoor area of the traditional Kaifu-Bad, ideal for lap swimming during the summer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.962712,
                         53.571872
@@ -2020,6 +2641,213 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.961749,
                         53.558006
+                  ]
+            },
+            {
+                  "name": "Parksee",
+                  "text": "The Parksee in Altona is a centrally located body of water in a green area.",
+                  "category": "natural",
+                  "coords": [
+                        9.981157,
+                        53.561992
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken Kronsaalsweg",
+                  "text": "The retention basin on Kronsaalsweg in Altona blends into the local environment.",
+                  "category": "natural",
+                  "coords": [
+                        9.913848,
+                        53.597839
+                  ]
+            },
+            {
+                  "name": "Brakenburger Brack",
+                  "text": "The Brakenburger Brack in Altona is a historically formed body of water.",
+                  "category": "natural",
+                  "coords": [
+                        9.876761,
+                        53.499743
+                  ]
+            },
+            {
+                  "name": "Flottbek",
+                  "text": "The Flottbek in Altona is a watercourse that shapes the cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.870051,
+                        53.553329
+                  ]
+            },
+            {
+                  "name": "Schiffloch",
+                  "text": "The Schiffloch in Altona is a distinctive spot by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.998141,
+                        53.580493
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "The Bürgerhaus-See in Altona is a lake suitable for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Außenalster",
+                  "text": "The Außenalster in Altona is a lake suitable for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        10.005994,
+                        53.568917
+                  ]
+            },
+            {
+                  "name": "Binnenalster",
+                  "text": "The Binnenalster in Altona is a lake suitable for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.995706,
+                        53.554798
+                  ]
+            },
+            {
+                  "name": "Alte Süderelbe",
+                  "text": "The Alte Süderelbe in Altona is a lake suitable for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.838855,
+                        53.52171
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kloksi",
+                  "text": "Spielplatz Kloksi in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.966029,
+                        53.567894
+                  ]
+            },
+            {
+                  "name": "Hof Spielplatz",
+                  "text": "Hof Spielplatz in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.907891,
+                        53.568419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Am Ziegelteich",
+                  "text": "Spielplatz Am Ziegelteich in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.933895,
+                        53.574362
+                  ]
+            },
+            {
+                  "name": "Spielplatz Paulsenplatz",
+                  "text": "Spielplatz Paulsenplatz in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.956917,
+                        53.559754
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bellealliancestraße",
+                  "text": "Spielplatz Bellealliancestraße in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.961771,
+                        53.568775
+                  ]
+            },
+            {
+                  "name": "Spielplatz Apostelkirche",
+                  "text": "Spielplatz Apostelkirche in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.945546,
+                        53.576079
+                  ]
+            },
+            {
+                  "name": "Ophagenspielplatz (OPI)",
+                  "text": "Ophagenspielplatz (OPI) in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.947604,
+                        53.569101
+                  ]
+            },
+            {
+                  "name": "Spielplatz Alsenpark",
+                  "text": "Spielplatz Alsenpark in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.949995,
+                        53.565776
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Bahrenfeld",
+                  "text": "Aktivspielplatz Bahrenfeld in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.901463,
+                        53.56024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grabenstraße",
+                  "text": "Spielplatz Grabenstraße in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.972435,
+                        53.55954
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Schanzenacker",
+                  "text": "Abenteuerspielplatz Schanzenacker in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.962081,
+                        53.563751
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Am Brunnenhof",
+                  "text": "Abenteuerspielplatz Am Brunnenhof in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.958841,
+                        53.553873
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gustav-Falke-Straße",
+                  "text": "Spielplatz Gustav-Falke-Straße in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.969859,
+                        53.569726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sillemstraße",
+                  "text": "Spielplatz Sillemstraße in Altona provides various play options for children and is a popular spot for families.",
+                  "category": "family",
+                  "coords": [
+                        9.943398,
+                        53.579036
                   ]
             }
       ]
@@ -2294,6 +3122,177 @@ export const poiExtraDe4b: POI[] = [
                         10.164587,
                         53.482376
                   ]
+            },
+            {
+                  "name": "Boberger See",
+                  "text": "Der Boberger See in Bergedorf liegt in einer reizvollen Landschaft und lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        10.13561,
+                        53.514768
+                  ]
+            },
+            {
+                  "name": "Westensee",
+                  "text": "Der Westensee bei Bergedorf ist ein ruhiger Ort für Naturerlebnisse im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        10.138298,
+                        53.486568
+                  ]
+            },
+            {
+                  "name": "Allermöher See",
+                  "text": "Der Allermöher See in Bergedorf bietet eine angenehme Atmosphäre für Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.16279,
+                        53.480498
+                  ]
+            },
+            {
+                  "name": "Regenwasserrückhaltebecken",
+                  "text": "Das Regenwasserrückhaltebecken in Bergedorf fügt sich als Wasserfläche in die Umgebung ein.",
+                  "category": "natural",
+                  "coords": [
+                        10.236796,
+                        53.518819
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "Das Rückhaltebecken in Bergedorf dient der Entwässerung und bietet einen Blick ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        10.186099,
+                        53.502436
+                  ]
+            },
+            {
+                  "name": "See Hinterm Horn",
+                  "text": "Der See Hinterm Horn in Bergedorf ist ein naturnahes Gewässer für entspannte Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        10.154589,
+                        53.472632
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "Der Eichbaumsee in Bergedorf ist ein bekanntes Gewässer für Aufenthalte in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ernst-Henning-Straße",
+                  "text": "Der Spielplatz Ernst-Henning-Straße in Bergedorf bietet Kindern Raum für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        10.227292,
+                        53.485379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathaus Bergedorf",
+                  "text": "Der Spielplatz am Rathaus Bergedorf ist zentral gelegen und bietet Abwechslung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.221503,
+                        53.485528
+                  ]
+            },
+            {
+                  "name": "Kutter-Spielplatz",
+                  "text": "Der Kutter-Spielplatz in Bergedorf ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        10.189576,
+                        53.490398
+                  ]
+            },
+            {
+                  "name": "Mondspielplatz",
+                  "text": "Der Mondspielplatz in Bergedorf lädt Kinder zu fantasievollem Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        10.165668,
+                        53.48417
+                  ]
+            },
+            {
+                  "name": "Kindergartenspielplatz",
+                  "text": "Der Kindergartenspielplatz in Bergedorf ist auf die Bedürfnisse kleinerer Kinder ausgerichtet.",
+                  "category": "family",
+                  "coords": [
+                        10.18577,
+                        53.480913
+                  ]
+            },
+            {
+                  "name": "Grenzweg",
+                  "text": "Der Spielplatz am Grenzweg in Bergedorf bietet eine Spielfläche für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        10.251399,
+                        53.482725
+                  ]
+            },
+            {
+                  "name": "Pollhof Boldtstraße neben 6",
+                  "text": "Der Spielplatz in der Boldtstraße in Bergedorf ist ein freundliches Ziel für den Familienalltag.",
+                  "category": "family",
+                  "coords": [
+                        10.232213,
+                        53.476052
+                  ]
+            },
+            {
+                  "name": "Schaumanns Kamp Kehre",
+                  "text": "Der Spielplatz Schaumanns Kamp in Bergedorf lädt zum Spielen in einer ruhigen Umgebung ein.",
+                  "category": "family",
+                  "coords": [
+                        10.227562,
+                        53.501852
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Petersilienberg",
+                  "text": "Der Spielplatz am Petersilienberg in Bergedorf bietet vielfältige Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.252961,
+                        53.498024
+                  ]
+            },
+            {
+                  "name": "Kindertagesstätte Schulenbrook",
+                  "text": "Der Spielplatz der Kindertagesstätte Schulenbrook in Bergedorf bietet einen geschützten Raum für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.234471,
+                        53.485359
+                  ]
+            },
+            {
+                  "name": "Stern-Spielplatz",
+                  "text": "Der Stern-Spielplatz in Bergedorf ist ein beliebter Ort für Spiel und Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.210698,
+                        53.493994
+                  ]
+            },
+            {
+                  "name": "Gießkannen-Spielplatz",
+                  "text": "Der Gießkannen-Spielplatz in Bergedorf bietet Kindern eine fantasievolle Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        10.209209,
+                        53.494817
+                  ]
             }
       ],
       "hu": [
@@ -2362,6 +3361,177 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.164587,
                         53.482376
+                  ]
+            },
+            {
+                  "name": "Boberger See",
+                  "text": "A bergedorfi Boberger See szép táji környezetben fekszik, és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        10.13561,
+                        53.514768
+                  ]
+            },
+            {
+                  "name": "Westensee",
+                  "text": "A Bergedorf közeli Westensee egy nyugodt hely a természet élvezetére a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        10.138298,
+                        53.486568
+                  ]
+            },
+            {
+                  "name": "Allermöher See",
+                  "text": "A bergedorfi Allermöher See kellemes környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.16279,
+                        53.480498
+                  ]
+            },
+            {
+                  "name": "Regenwasserrückhaltebecken",
+                  "text": "A bergedorfi esővíz-visszatartó medence vízfelületként simul a környezetébe.",
+                  "category": "natural",
+                  "coords": [
+                        10.236796,
+                        53.518819
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "A bergedorfi visszatartó medence a vízelvezetést szolgálja, és zöldre néző kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        10.186099,
+                        53.502436
+                  ]
+            },
+            {
+                  "name": "See Hinterm Horn",
+                  "text": "A bergedorfi See Hinterm Horn egy természetközeli állóvíz a pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.154589,
+                        53.472632
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "A bergedorfi Eichbaumsee egy ismert állóvíz a természetben való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ernst-Henning-Straße",
+                  "text": "A bergedorfi Ernst-Henning-Straße játszótere helyet biztosít a gyerekeknek a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.227292,
+                        53.485379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathaus Bergedorf",
+                  "text": "A bergedorfi városháza melletti játszótér központi fekvésű, és kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.221503,
+                        53.485528
+                  ]
+            },
+            {
+                  "name": "Kutter-Spielplatz",
+                  "text": "A bergedorfi Kutter-Spielplatz szép úti cél a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.189576,
+                        53.490398
+                  ]
+            },
+            {
+                  "name": "Mondspielplatz",
+                  "text": "A bergedorfi Mondspielplatz fantáziadús szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        10.165668,
+                        53.48417
+                  ]
+            },
+            {
+                  "name": "Kindergartenspielplatz",
+                  "text": "A bergedorfi óvodai játszótér a kisebb gyermekek igényeihez igazodik.",
+                  "category": "family",
+                  "coords": [
+                        10.18577,
+                        53.480913
+                  ]
+            },
+            {
+                  "name": "Grenzweg",
+                  "text": "A bergedorfi Grenzweg játszótere játéklehetőséget biztosít a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.251399,
+                        53.482725
+                  ]
+            },
+            {
+                  "name": "Pollhof Boldtstraße neben 6",
+                  "text": "A bergedorfi Boldtstraße játszótere barátságos úti cél a családok mindennapjaiban.",
+                  "category": "family",
+                  "coords": [
+                        10.232213,
+                        53.476052
+                  ]
+            },
+            {
+                  "name": "Schaumanns Kamp Kehre",
+                  "text": "A bergedorfi Schaumanns Kamp játszótér nyugodt környezetben várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        10.227562,
+                        53.501852
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Petersilienberg",
+                  "text": "A bergedorfi Petersilienberg játszótere változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.252961,
+                        53.498024
+                  ]
+            },
+            {
+                  "name": "Kindertagesstätte Schulenbrook",
+                  "text": "A bergedorfi Schulenbrook óvoda játszótere védett teret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.234471,
+                        53.485359
+                  ]
+            },
+            {
+                  "name": "Stern-Spielplatz",
+                  "text": "A bergedorfi Stern-Spielplatz népszerű hely a szabadtéri játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.210698,
+                        53.493994
+                  ]
+            },
+            {
+                  "name": "Gießkannen-Spielplatz",
+                  "text": "A bergedorfi Gießkannen-Spielplatz fantáziadús környezetet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.209209,
+                        53.494817
                   ]
             }
       ],
@@ -2432,6 +3602,177 @@ export const poiExtraDe4b: POI[] = [
                         10.164587,
                         53.482376
                   ]
+            },
+            {
+                  "name": "Boberger See",
+                  "text": "Lacul Boberger See din Bergedorf este situat într-un peisaj atrăgător și invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.13561,
+                        53.514768
+                  ]
+            },
+            {
+                  "name": "Westensee",
+                  "text": "Lacul Westensee de lângă Bergedorf este un loc liniștit pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.138298,
+                        53.486568
+                  ]
+            },
+            {
+                  "name": "Allermöher See",
+                  "text": "Lacul Allermöher See din Bergedorf oferă o atmosferă plăcută pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.16279,
+                        53.480498
+                  ]
+            },
+            {
+                  "name": "Regenwasserrückhaltebecken",
+                  "text": "Bazinul de retenție a apei pluviale din Bergedorf este o suprafață de apă integrată în mediu.",
+                  "category": "natural",
+                  "coords": [
+                        10.236796,
+                        53.518819
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "Bazinul de retenție din Bergedorf servește la drenaj și oferă o vedere spre spațiile verzi.",
+                  "category": "natural",
+                  "coords": [
+                        10.186099,
+                        53.502436
+                  ]
+            },
+            {
+                  "name": "See Hinterm Horn",
+                  "text": "Lacul Hinterm Horn din Bergedorf este o apă naturală pentru ore de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.154589,
+                        53.472632
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "Lacul Eichbaumsee din Bergedorf este o apă cunoscută pentru activități în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ernst-Henning-Straße",
+                  "text": "Locul de joacă Ernst-Henning-Straße din Bergedorf oferă copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.227292,
+                        53.485379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathaus Bergedorf",
+                  "text": "Locul de joacă de la primăria din Bergedorf este situat central și oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.221503,
+                        53.485528
+                  ]
+            },
+            {
+                  "name": "Kutter-Spielplatz",
+                  "text": "Locul de joacă Kutter din Bergedorf este o destinație frumoasă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        10.189576,
+                        53.490398
+                  ]
+            },
+            {
+                  "name": "Mondspielplatz",
+                  "text": "Locul de joacă Mond din Bergedorf îi invită pe copii la jocuri imaginative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.165668,
+                        53.48417
+                  ]
+            },
+            {
+                  "name": "Kindergartenspielplatz",
+                  "text": "Locul de joacă al grădiniței din Bergedorf este adaptat nevoilor copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        10.18577,
+                        53.480913
+                  ]
+            },
+            {
+                  "name": "Grenzweg",
+                  "text": "Locul de joacă de pe Grenzweg din Bergedorf oferă un spațiu de joacă pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        10.251399,
+                        53.482725
+                  ]
+            },
+            {
+                  "name": "Pollhof Boldtstraße neben 6",
+                  "text": "Locul de joacă de pe Boldtstraße din Bergedorf este o destinație prietenoasă pentru rutina zilnică a familiilor.",
+                  "category": "family",
+                  "coords": [
+                        10.232213,
+                        53.476052
+                  ]
+            },
+            {
+                  "name": "Schaumanns Kamp Kehre",
+                  "text": "Locul de joacă Schaumanns Kamp din Bergedorf invită la joacă într-un mediu liniștit.",
+                  "category": "family",
+                  "coords": [
+                        10.227562,
+                        53.501852
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Petersilienberg",
+                  "text": "Locul de joacă de pe Petersilienberg din Bergedorf oferă diverse oportunități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.252961,
+                        53.498024
+                  ]
+            },
+            {
+                  "name": "Kindertagesstätte Schulenbrook",
+                  "text": "Locul de joacă al grădiniței Schulenbrook din Bergedorf oferă un spațiu protejat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.234471,
+                        53.485359
+                  ]
+            },
+            {
+                  "name": "Stern-Spielplatz",
+                  "text": "Locul de joacă Stern din Bergedorf este un loc popular pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.210698,
+                        53.493994
+                  ]
+            },
+            {
+                  "name": "Gießkannen-Spielplatz",
+                  "text": "Locul de joacă Gießkannen din Bergedorf oferă copiilor un mediu plin de imaginație pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.209209,
+                        53.494817
+                  ]
             }
       ],
       "en": [
@@ -2500,6 +3841,177 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.164587,
                         53.482376
+                  ]
+            },
+            {
+                  "name": "Boberger See",
+                  "text": "Boberger See in Bergedorf is located in a charming landscape and invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        10.13561,
+                        53.514768
+                  ]
+            },
+            {
+                  "name": "Westensee",
+                  "text": "Westensee near Bergedorf is a quiet place for outdoor nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        10.138298,
+                        53.486568
+                  ]
+            },
+            {
+                  "name": "Allermöher See",
+                  "text": "Allermöher See in Bergedorf offers a pleasant atmosphere for nature outings.",
+                  "category": "natural",
+                  "coords": [
+                        10.16279,
+                        53.480498
+                  ]
+            },
+            {
+                  "name": "Regenwasserrückhaltebecken",
+                  "text": "The rainwater retention basin in Bergedorf blends into the surroundings as a water surface.",
+                  "category": "natural",
+                  "coords": [
+                        10.236796,
+                        53.518819
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "The retention basin in Bergedorf serves drainage purposes and offers a view of green spaces.",
+                  "category": "natural",
+                  "coords": [
+                        10.186099,
+                        53.502436
+                  ]
+            },
+            {
+                  "name": "See Hinterm Horn",
+                  "text": "See Hinterm Horn in Bergedorf is a near-natural body of water for relaxing hours.",
+                  "category": "natural",
+                  "coords": [
+                        10.154589,
+                        53.472632
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "Eichbaumsee in Bergedorf is a well-known body of water for nature stays.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ernst-Henning-Straße",
+                  "text": "The Ernst-Henning-Straße playground in Bergedorf offers children space for movement in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        10.227292,
+                        53.485379
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathaus Bergedorf",
+                  "text": "The playground at Rathaus Bergedorf is centrally located and offers variety for children.",
+                  "category": "family",
+                  "coords": [
+                        10.221503,
+                        53.485528
+                  ]
+            },
+            {
+                  "name": "Kutter-Spielplatz",
+                  "text": "The Kutter-Spielplatz in Bergedorf is a nice destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        10.189576,
+                        53.490398
+                  ]
+            },
+            {
+                  "name": "Mondspielplatz",
+                  "text": "The Mondspielplatz in Bergedorf invites children to enjoy imaginative outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        10.165668,
+                        53.48417
+                  ]
+            },
+            {
+                  "name": "Kindergartenspielplatz",
+                  "text": "The Kindergartenspielplatz in Bergedorf is designed to meet the needs of smaller children.",
+                  "category": "family",
+                  "coords": [
+                        10.18577,
+                        53.480913
+                  ]
+            },
+            {
+                  "name": "Grenzweg",
+                  "text": "The playground at Grenzweg in Bergedorf offers a play area for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        10.251399,
+                        53.482725
+                  ]
+            },
+            {
+                  "name": "Pollhof Boldtstraße neben 6",
+                  "text": "The playground in Boldtstraße in Bergedorf is a friendly destination for family life.",
+                  "category": "family",
+                  "coords": [
+                        10.232213,
+                        53.476052
+                  ]
+            },
+            {
+                  "name": "Schaumanns Kamp Kehre",
+                  "text": "The Schaumanns Kamp playground in Bergedorf invites children to play in a quiet environment.",
+                  "category": "family",
+                  "coords": [
+                        10.227562,
+                        53.501852
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Petersilienberg",
+                  "text": "The playground at Petersilienberg in Bergedorf offers various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        10.252961,
+                        53.498024
+                  ]
+            },
+            {
+                  "name": "Kindertagesstätte Schulenbrook",
+                  "text": "The playground of the Schulenbrook daycare center in Bergedorf offers a protected space for children.",
+                  "category": "family",
+                  "coords": [
+                        10.234471,
+                        53.485359
+                  ]
+            },
+            {
+                  "name": "Stern-Spielplatz",
+                  "text": "The Stern-Spielplatz in Bergedorf is a popular spot for outdoor play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        10.210698,
+                        53.493994
+                  ]
+            },
+            {
+                  "name": "Gießkannen-Spielplatz",
+                  "text": "The Gießkannen-Spielplatz in Bergedorf offers children an imaginative environment for playing.",
+                  "category": "family",
+                  "coords": [
+                        10.209209,
+                        53.494817
                   ]
             }
       ]
@@ -2811,6 +4323,186 @@ export const poiExtraDe4b: POI[] = [
                         9.979096,
                         53.458851
                   ]
+            },
+            {
+                  "name": "Neuländer See",
+                  "text": "Ein großer See in Hamburg Harburg, ideal für ausgedehnte Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        10.018398,
+                        53.458128
+                  ]
+            },
+            {
+                  "name": "Pulvermühlenteich",
+                  "text": "Ruhiger See in Hamburg Harburg, der eine schöne Kulisse für die Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.036537,
+                        53.41451
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "Ein beliebter See in Hamburg Harburg für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "See im Großen Moor",
+                  "text": "Natursee in Hamburg Harburg, der zu einer friedlichen Auszeit im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.047639,
+                        53.41888
+                  ]
+            },
+            {
+                  "name": "Tidegebiet Kreetsand",
+                  "text": "Besonderes Tidegebiet in Hamburg Harburg, das interessante Einblicke in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.047004,
+                        53.500196
+                  ]
+            },
+            {
+                  "name": "Teich am Kolk",
+                  "text": "Ein kleiner, idyllischer Teich in Hamburg Harburg für eine ruhige Pause.",
+                  "category": "natural",
+                  "coords": [
+                        9.982633,
+                        53.399019
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "Dieser See in Hamburg Harburg ist ein schöner Ort für einen Spaziergang im Viertel.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Hohendeicher See",
+                  "text": "Beliebtes Ziel in Hamburg Harburg für Freizeitaktivitäten und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        10.107563,
+                        53.440107
+                  ]
+            },
+            {
+                  "name": "Außenmühlenteich",
+                  "text": "Ein zentraler See in Hamburg Harburg, der sich hervorragend für Rundgänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.977683,
+                        53.446758
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Rönneburger Kirchweg",
+                  "text": "Ein schöner Kinderspielplatz in Hamburg Harburg mit sicheren Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        9.994305,
+                        53.431974
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Lutherkirche",
+                  "text": "Dieser Spielplatz in Hamburg Harburg bietet Familien einen angenehmen Ort zum Verweilen.",
+                  "category": "family",
+                  "coords": [
+                        9.959213,
+                        53.455231
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hirschfeldplatz",
+                  "text": "Zentraler Treffpunkt in Hamburg Harburg für Kinder, um draußen zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.968673,
+                        53.457248
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Harburg",
+                  "text": "Abenteuerlicher Spielplatz in Hamburg Harburg, der zum Entdecken und Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.979783,
+                        53.451874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Außenmühle",
+                  "text": "Schön gelegener Spielplatz in Hamburg Harburg für Familienausflüge am Wochenende.",
+                  "category": "family",
+                  "coords": [
+                        9.97317,
+                        53.448338
+                  ]
+            },
+            {
+                  "name": "An der Rennkoppel",
+                  "text": "Ein einladender Platz in Hamburg Harburg, an dem Kinder aktiv sein können.",
+                  "category": "family",
+                  "coords": [
+                        9.959664,
+                        53.464882
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Buchholzer Weg",
+                  "text": "Dieser Spielplatz in Hamburg Harburg bietet Kindern abwechslungsreiche Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        9.991229,
+                        53.431922
+                  ]
+            },
+            {
+                  "name": "Kiefernberg Spielplatz",
+                  "text": "Ein beliebter Spielplatz in Hamburg Harburg für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.951716,
+                        53.464289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Beckberg",
+                  "text": "Dieser Ort in Hamburg Harburg ist ideal für Familien für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        9.984075,
+                        53.453074
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Bunatwiete",
+                  "text": "Gepflegter Spielplatz in Hamburg Harburg mit verschiedenen Geräten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.983669,
+                        53.455615
+                  ]
+            },
+            {
+                  "name": "Spielplatz Woellmerstraße / Vorderhof",
+                  "text": "Ein einladender Spielplatz in Hamburg Harburg für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        9.962355,
+                        53.466814
+                  ]
             }
       ],
       "hu": [
@@ -2916,6 +4608,186 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.979096,
                         53.458851
+                  ]
+            },
+            {
+                  "name": "Neuländer See",
+                  "text": "Egy nagy tó Hamburg Harburgban, amely ideális a hosszú parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.018398,
+                        53.458128
+                  ]
+            },
+            {
+                  "name": "Pulvermühlenteich",
+                  "text": "Nyugodt tó Hamburg Harburgban, amely szép helyszínt biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.036537,
+                        53.41451
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "Kedvelt tó Hamburg Harburgban sétákhoz és természeti megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "See im Großen Moor",
+                  "text": "Természetes tó Hamburg Harburgban, amely békés kikapcsolódásra hív a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        10.047639,
+                        53.41888
+                  ]
+            },
+            {
+                  "name": "Tidegebiet Kreetsand",
+                  "text": "Különleges árapály-terület Hamburg Harburgban, amely érdekes betekintést nyújt a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        10.047004,
+                        53.500196
+                  ]
+            },
+            {
+                  "name": "Teich am Kolk",
+                  "text": "Egy kicsi, idilli tavacska Hamburg Harburgban egy csendes pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.982633,
+                        53.399019
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "Ez a tó Hamburg Harburgban szép hely egy sétához a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Hohendeicher See",
+                  "text": "Népszerű úti cél Hamburg Harburgban szabadidős tevékenységekhez és vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.107563,
+                        53.440107
+                  ]
+            },
+            {
+                  "name": "Außenmühlenteich",
+                  "text": "Egy központi tó Hamburg Harburgban, amely kiválóan alkalmas körsétákra.",
+                  "category": "natural",
+                  "coords": [
+                        9.977683,
+                        53.446758
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Rönneburger Kirchweg",
+                  "text": "Egy szép játszótér Hamburg Harburgban biztonságos játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        9.994305,
+                        53.431974
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Lutherkirche",
+                  "text": "Ez a hamburg-harburgi játszótér kellemes helyet kínál a családoknak az időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        9.959213,
+                        53.455231
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hirschfeldplatz",
+                  "text": "Központi találkozóhely Hamburg Harburgban a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.968673,
+                        53.457248
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Harburg",
+                  "text": "Kalandos játszótér Hamburg Harburgban, amely felfedezésre és hancúrozásra hív.",
+                  "category": "family",
+                  "coords": [
+                        9.979783,
+                        53.451874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Außenmühle",
+                  "text": "Szép fekvésű játszótér Hamburg Harburgban hétvégi családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.97317,
+                        53.448338
+                  ]
+            },
+            {
+                  "name": "An der Rennkoppel",
+                  "text": "Egy hívogató hely Hamburg Harburgban, ahol a gyerekek aktívak lehetnek.",
+                  "category": "family",
+                  "coords": [
+                        9.959664,
+                        53.464882
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Buchholzer Weg",
+                  "text": "Ez a hamburg-harburgi játszótér változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.991229,
+                        53.431922
+                  ]
+            },
+            {
+                  "name": "Kiefernberg Spielplatz",
+                  "text": "Népszerű játszótér Hamburg Harburgban a környékbeli gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.951716,
+                        53.464289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Beckberg",
+                  "text": "Ez a hely Hamburg Harburgban ideális a családoknak egy rövid játékszünetre.",
+                  "category": "family",
+                  "coords": [
+                        9.984075,
+                        53.453074
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Bunatwiete",
+                  "text": "Gondozott játszótér Hamburg Harburgban különféle mászó- és játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        9.983669,
+                        53.455615
+                  ]
+            },
+            {
+                  "name": "Spielplatz Woellmerstraße / Vorderhof",
+                  "text": "Hívogató játszótér Hamburg Harburgban minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.962355,
+                        53.466814
                   ]
             }
       ],
@@ -3023,6 +4895,186 @@ export const poiExtraDe4b: POI[] = [
                         9.979096,
                         53.458851
                   ]
+            },
+            {
+                  "name": "Neuländer See",
+                  "text": "Un lac mare în Hamburg Harburg, ideal pentru plimbări lungi pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        10.018398,
+                        53.458128
+                  ]
+            },
+            {
+                  "name": "Pulvermühlenteich",
+                  "text": "Lac liniștit în Hamburg Harburg, care oferă un cadru frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.036537,
+                        53.41451
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "Un lac popular în Hamburg Harburg pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "See im Großen Moor",
+                  "text": "Lac natural în Hamburg Harburg, care invită la o evadare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.047639,
+                        53.41888
+                  ]
+            },
+            {
+                  "name": "Tidegebiet Kreetsand",
+                  "text": "Zonă specială de maree în Hamburg Harburg, care oferă perspective interesante asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        10.047004,
+                        53.500196
+                  ]
+            },
+            {
+                  "name": "Teich am Kolk",
+                  "text": "Un iaz mic și idilic în Hamburg Harburg pentru o pauză liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.982633,
+                        53.399019
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "Acest lac din Hamburg Harburg este un loc frumos pentru o plimbare în cartier.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Hohendeicher See",
+                  "text": "Destinație populară în Hamburg Harburg pentru activități recreative și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        10.107563,
+                        53.440107
+                  ]
+            },
+            {
+                  "name": "Außenmühlenteich",
+                  "text": "Un lac central în Hamburg Harburg, excelent pentru plimbări circulare.",
+                  "category": "natural",
+                  "coords": [
+                        9.977683,
+                        53.446758
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Rönneburger Kirchweg",
+                  "text": "Un loc de joacă frumos în Hamburg Harburg, cu echipamente de joacă sigure.",
+                  "category": "family",
+                  "coords": [
+                        9.994305,
+                        53.431974
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Lutherkirche",
+                  "text": "Acest loc de joacă din Hamburg Harburg oferă familiilor un loc plăcut pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        9.959213,
+                        53.455231
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hirschfeldplatz",
+                  "text": "Loc de întâlnire central în Hamburg Harburg pentru copii, pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.968673,
+                        53.457248
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Harburg",
+                  "text": "Loc de joacă aventuros în Hamburg Harburg, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.979783,
+                        53.451874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Außenmühle",
+                  "text": "Loc de joacă frumos situat în Hamburg Harburg pentru excursii cu familia în weekend.",
+                  "category": "family",
+                  "coords": [
+                        9.97317,
+                        53.448338
+                  ]
+            },
+            {
+                  "name": "An der Rennkoppel",
+                  "text": "Un loc primitor în Hamburg Harburg unde copiii pot fi activi.",
+                  "category": "family",
+                  "coords": [
+                        9.959664,
+                        53.464882
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Buchholzer Weg",
+                  "text": "Acest loc de joacă din Hamburg Harburg oferă copiilor posibilități variate de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.991229,
+                        53.431922
+                  ]
+            },
+            {
+                  "name": "Kiefernberg Spielplatz",
+                  "text": "Un loc de joacă popular în Hamburg Harburg pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        9.951716,
+                        53.464289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Beckberg",
+                  "text": "Acest loc din Hamburg Harburg este ideal pentru familii pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.984075,
+                        53.453074
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Bunatwiete",
+                  "text": "Loc de joacă bine întreținut în Hamburg Harburg, cu diverse echipamente pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.983669,
+                        53.455615
+                  ]
+            },
+            {
+                  "name": "Spielplatz Woellmerstraße / Vorderhof",
+                  "text": "Un loc de joacă primitor în Hamburg Harburg pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.962355,
+                        53.466814
+                  ]
             }
       ],
       "en": [
@@ -3128,6 +5180,186 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.979096,
                         53.458851
+                  ]
+            },
+            {
+                  "name": "Neuländer See",
+                  "text": "A large lake in Hamburg Harburg, ideal for long walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        10.018398,
+                        53.458128
+                  ]
+            },
+            {
+                  "name": "Pulvermühlenteich",
+                  "text": "Quiet lake in Hamburg Harburg that offers a beautiful setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        10.036537,
+                        53.41451
+                  ]
+            },
+            {
+                  "name": "Eichbaumsee",
+                  "text": "A popular lake in Hamburg Harburg for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        10.103238,
+                        53.485172
+                  ]
+            },
+            {
+                  "name": "See im Großen Moor",
+                  "text": "Natural lake in Hamburg Harburg that invites you to a peaceful break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.047639,
+                        53.41888
+                  ]
+            },
+            {
+                  "name": "Tidegebiet Kreetsand",
+                  "text": "Special tidal area in Hamburg Harburg that offers interesting insights into nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.047004,
+                        53.500196
+                  ]
+            },
+            {
+                  "name": "Teich am Kolk",
+                  "text": "A small, idyllic pond in Hamburg Harburg for a quiet break.",
+                  "category": "natural",
+                  "coords": [
+                        9.982633,
+                        53.399019
+                  ]
+            },
+            {
+                  "name": "Bürgerhaus-See",
+                  "text": "This lake in Hamburg Harburg is a nice place for a walk in the neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        9.996504,
+                        53.500141
+                  ]
+            },
+            {
+                  "name": "Hohendeicher See",
+                  "text": "Popular destination in Hamburg Harburg for leisure activities and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        10.107563,
+                        53.440107
+                  ]
+            },
+            {
+                  "name": "Außenmühlenteich",
+                  "text": "A central lake in Hamburg Harburg that is excellent for circular walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.977683,
+                        53.446758
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Rönneburger Kirchweg",
+                  "text": "A nice playground in Hamburg Harburg with safe play equipment.",
+                  "category": "family",
+                  "coords": [
+                        9.994305,
+                        53.431974
+                  ]
+            },
+            {
+                  "name": "Spielplatz an der Lutherkirche",
+                  "text": "This playground in Hamburg Harburg offers families a pleasant place to spend time.",
+                  "category": "family",
+                  "coords": [
+                        9.959213,
+                        53.455231
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Hirschfeldplatz",
+                  "text": "Central meeting point in Hamburg Harburg for children to play outside.",
+                  "category": "family",
+                  "coords": [
+                        9.968673,
+                        53.457248
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Harburg",
+                  "text": "Adventurous playground in Hamburg Harburg that invites discovery and romping.",
+                  "category": "family",
+                  "coords": [
+                        9.979783,
+                        53.451874
+                  ]
+            },
+            {
+                  "name": "Spielplatz Außenmühle",
+                  "text": "Beautifully located playground in Hamburg Harburg for family outings at the weekend.",
+                  "category": "family",
+                  "coords": [
+                        9.97317,
+                        53.448338
+                  ]
+            },
+            {
+                  "name": "An der Rennkoppel",
+                  "text": "An inviting place in Hamburg Harburg where children can be active.",
+                  "category": "family",
+                  "coords": [
+                        9.959664,
+                        53.464882
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Buchholzer Weg",
+                  "text": "This playground in Hamburg Harburg offers children varied play options.",
+                  "category": "family",
+                  "coords": [
+                        9.991229,
+                        53.431922
+                  ]
+            },
+            {
+                  "name": "Kiefernberg Spielplatz",
+                  "text": "A popular playground in Hamburg Harburg for local children.",
+                  "category": "family",
+                  "coords": [
+                        9.951716,
+                        53.464289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Beckberg",
+                  "text": "This place in Hamburg Harburg is ideal for families for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        9.984075,
+                        53.453074
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Bunatwiete",
+                  "text": "Well-kept playground in Hamburg Harburg with various equipment for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        9.983669,
+                        53.455615
+                  ]
+            },
+            {
+                  "name": "Spielplatz Woellmerstraße / Vorderhof",
+                  "text": "An inviting playground in Hamburg Harburg for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.962355,
+                        53.466814
                   ]
             }
       ]
@@ -4048,7 +6280,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Die Lakai",
                   "text": "Die Lakai ist ein beliebtes Freizeit- und Sportbad in Neunkirchen mit verschiedenen Wasserattraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.198485,
                         49.327177
@@ -4061,6 +6293,33 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.207226,
                         49.345672
+                  ]
+            },
+            {
+                  "name": "Angelsportgemeinschaft Kohlwald",
+                  "text": "Die Angelsportgemeinschaft Kohlwald in City Neunkirchen ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.158552,
+                        49.36741
+                  ]
+            },
+            {
+                  "name": "Itzenplitzer Weiher",
+                  "text": "Der Itzenplitzer Weiher in City Neunkirchen ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.093784,
+                        49.349165
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage am Zoo",
+                  "text": "Die Minigolfanlage am Zoo in City Neunkirchen lädt Familien zu einer unterhaltsamen Runde Minigolf im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        7.204485,
+                        49.345047
                   ]
             }
       ],
@@ -4126,7 +6385,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Die Lakai",
                   "text": "A Die Lakai egy népszerű szabadidős és sportuszoda Neunkirchenben, különféle vízi attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.198485,
                         49.327177
@@ -4139,6 +6398,33 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.207226,
                         49.345672
+                  ]
+            },
+            {
+                  "name": "Angelsportgemeinschaft Kohlwald",
+                  "text": "A City Neunkirchen városában található Angelsportgemeinschaft Kohlwald egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.158552,
+                        49.36741
+                  ]
+            },
+            {
+                  "name": "Itzenplitzer Weiher",
+                  "text": "A City Neunkirchen városában található Itzenplitzer Weiher egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.093784,
+                        49.349165
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage am Zoo",
+                  "text": "A City Neunkirchen városában lévő Minigolfanlage am Zoo szórakoztató minigolf-élményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.204485,
+                        49.345047
                   ]
             }
       ],
@@ -4204,7 +6490,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Die Lakai",
                   "text": "Die Lakai este un complex acvatic popular din Neunkirchen, oferind diverse facilități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.198485,
                         49.327177
@@ -4217,6 +6503,33 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.207226,
                         49.345672
+                  ]
+            },
+            {
+                  "name": "Angelsportgemeinschaft Kohlwald",
+                  "text": "Angelsportgemeinschaft Kohlwald din City Neunkirchen este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.158552,
+                        49.36741
+                  ]
+            },
+            {
+                  "name": "Itzenplitzer Weiher",
+                  "text": "Itzenplitzer Weiher din City Neunkirchen este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.093784,
+                        49.349165
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage am Zoo",
+                  "text": "Minigolfanlage am Zoo din City Neunkirchen invită familiile la o partidă distractivă de minigolf în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.204485,
+                        49.345047
                   ]
             }
       ],
@@ -4282,7 +6595,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Die Lakai",
                   "text": "Die Lakai is a popular leisure and sports pool in Neunkirchen featuring various water attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.198485,
                         49.327177
@@ -4295,6 +6608,33 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.207226,
                         49.345672
+                  ]
+            },
+            {
+                  "name": "Angelsportgemeinschaft Kohlwald",
+                  "text": "Angelsportgemeinschaft Kohlwald in City Neunkirchen is a lake suitable for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.158552,
+                        49.36741
+                  ]
+            },
+            {
+                  "name": "Itzenplitzer Weiher",
+                  "text": "Itzenplitzer Weiher in City Neunkirchen is a lake suitable for walks and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.093784,
+                        49.349165
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage am Zoo",
+                  "text": "Minigolfanlage am Zoo in City Neunkirchen invites families for a fun round of miniature golf outdoors.",
+                  "category": "family",
+                  "coords": [
+                        7.204485,
+                        49.345047
                   ]
             }
       ]
@@ -4448,7 +6788,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Homburger Aqualit",
                   "text": "Eine öffentliche Einrichtung in Homburg, die Besuchern Einblicke in die Welt der Aquaristik bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.340626,
                         49.322984
@@ -4562,7 +6902,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Homburger Aqualit",
                   "text": "Homburgi közintézmény, amely betekintést nyújt a látogatóknak az akvarisztika világába.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.340626,
                         49.322984
@@ -4676,7 +7016,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Homburger Aqualit",
                   "text": "O facilitate publică din Homburg care oferă vizitatorilor o incursiune în lumea acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.340626,
                         49.322984
@@ -4790,7 +7130,7 @@ export const poiExtraDe4b: POI[] = [
             {
                   "name": "Homburger Aqualit",
                   "text": "A public facility in Homburg offering visitors insights into the world of aquatics.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.340626,
                         49.322984

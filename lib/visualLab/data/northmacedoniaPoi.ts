@@ -264,7 +264,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Зоолошка градина Скопје",
                   "text": "Der Skopje Zoo ist ein bekannter zoologischer Park in der Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.417579,
                         42.006809
@@ -689,7 +689,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Зоолошка градина Скопје",
                   "text": "A Skopje Zoo egy elismert állatkert a városban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.417579,
                         42.006809
@@ -1114,7 +1114,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Зоолошка градина Скопје",
                   "text": "Grădina Zoologică din Skopje este un parc zoologic recunoscut situat în oraș.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.417579,
                         42.006809
@@ -1539,7 +1539,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Skopje Zoo",
                   "text": "Skopje Zoo is a recognized zoological park located in the city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.417579,
                         42.006809
@@ -1829,7 +1829,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Зоолошка градина",
                   "text": "Der Zoo von Bitola beherbergt verschiedene Tierarten in der Region Pelagonien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.341458,
                         41.014754
@@ -1856,7 +1856,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Олимписки Базен",
                   "text": "Eine öffentliche Badeanstalt und Wasserpark in Bitola.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.339901,
                         41.017451
@@ -2101,7 +2101,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Зоолошка градина",
                   "text": "A bitolai állatkert különféle állatfajoknak ad otthont a Pelagonija régióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.341458,
                         41.014754
@@ -2128,7 +2128,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Олимписки Базен",
                   "text": "Nyilvános fürdő és vízi park Bitola városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.339901,
                         41.017451
@@ -2373,7 +2373,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Зоолошка градина",
                   "text": "Grădina zoologică din Bitola găzduiește diverse specii de animale în regiunea Pelagonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.341458,
                         41.014754
@@ -2400,7 +2400,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Олимписки Базен",
                   "text": "O baie publică și parc acvatic în Bitola.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.339901,
                         41.017451
@@ -2645,7 +2645,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Bitola Zoo",
                   "text": "The Bitola Zoo is home to various animal species in the Pelagonia region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.341458,
                         41.014754
@@ -2672,7 +2672,7 @@ export const northmacedoniaPois: POI[] = [
             {
                   "name": "Олимписки Базен",
                   "text": "A public swimming pool and water park in Bitola.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.339901,
                         41.017451

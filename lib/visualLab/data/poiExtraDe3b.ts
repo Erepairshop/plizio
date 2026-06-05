@@ -175,7 +175,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Lagune",
                   "text": "Beliebtes Freizeitbad in Cottbus mit verschiedenen Wasserbecken und Wellnessbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.327388,
                         51.770957
@@ -260,6 +260,105 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.338987,
                         51.762951
+                  ]
+            },
+            {
+                  "name": "Ströbitzer Badesee",
+                  "text": "Ein schöner Badesee bei Cottbus für sommerliche Erfrischung.",
+                  "category": "natural",
+                  "coords": [
+                        14.28219,
+                        51.744174
+                  ]
+            },
+            {
+                  "name": "Cottbuser Ostsee",
+                  "text": "Ein großes Gewässer bei Cottbus, ideal für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.423906,
+                        51.779937
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz",
+                  "text": "Der Aktivspielplatz in Cottbus bietet vielfältige Möglichkeiten zum Austoben für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.351568,
+                        51.789949
+                  ]
+            },
+            {
+                  "name": "Sandkasten",
+                  "text": "Der Spielplatz Sandkasten in Cottbus ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.334081,
+                        51.771291
+                  ]
+            },
+            {
+                  "name": "Weltspielplatz",
+                  "text": "Der Weltspielplatz in Cottbus lädt Kinder zu abwechslungsreichen Spielstunden ein.",
+                  "category": "family",
+                  "coords": [
+                        14.331093,
+                        51.756101
+                  ]
+            },
+            {
+                  "name": "Pipapo",
+                  "text": "Der Spielplatz Pipapo in Cottbus bietet eine freundliche Umgebung für das tägliche Spiel.",
+                  "category": "family",
+                  "coords": [
+                        14.322357,
+                        51.7402
+                  ]
+            },
+            {
+                  "name": "Skateanlage",
+                  "text": "Die Skateanlage in Cottbus bietet Raum für sportliche Aktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.346209,
+                        51.780191
+                  ]
+            },
+            {
+                  "name": "Koboldspielplatz",
+                  "text": "Der Koboldspielplatz in Cottbus ist ein beliebter Treffpunkt für Familien der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        14.346415,
+                        51.734441
+                  ]
+            },
+            {
+                  "name": "Hans-Beimler-Straße",
+                  "text": "Der Spielplatz in der Hans-Beimler-Straße in Cottbus bietet Kindern Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.354376,
+                        51.759665
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz im Eliaspark, Die Spree - von der Quelle bis zur Mündung",
+                  "text": "Der Wasserspielplatz im Eliaspark in Cottbus sorgt an warmen Tagen für Spielspaß und Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        14.348919,
+                        51.752273
+                  ]
+            },
+            {
+                  "name": "Drebkauer Straße",
+                  "text": "Der Spielplatz in der Drebkauer Straße in Cottbus bietet Abwechslung im Alltag der Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.328276,
+                        51.741129
                   ]
             }
       ],
@@ -353,7 +452,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Lagune",
                   "text": "Népszerű vízipark és szabadidős központ Cottbusban, különféle medencékkel és wellness szolgáltatásokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.327388,
                         51.770957
@@ -438,6 +537,105 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.338987,
                         51.762951
+                  ]
+            },
+            {
+                  "name": "Ströbitzer Badesee",
+                  "text": "Szép fürdőtó Cottbus közelében a nyári felfrissüléshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.28219,
+                        51.744174
+                  ]
+            },
+            {
+                  "name": "Cottbuser Ostsee",
+                  "text": "Nagy vízfelület Cottbus közelében, ideális vízi szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.423906,
+                        51.779937
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz",
+                  "text": "A cottbusi Aktivspielplatz változatos lehetőségeket kínál a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.351568,
+                        51.789949
+                  ]
+            },
+            {
+                  "name": "Sandkasten",
+                  "text": "A cottbusi Sandkasten játszótér szép úti cél a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.334081,
+                        51.771291
+                  ]
+            },
+            {
+                  "name": "Weltspielplatz",
+                  "text": "A cottbusi Weltspielplatz változatos játékra hívja a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        14.331093,
+                        51.756101
+                  ]
+            },
+            {
+                  "name": "Pipapo",
+                  "text": "A cottbusi Pipapo játszótér barátságos környezetet biztosít a mindennapi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.322357,
+                        51.7402
+                  ]
+            },
+            {
+                  "name": "Skateanlage",
+                  "text": "A cottbusi görpark lehetőséget nyújt a szabadtéri sportolásra.",
+                  "category": "family",
+                  "coords": [
+                        14.346209,
+                        51.780191
+                  ]
+            },
+            {
+                  "name": "Koboldspielplatz",
+                  "text": "A cottbusi Koboldspielplatz a környékbeli családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        14.346415,
+                        51.734441
+                  ]
+            },
+            {
+                  "name": "Hans-Beimler-Straße",
+                  "text": "A cottbusi Hans-Beimler-Straße játszótere helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.354376,
+                        51.759665
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz im Eliaspark, Die Spree - von der Quelle bis zur Mündung",
+                  "text": "A cottbusi Eliaspark vizes játszótere hűsölést és játékos szórakozást kínál a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        14.348919,
+                        51.752273
+                  ]
+            },
+            {
+                  "name": "Drebkauer Straße",
+                  "text": "A cottbusi Drebkauer Straße játszótere kikapcsolódást nyújt a gyerekek mindennapjaiban.",
+                  "category": "family",
+                  "coords": [
+                        14.328276,
+                        51.741129
                   ]
             }
       ],
@@ -531,7 +729,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Lagune",
                   "text": "Un parc acvatic popular din Cottbus, care oferă diverse piscine și zone de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.327388,
                         51.770957
@@ -616,6 +814,105 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.338987,
                         51.762951
+                  ]
+            },
+            {
+                  "name": "Ströbitzer Badesee",
+                  "text": "Un lac frumos pentru scăldat lângă Cottbus pentru relaxare de vară.",
+                  "category": "natural",
+                  "coords": [
+                        14.28219,
+                        51.744174
+                  ]
+            },
+            {
+                  "name": "Cottbuser Ostsee",
+                  "text": "O zonă cu apă întinsă lângă Cottbus, ideală pentru activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        14.423906,
+                        51.779937
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz",
+                  "text": "Locul de joacă Aktivspielplatz din Cottbus oferă diverse oportunități de mișcare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.351568,
+                        51.789949
+                  ]
+            },
+            {
+                  "name": "Sandkasten",
+                  "text": "Locul de joacă Sandkasten din Cottbus este o destinație frumoasă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        14.334081,
+                        51.771291
+                  ]
+            },
+            {
+                  "name": "Weltspielplatz",
+                  "text": "Locul de joacă Weltspielplatz din Cottbus îi invită pe copii la ore de joacă variate.",
+                  "category": "family",
+                  "coords": [
+                        14.331093,
+                        51.756101
+                  ]
+            },
+            {
+                  "name": "Pipapo",
+                  "text": "Locul de joacă Pipapo din Cottbus oferă un mediu prietenos pentru joaca de zi cu zi.",
+                  "category": "family",
+                  "coords": [
+                        14.322357,
+                        51.7402
+                  ]
+            },
+            {
+                  "name": "Skateanlage",
+                  "text": "Zona de skate din Cottbus oferă spațiu pentru activități sportive în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.346209,
+                        51.780191
+                  ]
+            },
+            {
+                  "name": "Koboldspielplatz",
+                  "text": "Locul de joacă Koboldspielplatz din Cottbus este un punct de întâlnire popular pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        14.346415,
+                        51.734441
+                  ]
+            },
+            {
+                  "name": "Hans-Beimler-Straße",
+                  "text": "Locul de joacă de pe Hans-Beimler-Straße din Cottbus oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.354376,
+                        51.759665
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz im Eliaspark, Die Spree - von der Quelle bis zur Mündung",
+                  "text": "Locul de joacă cu apă din Eliaspark, Cottbus, oferă distracție și răcoare în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        14.348919,
+                        51.752273
+                  ]
+            },
+            {
+                  "name": "Drebkauer Straße",
+                  "text": "Locul de joacă de pe Drebkauer Straße din Cottbus oferă o schimbare plăcută în rutina copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.328276,
+                        51.741129
                   ]
             }
       ],
@@ -709,7 +1006,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Lagune",
                   "text": "A popular water park in Cottbus featuring various swimming pools and wellness areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.327388,
                         51.770957
@@ -794,6 +1091,105 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.338987,
                         51.762951
+                  ]
+            },
+            {
+                  "name": "Ströbitzer Badesee",
+                  "text": "A nice swimming lake near Cottbus for summer refreshment.",
+                  "category": "natural",
+                  "coords": [
+                        14.28219,
+                        51.744174
+                  ]
+            },
+            {
+                  "name": "Cottbuser Ostsee",
+                  "text": "A large body of water near Cottbus, ideal for water-based activities.",
+                  "category": "natural",
+                  "coords": [
+                        14.423906,
+                        51.779937
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz",
+                  "text": "The Aktivspielplatz in Cottbus offers various opportunities for children to play and be active.",
+                  "category": "family",
+                  "coords": [
+                        14.351568,
+                        51.789949
+                  ]
+            },
+            {
+                  "name": "Sandkasten",
+                  "text": "The Sandkasten playground in Cottbus is a nice destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        14.334081,
+                        51.771291
+                  ]
+            },
+            {
+                  "name": "Weltspielplatz",
+                  "text": "The Weltspielplatz in Cottbus invites children to enjoy varied hours of play.",
+                  "category": "family",
+                  "coords": [
+                        14.331093,
+                        51.756101
+                  ]
+            },
+            {
+                  "name": "Pipapo",
+                  "text": "The Pipapo playground in Cottbus offers a friendly environment for daily play.",
+                  "category": "family",
+                  "coords": [
+                        14.322357,
+                        51.7402
+                  ]
+            },
+            {
+                  "name": "Skateanlage",
+                  "text": "The skate facility in Cottbus offers space for outdoor sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        14.346209,
+                        51.780191
+                  ]
+            },
+            {
+                  "name": "Koboldspielplatz",
+                  "text": "The Koboldspielplatz in Cottbus is a popular meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        14.346415,
+                        51.734441
+                  ]
+            },
+            {
+                  "name": "Hans-Beimler-Straße",
+                  "text": "The playground in Hans-Beimler-Straße in Cottbus provides space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.354376,
+                        51.759665
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz im Eliaspark, Die Spree - von der Quelle bis zur Mündung",
+                  "text": "The water playground in Eliaspark in Cottbus provides play fun and cooling on warm days.",
+                  "category": "family",
+                  "coords": [
+                        14.348919,
+                        51.752273
+                  ]
+            },
+            {
+                  "name": "Drebkauer Straße",
+                  "text": "The playground in Drebkauer Straße in Cottbus offers variety in children's daily lives.",
+                  "category": "family",
+                  "coords": [
+                        14.328276,
+                        51.741129
                   ]
             }
       ],
@@ -1642,7 +2038,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Städtisches Hallenbad",
                   "text": "Das städtische Hallenbad in Frankfurt (Oder) bietet verschiedene Schwimmbecken und Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.515383,
                         52.348596
@@ -1718,6 +2114,87 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.575824,
                         52.349496
+                  ]
+            },
+            {
+                  "name": "Großer Kliestower See",
+                  "text": "Ein malerischer See in Frankfurt (Oder), ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.506429,
+                        52.37237
+                  ]
+            },
+            {
+                  "name": "Helenesee",
+                  "text": "Dieser See bei Frankfurt (Oder) lädt zu Naturerlebnissen und Erholung am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        14.497939,
+                        52.270216
+                  ]
+            },
+            {
+                  "name": "Jezioro Zielone",
+                  "text": "Ein ruhig gelegener See in Frankfurt (Oder), der eine schöne Kulisse für Wanderungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.641134,
+                        52.348494
+                  ]
+            },
+            {
+                  "name": "Jezioro Błędno",
+                  "text": "Ein Natursee in Frankfurt (Oder), der sich hervorragend für Beobachtungen und Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.643885,
+                        52.343977
+                  ]
+            },
+            {
+                  "name": "Jezioro Gnilec",
+                  "text": "Dieser See in Frankfurt (Oder) ist ein friedlicher Ort für eine Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        14.650528,
+                        52.339744
+                  ]
+            },
+            {
+                  "name": "Schwänchenteich",
+                  "text": "Ein kleinerer See in Frankfurt (Oder), der zu einer kurzen Erholungspause einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.535314,
+                        52.337775
+                  ]
+            },
+            {
+                  "name": "Großer Güldendorfer See",
+                  "text": "Ein landschaftlich schöner See in Frankfurt (Oder), ideal für Wanderfreunde und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        14.538556,
+                        52.312849
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Am Klingefließ\"",
+                  "text": "Dieser Spielplatz in Frankfurt (Oder) bietet Familien einen sicheren Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.534212,
+                        52.349981
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Seestraße\"",
+                  "text": "Ein schöner Treffpunkt in Frankfurt (Oder) für Kinder und ihre Eltern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.540469,
+                        52.312977
                   ]
             }
       ],
@@ -1801,7 +2278,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Städtisches Hallenbad",
                   "text": "Frankfurt an der Oder városi fedett uszodája különféle medencékkel és szabadidős lehetőségekkel várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.515383,
                         52.348596
@@ -1877,6 +2354,87 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.575824,
                         52.349496
+                  ]
+            },
+            {
+                  "name": "Großer Kliestower See",
+                  "text": "Egy festői tó Frankfurt (Oder) területén, amely ideális a természetben való pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.506429,
+                        52.37237
+                  ]
+            },
+            {
+                  "name": "Helenesee",
+                  "text": "Ez a Frankfurt (Oder) melletti tó természeti élményekre és vízparti kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.497939,
+                        52.270216
+                  ]
+            },
+            {
+                  "name": "Jezioro Zielone",
+                  "text": "Egy nyugodt fekvésű tó Frankfurt (Oder) területén, amely szép helyszínt biztosít a túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.641134,
+                        52.348494
+                  ]
+            },
+            {
+                  "name": "Jezioro Błędno",
+                  "text": "Egy természetes tó Frankfurt (Oder) területén, amely kiválóan alkalmas megfigyelésekre és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        14.643885,
+                        52.343977
+                  ]
+            },
+            {
+                  "name": "Jezioro Gnilec",
+                  "text": "Ez a tó Frankfurt (Oder) területén egy békés hely a zöldben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.650528,
+                        52.339744
+                  ]
+            },
+            {
+                  "name": "Schwänchenteich",
+                  "text": "Egy kisebb tó Frankfurt (Oder) területén, amely egy rövid pihenőre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.535314,
+                        52.337775
+                  ]
+            },
+            {
+                  "name": "Großer Güldendorfer See",
+                  "text": "Egy tájképileg szép tó Frankfurt (Oder) területén, ideális a túrázás és a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        14.538556,
+                        52.312849
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Am Klingefließ\"",
+                  "text": "Ez a frankfurt (oder)-i játszótér biztonságos helyet kínál a családoknak a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.534212,
+                        52.349981
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Seestraße\"",
+                  "text": "Egy szép szabadtéri találkozóhely Frankfurt (Oder) területén a gyerekek és szüleik számára.",
+                  "category": "family",
+                  "coords": [
+                        14.540469,
+                        52.312977
                   ]
             }
       ],
@@ -1960,7 +2518,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Städtisches Hallenbad",
                   "text": "Piscina interioară municipală din Frankfurt (Oder) oferă diverse bazine și activități de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.515383,
                         52.348596
@@ -2036,6 +2594,87 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.575824,
                         52.349496
+                  ]
+            },
+            {
+                  "name": "Großer Kliestower See",
+                  "text": "Un lac pitoresc în Frankfurt (Oder), ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.506429,
+                        52.37237
+                  ]
+            },
+            {
+                  "name": "Helenesee",
+                  "text": "Acest lac de lângă Frankfurt (Oder) invită la experiențe în natură și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.497939,
+                        52.270216
+                  ]
+            },
+            {
+                  "name": "Jezioro Zielone",
+                  "text": "Un lac liniștit în Frankfurt (Oder), care oferă un cadru frumos pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        14.641134,
+                        52.348494
+                  ]
+            },
+            {
+                  "name": "Jezioro Błędno",
+                  "text": "Un lac natural în Frankfurt (Oder), excelent pentru observații și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        14.643885,
+                        52.343977
+                  ]
+            },
+            {
+                  "name": "Jezioro Gnilec",
+                  "text": "Acest lac din Frankfurt (Oder) este un loc liniștit pentru o evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.650528,
+                        52.339744
+                  ]
+            },
+            {
+                  "name": "Schwänchenteich",
+                  "text": "Un lac mai mic în Frankfurt (Oder), care invită la o scurtă pauză de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.535314,
+                        52.337775
+                  ]
+            },
+            {
+                  "name": "Großer Güldendorfer See",
+                  "text": "Un lac pitoresc în Frankfurt (Oder), ideal pentru iubitorii de drumeții și natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.538556,
+                        52.312849
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Am Klingefließ\"",
+                  "text": "Acest loc de joacă din Frankfurt (Oder) oferă familiilor un loc sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.534212,
+                        52.349981
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Seestraße\"",
+                  "text": "Un loc frumos de întâlnire în aer liber în Frankfurt (Oder) pentru copii și părinții lor.",
+                  "category": "family",
+                  "coords": [
+                        14.540469,
+                        52.312977
                   ]
             }
       ],
@@ -2119,7 +2758,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Städtisches Hallenbad",
                   "text": "The municipal indoor swimming pool in Frankfurt (Oder) features various pools and leisure activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.515383,
                         52.348596
@@ -2195,6 +2834,87 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.575824,
                         52.349496
+                  ]
+            },
+            {
+                  "name": "Großer Kliestower See",
+                  "text": "A scenic lake in Frankfurt (Oder), ideal for relaxed walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.506429,
+                        52.37237
+                  ]
+            },
+            {
+                  "name": "Helenesee",
+                  "text": "This lake near Frankfurt (Oder) invites you to experience nature and relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.497939,
+                        52.270216
+                  ]
+            },
+            {
+                  "name": "Jezioro Zielone",
+                  "text": "A quietly located lake in Frankfurt (Oder) that offers a beautiful backdrop for hikes.",
+                  "category": "natural",
+                  "coords": [
+                        14.641134,
+                        52.348494
+                  ]
+            },
+            {
+                  "name": "Jezioro Błędno",
+                  "text": "A natural lake in Frankfurt (Oder) that is excellent for observations and walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.643885,
+                        52.343977
+                  ]
+            },
+            {
+                  "name": "Jezioro Gnilec",
+                  "text": "This lake in Frankfurt (Oder) is a peaceful place for a break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        14.650528,
+                        52.339744
+                  ]
+            },
+            {
+                  "name": "Schwänchenteich",
+                  "text": "A smaller lake in Frankfurt (Oder) that invites you to take a short break.",
+                  "category": "natural",
+                  "coords": [
+                        14.535314,
+                        52.337775
+                  ]
+            },
+            {
+                  "name": "Großer Güldendorfer See",
+                  "text": "A scenically beautiful lake in Frankfurt (Oder), ideal for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.538556,
+                        52.312849
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Am Klingefließ\"",
+                  "text": "This playground in Frankfurt (Oder) offers families a safe place to play.",
+                  "category": "family",
+                  "coords": [
+                        14.534212,
+                        52.349981
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Seestraße\"",
+                  "text": "A nice outdoor meeting place in Frankfurt (Oder) for children and their parents.",
+                  "category": "family",
+                  "coords": [
+                        14.540469,
+                        52.312977
                   ]
             }
       ],
@@ -2358,7 +3078,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Tierpark Dessau",
                   "text": "Ein im Mausoleumspark gelegener Zoo, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.235576,
                         51.845477
@@ -2453,6 +3173,150 @@ export const poiExtraDe3b: POI[] = [
                         12.190462,
                         51.851367
                   ]
+            },
+            {
+                  "name": "U-Teich",
+                  "text": "Der U-Teich in Dessau-Roßlau ist ein kleines Gewässer, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.201304,
+                        51.854465
+                  ]
+            },
+            {
+                  "name": "Kleine Adria",
+                  "text": "Die Kleine Adria in Dessau-Roßlau ist ein beliebtes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        12.257404,
+                        51.774532
+                  ]
+            },
+            {
+                  "name": "Hofsee",
+                  "text": "Der Hofsee in Dessau-Roßlau bietet eine ruhige Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        12.294627,
+                        51.792229
+                  ]
+            },
+            {
+                  "name": "Zoberbergsee",
+                  "text": "Der Zoberbergsee in Dessau-Roßlau ist ein lokales Gewässer für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        12.180334,
+                        51.815278
+                  ]
+            },
+            {
+                  "name": "Leiner See",
+                  "text": "Der Leiner See in Dessau-Roßlau ist ein idyllisch gelegenes Naturgewässer.",
+                  "category": "natural",
+                  "coords": [
+                        12.287847,
+                        51.85934
+                  ]
+            },
+            {
+                  "name": "Rehsumpf",
+                  "text": "Der Rehsumpf in Dessau-Roßlau bietet eine abwechslungsreiche Landschaft am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.269127,
+                        51.835237
+                  ]
+            },
+            {
+                  "name": "Kühnauer See",
+                  "text": "Der Kühnauer See in Dessau-Roßlau ist ein bedeutendes Gewässer in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        12.189511,
+                        51.853876
+                  ]
+            },
+            {
+                  "name": "Löbben",
+                  "text": "Der Löbben in Dessau-Roßlau lädt zu Entdeckungen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        12.298471,
+                        51.850119
+                  ]
+            },
+            {
+                  "name": "Scholitzer See",
+                  "text": "Der Scholitzer See in Dessau-Roßlau ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        12.287694,
+                        51.828418
+                  ]
+            },
+            {
+                  "name": "Spielplatz Angerstraße",
+                  "text": "Der Spielplatz Angerstraße in Dessau-Roßlau bietet Raum für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        12.254084,
+                        51.83869
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Streichelgehege",
+                  "text": "Der Spielplatz im Streichelgehege in Dessau-Roßlau kombiniert Tiererlebnisse mit Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        12.235267,
+                        51.843969
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathenaustraße",
+                  "text": "Der Spielplatz Rathenaustraße in Dessau-Roßlau bietet verschiedene Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        12.230658,
+                        51.836596
+                  ]
+            },
+            {
+                  "name": "Löwen Play",
+                  "text": "Löwen Play in Dessau-Roßlau bietet Unterhaltung an verschiedenen Spielautomaten.",
+                  "category": "family",
+                  "coords": [
+                        12.232217,
+                        51.827544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lobenbreite",
+                  "text": "Der Spielplatz Lobenbreite in Dessau-Roßlau ist ein Treffpunkt für Familien im Wohngebiet.",
+                  "category": "family",
+                  "coords": [
+                        12.193366,
+                        51.838984
+                  ]
+            },
+            {
+                  "name": "Friederikenspielplatz",
+                  "text": "Der Friederikenspielplatz in Dessau-Roßlau lädt Kinder zu aktivem Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        12.25218,
+                        51.836593
+                  ]
+            },
+            {
+                  "name": "Rapunzelturm",
+                  "text": "Der Rapunzelturm in Dessau-Roßlau ist ein phantasievoll gestalteter Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        12.238246,
+                        51.832573
+                  ]
             }
       ],
       "hu": [
@@ -2526,7 +3390,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Tierpark Dessau",
                   "text": "A Mauzóleum-parkban található állatkert, amely számos hazai és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.235576,
                         51.845477
@@ -2621,6 +3485,150 @@ export const poiExtraDe3b: POI[] = [
                         12.190462,
                         51.851367
                   ]
+            },
+            {
+                  "name": "U-Teich",
+                  "text": "A Dessau-Roßlauban található U-Teich egy kis állóvíz, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        12.201304,
+                        51.854465
+                  ]
+            },
+            {
+                  "name": "Kleine Adria",
+                  "text": "A Dessau-Roßlauban található Kleine Adria kedvelt célpont a természet kedvelői számára.",
+                  "category": "natural",
+                  "coords": [
+                        12.257404,
+                        51.774532
+                  ]
+            },
+            {
+                  "name": "Hofsee",
+                  "text": "A Dessau-Roßlauban található Hofsee nyugodt légkört biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.294627,
+                        51.792229
+                  ]
+            },
+            {
+                  "name": "Zoberbergsee",
+                  "text": "A Dessau-Roßlauban található Zoberbergsee egy helyi tó pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.180334,
+                        51.815278
+                  ]
+            },
+            {
+                  "name": "Leiner See",
+                  "text": "A Dessau-Roßlauban található Leiner See egy idilli fekvésű természetes vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        12.287847,
+                        51.85934
+                  ]
+            },
+            {
+                  "name": "Rehsumpf",
+                  "text": "A Dessau-Roßlauban található Rehsumpf változatos vízparti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        12.269127,
+                        51.835237
+                  ]
+            },
+            {
+                  "name": "Kühnauer See",
+                  "text": "A Dessau-Roßlauban található Kühnauer See a régió egyik jelentős tava.",
+                  "category": "natural",
+                  "coords": [
+                        12.189511,
+                        51.853876
+                  ]
+            },
+            {
+                  "name": "Löbben",
+                  "text": "A Dessau-Roßlauban található Löbben felfedezésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.298471,
+                        51.850119
+                  ]
+            },
+            {
+                  "name": "Scholitzer See",
+                  "text": "A Dessau-Roßlauban található Scholitzer See nyugodt hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        12.287694,
+                        51.828418
+                  ]
+            },
+            {
+                  "name": "Spielplatz Angerstraße",
+                  "text": "A Dessau-Roßlauban található Angerstraße játszótér teret ad a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.254084,
+                        51.83869
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Streichelgehege",
+                  "text": "A Dessau-Roßlauban található simogatóállatkerti játszótér ötvözi az állatok közelségét a játékkal.",
+                  "category": "family",
+                  "coords": [
+                        12.235267,
+                        51.843969
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathenaustraße",
+                  "text": "A Dessau-Roßlauban található Rathenaustraße játszótér különféle játékokkal várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        12.230658,
+                        51.836596
+                  ]
+            },
+            {
+                  "name": "Löwen Play",
+                  "text": "A Dessau-Roßlauban található Löwen Play szórakozást kínál különféle játékgépeken.",
+                  "category": "family",
+                  "coords": [
+                        12.232217,
+                        51.827544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lobenbreite",
+                  "text": "A Dessau-Roßlauban található Lobenbreite játszótér a lakótelepi családok találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        12.193366,
+                        51.838984
+                  ]
+            },
+            {
+                  "name": "Friederikenspielplatz",
+                  "text": "A Dessau-Roßlauban található Friederikenspielplatz aktív szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        12.25218,
+                        51.836593
+                  ]
+            },
+            {
+                  "name": "Rapunzelturm",
+                  "text": "A Dessau-Roßlauban található Rapunzelturm egy fantáziadúsan kialakított játszótér.",
+                  "category": "family",
+                  "coords": [
+                        12.238246,
+                        51.832573
+                  ]
             }
       ],
       "ro": [
@@ -2694,7 +3702,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Tierpark Dessau",
                   "text": "O grădină zoologică situată în parcul Mausoleum, adăpostind diverse animale locale și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.235576,
                         51.845477
@@ -2789,6 +3797,150 @@ export const poiExtraDe3b: POI[] = [
                         12.190462,
                         51.851367
                   ]
+            },
+            {
+                  "name": "U-Teich",
+                  "text": "U-Teich din Dessau-Rosslau este un mic corp de apă care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        12.201304,
+                        51.854465
+                  ]
+            },
+            {
+                  "name": "Kleine Adria",
+                  "text": "Kleine Adria din Dessau-Rosslau este o destinație populară pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.257404,
+                        51.774532
+                  ]
+            },
+            {
+                  "name": "Hofsee",
+                  "text": "Hofsee din Dessau-Rosslau oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.294627,
+                        51.792229
+                  ]
+            },
+            {
+                  "name": "Zoberbergsee",
+                  "text": "Zoberbergsee din Dessau-Rosslau este un lac local pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        12.180334,
+                        51.815278
+                  ]
+            },
+            {
+                  "name": "Leiner See",
+                  "text": "Leiner See din Dessau-Rosslau este un corp de apă natural situat idilic.",
+                  "category": "natural",
+                  "coords": [
+                        12.287847,
+                        51.85934
+                  ]
+            },
+            {
+                  "name": "Rehsumpf",
+                  "text": "Rehsumpf din Dessau-Rosslau oferă un peisaj diversificat lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        12.269127,
+                        51.835237
+                  ]
+            },
+            {
+                  "name": "Kühnauer See",
+                  "text": "Kühnauer See din Dessau-Rosslau este un corp de apă important în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        12.189511,
+                        51.853876
+                  ]
+            },
+            {
+                  "name": "Löbben",
+                  "text": "Löbben din Dessau-Rosslau invită la descoperiri în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.298471,
+                        51.850119
+                  ]
+            },
+            {
+                  "name": "Scholitzer See",
+                  "text": "Scholitzer See din Dessau-Rosslau este un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.287694,
+                        51.828418
+                  ]
+            },
+            {
+                  "name": "Spielplatz Angerstraße",
+                  "text": "Locul de joacă Angerstraße din Dessau-Rosslau oferă spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.254084,
+                        51.83869
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Streichelgehege",
+                  "text": "Locul de joacă din țarcul cu animale din Dessau-Rosslau combină experiențele cu animalele cu distracția.",
+                  "category": "family",
+                  "coords": [
+                        12.235267,
+                        51.843969
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathenaustraße",
+                  "text": "Locul de joacă Rathenaustraße din Dessau-Rosslau oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.230658,
+                        51.836596
+                  ]
+            },
+            {
+                  "name": "Löwen Play",
+                  "text": "Löwen Play din Dessau-Rosslau oferă divertisment la diverse jocuri mecanice.",
+                  "category": "family",
+                  "coords": [
+                        12.232217,
+                        51.827544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lobenbreite",
+                  "text": "Locul de joacă Lobenbreite din Dessau-Rosslau este un punct de întâlnire pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        12.193366,
+                        51.838984
+                  ]
+            },
+            {
+                  "name": "Friederikenspielplatz",
+                  "text": "Locul de joacă Friederike din Dessau-Rosslau invită copiii la joacă activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.25218,
+                        51.836593
+                  ]
+            },
+            {
+                  "name": "Rapunzelturm",
+                  "text": "Rapunzelturm din Dessau-Rosslau este un loc de joacă conceput cu imaginație.",
+                  "category": "family",
+                  "coords": [
+                        12.238246,
+                        51.832573
+                  ]
             }
       ],
       "en": [
@@ -2862,7 +4014,7 @@ export const poiExtraDe3b: POI[] = [
             {
                   "name": "Tierpark Dessau",
                   "text": "A zoo located in the Mausoleum Park, home to a variety of local and exotic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.235576,
                         51.845477
@@ -2956,6 +4108,150 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         12.190462,
                         51.851367
+                  ]
+            },
+            {
+                  "name": "U-Teich",
+                  "text": "The U-Teich in Dessau-Rosslau is a small body of water that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        12.201304,
+                        51.854465
+                  ]
+            },
+            {
+                  "name": "Kleine Adria",
+                  "text": "The Kleine Adria in Dessau-Rosslau is a popular destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        12.257404,
+                        51.774532
+                  ]
+            },
+            {
+                  "name": "Hofsee",
+                  "text": "The Hofsee in Dessau-Rosslau offers a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.294627,
+                        51.792229
+                  ]
+            },
+            {
+                  "name": "Zoberbergsee",
+                  "text": "The Zoberbergsee in Dessau-Rosslau is a local lake for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        12.180334,
+                        51.815278
+                  ]
+            },
+            {
+                  "name": "Leiner See",
+                  "text": "The Leiner See in Dessau-Rosslau is an idyllically situated natural body of water.",
+                  "category": "natural",
+                  "coords": [
+                        12.287847,
+                        51.85934
+                  ]
+            },
+            {
+                  "name": "Rehsumpf",
+                  "text": "The Rehsumpf in Dessau-Rosslau offers a varied landscape by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.269127,
+                        51.835237
+                  ]
+            },
+            {
+                  "name": "Kühnauer See",
+                  "text": "The Kühnauer See in Dessau-Rosslau is a significant body of water in the region.",
+                  "category": "natural",
+                  "coords": [
+                        12.189511,
+                        51.853876
+                  ]
+            },
+            {
+                  "name": "Löbben",
+                  "text": "The Löbben in Dessau-Rosslau invites you to discoveries in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.298471,
+                        51.850119
+                  ]
+            },
+            {
+                  "name": "Scholitzer See",
+                  "text": "The Scholitzer See in Dessau-Rosslau is a quiet place for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        12.287694,
+                        51.828418
+                  ]
+            },
+            {
+                  "name": "Spielplatz Angerstraße",
+                  "text": "The Angerstraße playground in Dessau-Rosslau provides space for outdoor exercise.",
+                  "category": "family",
+                  "coords": [
+                        12.254084,
+                        51.83869
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Streichelgehege",
+                  "text": "The playground in the petting zoo in Dessau-Rosslau combines animal experiences with play fun.",
+                  "category": "family",
+                  "coords": [
+                        12.235267,
+                        51.843969
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rathenaustraße",
+                  "text": "The Rathenaustraße playground in Dessau-Rosslau offers various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        12.230658,
+                        51.836596
+                  ]
+            },
+            {
+                  "name": "Löwen Play",
+                  "text": "Löwen Play in Dessau-Rosslau offers entertainment at various gaming machines.",
+                  "category": "family",
+                  "coords": [
+                        12.232217,
+                        51.827544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lobenbreite",
+                  "text": "The Lobenbreite playground in Dessau-Rosslau is a meeting point for families in the residential area.",
+                  "category": "family",
+                  "coords": [
+                        12.193366,
+                        51.838984
+                  ]
+            },
+            {
+                  "name": "Friederikenspielplatz",
+                  "text": "The Friederikenspielplatz in Dessau-Rosslau invites children to active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        12.25218,
+                        51.836593
+                  ]
+            },
+            {
+                  "name": "Rapunzelturm",
+                  "text": "The Rapunzelturm in Dessau-Rosslau is an imaginatively designed playground.",
+                  "category": "family",
+                  "coords": [
+                        12.238246,
+                        51.832573
                   ]
             }
       ],

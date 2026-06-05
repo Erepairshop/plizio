@@ -55,7 +55,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "South Subahiya Theme Park",
                   "text": "South Subahiya Theme Park ist ein Freizeitpark in Al Ahmadi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.101613,
                         29.08902
@@ -64,7 +64,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Ahmadi Zoo",
                   "text": "Ahmadi Zoo ist ein Zoo in Al Ahmadi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.069409,
                         29.08802
@@ -102,7 +102,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "South Subahiya Theme Park",
                   "text": "A South Subahiya Theme Park egy vidámpark Al Ahmadi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.101613,
                         29.08902
@@ -111,7 +111,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Ahmadi Zoo",
                   "text": "Az Ahmadi Zoo egy állatkert Al Ahmadi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.069409,
                         29.08802
@@ -149,7 +149,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "South Subahiya Theme Park",
                   "text": "South Subahiya Theme Park este un parc de distracții în Al Ahmadi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.101613,
                         29.08902
@@ -158,7 +158,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Ahmadi Zoo",
                   "text": "Ahmadi Zoo este o grădină zoologică în Al Ahmadi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.069409,
                         29.08802
@@ -196,7 +196,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "South Subahiya Theme Park",
                   "text": "South Subahiya Theme Park is a theme park situated in Al Ahmadi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.101613,
                         29.08902
@@ -205,7 +205,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Ahmadi Zoo",
                   "text": "Ahmadi Zoo is a zoo found in Al Ahmadi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.069409,
                         29.08802
@@ -288,7 +288,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Selayel Jahra Resort",
                   "text": "Wasserpark in Al Jahra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.649635,
                         29.362917
@@ -297,7 +297,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "مرح لاند",
                   "text": "Freizeitpark in Al Jahra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.650513,
                         29.360613
@@ -317,7 +317,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Selayel Jahra Resort",
                   "text": "Élményfürdő Al Jahrában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.649635,
                         29.362917
@@ -326,7 +326,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "مرح لاند",
                   "text": "Vidámpark Al Jahrában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.650513,
                         29.360613
@@ -346,7 +346,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Selayel Jahra Resort",
                   "text": "Parc acvatic în Al Jahra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.649635,
                         29.362917
@@ -355,7 +355,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "مرح لاند",
                   "text": "Parc tematic în Al Jahra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.650513,
                         29.360613
@@ -375,7 +375,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Selayel Jahra Resort",
                   "text": "Water park in Al Jahra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.649635,
                         29.362917
@@ -384,7 +384,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Marah Land",
                   "text": "Theme park in Al Jahra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.650513,
                         29.360613
@@ -449,7 +449,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حولي بارك",
                   "text": "Der Hawally Park ist ein beliebter Freizeitpark in der Stadt Hawally. Er bietet verschiedene Fahrgeschäfte und Attraktionen für die Unterhaltung der ganzen Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -505,7 +505,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حولي بارك",
                   "text": "A Hawally Park egy népszerű vidámpark Hawally városában. Különféle túrákat és látványosságokat kínál a családi szórakozáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -561,7 +561,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حولي بارك",
                   "text": "Parcul Hawally este un parc tematic popular situat în orașul Hawally. Acesta dispune de diverse atracții și locuri de divertisment pentru familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -617,7 +617,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Hawally Park",
                   "text": "Hawally Park is a popular theme park situated in the city of Hawally. It features various rides and attractions for family entertainment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -709,7 +709,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوان",
                   "text": "Kuwait Zoo ist ein Zoo in Farwaniya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -720,7 +720,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوان",
                   "text": "A Kuwait Zoo egy állatkert Farwaniya városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -731,7 +731,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوان",
                   "text": "Kuwait Zoo este o grădină zoologică în Farwaniya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -742,7 +742,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Kuwait Zoo",
                   "text": "Kuwait Zoo is a zoo found in Farwaniya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -842,7 +842,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Kuwait Aquarium",
                   "text": "Das Kuwait Aquarium ist eine große Anlage in Salmiya. Es zeigt eine vielfältige Auswahl an Meereslebewesen aus der Region und darüber hinaus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.089464,
                         29.349557
@@ -889,7 +889,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Kuwait Aquarium",
                   "text": "A Kuvait Akvárium egy nagy létesítmény Szalmijában. A régió és azon túli tengeri élőlények változatos sokaságát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.089464,
                         29.349557
@@ -936,7 +936,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Kuwait Aquarium",
                   "text": "Acvariul Kuweit este o unitate mare situată în Salmiya. Acesta prezintă o gamă diversă de viață marină din regiune și nu numai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.089464,
                         29.349557
@@ -983,7 +983,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Kuwait Aquarium",
                   "text": "The Kuwait Aquarium is a large facility located in Salmiya. It showcases a diverse array of marine life from the region and beyond.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.089464,
                         29.349557
@@ -1244,7 +1244,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوان",
                   "text": "Der Kuwait Zoo ist ein Tierpark in der Stadt Khaitan. Er beherbergt eine Vielzahl von Tierarten, die der Öffentlichkeit präsentiert werden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -1255,7 +1255,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوان",
                   "text": "A Kuvait Állatkert egy állatpark Haitan városában. Számos vadon élő állatfajnak ad otthont, amelyeket a nagyközönség is megtekinthet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -1266,7 +1266,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حديقة الحيوان",
                   "text": "Grădina Zoologică din Kuweit este un parc de animale situat în orașul Khaitan. Aceasta găzduiește o mare varietate de specii de faună sălbatică pentru vizionare publică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -1277,7 +1277,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Kuwait Zoo",
                   "text": "Kuwait Zoo is an animal park located in the city of Khaitan. It houses a wide variety of wildlife species for public viewing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         47.961089,
                         29.300369
@@ -1422,7 +1422,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Wasserpark in Abu Halifa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -1433,7 +1433,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Élményfürdő Abu Halifában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -1444,7 +1444,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Parc acvatic în Abu Halifa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -1455,7 +1455,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Water park in Abu Halifa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -2180,7 +2180,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Flow House Kuwait ist ein Wasserpark in der Stadt Mahboula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -2191,7 +2191,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "A Flow House Kuwait egy vízipark Mahboula városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -2202,7 +2202,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Flow House Kuwait este un parc acvatic din orașul Mahboula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -2213,7 +2213,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Flow House Kuwait",
                   "text": "Flow House Kuwait is a water park located in the city of Mahboula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.132096,
                         29.132614
@@ -3035,7 +3035,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حولي بارك",
                   "text": "Hawally Park ist ein Freizeitpark in der Stadt Surra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -3055,7 +3055,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حولي بارك",
                   "text": "A Hawally Park egy vidámpark Surra városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -3075,7 +3075,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "حولي بارك",
                   "text": "Hawally Park este un parc de distracții din orașul Surra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197
@@ -3095,7 +3095,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             {
                   "name": "Hawally Park",
                   "text": "Hawally Park is a theme park located in the city of Surra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         48.021916,
                         29.340197

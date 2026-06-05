@@ -17,7 +17,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Ein ausgewiesener Bereich für Schnorchelaktivitäten in Apia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -26,7 +26,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Ein Rastplatz für Schnorchler in der Küstenzone von Apia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -199,7 +199,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Kijelölt terület a könnyűbúvárkodáshoz Apiában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -208,7 +208,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Pihenőhely a könnyűbúvárok számára Apia part menti zónájában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -381,7 +381,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "O zonă desemnată pentru activități de snorkeling în Apia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -390,7 +390,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Un punct de odihnă pentru snorkeleri în zona de coastă din Apia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -563,7 +563,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "A designated area for snorkeling activities in Apia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -572,7 +572,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "A rest point for snorkelers in the coastal zone of Apia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -782,7 +782,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Samoa Fiafia Waterpark ist ein Wasserpark in Vaitele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -820,7 +820,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Samoa Fiafia Waterpark egy vízipark Vaitele területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -858,7 +858,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Samoa Fiafia Waterpark este un parc acvatic în Vaitele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -896,7 +896,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Samoa Fiafia Waterpark is a water park located in Vaitele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -1115,7 +1115,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Wasserpark in Faleula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -1144,7 +1144,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Vízi park Faleulában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -1173,7 +1173,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Parc acvatic în Faleula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -1202,7 +1202,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Samoa Fiafia Waterpark",
                   "text": "Water park in Faleula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.833131,
                         -13.842624
@@ -5606,7 +5606,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Schnorchelgebiet in Lepua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -5615,7 +5615,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Schnorchelgebiet in Lepua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -5770,7 +5770,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Sznorizóhely Lepuában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -5779,7 +5779,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Sznorizóhely Lepuában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -5934,7 +5934,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Zonă de snorkeling în Lepua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -5943,7 +5943,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Zonă de snorkeling în Lepua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -6098,7 +6098,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkeling area in Lepua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -6107,7 +6107,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Snorkeling area in Lepua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -6308,7 +6308,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start ist ein Wasserpark in Moata'a.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -6317,7 +6317,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Der Snorkel Rest Point ist ein Wasserpark in Moata'a.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -6445,7 +6445,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "A Snorkelling Start egy vízi park Moata'a városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -6454,7 +6454,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "A Snorkel Rest Point egy vízi park Moata'a városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -6582,7 +6582,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start este un parc acvatic în Moata'a.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -6591,7 +6591,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Snorkel Rest Point este un parc acvatic în Moata'a.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -6719,7 +6719,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start is a water park located in Moata'a.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -6728,7 +6728,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "The Snorkel Rest Point is a water park located in Moata'a.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -6902,7 +6902,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start ist ein Wasserpark in Vaiala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -6911,7 +6911,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Snorkel Rest Point ist ein Wasserpark in Vaiala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -7048,7 +7048,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start egy vízipark Vaiala területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -7057,7 +7057,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Snorkel Rest Point egy vízipark Vaiala területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -7194,7 +7194,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start este un parc acvatic în Vaiala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -7203,7 +7203,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Snorkel Rest Point este un parc acvatic în Vaiala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354
@@ -7340,7 +7340,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkelling Start",
                   "text": "Snorkelling Start is a water park located in Vaiala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.757999,
                         -13.825029
@@ -7349,7 +7349,7 @@ export const samoaCitiesV2: POI[] = [
             {
                   "name": "Snorkel Rest Point",
                   "text": "Snorkel Rest Point is a water park located in Vaiala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -171.754928,
                         -13.823354

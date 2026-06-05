@@ -413,7 +413,7 @@ export const poiExtraIndiaCitiesV2: POI[] = [
             {
                   "name": "Tikujiniwadi Water Park",
                   "text": "Der Tikujiniwadi Water Park ist ein beliebter Vergnügungspark und ein Erholungsziel in Thane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.966591,
                         19.238232
@@ -496,7 +496,7 @@ export const poiExtraIndiaCitiesV2: POI[] = [
             {
                   "name": "Tikujiniwadi Water Park",
                   "text": "A Tikujiniwadi vízi park egy népszerű vidámpark és üdülőhely Thane városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.966591,
                         19.238232
@@ -579,7 +579,7 @@ export const poiExtraIndiaCitiesV2: POI[] = [
             {
                   "name": "Tikujiniwadi Water Park",
                   "text": "Parcul acvatic Tikujiniwadi este un parc de distracții și o stațiune populară din Thane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.966591,
                         19.238232
@@ -662,7 +662,7 @@ export const poiExtraIndiaCitiesV2: POI[] = [
             {
                   "name": "Tikujiniwadi Water Park",
                   "text": "Tikujiniwadi Water Park is a popular amusement park and resort destination in Thane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         72.966591,
                         19.238232

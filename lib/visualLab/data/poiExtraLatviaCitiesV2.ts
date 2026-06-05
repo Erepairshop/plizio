@@ -6092,7 +6092,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "Pižuka dīķis",
                   "text": "Ein Erholungsgebiet an einem Teich in Vaiņode.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.849026,
                         56.425988
@@ -6112,7 +6112,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "Pižuka dīķis",
                   "text": "Tóparti pihenőhely Vaiņode településen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.849026,
                         56.425988
@@ -6132,7 +6132,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "Pižuka dīķis",
                   "text": "O zonă de recreere lângă un iaz în Vaiņode.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.849026,
                         56.425988
@@ -6152,7 +6152,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "Pižuka dīķis",
                   "text": "A recreational pond area in Vaiņode.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.849026,
                         56.425988
@@ -6533,7 +6533,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "LVM dabas parks Tērvetē",
                   "text": "Beliebter Natur- und Themenpark mit Holzskulpturen und Wanderwegen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.375111,
                         56.492432
@@ -6643,7 +6643,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "LVM dabas parks Tērvetē",
                   "text": "Népszerű természetvédelmi és élménypark faszobrokkal és ösvényekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.375111,
                         56.492432
@@ -6753,7 +6753,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "LVM dabas parks Tērvetē",
                   "text": "Parc natural și tematic popular, cu sculpturi în lemn și trasee.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.375111,
                         56.492432
@@ -6863,7 +6863,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "The Latvia's State Forests Nature Park in Tērvete",
                   "text": "Popular nature and theme park featuring wooden sculptures and trails.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.375111,
                         56.492432
@@ -8621,7 +8621,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "MiniZoo",
                   "text": "Ein kleiner Tierpark in der Nähe von Usma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.164545,
                         57.254728
@@ -8641,7 +8641,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "MiniZoo",
                   "text": "Kisméretű állatpark Usma környékén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.164545,
                         57.254728
@@ -8661,7 +8661,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "MiniZoo",
                   "text": "O mică grădină zoologică în zona Usma.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.164545,
                         57.254728
@@ -8681,7 +8681,7 @@ export const latviaCitiesV2: POI[] = [
             {
                   "name": "MiniZoo",
                   "text": "A small animal park or petting zoo in the Usma area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.164545,
                         57.254728

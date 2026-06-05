@@ -1403,7 +1403,7 @@ export const bulgariaHistoryV2: POI[] = [
             {
                   "name": "Парк Мини България",
                   "text": "Themenpark mit Miniaturmodellen der berühmtesten Sehenswürdigkeiten Bulgariens.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -1543,6 +1543,51 @@ export const bulgariaHistoryV2: POI[] = [
                         25.63721,
                         43.081784
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Ein malerischer See im Kulturviertel von Weliko Tarnowo.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "Ein ruhiges Gewässer in Weliko Tarnowo, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "Ein schöner See in Weliko Tarnowo, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "Ein moderner Spielplatz in Weliko Tarnowo für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "Ein sicherer Spielplatz in Weliko Tarnowo, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
+                  ]
             }
       ],
       "hu": [
@@ -1657,7 +1702,7 @@ export const bulgariaHistoryV2: POI[] = [
             {
                   "name": "Парк Мини България",
                   "text": "Tematikus park Bulgária leghíresebb látnivalóinak makettjeivel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -1797,6 +1842,51 @@ export const bulgariaHistoryV2: POI[] = [
                         25.63721,
                         43.081784
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Festői tó Veliko Tarnovo kulturális negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "Csendes vízfelület Veliko Tarnovo területén, ideális egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "Szép tó Veliko Tarnovo közelében, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "Modern játszótér Veliko Tarnovo területén minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "Biztonságos játszótér Veliko Tarnovo városában, ideális családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
+                  ]
             }
       ],
       "ro": [
@@ -1911,7 +2001,7 @@ export const bulgariaHistoryV2: POI[] = [
             {
                   "name": "Парк Мини България",
                   "text": "Parc tematic cu modele în miniatură ale celor mai faimoase repere din Bulgaria.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -2051,6 +2141,51 @@ export const bulgariaHistoryV2: POI[] = [
                         25.63721,
                         43.081784
                   ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "Un lac pitoresc în cartierul cultural din Veliko Tarnovo.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "O apă liniștită în Veliko Tarnovo, ideală pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "Un lac frumos în Veliko Tarnovo, care te invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "Un teren de joacă modern în Veliko Tarnovo pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "Un teren de joacă sigur în Veliko Tarnovo, ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
+                  ]
             }
       ],
       "en": [
@@ -2165,7 +2300,7 @@ export const bulgariaHistoryV2: POI[] = [
             {
                   "name": "Mini Bulgaria Park",
                   "text": "Theme park featuring miniature models of Bulgaria's most famous landmarks.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.654668,
                         43.07935
@@ -2304,6 +2439,51 @@ export const bulgariaHistoryV2: POI[] = [
                   "coords": [
                         25.63721,
                         43.081784
+                  ]
+            },
+            {
+                  "name": "езеро \"Света гора\"",
+                  "text": "A scenic lake in the Veliko Tarnovo Cultural Quarter.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "яз. Беляковец",
+                  "text": "A quiet body of water in Veliko Tarnovo, ideal for a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        25.567608,
+                        43.099207
+                  ]
+            },
+            {
+                  "name": "язовир \"Сини вир\"",
+                  "text": "A beautiful lake in Veliko Tarnovo that invites visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        25.569241,
+                        43.064531
+                  ]
+            },
+            {
+                  "name": "Vipo Land",
+                  "text": "A modern playground in Veliko Tarnovo for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        25.621732,
+                        43.083501
+                  ]
+            },
+            {
+                  "name": "Площадка Освобождение 130",
+                  "text": "A safe playground in Veliko Tarnovo, ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        25.612656,
+                        43.081279
                   ]
             }
       ]

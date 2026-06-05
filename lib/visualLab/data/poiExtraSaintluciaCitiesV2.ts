@@ -1286,7 +1286,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Wasserpark in Gros Islet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -1414,7 +1414,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Vízi park Gros Isletben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -1542,7 +1542,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Parc acvatic în Gros Islet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -1670,7 +1670,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Water park in Gros Islet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -3230,7 +3230,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Der Splash Island Water Park ist ein Wasserpark in Cap Estate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -3385,7 +3385,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "A Splash Island Water Park egy vízipark Cap Estate-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -3540,7 +3540,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park este un parc acvatic din Cap Estate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -3695,7 +3695,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park is a water park in Cap Estate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -6128,7 +6128,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Dennery Community Park",
                   "text": "Der Dennery Community Park in Patience bietet Freizeitangebote.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.891218,
                         13.90951
@@ -6166,7 +6166,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Dennery Community Park",
                   "text": "A Patience-ben található Dennery Community Park kikapcsolódást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.891218,
                         13.90951
@@ -6204,7 +6204,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Dennery Community Park",
                   "text": "Dennery Community Park din Patience oferă facilități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.891218,
                         13.90951
@@ -6242,7 +6242,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Dennery Community Park",
                   "text": "The Dennery Community Park in Patience offers leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.891218,
                         13.90951
@@ -10223,7 +10223,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Der Splash Island Water Park ist ein unterhaltsames Ausflugsziel in Beausejour.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -10387,7 +10387,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "A Splash Island Water Park egy szórakoztató vízi célpont Beausejour városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -10551,7 +10551,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park este o destinație acvatică distractivă din Beausejour.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -10715,7 +10715,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park is a fun aquatic destination located in Beausejour.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -10970,7 +10970,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Wasserpark in Rodney Heights.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -11062,7 +11062,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Vízi park Rodney Heightsban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -11154,7 +11154,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Parc acvatic în Rodney Heights.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -11246,7 +11246,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Water park in Rodney Heights.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -14264,7 +14264,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Der Splash Island Water Park ist ein Wasserpark in Gros Islet North.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -14374,7 +14374,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "A Splash Island Water Park egy vízi vidámpark Gros Islet North területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -14484,7 +14484,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park este un parc acvatic situat în Gros Islet North.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -14594,7 +14594,7 @@ export const saintluciaCitiesV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park is an aquatic attraction located in Gros Islet North.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131

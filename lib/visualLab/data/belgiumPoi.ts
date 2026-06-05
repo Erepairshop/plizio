@@ -564,6 +564,150 @@ export const belgiumRegions: POI[] = [
                         4.339501,
                         50.837366
                   ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Stormbekken anno 1920 in Brüssel ist ein historisches Wasserbecken, das heute als ruhiges Element im Stadtbild dient.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "Gamestate Bruxelles bietet eine riesige Auswahl an modernen Videospielen und Unterhaltung im Herzen der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "Ein Spielplatz in Brüssel, der Kindern Raum zum Spielen und Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "Ein Trampolinpark in Brüssel, der aktiven Hallenspaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "Ein Trampolinpark in Brüssel für sportliche Aktivitäten und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "Ein Spielplatz in Brüssel, der eine sichere Umgebung für spielende Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "Ein Spielplatz in Brüssel, ideal für einen Familienbesuch im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "Ein Spielplatz in Brüssel, der Raum für Freizeit und Spiel im Grünen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "Eine Minigolfanlage in Brüssel für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "Ein Spielplatz in Brüssel, der Kindern verschiedene Möglichkeiten zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "Ein Spielplatz in Brüssel, der zum aktiven Spielen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "Ein Spielplatz in Brüssel für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "Ein Spielplatz in Brüssel, der einen Treffpunkt für Familien zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "Ein Spielplatz in Brüssel mit verschiedenen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "Ein Spielplatz in Brüssel, der Raum für Bewegung und Spaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "Ein Spielplatz in Brüssel, der zur Erholung und zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
+                  ]
             }
       ],
       "hu": [
@@ -1024,6 +1168,150 @@ export const belgiumRegions: POI[] = [
                   "coords": [
                         4.339501,
                         50.837366
+                  ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "A brüsszeli Stormbekken anno 1920 egy történelmi víztározó, amely ma nyugodt elemként szolgál a városképben.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "A Gamestate Bruxelles videójátékok és szórakozás hatalmas választékát kínálja a város szívében.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "Egy brüsszeli játszótér, amely játéklehetőséget és kikapcsolódást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "Egy trambulinpark Brüsszelben, amely aktív beltéri szórakozást kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "Egy trambulinpark Brüsszelben a sportos tevékenységekhez és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "Egy játszótér Brüsszelben, amely biztonságos környezetet nyújt a játszó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "Egy brüsszeli játszótér, amely ideális egy szabadtéri családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "Egy játszótér Brüsszelben, amely helyet biztosít a szabadidőhöz és a játékhoz a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "Egy minigolfpálya Brüsszelben egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "Egy játszótér Brüsszelben, amely különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "Egy játszótér Brüsszelben, amely aktív játékra és felfedezésre ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "Egy játszótér Brüsszelben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "Egy játszótér Brüsszelben, amely találkozóhelyet kínál a családoknak a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "Egy brüsszeli játszótér különféle játékokkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "Egy játszótér Brüsszelben, amely helyet biztosít a mozgáshoz és a szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "Egy játszótér Brüsszelben, amely kikapcsolódásra és játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
                   ]
             }
       ],
@@ -1486,6 +1774,150 @@ export const belgiumRegions: POI[] = [
                         4.339501,
                         50.837366
                   ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Stormbekken anno 1920 din Bruxelles este un bazin istoric, servind astăzi ca un element liniștit în peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "Gamestate Bruxelles oferă o selecție uriașă de jocuri video și divertisment în inima orașului.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru joacă și distracție copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "Un parc de trambuline în Bruxelles, care oferă distracție activă în interior pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "Un parc de trambuline în Bruxelles pentru activități sportive și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "Un loc de joacă în Bruxelles, care oferă un mediu sigur pentru copiii care se joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "Un loc de joacă în Bruxelles, ideal pentru o vizită cu familia în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru recreere și joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "Un teren de minigolf în Bruxelles pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "Un loc de joacă în Bruxelles, care oferă diverse opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "Un loc de joacă în Bruxelles, care invită la joacă activă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "Un loc de joacă în Bruxelles pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "Un loc de joacă în Bruxelles, care oferă un loc de întâlnire pentru familii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "Un loc de joacă în Bruxelles cu diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "Un loc de joacă în Bruxelles, care invită la relaxare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
+                  ]
             }
       ],
       "en": [
@@ -1946,6 +2378,150 @@ export const belgiumRegions: POI[] = [
                   "coords": [
                         4.339501,
                         50.837366
+                  ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Stormbekken anno 1920 in Brussels is a historical water basin, serving today as a peaceful urban element.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "Gamestate Bruxelles offers a huge selection of video games and entertainment in the heart of the city.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "A playground in Brussels offering space for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "A trampoline park in Brussels offering active indoor fun for the family.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "A trampoline park in Brussels for sporting activities and family fun.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "A playground in Brussels providing a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "A playground in Brussels, ideal for a family visit outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "A playground in Brussels offering space for leisure and play in a green setting.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "A miniature golf course in Brussels for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "A playground in Brussels offering various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "A playground in Brussels encouraging active play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "A playground in Brussels for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "A playground in Brussels offering a meeting point for families to play.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "A playground in Brussels with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "A playground in Brussels offering space for movement and fun.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "A playground in Brussels inviting relaxation and play.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
                   ]
             }
       ]

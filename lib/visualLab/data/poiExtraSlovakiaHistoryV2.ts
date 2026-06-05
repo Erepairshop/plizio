@@ -2124,7 +2124,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "Ein Kletter- und Seilpark in Hrabovo bei Ružomberok, ideal für Familienabenteuer.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -2133,7 +2133,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "Ein kleiner Zoo am Berg Sidorovo, der heimische Bauernhoftiere präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -2160,7 +2160,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Farma",
                   "text": "Ein Streichelzoo in Vlkolínec Historisches Erbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.276283,
                         49.039496
@@ -2387,7 +2387,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "Kötélpálya és kalandpark Rózsahegy Hrabovo részén, ideális családi kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -2396,7 +2396,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "Kis állatkert a Sidorovo-hegyen, amely hazai háziállatokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -2423,7 +2423,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Farma",
                   "text": "Egy kis állatkert Vlkolínec Historisches Erbe területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.276283,
                         49.039496
@@ -2650,7 +2650,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "Un parc de aventură cu frânghii în Hrabovo, lângă Ružomberok, ideal pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -2659,7 +2659,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "O mică grădină zoologică pe muntele Sidorovo, care prezintă animale domestice locale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -2686,7 +2686,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Farma",
                   "text": "O grădină zoologică în Vlkolínec Historisches Erbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.276283,
                         49.039496
@@ -2913,7 +2913,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Tarzánia Hrabovo",
                   "text": "A rope climbing park in Hrabovo near Ružomberok, ideal for family adventures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.273415,
                         49.070875
@@ -2922,7 +2922,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Mini farma Sidorovo",
                   "text": "A small zoo on Sidorovo mountain showcasing domestic farm animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.270465,
                         49.047888
@@ -2949,7 +2949,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             {
                   "name": "Farma",
                   "text": "A petting zoo in Vlkolínec Historisches Erbe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.276283,
                         49.039496

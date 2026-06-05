@@ -133,7 +133,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة اركويت - بحري",
                   "text": "حديقة اركويت - بحري ist ein lokaler Wasserpark in Khartum Bahri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.542061,
                         15.621688
@@ -160,7 +160,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة عبود",
                   "text": "Der Aboud Theme Park bietet Vergnügungsattraktionen in Khartum Bahri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.540607,
                         15.626326
@@ -297,7 +297,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة اركويت - بحري",
                   "text": "A حديقة اركويت - بحري egy helyi aquapark Khartum Bahriban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.542061,
                         15.621688
@@ -324,7 +324,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة عبود",
                   "text": "Az Aboud Theme Park különféle szórakoztató attrakciókat kínál Khartum Bahriban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.540607,
                         15.626326
@@ -461,7 +461,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة اركويت - بحري",
                   "text": "حديقة اركويت - بحري este un parc acvatic local în Khartum Bahri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.542061,
                         15.621688
@@ -488,7 +488,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة عبود",
                   "text": "Aboud Theme Park oferă atracții de agrement în Khartum Bahri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.540607,
                         15.626326
@@ -625,7 +625,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "حديقة اركويت - بحري",
                   "text": "حديقة اركويت - بحري is a local water park in Khartum Bahri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.542061,
                         15.621688
@@ -652,7 +652,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
             {
                   "name": "Aboud Theme Park",
                   "text": "Aboud Theme Park provides amusement and recreational activities in Khartum Bahri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         32.540607,
                         15.626326

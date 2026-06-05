@@ -93,7 +93,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Dado land",
                   "text": "Dado land ist ein Freizeitpark in der Stadt Tripoli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.807821,
                         34.448241
@@ -257,7 +257,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Dado land",
                   "text": "A Dado land egy vidámpark Tripoli városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.807821,
                         34.448241
@@ -421,7 +421,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Dado land",
                   "text": "Dado land este un parc de distracții din orașul Tripoli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.807821,
                         34.448241
@@ -585,7 +585,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Dado land",
                   "text": "Dado land is a theme park located in the city of Tripoli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.807821,
                         34.448241
@@ -979,7 +979,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Dream Park",
                   "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.609305,
                         33.956643
@@ -1134,7 +1134,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "دريم بارك",
                   "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.609305,
                         33.956643
@@ -1289,7 +1289,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "دريم بارك",
                   "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.609305,
                         33.956643
@@ -1444,7 +1444,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Dream Park",
                   "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.609305,
                         33.956643
@@ -2270,7 +2270,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "مدينة ملاهي عاليه",
                   "text": "Der Luna Park ist ein Vergnügungspark in Aley.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.60252,
                         33.806221
@@ -2308,7 +2308,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "مدينة ملاهي عاليه",
                   "text": "A Luna Park egy vidámpark Aleyban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.60252,
                         33.806221
@@ -2346,7 +2346,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "مدينة ملاهي عاليه",
                   "text": "Luna Park este un parc tematic în Aley.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.60252,
                         33.806221
@@ -2384,7 +2384,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Aley luna park",
                   "text": "Luna Park is a theme park in Aley.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.60252,
                         33.806221
@@ -2795,7 +2795,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Abandoned Aquarium of Batroun",
                   "text": "Das Abandoned aquarium of Batroun ist eine faszinierende historische Sehenswürdigkeit nahe der Küste.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.657661,
                         34.250099
@@ -2860,7 +2860,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Abandoned Aquarium of Batroun",
                   "text": "A batruni elhagyatott akvárium egy érdekes történelmi látványosság a part közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.657661,
                         34.250099
@@ -2925,7 +2925,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Abandoned Aquarium of Batroun",
                   "text": "Acvariul abandonat din Batroun este o atracție istorică intrigantă lângă coastă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.657661,
                         34.250099
@@ -2990,7 +2990,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             {
                   "name": "Abandoned aquarium of Batroun",
                   "text": "The Abandoned aquarium of Batroun is an intriguing historical sight near the coast.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.657661,
                         34.250099

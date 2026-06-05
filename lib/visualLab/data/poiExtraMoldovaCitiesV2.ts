@@ -44,7 +44,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Cashalot Aquapark",
                   "text": "Ein beliebter Wasserpark in Bălți mit verschiedenen Pools und Rutschen für Freizeitspaß.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.914803,
                         47.75107
@@ -154,7 +154,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Cashalot Aquapark",
                   "text": "Népszerű vízipark Bălți-ban, különféle medencékkel és csúszdákkal a kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.914803,
                         47.75107
@@ -264,7 +264,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Cashalot Aquapark",
                   "text": "Un parc acvatic popular din Bălți, cu diverse piscine și tobogane pentru recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.914803,
                         47.75107
@@ -374,7 +374,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Cashalot Aquapark",
                   "text": "A popular water park in Bălți featuring various pools and slides for leisure fun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.914803,
                         47.75107
@@ -561,7 +561,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Детский парк развлечений",
                   "text": "Ein beliebter Freizeitpark in Rîbnița mit verschiedenen Attraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.009435,
                         47.768426
@@ -662,7 +662,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Детский парк развлечений",
                   "text": "Népszerű szabadidőpark Rîbnițában, különféle attrakciókkal gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.009435,
                         47.768426
@@ -763,7 +763,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Детский парк развлечений",
                   "text": "Un parc de distracții popular în Rîbnița cu diverse atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.009435,
                         47.768426
@@ -864,7 +864,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "Детский парк развлечений",
                   "text": "A popular amusement park in Rîbnița featuring various attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         29.009435,
                         47.768426
@@ -5264,7 +5264,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "ZOO-MAGAZIN",
                   "text": "Eine kleine lokale Tierausstellung oder Zoohandlung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.182948,
                         47.082304
@@ -5302,7 +5302,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "ZOO-MAGAZIN",
                   "text": "Kisebb helyi állatbemutató vagy kisállatkereskedés.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.182948,
                         47.082304
@@ -5340,7 +5340,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "ZOO-MAGAZIN",
                   "text": "O mică expoziție locală de animale sau magazin zoologic.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.182948,
                         47.082304
@@ -5378,7 +5378,7 @@ export const moldovaCitiesV2: POI[] = [
             {
                   "name": "ZOO-MAGAZIN",
                   "text": "A small local animal exhibition or pet shop.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.182948,
                         47.082304

@@ -1027,7 +1027,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Department of Parks and Gardens",
                   "text": "Department of Parks and Gardens ist ein Freizeitpark in Koforidua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.269198,
                         6.090625
@@ -1047,7 +1047,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Department of Parks and Gardens",
                   "text": "A Department of Parks and Gardens egy vidámpark Koforidua városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.269198,
                         6.090625
@@ -1067,7 +1067,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Department of Parks and Gardens",
                   "text": "Department of Parks and Gardens este un parc tematic în Koforidua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.269198,
                         6.090625
@@ -1087,7 +1087,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Department of Parks and Gardens",
                   "text": "Department of Parks and Gardens is a theme park in Koforidua.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.269198,
                         6.090625
@@ -1792,7 +1792,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Aquarium Marshall",
                   "text": "Aquarium Marshall in Lashibi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.059189,
                         5.645528
@@ -1803,7 +1803,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Aquarium Marshall",
                   "text": "Aquarium Marshall, Lasibi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.059189,
                         5.645528
@@ -1814,7 +1814,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Aquarium Marshall",
                   "text": "Acvariul Marshall din Lashibi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.059189,
                         5.645528
@@ -1825,7 +1825,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             {
                   "name": "Aquarium Marshall",
                   "text": "Aquarium Marshall in Lashibi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -0.059189,
                         5.645528

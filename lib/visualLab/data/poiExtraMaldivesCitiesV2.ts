@@ -921,7 +921,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             {
                   "name": "Polla Aquarium",
                   "text": "Polla Aquarium ist ein Aquarium in Eydhafushi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.071295,
                         5.101841
@@ -950,7 +950,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             {
                   "name": "Polla Aquarium",
                   "text": "A Polla Akvárium egy akvárium Eydhafushi területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.071295,
                         5.101841
@@ -979,7 +979,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             {
                   "name": "Polla Aquarium",
                   "text": "Polla Aquarium este un acvariu situat în Eydhafushi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.071295,
                         5.101841
@@ -1008,7 +1008,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
             {
                   "name": "Polla Aquarium",
                   "text": "Polla Aquarium is an aquarium situated in Eydhafushi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         73.071295,
                         5.101841

@@ -1171,7 +1171,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Ekowisata mangrove",
                   "text": "Der Ekowisata Mangrove in Kuta ist ein Natur-Themenpark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.183277,
                         -8.743891
@@ -1180,7 +1180,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Trans Studio Bali",
                   "text": "Trans Studio Bali in Kuta ist ein populärer Themenpark für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.184377,
                         -8.702493
@@ -1225,7 +1225,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Waterbom Bali",
                   "text": "Waterbom Bali in Kuta ist ein großer und beliebter Wasserpark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.170544,
                         -8.728354
@@ -1488,7 +1488,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Ekowisata mangrove",
                   "text": "A kutai Ekowisata Mangrove egy természetközeli tematikus park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.183277,
                         -8.743891
@@ -1497,7 +1497,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Trans Studio Bali",
                   "text": "A kutai Trans Studio Bali egy népszerű tematikus park családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.184377,
                         -8.702493
@@ -1542,7 +1542,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Waterbom Bali",
                   "text": "A kutai Waterbom Bali egy nagy és népszerű vízipark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.170544,
                         -8.728354
@@ -1805,7 +1805,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Ekowisata mangrove",
                   "text": "Ekowisata Mangrove din Kuta este un parc tematic natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.183277,
                         -8.743891
@@ -1814,7 +1814,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Trans Studio Bali",
                   "text": "Trans Studio Bali din Kuta este un parc tematic popular pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.184377,
                         -8.702493
@@ -1859,7 +1859,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Waterbom Bali",
                   "text": "Waterbom Bali din Kuta este un parc acvatic mare și popular.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.170544,
                         -8.728354
@@ -2122,7 +2122,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Ekowisata mangrove",
                   "text": "The Ekowisata Mangrove in Kuta is a nature-themed park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.183277,
                         -8.743891
@@ -2131,7 +2131,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Trans Studio Bali",
                   "text": "Trans Studio Bali in Kuta is a popular theme park for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.184377,
                         -8.702493
@@ -2176,7 +2176,7 @@ id: "kuta-cities-v2", "sights": {
             {
                   "name": "Waterbom Bali",
                   "text": "Waterbom Bali in Kuta is a large and popular water park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         115.170544,
                         -8.728354
@@ -2916,7 +2916,7 @@ id: "cirebon-cities-v2", "sights": {
             {
                   "name": "Cirebon Waterland Ade Irma Suryani",
                   "text": "Das Cirebon Waterland Ade Irma Suryani ist ein Freizeit-Wasserpark in Cirebon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         108.574143,
                         -6.71785
@@ -3044,7 +3044,7 @@ id: "cirebon-cities-v2", "sights": {
             {
                   "name": "Cirebon Waterland Ade Irma Suryani",
                   "text": "A Cirebon Waterland Ade Irma Suryani egy rekreációs vízi park Cirebonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         108.574143,
                         -6.71785
@@ -3172,7 +3172,7 @@ id: "cirebon-cities-v2", "sights": {
             {
                   "name": "Cirebon Waterland Ade Irma Suryani",
                   "text": "Cirebon Waterland Ade Irma Suryani este un parc acvatic de recreere din Cirebon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         108.574143,
                         -6.71785
@@ -3300,7 +3300,7 @@ id: "cirebon-cities-v2", "sights": {
             {
                   "name": "Cirebon Waterland Ade Irma Suryani",
                   "text": "Cirebon Waterland Ade Irma Suryani is a recreational water park in Cirebon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         108.574143,
                         -6.71785

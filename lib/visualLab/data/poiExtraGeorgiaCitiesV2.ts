@@ -63,7 +63,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის დელფინარიუმი",
                   "text": "Batumi Dolphinarium ist ein bekanntes Aquarium in Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.623524,
                         41.647697
@@ -126,7 +126,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის ცენტრალური პარკი",
                   "text": "Der Batumi Central Park ist ein beliebtes Naherholungsgebiet und ein Freizeitpark im Herzen von Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.62905,
                         41.647203
@@ -135,7 +135,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმი პარკ",
                   "text": "Der Batumi Park ist ein Freizeitpark, der Freizeitaktivitäten und Attraktionen in Batumi bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.604409,
                         41.633758
@@ -144,7 +144,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის ზოოპარკი",
                   "text": "Der Zoo von Batumi ist ein zoologischer Park mit verschiedenen Tiergehegen in Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.625935,
                         41.646368
@@ -362,7 +362,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის დელფინარიუმი",
                   "text": "A Batumi Dolphinarium egy jelentős akvárium Batumi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.623524,
                         41.647697
@@ -425,7 +425,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის ცენტრალური პარკი",
                   "text": "A Batumi Központi Park egy népszerű rekreációs terület és vidámpark Batumi szívében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.62905,
                         41.647203
@@ -434,7 +434,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმი პარკ",
                   "text": "A Batumi Park egy vidámpark, amely szabadidős tevékenységeket és látványosságokat kínál Batumiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.604409,
                         41.633758
@@ -443,7 +443,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის ზოოპარკი",
                   "text": "A Batumi Állatkert egy zoológiai park, amely különféle állatokat mutat be Batumiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.625935,
                         41.646368
@@ -661,7 +661,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის დელფინარიუმი",
                   "text": "Batumi Dolphinarium este un acvariu notabil situat în Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.623524,
                         41.647697
@@ -724,7 +724,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის ცენტრალური პარკი",
                   "text": "Parcul Central din Batumi este o zonă de recreere populară și un parc tematic situat în inima orașului Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.62905,
                         41.647203
@@ -733,7 +733,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმი პარკ",
                   "text": "Parcul Batumi este un parc tematic care oferă activități de agrement și atracții în Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.604409,
                         41.633758
@@ -742,7 +742,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "ბათუმის ზოოპარკი",
                   "text": "Grădina Zoologică din Batumi este un parc zoologic care prezintă diverse expoziții de animale în Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.625935,
                         41.646368
@@ -960,7 +960,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "Batumi Dolphinarium",
                   "text": "Batumi Dolphinarium is a notable aquarium located in Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.623524,
                         41.647697
@@ -1023,7 +1023,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "Batumi Central Park",
                   "text": "Batumi Central Park is a popular recreational area and theme park situated in the heart of Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.62905,
                         41.647203
@@ -1032,7 +1032,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "Batumi Park",
                   "text": "Batumi Park is a theme park offering leisure activities and attractions in Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.604409,
                         41.633758
@@ -1041,7 +1041,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             {
                   "name": "Batumi Zoo",
                   "text": "The Batumi Zoo is a zoological park featuring diverse animal exhibits in Batumi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.625935,
                         41.646368
@@ -1788,7 +1788,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             {
                   "name": "მცირე ზოოპარკი",
                   "text": "Der Mini-Zoo in Gori bietet Besuchern die Möglichkeit, eine kleine Sammlung von Tierarten zu sehen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.10193,
                         41.981484
@@ -1898,7 +1898,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             {
                   "name": "მცირე ზოოპარკი",
                   "text": "A gori Mini Állatkert lehetőséget kínál a látogatóknak egy kisebb állatgyűjtemény megtekintésére.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.10193,
                         41.981484
@@ -2008,7 +2008,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             {
                   "name": "მცირე ზოოპარკი",
                   "text": "Mini Grădina Zoologică din Gori oferă vizitatorilor șansa de a vedea o mică colecție de specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.10193,
                         41.981484
@@ -2118,7 +2118,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             {
                   "name": "Mini Zoo",
                   "text": "The Mini Zoo in Gori offers visitors a chance to see a small collection of animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.10193,
                         41.981484
@@ -2856,7 +2856,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             {
                   "name": "Научно-исследовательский институт экспериментальной патологии и терапии АН Абхазии (НИИЭПиТ)",
                   "text": "Dieses Forschungsinstitut in Sochumi unterhält ein bekanntes Primatenschutzgebiet, das ähnlich wie ein spezialisierter Zoo betrieben wird.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.021931,
                         43.010344
@@ -3137,7 +3137,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             {
                   "name": "Научно-исследовательский институт экспериментальной патологии и терапии АН Абхазии (НИИЭПиТ)",
                   "text": "Ez a szohumi kutatóintézet egy híres főemlős-rezervátumot tart fenn, amely egy specializált állatkerthez hasonlóan működik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.021931,
                         43.010344
@@ -3418,7 +3418,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             {
                   "name": "Научно-исследовательский институт экспериментальной патологии и терапии АН Абхазии (НИИЭПиТ)",
                   "text": "Acest institut de cercetare din Sochumi menține un faimos sanctuar de primate care funcționează similar cu o grădină zoologică specializată.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.021931,
                         43.010344
@@ -3699,7 +3699,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             {
                   "name": "Research Institute of Experimental Pathology and Therapy, Academy of Sciences of Abkhazia",
                   "text": "This research institute in Sochumi famously maintains a primate sanctuary that operates similar to a specialized zoo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         41.021931,
                         43.010344
@@ -4497,7 +4497,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             {
                   "name": "Euro Park",
                   "text": "Euro Park ist ein Wasserpark in Telawi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         45.48376,
                         41.939688
@@ -4580,7 +4580,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             {
                   "name": "Euro Park",
                   "text": "Az Euro Park egy vízi park Telawi városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         45.48376,
                         41.939688
@@ -4663,7 +4663,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             {
                   "name": "Euro Park",
                   "text": "Euro Park este un parc acvatic în Telawi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         45.48376,
                         41.939688
@@ -4746,7 +4746,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             {
                   "name": "Euro Park",
                   "text": "Euro Park is a water park in Telawi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         45.48376,
                         41.939688

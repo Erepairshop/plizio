@@ -6664,7 +6664,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten Breslau",
                   "text": "Der Zoo in Breslau ist der älteste und artenreichste zoologische Garten in Polen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.074432,
                         51.104231
@@ -7125,7 +7125,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Wrocław",
                   "text": "A breslaui állatkert Lengyelország legrégebbi és fajokban leggazdagabb állatkertje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.074432,
                         51.104231
@@ -7586,7 +7586,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Wrocław",
                   "text": "Grădina Zoologică din Breslau este cea mai veche și mai bogată în specii grădină zoologică din Polonia.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.074432,
                         51.104231
@@ -8047,7 +8047,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Wroclaw",
                   "text": "The zoo in Breslau is the oldest and most species-rich zoological garden in Poland.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.074432,
                         51.104231
@@ -13684,7 +13684,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Akcent",
                   "text": "Akcent ist ein lokaler Zoo in Bialystok, der verschiedene Tierarten in einer parkähnlichen Umgebung zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.165881,
                         53.120642
@@ -14154,7 +14154,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Akcent",
                   "text": "Az Akcent egy helyi állatkert Bialystokban, amely parkosított környezetben mutat be különféle állatfajokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.165881,
                         53.120642
@@ -14624,7 +14624,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Akcent",
                   "text": "Akcent este o grădină zoologică locală din Bialystok, care prezintă diverse specii de animale într-un decor de parc.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.165881,
                         53.120642
@@ -15094,7 +15094,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Akcent",
                   "text": "Akcent is a local zoo in Bialystok featuring various animal species in a park setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.165881,
                         53.120642
@@ -15385,7 +15385,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Akwarium Gdyńskie",
                   "text": "Das Gdynia-Aquarium ist ein öffentliches Aquarium, das vielfältiges Meeresleben in der Stadt Gdingen ausstellt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557165,
                         54.518324
@@ -15448,7 +15448,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy Góra Harców",
                   "text": "Der Park Linowy Góra Harców ist ein Abenteuer-Themenpark, der Kletteraktivitäten in Gdingen anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.554338,
                         54.506446
@@ -15756,7 +15756,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Akwarium Gdyńskie",
                   "text": "A Gdynia Akvárium egy nyilvános akvárium, amely sokszínű tengeri élővilágot mutat be Gdingen városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557165,
                         54.518324
@@ -15819,7 +15819,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy Góra Harców",
                   "text": "A Park Linowy Góra Harców egy kaland-élménypark, amely mászótevékenységeket kínál Gdingenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.554338,
                         54.506446
@@ -16127,7 +16127,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Akwarium Gdyńskie",
                   "text": "Acvariul Gdynia este un acvariu public care expune diverse forme de viață marină în orașul Gdingen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557165,
                         54.518324
@@ -16190,7 +16190,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy Góra Harców",
                   "text": "Park Linowy Góra Harców este un parc tematic de aventură care oferă activități de alpinism în Gdingen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.554338,
                         54.506446
@@ -16498,7 +16498,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Akwarium Gdyńskie",
                   "text": "The Gdynia Aquarium is a public aquarium exhibiting diverse marine life in the city of Gdingen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557165,
                         54.518324
@@ -16561,7 +16561,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy Góra Harców",
                   "text": "Park Linowy Góra Harców is an adventure theme park offering climbing activities in Gdingen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.554338,
                         54.506446
@@ -18818,7 +18818,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza",
                   "text": "Attraktion in Zabrze mit Bergbautradition.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.806742,
                         50.296272
@@ -18854,7 +18854,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarius Kopernik",
                   "text": "Wasserpark in Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.772832,
                         50.324139
@@ -18863,7 +18863,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza - Park 12C",
                   "text": "Freizeitgelände in Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.79948,
                         50.296486
@@ -18872,7 +18872,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Techniki Wojskowej",
                   "text": "Militärpark in Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.797768,
                         50.295898
@@ -19099,7 +19099,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza",
                   "text": "Bányászati hagyományokkal rendelkező látnivaló Zabrzében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.806742,
                         50.296272
@@ -19135,7 +19135,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarius Kopernik",
                   "text": "Élményfürdő Zabrzében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.772832,
                         50.324139
@@ -19144,7 +19144,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza - Park 12C",
                   "text": "Szabadidőpark Zabrzében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.79948,
                         50.296486
@@ -19153,7 +19153,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Techniki Wojskowej",
                   "text": "Katonai park Zabrzében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.797768,
                         50.295898
@@ -19380,7 +19380,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza",
                   "text": "Atracție în Zabrze cu tradiție minieră.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.806742,
                         50.296272
@@ -19416,7 +19416,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarius Kopernik",
                   "text": "Parc acvatic în Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.772832,
                         50.324139
@@ -19425,7 +19425,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza - Park 12C",
                   "text": "Zonă de agrement în Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.79948,
                         50.296486
@@ -19434,7 +19434,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Techniki Wojskowej",
                   "text": "Parc militar în Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.797768,
                         50.295898
@@ -19661,7 +19661,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza",
                   "text": "Attraction in Zabrze with mining tradition.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.806742,
                         50.296272
@@ -19697,7 +19697,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarius Kopernik",
                   "text": "Water park in Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.772832,
                         50.324139
@@ -19706,7 +19706,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sztolnia Królowa Luiza - Park 12C",
                   "text": "Recreation area in Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.79948,
                         50.296486
@@ -19715,7 +19715,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Techniki Wojskowej",
                   "text": "Military park in Zabrze.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.797768,
                         50.295898
@@ -20080,7 +20080,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Papugarnia",
                   "text": "Dieser kleine Zoo in Allenstein bietet Besuchern die Möglichkeit, verschiedene Papageienarten zu sehen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.514641,
                         53.786342
@@ -20469,7 +20469,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Papugarnia",
                   "text": "Ez az allensteini kis állatkert lehetőséget kínál a látogatóknak különböző papagájfajok megtekintésére.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.514641,
                         53.786342
@@ -20858,7 +20858,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Papugarnia",
                   "text": "Acest mic zoo din Allenstein oferă vizitatorilor șansa de a vedea diverse specii de papagali.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.514641,
                         53.786342
@@ -21247,7 +21247,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Papugarnia",
                   "text": "This small zoo in Allenstein offers visitors the chance to see various species of parrots.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.514641,
                         53.786342
@@ -22786,7 +22786,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkowa Zagroda",
                   "text": "Bajkowa Zagroda ist ein kleiner Zoo in Grünberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.495329,
                         51.922042
@@ -23031,7 +23031,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkowa Zagroda",
                   "text": "A Bajkowa Zagroda egy kisebb állatkert Grünbergben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.495329,
                         51.922042
@@ -23276,7 +23276,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkowa Zagroda",
                   "text": "Bajkowa Zagroda este o mică grădină zoologică situată în Grünberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.495329,
                         51.922042
@@ -23521,7 +23521,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkowa Zagroda",
                   "text": "Bajkowa Zagroda is a small zoo located in Grünberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.495329,
                         51.922042
@@ -25807,7 +25807,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten Oppeln",
                   "text": "Der Oppelner Zoo ist ein beliebter zoologischer Garten auf der Bolko-Insel in Oppeln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926258,
                         50.652902
@@ -26133,7 +26133,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Opole",
                   "text": "Az Opolei Állatkert egy népszerű állatkert a Bolko-szigeten, Oppelnben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926258,
                         50.652902
@@ -26459,7 +26459,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Opole",
                   "text": "Grădina Zoologică din Opole este o grădină zoologică populară situată pe Insula Bolko din Oppeln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926258,
                         50.652902
@@ -26785,7 +26785,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny Opole",
                   "text": "The Opole Zoo is a popular zoological garden located on Bolko Island in Oppeln.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926258,
                         50.652902
@@ -27078,7 +27078,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wodny Park Tychy",
                   "text": "Wodny Park Tychy ist ein großer Wasserpark, der aquatische Unterhaltung in der Stadt bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.977496,
                         50.103046
@@ -27269,7 +27269,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wodny Park Tychy",
                   "text": "A Wodny Park Tychy egy nagy vízipark, amely vízi szórakozást nyújt a városban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.977496,
                         50.103046
@@ -27460,7 +27460,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wodny Park Tychy",
                   "text": "Wodny Park Tychy este un parc acvatic mare care oferă divertisment acvatic în oraș.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.977496,
                         50.103046
@@ -27651,7 +27651,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wodny Park Tychy",
                   "text": "Wodny Park Tychy is a large water park providing aquatic entertainment in the city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.977496,
                         50.103046
@@ -29080,7 +29080,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Rodzinny Park Rozrywki \"Nowa Holandia\"",
                   "text": "Der Familienfreizeitpark Neu-Holland ist ein Themenpark in Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412534,
                         54.134002
@@ -29089,7 +29089,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ptaszarnia",
                   "text": "Das Vogelhaus ist ein lokaler Zoo in Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412986,
                         54.136384
@@ -29107,7 +29107,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Dolinka",
                   "text": "Der Wasserpark Dolinka ist ein Freizeitbad in Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.422907,
                         54.173986
@@ -29343,7 +29343,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Rodzinny Park Rozrywki \"Nowa Holandia\"",
                   "text": "Az Új Hollandia Családi Vidámpark egy élménypark Elbing városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412534,
                         54.134002
@@ -29352,7 +29352,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ptaszarnia",
                   "text": "A madárház egy helyi állatkert Elbing városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412986,
                         54.136384
@@ -29370,7 +29370,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Dolinka",
                   "text": "A Dolinka Vízipark egy élményfürdő Elbing városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.422907,
                         54.173986
@@ -29606,7 +29606,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Rodzinny Park Rozrywki \"Nowa Holandia\"",
                   "text": "Parcul tematic pentru familie Noua Olandă este un parc de distracții din Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412534,
                         54.134002
@@ -29615,7 +29615,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ptaszarnia",
                   "text": "Voliera este o grădină zoologică locală din Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412986,
                         54.136384
@@ -29633,7 +29633,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Dolinka",
                   "text": "Parcul acvatic Dolinka este un parc acvatic din Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.422907,
                         54.173986
@@ -29869,7 +29869,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Rodzinny Park Rozrywki \"Nowa Holandia\"",
                   "text": "The New Holland Family Amusement Park is a theme park located in Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412534,
                         54.134002
@@ -29878,7 +29878,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ptaszarnia",
                   "text": "The aviary is a local zoo in Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.412986,
                         54.136384
@@ -29896,7 +29896,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Dolinka",
                   "text": "The Dolinka Water Park is a water park located in Elbing.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.422907,
                         54.173986
@@ -31118,7 +31118,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Mini-Zoo in Dabrowa Gornicza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.243953,
                         50.300325
@@ -31127,7 +31127,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Dino-Park in Dabrowa Gornicza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.241222,
                         50.302444
@@ -31228,7 +31228,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Mini állatkert Dąbrowa Górniczában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.243953,
                         50.300325
@@ -31237,7 +31237,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Dínó Park Dąbrowa Górniczában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.241222,
                         50.302444
@@ -31338,7 +31338,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Mini Grădina Zoologică în Dabrowa Gornicza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.243953,
                         50.300325
@@ -31347,7 +31347,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Parcul Dino în Dabrowa Gornicza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.241222,
                         50.302444
@@ -31448,7 +31448,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Mini Zoo",
                   "text": "Mini Zoo in Dabrowa Gornicza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.243953,
                         50.300325
@@ -31457,7 +31457,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Dino Park in Dabrowa Gornicza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.241222,
                         50.302444
@@ -33662,7 +33662,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park wodny",
                   "text": "Wasserpark in Tarnau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.987741,
                         50.023852
@@ -34024,7 +34024,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park wodny",
                   "text": "Vízipark Tarnówban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.987741,
                         50.023852
@@ -34386,7 +34386,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park wodny",
                   "text": "Parc acvatic în Tarnau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.987741,
                         50.023852
@@ -34748,7 +34748,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park wodny",
                   "text": "Water park in Tarnau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.987741,
                         50.023852
@@ -35104,7 +35104,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Górnośląski Park Etnograficzny w Chorzowie",
                   "text": "Der Oberschlesische Ethnografische Park ist ein weitläufiges Freilichtmuseum, das traditionelle regionale Architektur in Königshütte zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.97304,
                         50.294019
@@ -35520,7 +35520,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Górnośląski Park Etnograficzny w Chorzowie",
                   "text": "A Felső-Sziléziai Néprajzi Park egy kiterjedt szabadtéri múzeum, amely hagyományos regionális építészetet mutat be Königshütte-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.97304,
                         50.294019
@@ -35936,7 +35936,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Górnośląski Park Etnograficzny w Chorzowie",
                   "text": "Parcul Etnografic al Sileziei Superioare este un muzeu vast în aer liber care expune arhitectura regională tradițională din Königshütte.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.97304,
                         50.294019
@@ -36352,7 +36352,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Górnośląski Park Etnograficzny w Chorzowie",
                   "text": "The Upper Silesian Ethnographic Park is an expansive open-air museum displaying traditional regional architecture in Königshütte.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.97304,
                         50.294019
@@ -36816,7 +36816,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "PlayPark Rodzinny Park Rozrywki",
                   "text": "PlayPark ist ein familienfreundlicher Freizeitpark mit vielen Aktivitäten in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.157632,
                         54.189854
@@ -36852,7 +36852,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wakepark Koszalin",
                   "text": "Der Wakepark Koszalin ist ein beliebter Wasserpark für Wassersport in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.203268,
                         54.180799
@@ -36897,7 +36897,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Koszalin",
                   "text": "Der Wasserpark Koszalin ist eine große Freizeiteinrichtung mit Pools und Rutschen in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.208951,
                         54.204996
@@ -36915,7 +36915,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Robin Hooda",
                   "text": "Der Robin Hood Park ist ein Abenteuerpark in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.192014,
                         54.185365
@@ -37052,7 +37052,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "PlayPark Rodzinny Park Rozrywki",
                   "text": "A PlayPark egy családközpontú vidámpark, amely szabadidős tevékenységeket kínál Köslinben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.157632,
                         54.189854
@@ -37088,7 +37088,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wakepark Koszalin",
                   "text": "A Wakepark Koszalin egy népszerű vízi vidámpark Köslinben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.203268,
                         54.180799
@@ -37133,7 +37133,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Koszalin",
                   "text": "A Koszalin Vízipark egy nagy szabadidős létesítmény medencékkel és csúszdákkal Köslinben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.208951,
                         54.204996
@@ -37151,7 +37151,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Robin Hooda",
                   "text": "A Robin Hood Park egy kalandpark Köslinben, amely szabadtéri szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.192014,
                         54.185365
@@ -37288,7 +37288,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "PlayPark Rodzinny Park Rozrywki",
                   "text": "PlayPark este un parc tematic orientat spre familie, oferind activități recreative în Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.157632,
                         54.189854
@@ -37324,7 +37324,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wakepark Koszalin",
                   "text": "Wakepark Koszalin este un parc acvatic popular care oferă sporturi nautice în Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.203268,
                         54.180799
@@ -37369,7 +37369,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Koszalin",
                   "text": "Parcul Acvatic Koszalin este o mare facilitate de agrement cu piscine și tobogane în Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.208951,
                         54.204996
@@ -37387,7 +37387,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Robin Hooda",
                   "text": "Parcul Robin Hood este un parc tematic de aventură care oferă divertisment în aer liber în Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.192014,
                         54.185365
@@ -37524,7 +37524,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "PlayPark Rodzinny Park Rozrywki",
                   "text": "PlayPark is a family-oriented theme park offering recreational activities in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.157632,
                         54.189854
@@ -37560,7 +37560,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Wakepark Koszalin",
                   "text": "Wakepark Koszalin is a popular water park offering aquatic sports in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.203268,
                         54.180799
@@ -37605,7 +37605,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Koszalin",
                   "text": "Koszalin Water Park is a large recreational facility with pools and slides in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.208951,
                         54.204996
@@ -37623,7 +37623,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Robin Hooda",
                   "text": "Robin Hood Park is an adventure theme park offering outdoor entertainment in Köslin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.192014,
                         54.185365
@@ -38930,7 +38930,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "GEOsfera",
                   "text": "Themenpark GEOsfera in Jaworzno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274328,
                         50.227232
@@ -39067,7 +39067,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "GEOsfera",
                   "text": "GEOsfera élménypark Jaworznóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274328,
                         50.227232
@@ -39204,7 +39204,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "GEOsfera",
                   "text": "Parcul tematic GEOsfera din Jaworzno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274328,
                         50.227232
@@ -39341,7 +39341,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "GEOsfera",
                   "text": "GEOsfera theme park in Jaworzno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.274328,
                         50.227232
@@ -39544,7 +39544,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Trzy Fale",
                   "text": "Park Wodny Trzy Fale ist ein Wasserpark in Stolp.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.011702,
                         54.481302
@@ -39825,7 +39825,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Trzy Fale",
                   "text": "A Park Wodny Trzy Fale egy vízi park Stolp városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.011702,
                         54.481302
@@ -40106,7 +40106,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Trzy Fale",
                   "text": "Park Wodny Trzy Fale este un parc acvatic situat în Stolp.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.011702,
                         54.481302
@@ -40387,7 +40387,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny Trzy Fale",
                   "text": "Park Wodny Trzy Fale is a water park located in Stolp.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.011702,
                         54.481302
@@ -40718,7 +40718,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Miasteczko Galicyjskie w Nowym Sączu",
                   "text": "Galizisches Städtchen bei Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.738771,
                         49.621217
@@ -40727,7 +40727,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sądecki Park Etnograficzny",
                   "text": "Freilichtmuseum Sądecki in Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.736141,
                         49.617379
@@ -40763,7 +40763,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkoland",
                   "text": "Freizeitpark Bajkoland in Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.706619,
                         49.62395
@@ -40990,7 +40990,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Miasteczko Galicyjskie w Nowym Sączu",
                   "text": "Galíciai kisváros Neu Sandez közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.738771,
                         49.621217
@@ -40999,7 +40999,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sądecki Park Etnograficzny",
                   "text": "Sądecki szabadtéri múzeum Neu Sandezben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.736141,
                         49.617379
@@ -41035,7 +41035,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkoland",
                   "text": "Bajkoland élménypark Neu Sandezben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.706619,
                         49.62395
@@ -41262,7 +41262,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Miasteczko Galicyjskie w Nowym Sączu",
                   "text": "Micuțul oraș galițian lângă Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.738771,
                         49.621217
@@ -41271,7 +41271,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sądecki Park Etnograficzny",
                   "text": "Muzeul în aer liber Sądecki din Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.736141,
                         49.617379
@@ -41307,7 +41307,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkoland",
                   "text": "Parcul de distracții Bajkoland din Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.706619,
                         49.62395
@@ -41534,7 +41534,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Miasteczko Galicyjskie w Nowym Sączu",
                   "text": "Galician town near Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.738771,
                         49.621217
@@ -41543,7 +41543,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sądecki Park Etnograficzny",
                   "text": "Sądecki open-air museum in Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.736141,
                         49.617379
@@ -41579,7 +41579,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bajkoland",
                   "text": "Bajkoland amusement park in Neu Sandez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.706619,
                         49.62395
@@ -42767,7 +42767,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zwierzyniec",
                   "text": "Ein Tierpark in Konin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.242467,
                         52.210352
@@ -42886,7 +42886,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zwierzyniec",
                   "text": "Állatkert Koninban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.242467,
                         52.210352
@@ -43005,7 +43005,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zwierzyniec",
                   "text": "O grădină zoologică în Konin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.242467,
                         52.210352
@@ -43124,7 +43124,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zwierzyniec",
                   "text": "A zoo in Konin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.242467,
                         52.210352
@@ -43309,7 +43309,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aqua Park",
                   "text": "Der Aqua Park ist ein Wassersportzentrum in Schneidemühl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.769642,
                         53.159382
@@ -43473,7 +43473,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aqua Park",
                   "text": "Az Aqua Park egy vízi rekreációs központ Schneidemühl városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.769642,
                         53.159382
@@ -43637,7 +43637,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aqua Park",
                   "text": "Aqua Park este un centru de recreere acvatică situat în Schneidemühl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.769642,
                         53.159382
@@ -43801,7 +43801,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aqua Park",
                   "text": "Aqua Park is a water recreation center located in Schneidemühl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.769642,
                         53.159382
@@ -44890,7 +44890,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Lubin",
                   "text": "Der ZOO Lubin ist ein lokaler zoologischer Garten, der Tierausstellungen in Lüben bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.213754,
                         51.392966
@@ -45081,7 +45081,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Lubin",
                   "text": "A ZOO Lubin egy helyi állatkert, amely állatbemutatókat kínál Lübenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.213754,
                         51.392966
@@ -45272,7 +45272,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Lubin",
                   "text": "ZOO Lubin este o grădină zoologică locală care oferă expoziții de animale în Lüben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.213754,
                         51.392966
@@ -45463,7 +45463,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "ZOO Lubin",
                   "text": "ZOO Lubin is a local zoological garden offering animal exhibits in Lüben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.213754,
                         51.392966
@@ -45657,7 +45657,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy",
                   "text": "Der Park Linowy ist ein lokaler Freizeitpark mit einem Hochseilgarten in Ostrowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.822713,
                         51.671036
@@ -45729,7 +45729,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Basen Miejski „Olimpijska”",
                   "text": "Das Basen Miejski „Olimpijska“ ist ein städtischer Wasserpark und ein Schwimmbad in Ostrowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.821715,
                         51.640481
@@ -45821,7 +45821,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy",
                   "text": "A Park Linowy egy helyi kalandpark kötélpályával Ostrowo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.822713,
                         51.671036
@@ -45893,7 +45893,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Basen Miejski „Olimpijska”",
                   "text": "A Basen Miejski \"Olimpijska\" egy városi élményfürdő és uszoda Ostrowo területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.821715,
                         51.640481
@@ -45985,7 +45985,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy",
                   "text": "Park Linowy este un parc de aventură local cu trasee de corzi în Ostrowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.822713,
                         51.671036
@@ -46057,7 +46057,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Basen Miejski „Olimpijska”",
                   "text": "Basen Miejski „Olimpijska” este un parc acvatic municipal și o piscină în Ostrowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.821715,
                         51.640481
@@ -46149,7 +46149,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy",
                   "text": "Park Linowy is a local theme park featuring a high ropes course in Ostrowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.822713,
                         51.671036
@@ -46221,7 +46221,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Basen Miejski „Olimpijska”",
                   "text": "Basen Miejski \"Olimpijska\" is a municipal water park and swimming facility in Ostrowo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.821715,
                         51.640481
@@ -46379,7 +46379,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "AQUAPARK SUWAŁKI",
                   "text": "Ein moderner Wasserpark in Suwałki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.937309,
                         54.113144
@@ -46534,7 +46534,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "AQUAPARK SUWAŁKI",
                   "text": "Modern aquapark Suwałkiben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.937309,
                         54.113144
@@ -46689,7 +46689,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "AQUAPARK SUWAŁKI",
                   "text": "Un parc acvatic modern în Suwałki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.937309,
                         54.113144
@@ -46844,7 +46844,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "AQUAPARK SUWAŁKI",
                   "text": "A modern water park in Suwałki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.937309,
                         54.113144
@@ -48043,7 +48043,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Schlesischer Tierpark",
                   "text": "Śląski Ogród Zoologiczny ist ein bekannter zoologischer Garten in Laurahütte.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -48333,7 +48333,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Śląski Ogród Zoologiczny",
                   "text": "A Śląski Ogród Zoologiczny egy nevezetes állatkert Laurahütte városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -48623,7 +48623,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Śląski Ogród Zoologiczny",
                   "text": "Śląski Ogród Zoologiczny este o grădină zoologică notabilă situată în Laurahütte.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -48913,7 +48913,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Śląski Ogród Zoologiczny",
                   "text": "Śląski Ogród Zoologiczny is a notable zoological garden located in Laurahütte.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -51253,7 +51253,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "Der Zoologische Garten Zamosch ist ein beliebter Zoo mit verschiedenen Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -51597,7 +51597,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "A Zamosch-i Állatkert egy népszerű állatkert, amely különböző állatfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -51941,7 +51941,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "Grădina Zoologică din Zamosch este o grădină zoologică populară ce găzduiește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -52285,7 +52285,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Ogród Zoologiczny w Zamościu",
                   "text": "The Zamosch Zoological Garden is a popular zoo featuring various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.237887,
                         50.716839
@@ -53759,7 +53759,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Wasserpark für Erholung in Chełm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.454169,
                         51.139731
@@ -54004,7 +54004,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Aquapark kikapcsolódáshoz Chełmben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.454169,
                         51.139731
@@ -54249,7 +54249,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Parc acvatic pentru relaxare în Chełm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.454169,
                         51.139731
@@ -54494,7 +54494,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Water park for recreation in Chełm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.454169,
                         51.139731
@@ -57096,7 +57096,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sala Zabaw Cinema Fun",
                   "text": "Sala Zabaw Cinema Fun ist ein Freizeit- und Spielpark in Schweidnitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.495682,
                         50.840723
@@ -57332,7 +57332,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sala Zabaw Cinema Fun",
                   "text": "A Sala Zabaw Cinema Fun egy szórakoztató- és vidámpark Schweidnitz városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.495682,
                         50.840723
@@ -57568,7 +57568,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sala Zabaw Cinema Fun",
                   "text": "Sala Zabaw Cinema Fun este un parc de distracții și loc de joacă în Schweidnitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.495682,
                         50.840723
@@ -57804,7 +57804,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Sala Zabaw Cinema Fun",
                   "text": "Sala Zabaw Cinema Fun is a local amusement and play area in Schweidnitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.495682,
                         50.840723
@@ -58169,7 +58169,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
                   "text": "Ein Landschaftspark in der Region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.131554,
                         50.312789
@@ -58178,7 +58178,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Freak Park",
                   "text": "Ein Vergnügungspark in Będzin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.152378,
                         50.311533
@@ -58423,7 +58423,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
                   "text": "Tájvédelmi körzet a régióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.131554,
                         50.312789
@@ -58432,7 +58432,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Freak Park",
                   "text": "Vidámpark Będzinben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.152378,
                         50.311533
@@ -58677,7 +58677,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
                   "text": "Un parc peisagistic în regiune.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.131554,
                         50.312789
@@ -58686,7 +58686,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Freak Park",
                   "text": "Un parc de distracții în Będzin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.152378,
                         50.311533
@@ -58931,7 +58931,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
                   "text": "A landscape park in the region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.131554,
                         50.312789
@@ -58940,7 +58940,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Freak Park",
                   "text": "An amusement park in Będzin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.152378,
                         50.311533
@@ -59116,7 +59116,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy w Zgierzu",
                   "text": "Ein Seilpark, der Abenteuer und Erholung in Gieresch bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.408191,
                         51.859902
@@ -59143,7 +59143,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Stacja Nowa Gdynia – Aquapark",
                   "text": "Stacja Nowa Gdynia ist ein beliebter Aquapark in Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.419764,
                         51.830788
@@ -59152,7 +59152,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Cyrk (sezonowo)",
                   "text": "Ein saisonaler Zirkus, der Unterhaltung in Gieresch bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.400011,
                         51.866517
@@ -59235,7 +59235,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy w Zgierzu",
                   "text": "Egy kaland- és rekreációs lehetőségeket kínáló kötélpark Gieresch városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.408191,
                         51.859902
@@ -59262,7 +59262,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Stacja Nowa Gdynia – Aquapark",
                   "text": "A Stacja Nowa Gdynia egy népszerű aquapark Gieresch városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.419764,
                         51.830788
@@ -59271,7 +59271,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Cyrk (sezonowo)",
                   "text": "Egy szezonális cirkusz, amely szórakozást kínál Gieresch városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.400011,
                         51.866517
@@ -59354,7 +59354,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy w Zgierzu",
                   "text": "Un parc de aventură cu frânghii care oferă recreere în Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.408191,
                         51.859902
@@ -59381,7 +59381,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Stacja Nowa Gdynia – Aquapark",
                   "text": "Stacja Nowa Gdynia este un parc acvatic popular situat în Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.419764,
                         51.830788
@@ -59390,7 +59390,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Cyrk (sezonowo)",
                   "text": "Un circ sezonier care oferă divertisment în Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.400011,
                         51.866517
@@ -59473,7 +59473,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Linowy w Zgierzu",
                   "text": "A rope park providing adventure and recreation in Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.408191,
                         51.859902
@@ -59500,7 +59500,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Stacja Nowa Gdynia – Aquapark",
                   "text": "Stacja Nowa Gdynia is a popular water park facility located in Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.419764,
                         51.830788
@@ -59509,7 +59509,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Cyrk (sezonowo)",
                   "text": "A seasonal circus offering entertainment in Gieresch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.400011,
                         51.866517
@@ -60208,7 +60208,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Lilu Play - Centrum Zabaw dla Dzieci",
                   "text": "Lilu Play ist ein beliebter Kinderspielplatz in Ratibor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.213124,
                         50.084876
@@ -60226,7 +60226,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark - H2Ostróg",
                   "text": "H2Ostróg ist ein moderner Wasserpark in Ratibor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.219933,
                         50.098076
@@ -60498,7 +60498,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Lilu Play - Centrum Zabaw dla Dzieci",
                   "text": "A Lilu Play egy népszerű játszóház gyermekeknek Ratiborban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.213124,
                         50.084876
@@ -60516,7 +60516,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark - H2Ostróg",
                   "text": "A H2Ostróg egy modern vízi park Ratiborban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.219933,
                         50.098076
@@ -60788,7 +60788,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Lilu Play - Centrum Zabaw dla Dzieci",
                   "text": "Lilu Play este un parc de joacă popular pentru copii în Ratibor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.213124,
                         50.084876
@@ -60806,7 +60806,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark - H2Ostróg",
                   "text": "H2Ostróg este un parc acvatic modern în Ratibor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.219933,
                         50.098076
@@ -61078,7 +61078,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Lilu Play - Centrum Zabaw dla Dzieci",
                   "text": "Lilu Play is a popular children's theme park in Ratibor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.213124,
                         50.084876
@@ -61096,7 +61096,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark - H2Ostróg",
                   "text": "H2Ostróg is a modern water park in Ratibor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.219933,
                         50.098076
@@ -61796,7 +61796,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarion",
                   "text": "Aquarion ist ein Erlebnisbad mit Freizeitschwimmbecken in Sohrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.686121,
                         50.041976
@@ -61814,7 +61814,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Twinpigs - miasteczko westernowe",
                   "text": "Twinpigs ist ein Freizeitpark mit Western-Thema in der Stadt Sohrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715,
                         50.050571
@@ -61879,7 +61879,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarion",
                   "text": "Az Aquarion egy fedett élményfürdő, amely rekreációs úszási lehetőségeket kínál Sohrau területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.686121,
                         50.041976
@@ -61897,7 +61897,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Twinpigs - miasteczko westernowe",
                   "text": "A Twinpigs egy western témájú vidámpark Sohrau városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715,
                         50.050571
@@ -61962,7 +61962,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarion",
                   "text": "Aquarion este un parc acvatic interior care oferă facilități de înot recreativ în Sohrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.686121,
                         50.041976
@@ -61980,7 +61980,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Twinpigs - miasteczko westernowe",
                   "text": "Twinpigs este un parc de distracții cu tematică western situat în orașul Sohrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715,
                         50.050571
@@ -62045,7 +62045,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquarion",
                   "text": "Aquarion is an indoor water park offering recreational swimming facilities in Sohrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.686121,
                         50.041976
@@ -62063,7 +62063,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Twinpigs - miasteczko westernowe",
                   "text": "Twinpigs is a western-themed amusement park located in the city of Sohrau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715,
                         50.050571
@@ -62194,7 +62194,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Der Wasserpark ist eine beliebte Freizeiteinrichtung in Tarnowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.83725,
                         50.438511
@@ -62394,7 +62394,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "A vízi park egy népszerű szórakozóhely Tarnowitzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.83725,
                         50.438511
@@ -62594,7 +62594,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Parcul acvatic este o facilitate de agrement populară în Tarnowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.83725,
                         50.438511
@@ -62794,7 +62794,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "The water park is a popular recreational facility in Tarnowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.83725,
                         50.438511
@@ -63908,7 +63908,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny AQUARIUM",
                   "text": "Park Wodny AQUARIUM ist ein Erlebnisbad mit Wasserpark-Attraktionen in Ostrolenka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.587487,
                         53.085907
@@ -64018,7 +64018,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny AQUARIUM",
                   "text": "A Park Wodny AQUARIUM egy vízi létesítmény, amely vízi parki élményt nyújt Ostrolenka területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.587487,
                         53.085907
@@ -64128,7 +64128,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny AQUARIUM",
                   "text": "Park Wodny AQUARIUM este o facilitate acvatică care oferă o experiență de parc acvatic în Ostrolenka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.587487,
                         53.085907
@@ -64238,7 +64238,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny AQUARIUM",
                   "text": "Park Wodny AQUARIUM is an aquatic facility offering a water park experience in Ostrolenka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.587487,
                         53.085907
@@ -64749,7 +64749,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Żywieckie mini-zoo",
                   "text": "Das Żywieckie mini-zoo ist ein kleiner zoologischer Garten mit Tierausstellungen in Saybusch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.202784,
                         49.68311
@@ -64949,7 +64949,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Żywieckie mini-zoo",
                   "text": "A Żywieckie mini-zoo egy kis állatkert, amely állatkiállításokat kínál Saybuschban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.202784,
                         49.68311
@@ -65149,7 +65149,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Żywieckie mini-zoo",
                   "text": "Żywieckie mini-zoo este o mică grădină zoologică ce oferă expoziții de animale în Saybusch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.202784,
                         49.68311
@@ -65349,7 +65349,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Żywieckie mini-zoo",
                   "text": "Żywieckie mini-zoo is a small zoological garden offering animal exhibits in Saybusch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.202784,
                         49.68311
@@ -65747,7 +65747,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Family Fun",
                   "text": "Der Park Family Fun ist ein Freizeitpark, der Freizeitmöglichkeiten in Auschwitz bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.233397,
                         50.031807
@@ -65938,7 +65938,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Family Fun",
                   "text": "A Park Family Fun egy vidámpark, amely szabadidős tevékenységeket kínál Auschwitzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.233397,
                         50.031807
@@ -66129,7 +66129,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Family Fun",
                   "text": "Park Family Fun este un parc tematic care oferă activități recreative în Auschwitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.233397,
                         50.031807
@@ -66320,7 +66320,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Family Fun",
                   "text": "Park Family Fun is a theme park providing recreational activities in Auschwitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.233397,
                         50.031807
@@ -67571,7 +67571,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bolesławiecki Park Wodny \"ORKA\"",
                   "text": "Der Wasserpark „ORKA“ ist ein beliebtes Freizeitzentrum in Bunzlau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.572216,
                         51.260798
@@ -67771,7 +67771,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bolesławiecki Park Wodny \"ORKA\"",
                   "text": "Az „ORKA” vízipark egy népszerű rekreációs vízi központ Bunzlauban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.572216,
                         51.260798
@@ -67971,7 +67971,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bolesławiecki Park Wodny \"ORKA\"",
                   "text": "Parcul acvatic „ORKA” este un popular centru acvatic de agrement din Bunzlau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.572216,
                         51.260798
@@ -68171,7 +68171,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Bolesławiecki Park Wodny \"ORKA\"",
                   "text": "The \"ORKA\" Water Park is a popular recreational aquatic center in Bunzlau.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.572216,
                         51.260798
@@ -68446,7 +68446,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Seil- und Abenteuerpark in Krosno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -68655,7 +68655,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Kötél- és kalandpark Krosnóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -68864,7 +68864,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Parc de aventură și tiroliană în Krosno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -69073,7 +69073,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Linowy Park Przygody",
                   "text": "Rope and adventure park in Krosno.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.76384,
                         49.701727
@@ -69402,7 +69402,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "Das Kąpielisko Miejskie „Frajda” ist ein städtisches Freizeitbad in Neisse.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -69746,7 +69746,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "A Kąpielisko Miejskie „Frajda” egy városi aquapark Neisse városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -70090,7 +70090,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "Kąpielisko Miejskie „Frajda” este un parc acvatic de agrement din Neisse.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -70434,7 +70434,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kąpielisko Miejskie „Frajda”",
                   "text": "Kąpielisko Miejskie „Frajda” is a municipal water park and recreation area in Neisse.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.318755,
                         50.477274
@@ -70763,7 +70763,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Termy Zakopiańskie",
                   "text": "Termy Zakopiańskie ist ein Wasserpark mit Freizeiteinrichtungen in der Stadt Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.965553,
                         49.295131
@@ -70772,7 +70772,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Snowlandia Śnieżny Labirynt",
                   "text": "Snowlandia Śnieżny Labirynt ist eine Themenpark-Attraktion in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.9624,
                         49.28101
@@ -70817,7 +70817,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Podwodny Świat",
                   "text": "Podwodny Świat ist eine lokale Aquariumanlage in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.93683,
                         49.294363
@@ -70835,7 +70835,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Der Dino Park ist ein Themenpark, der Freizeitaktivitäten in Zakopane anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.96413,
                         49.283507
@@ -70862,7 +70862,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Centrum Rozrywki Autodrom",
                   "text": "Das Centrum Rozrywki Autodrom ist ein Themenpark in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.945252,
                         49.297776
@@ -70871,7 +70871,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Tatrzańskie ZOO i Bagno Shreka",
                   "text": "Dieser Ort wird als Zoo für Besucher in Zakopane betrieben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.961581,
                         49.286311
@@ -71143,7 +71143,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Termy Zakopiańskie",
                   "text": "A Termy Zakopiańskie egy vízi park, amely rekreációs lehetőségeket kínál Zakopane városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.965553,
                         49.295131
@@ -71152,7 +71152,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Snowlandia Śnieżny Labirynt",
                   "text": "A Snowlandia Śnieżny Labirynt egy vidámpark jellegű látványosság Zakopanéban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.9624,
                         49.28101
@@ -71197,7 +71197,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Podwodny Świat",
                   "text": "A Podwodny Świat egy helyi akvárium létesítmény Zakopanéban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.93683,
                         49.294363
@@ -71215,7 +71215,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "A Dino Park egy vidámpark, amely rekreációs tevékenységeket nyújt Zakopanéban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.96413,
                         49.283507
@@ -71242,7 +71242,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Centrum Rozrywki Autodrom",
                   "text": "A Centrum Rozrywki Autodrom egy vidámpark helyszín Zakopanéban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.945252,
                         49.297776
@@ -71251,7 +71251,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Tatrzańskie ZOO i Bagno Shreka",
                   "text": "Ez a helyszín állatkertként üzemel a látogatók számára Zakopanéban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.961581,
                         49.286311
@@ -71523,7 +71523,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Termy Zakopiańskie",
                   "text": "Termy Zakopiańskie este un parc acvatic care oferă facilități de recreere în orașul Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.965553,
                         49.295131
@@ -71532,7 +71532,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Snowlandia Śnieżny Labirynt",
                   "text": "Snowlandia Śnieżny Labirynt este o atracție de tip parc tematic situată în Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.9624,
                         49.28101
@@ -71577,7 +71577,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Podwodny Świat",
                   "text": "Podwodny Świat este un acvariu local situat în Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.93683,
                         49.294363
@@ -71595,7 +71595,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Dino Park este un parc tematic care oferă activități de recreere în Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.96413,
                         49.283507
@@ -71622,7 +71622,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Centrum Rozrywki Autodrom",
                   "text": "Centrum Rozrywki Autodrom este un parc tematic situat în Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.945252,
                         49.297776
@@ -71631,7 +71631,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Tatrzańskie ZOO i Bagno Shreka",
                   "text": "Această locație operează ca o grădină zoologică pentru vizitatorii din Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.961581,
                         49.286311
@@ -71903,7 +71903,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Termy Zakopiańskie",
                   "text": "Termy Zakopiańskie is a water park providing recreational facilities in the city of Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.965553,
                         49.295131
@@ -71912,7 +71912,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Snowlandia Śnieżny Labirynt",
                   "text": "Snowlandia Śnieżny Labirynt is a theme park attraction located in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.9624,
                         49.28101
@@ -71957,7 +71957,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Podwodny Świat",
                   "text": "Podwodny Świat is a local aquarium facility located in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.93683,
                         49.294363
@@ -71975,7 +71975,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Dino Park",
                   "text": "Dino Park is a theme park providing recreational activities in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.96413,
                         49.283507
@@ -72002,7 +72002,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Centrum Rozrywki Autodrom",
                   "text": "Centrum Rozrywki Autodrom is a theme park venue located in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.945252,
                         49.297776
@@ -72011,7 +72011,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Tatrzańskie ZOO i Bagno Shreka",
                   "text": "This location operates as a zoo for visitors in Zakopane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.961581,
                         49.286311
@@ -72322,7 +72322,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Zoologischer Garten Danzig",
                   "text": "Beliebter Zoo in der Nähe von Sopot/Gdańsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.533058,
                         54.414454
@@ -72385,7 +72385,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kolejowy Odjazd",
                   "text": "Freizeitpark in Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.56638,
                         54.432929
@@ -72394,7 +72394,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Adventure Park",
                   "text": "Abenteuerpark in Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.551453,
                         54.466174
@@ -72403,7 +72403,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark Sopot",
                   "text": "Wasserpark in Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557677,
                         54.459903
@@ -72747,7 +72747,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Gdański Ogród Zoologiczny",
                   "text": "Népszerű állatkert Sopot/Gdańsk közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.533058,
                         54.414454
@@ -72810,7 +72810,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kolejowy Odjazd",
                   "text": "Vidámpark Sopotban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.56638,
                         54.432929
@@ -72819,7 +72819,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Adventure Park",
                   "text": "Kalandpark Sopotban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.551453,
                         54.466174
@@ -72828,7 +72828,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark Sopot",
                   "text": "Vízipark Sopotban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557677,
                         54.459903
@@ -73172,7 +73172,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Gdański Ogród Zoologiczny",
                   "text": "Grădină zoologică populară în apropiere de Sopot/Gdańsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.533058,
                         54.414454
@@ -73235,7 +73235,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kolejowy Odjazd",
                   "text": "Parc de distracții în Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.56638,
                         54.432929
@@ -73244,7 +73244,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Adventure Park",
                   "text": "Parc de aventură în Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.551453,
                         54.466174
@@ -73253,7 +73253,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark Sopot",
                   "text": "Parc acvatic în Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557677,
                         54.459903
@@ -73597,7 +73597,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Gdański Ogród Zoologiczny",
                   "text": "Popular zoo near Sopot/Gdańsk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.533058,
                         54.414454
@@ -73660,7 +73660,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Kolejowy Odjazd",
                   "text": "Theme park in Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.56638,
                         54.432929
@@ -73669,7 +73669,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Adventure Park",
                   "text": "Adventure park in Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.551453,
                         54.466174
@@ -73678,7 +73678,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Aquapark Sopot",
                   "text": "Water park in Sopot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.557677,
                         54.459903
@@ -74878,7 +74878,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Wasserpark in Chojnice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -74979,7 +74979,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Vízipark Chojnicében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -75080,7 +75080,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Parc acvatic în Chojnice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -75181,7 +75181,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny",
                   "text": "Water park in Chojnice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.567953,
                         53.69898
@@ -75391,7 +75391,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny OKR Atol",
                   "text": "Park Wodny OKR Atol ist ein Wasserpark mit Freizeitangeboten in Oleśnica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.390037,
                         51.216994
@@ -75492,7 +75492,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny OKR Atol",
                   "text": "A Park Wodny OKR Atol egy rekreációs tevékenységeket kínáló vízipark Oleśnica városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.390037,
                         51.216994
@@ -75593,7 +75593,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny OKR Atol",
                   "text": "Park Wodny OKR Atol este un parc acvatic care oferă activități recreative în Oleśnica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.390037,
                         51.216994
@@ -75694,7 +75694,7 @@ export const polandCitiesV2: POI[] = [
             {
                   "name": "Park Wodny OKR Atol",
                   "text": "Park Wodny OKR Atol is a water park offering recreational activities in Oleśnica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.390037,
                         51.216994

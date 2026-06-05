@@ -2179,7 +2179,7 @@ imageHint: "Panevezys city park and river",
             {
                   "name": "Voveryčių parkelis",
                   "text": "Ein kleiner Park in Alytus, in dem Eichhörnchen beobachtet werden können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.024485,
                         54.405639
@@ -2343,7 +2343,7 @@ imageHint: "Panevezys city park and river",
             {
                   "name": "Voveryčių parkelis",
                   "text": "Kis park Alytusban, ahol mókusokat lehet megfigyelni.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.024485,
                         54.405639
@@ -2507,7 +2507,7 @@ imageHint: "Panevezys city park and river",
             {
                   "name": "Voveryčių parkelis",
                   "text": "Un mic parc în Alytus unde pot fi observate veverițe.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.024485,
                         54.405639
@@ -2671,7 +2671,7 @@ imageHint: "Panevezys city park and river",
             {
                   "name": "Voveryčių parkelis",
                   "text": "A small park in Alytus where squirrels can be observed.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.024485,
                         54.405639
@@ -4995,7 +4995,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Liberty Beach",
                   "text": "Ein Freizeitbereich in Tauragė mit Angeboten für Wassersport und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.318162,
                         55.23779
@@ -5022,7 +5022,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Taurų nuotykių parkas",
                   "text": "Ein aktiver Park in Tauragė mit Kletterparcours und verschiedenen Outdoor-Attraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.251005,
                         55.233816
@@ -5105,7 +5105,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Liberty Beach",
                   "text": "Szabadidős terület Tauragėban, vízi sportolási és kikapcsolódási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.318162,
                         55.23779
@@ -5132,7 +5132,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Taurų nuotykių parkas",
                   "text": "Aktív park Tauragėban mászópályákkal és különféle szabadtéri attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.251005,
                         55.233816
@@ -5215,7 +5215,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Liberty Beach",
                   "text": "O zonă de agrement din Tauragė cu facilități pentru sporturi nautice și recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.318162,
                         55.23779
@@ -5242,7 +5242,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Taurų nuotykių parkas",
                   "text": "Un parc activ din Tauragė cu trasee de cățărare și diverse atracții în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.251005,
                         55.233816
@@ -5325,7 +5325,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Liberty Beach",
                   "text": "A recreational area in Tauragė with facilities for water sports and relaxation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.318162,
                         55.23779
@@ -5352,7 +5352,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             {
                   "name": "Taurų nuotykių parkas",
                   "text": "An active park in Tauragė featuring climbing courses and various outdoor attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.251005,
                         55.233816
@@ -8540,7 +8540,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "ONE nuotykių parkas",
                   "text": "Ein Abenteuerpark in Druskininkai mit verschiedenen Kletter- und Seilrutschenparcours.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.973018,
                         54.025602
@@ -8549,7 +8549,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "VIVI Wake Druskininkai",
                   "text": "Ein Wakeboard-Park in Druskininkai, der für Wassersportler konzipiert wurde.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.995354,
                         54.008712
@@ -8558,7 +8558,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "Druskininkų gydykla",
                   "text": "Ein traditionelles Kurhaus und Gesundheitszentrum im Kurort Druskininkai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.975212,
                         54.022449
@@ -8704,7 +8704,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "ONE nuotykių parkas",
                   "text": "Különféle mászó- és kötélpályákat kínáló kalandpark Druskininkaiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.973018,
                         54.025602
@@ -8713,7 +8713,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "VIVI Wake Druskininkai",
                   "text": "Vízisportok kedvelőinek kialakított wakeboard-pálya Druskininkaiban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.995354,
                         54.008712
@@ -8722,7 +8722,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "Druskininkų gydykla",
                   "text": "Hagyományos gyógyfürdő és egészségügyi kezelőközpont Druskininkai üdülőhelyén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.975212,
                         54.022449
@@ -8868,7 +8868,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "ONE nuotykių parkas",
                   "text": "Un parc de aventură din Druskininkai care oferă diverse trasee de escaladă și tiroliană.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.973018,
                         54.025602
@@ -8877,7 +8877,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "VIVI Wake Druskininkai",
                   "text": "Un parc de wakeboarding din Druskininkai conceput pentru pasionații de sporturi nautice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.995354,
                         54.008712
@@ -8886,7 +8886,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "Druskininkų gydykla",
                   "text": "O stațiune balneară tradițională și un centru de tratament în stațiunea Druskininkai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.975212,
                         54.022449
@@ -9032,7 +9032,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "ONE nuotykių parkas",
                   "text": "An adventure park in Druskininkai offering various climbing and zip-line courses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.973018,
                         54.025602
@@ -9041,7 +9041,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "VIVI Wake Druskininkai",
                   "text": "A wakeboarding park in Druskininkai designed for water sports enthusiasts.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.995354,
                         54.008712
@@ -9050,7 +9050,7 @@ imageHint: "Gargzdai city center and park",
             {
                   "name": "Druskininkų gydykla",
                   "text": "A traditional medical spa and health treatment center in the resort of Druskininkai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.975212,
                         54.022449
@@ -14058,7 +14058,7 @@ imageHint: "Pasvalys river and sinkhole park",
             {
                   "name": "Wake&Jump Kupiškis",
                   "text": "Ein Freizeitpark am Stausee von Kupiškis, der Wakeboarding und Wasseraktivitäten anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.977774,
                         55.851253
@@ -14177,7 +14177,7 @@ imageHint: "Pasvalys river and sinkhole park",
             {
                   "name": "Wake&Jump Kupiškis",
                   "text": "Aktív kikapcsolódást kínáló park Kupiškisben vízisportolási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.977774,
                         55.851253
@@ -14296,7 +14296,7 @@ imageHint: "Pasvalys river and sinkhole park",
             {
                   "name": "Wake&Jump Kupiškis",
                   "text": "Un parc de agrement activ care oferă wakeboarding și activități nautice pe laguna Kupiškis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.977774,
                         55.851253
@@ -14415,7 +14415,7 @@ imageHint: "Pasvalys river and sinkhole park",
             {
                   "name": "Wake&Jump Kupiškis",
                   "text": "An active recreation park offering wakeboarding and water activities on the Kupiškis lagoon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.977774,
                         55.851253
@@ -15105,7 +15105,7 @@ imageHint: "Skuodas city square and park",
             {
                   "name": "Stihl Virvių Parkas",
                   "text": "Ein Abenteuerpark im Freien mit verschiedenen Seilparcours und Kletterherausforderungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.49676,
                         54.745662
@@ -15152,7 +15152,7 @@ imageHint: "Skuodas city square and park",
             {
                   "name": "Stihl Virvių Parkas",
                   "text": "Szabadtéri kalandpark különféle kötélpályákkal és mászófalakkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.49676,
                         54.745662
@@ -15199,7 +15199,7 @@ imageHint: "Skuodas city square and park",
             {
                   "name": "Stihl Virvių Parkas",
                   "text": "Un parc de aventură în aer liber cu diverse trasee de frânghii și provocări de escaladă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.49676,
                         54.745662
@@ -15246,7 +15246,7 @@ imageHint: "Skuodas city square and park",
             {
                   "name": "Stihl Virvių Parkas",
                   "text": "An outdoor adventure park with various rope courses and climbing challenges.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         23.49676,
                         54.745662
@@ -15512,7 +15512,7 @@ imageHint: "Sirvintos city park and river",
             {
                   "name": "Vandenlenčių parkas Flip point",
                   "text": "Ein Freizeitpark in Molėtai, der verschiedene Wassersportaktivitäten anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.440896,
                         55.231907
@@ -15586,7 +15586,7 @@ imageHint: "Sirvintos city park and river",
             {
                   "name": "Vandenlenčių parkas Flip point",
                   "text": "Szabadidőpark Molėtaiban, amely különféle vízi sportolási lehetőségeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.440896,
                         55.231907
@@ -15660,7 +15660,7 @@ imageHint: "Sirvintos city park and river",
             {
                   "name": "Vandenlenčių parkas Flip point",
                   "text": "Un parc de distracții în Molėtai, care oferă diverse activități de sporturi nautice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.440896,
                         55.231907
@@ -15734,7 +15734,7 @@ imageHint: "Sirvintos city park and river",
             {
                   "name": "Vandenlenčių parkas Flip point",
                   "text": "A leisure park in Molėtai offering various water sports activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.440896,
                         55.231907

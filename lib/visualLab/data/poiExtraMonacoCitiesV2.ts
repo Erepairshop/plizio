@@ -143,7 +143,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Der zoologische Garten von Val Thore bietet Einblicke in die lokale und exotische Tierwelt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -386,7 +386,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo ist eine Wellness- und Badeanlage in Val Thore.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -550,7 +550,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Val Thore állatkertje bepillantást nyújt a helyi és egzotikus állatvilágba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -793,7 +793,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "A Thermes Marins Monte-Carlo egy gyógyfürdő és wellness központ Val Thore területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -957,7 +957,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Grădina zoologică din Val Thore oferă o privire asupra lumii animale locale și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -1200,7 +1200,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo este un centru termal și de wellness din Val Thore.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -1364,7 +1364,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Zoological Garden of Monaco",
                   "text": "The zoological garden of Val Thore offers insights into local and exotic wildlife.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -1607,7 +1607,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo is a spa and wellness complex in Val Thore.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -1817,7 +1817,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Der zoologische Garten von Monaco im Stadtteil Fontvieille.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -2069,7 +2069,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Ein luxuriöses Wellness- und Thalassotherapie-Zentrum in Les Révoires.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -2224,7 +2224,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Monaco állatkertje Fontvieille negyedben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -2476,7 +2476,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Luxus wellness- és talasszoterápiás központ Les Révoires-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -2631,7 +2631,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Grădina zoologică din Monaco situată în districtul Fontvieille.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -2883,7 +2883,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Un centru de wellness și talasoterapie de lux în Les Révoires.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -3038,7 +3038,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Zoological Garden of Monaco",
                   "text": "The zoological garden of Monaco located in the Fontvieille district.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -3290,7 +3290,7 @@ export const monacoCitiesV2: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "A luxurious wellness and thalassotherapy centre in Les Révoires.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755

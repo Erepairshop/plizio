@@ -3672,7 +3672,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             {
                   "name": "Fattoria didattica Raggio di Sole",
                   "text": "Ein pädagogisch orientierter Bauernhof in Verona, auf dem Besucher heimische Nutztiere aus der Nähe erleben können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.991459,
                         45.430492
@@ -4016,7 +4016,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             {
                   "name": "Fattoria didattica Raggio di Sole",
                   "text": "Oktató jellegű farm Veronában, ahol a látogatók közelebbről megismerhetik a helyi háztáji állatokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.991459,
                         45.430492
@@ -4360,7 +4360,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             {
                   "name": "Fattoria didattica Raggio di Sole",
                   "text": "O fermă didactică în Verona, unde vizitatorii pot observa de aproape animalele domestice locale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.991459,
                         45.430492
@@ -4704,7 +4704,7 @@ export const poiExtraItalyCitiesC1: POI[] = [
             {
                   "name": "Fattoria didattica Raggio di Sole",
                   "text": "An educational farm in Verona where visitors can experience local farm animals up close.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.991459,
                         45.430492

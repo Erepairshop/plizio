@@ -281,7 +281,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Zoo Tirana",
                   "text": "Der Zoo Tirana ist ein zoologischer Garten in der Hauptstadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.809509,
                         41.307222
@@ -697,7 +697,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Tiranai Állatkert",
                   "text": "A Tiranai Állatkert egy zoológiai park a fővárosban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.809509,
                         41.307222
@@ -1113,7 +1113,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Parku Zoologjik i Tiranës",
                   "text": "Grădina Zoologică din Tirana este un parc zoologic situat în capitală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.809509,
                         41.307222
@@ -1529,7 +1529,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Tirana Zoo",
                   "text": "Tirana Zoo is a zoological park situated in the capital city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.809509,
                         41.307222
@@ -3911,7 +3911,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Kendi i Lojrave",
                   "text": "Freizeitpark in Korçë.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.787777,
                         40.629524
@@ -4030,7 +4030,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Kendi i Lojrave",
                   "text": "Vidámpark Korçëban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.787777,
                         40.629524
@@ -4149,7 +4149,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Kendi i Lojrave",
                   "text": "Parc de distracții în Korçë.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.787777,
                         40.629524
@@ -4268,7 +4268,7 @@ export const albaniaCities: POI[] = [
             {
                   "name": "Kendi i Lojrave",
                   "text": "Theme park in Korçë.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.787777,
                         40.629524

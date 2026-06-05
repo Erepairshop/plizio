@@ -1283,7 +1283,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             {
                   "name": "Recreational Park",
                   "text": "Der Recreational Park ist ein Freizeitpark, der Unterhaltungsmöglichkeiten in Haa bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.280932,
                         27.386853
@@ -1330,7 +1330,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             {
                   "name": "Recreational Park",
                   "text": "A Szabadidőpark egy tematikus park, amely szabadidős tevékenységeket kínál Haa-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.280932,
                         27.386853
@@ -1377,7 +1377,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             {
                   "name": "Recreational Park",
                   "text": "Parcul Recreativ este un parc tematic care oferă activități de agrement în Haa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.280932,
                         27.386853
@@ -1424,7 +1424,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             {
                   "name": "Recreational Park",
                   "text": "The Recreational Park is a theme park providing leisure activities in Haa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         89.280932,
                         27.386853

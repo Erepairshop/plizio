@@ -53,7 +53,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo ist ein öffentliches Aquarium in Port Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -208,7 +208,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Az Odysseo egy nyilvános akvárium Port Louis városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -363,7 +363,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo este un acvariu public situat în Port Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -518,7 +518,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo is a public aquarium located in Port Louis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -719,7 +719,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Aquarium Centre",
                   "text": "Aquarium in Rose Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.480761,
                         -20.263589
@@ -737,7 +737,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Starfish",
                   "text": "Starfish-Aquarium in Rose Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.453609,
                         -20.240775
@@ -784,7 +784,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Aquarium Centre",
                   "text": "Akvárium Rose Hillben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.480761,
                         -20.263589
@@ -802,7 +802,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Starfish",
                   "text": "Starfish akvárium Rose Hillben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.453609,
                         -20.240775
@@ -849,7 +849,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Aquarium Centre",
                   "text": "Acvariu în Rose Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.480761,
                         -20.263589
@@ -867,7 +867,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Starfish",
                   "text": "Acvariul Starfish din Rose Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.453609,
                         -20.240775
@@ -914,7 +914,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Aquarium Centre",
                   "text": "Aquarium in Rose Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.480761,
                         -20.263589
@@ -932,7 +932,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Starfish",
                   "text": "Starfish aquarium in Rose Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.453609,
                         -20.240775
@@ -3518,7 +3518,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo ist ein öffentliches Aquarium mit Ausstellungen von Meereslebewesen in Pailles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -3619,7 +3619,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Az Odysseo egy nyilvános akvárium tengeri élővilág-kiállításokkal Pailles-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -3720,7 +3720,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo este un acvariu public care prezintă expoziții de viață marină în Pailles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -3821,7 +3821,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo is a public aquarium featuring marine life exhibits in Pailles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -4463,7 +4463,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Deer Pen",
                   "text": "Hirschgehege in Pamplemousses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.579241,
                         -20.105078
@@ -4528,7 +4528,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Deer Pen",
                   "text": "Szarvasrezervátum Pamplemousses-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.579241,
                         -20.105078
@@ -4593,7 +4593,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Deer Pen",
                   "text": "Rezervație de căprioare în Pamplemousses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.579241,
                         -20.105078
@@ -4658,7 +4658,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Deer Pen",
                   "text": "Deer pen in Pamplemousses.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.579241,
                         -20.105078
@@ -4913,7 +4913,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo in Riche Terre ist ein modernes Aquarium.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -4996,7 +4996,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Az Odysseo egy modern akvárium Riche Terre-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -5079,7 +5079,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo din Riche Terre este un acvariu modern.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -5162,7 +5162,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Odysseo",
                   "text": "Odysseo in Riche Terre is a modern aquarium.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.494953,
                         -20.159095
@@ -7037,7 +7037,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Waterpark",
                   "text": "Ein Wasserpark in Camp Ithier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.768545,
                         -20.18549
@@ -7066,7 +7066,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Waterpark",
                   "text": "Vízi vidámpark Camp Ithier-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.768545,
                         -20.18549
@@ -7095,7 +7095,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Waterpark",
                   "text": "Un parc acvatic din Camp Ithier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.768545,
                         -20.18549
@@ -7124,7 +7124,7 @@ export const mauritiusCitiesV2: POI[] = [
             {
                   "name": "Waterpark",
                   "text": "A waterpark in Camp Ithier.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         57.768545,
                         -20.18549

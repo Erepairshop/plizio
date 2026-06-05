@@ -406,6 +406,96 @@ export const cyprusRegions: POI[] = [
                         33.370733,
                         35.174718
                   ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Ein See in Nikosia, der sich für entspannte Spaziergänge und zum Genießen der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Dieser See in Nikosia bietet einen ruhigen Ort zur Naturbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Ein lokaler See in Nikosia, ideal für friedliche Spaziergänge und frische Luft.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "Ein Seegebiet in Nikosia, das eine natürliche Flucht aus der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Ein öffentlicher Spielplatz in Nikosia, auf dem Kinder in einer sicheren Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "Ein Spielplatz in Nikosia, der Erholung für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "Dieser Park in Nikosia verfügt über einen Spielplatz für lokale Familien.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "Ein ausgewiesener Spielbereich in Nikosia, in dem Kinder verschiedene Aktivitäten genießen können.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "Ein lokaler Spielplatz in Nikosia, der Kindern Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Ein Spielplatz in Nikosia, der Kindern einen unterhaltsamen Raum zum Interagieren bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
             }
       ],
       "hu": [
@@ -758,6 +848,96 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.370733,
                         35.174718
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Tó Nicosiában, amely alkalmas pihentető sétákra és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Ez a Nicosia-i tó csendes helyet kínál a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Helyi tó Nicosiában, amely ideális a nyugodt sétákhoz és a friss levegőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "Tóvidék Nicosiában, amely természetes kikapcsolódást nyújt a várostól távol.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Nyilvános játszótér Nicosiában, ahol a gyerekek biztonságos környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "Játszótér Nicosiában, amely kikapcsolódást nyújt a családok és a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "Ebben a Nicosia-i parkban játszótér várja a helyi családokat.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "Kijelölt játszóterület Nicosiában, ahol a gyerekek különféle tevékenységeket élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "Helyi játszótér Nicosiában, amely szabadtéri szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Játszótér Nicosiában, amely szórakoztató teret biztosít a gyerekeknek a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
                   ]
             }
       ],
@@ -1112,6 +1292,96 @@ export const cyprusRegions: POI[] = [
                         33.370733,
                         35.174718
                   ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Un lac în Nicosia, potrivit pentru plimbări relaxante și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Λίμνη του Μαγλή",
+                  "text": "Acest lac din Nicosia oferă un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αθαλάσσας",
+                  "text": "Un lac local în Nicosia, ideal pentru plimbări liniștite și aer curat.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "O zonă lacustră în Nicosia care oferă o evadare naturală din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Un loc de joacă public în Nicosia pentru ca cei mici să se joace într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "Un loc de joacă în Nicosia care oferă recreere pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "Acest parc din Nicosia dispune de un loc de joacă pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "O zonă de joacă special amenajată în Nicosia, unde copiii se pot bucura de diverse activități.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "Un loc de joacă local în Nicosia care oferă distracție în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Un loc de joacă în Nicosia care oferă un spațiu distractiv pentru interacțiunea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
             }
       ],
       "en": [
@@ -1465,6 +1735,96 @@ export const cyprusRegions: POI[] = [
                         33.370733,
                         35.174718
                   ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "A lake in Nicosia suitable for relaxing walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Maglee Lake",
+                  "text": "This lake in Nicosia provides a quiet spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Athalassa Lake",
+                  "text": "A local lake in Nicosia ideal for peaceful strolls and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "A lake area in Nicosia offering a natural escape from the city.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "A public playground in Nicosia for children to play in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "A playground in Nicosia providing recreation for families and children.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "This park in Nicosia features a playground for local families.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "A designated play area in Nicosia where children can enjoy various activities.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "A local playground in Nicosia offering outdoor fun for kids.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "A playground in Nicosia providing a fun space for children to interact.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
             }
       ]
 },
@@ -1511,7 +1871,268 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-limassol",
+    id: "cy-limassol", "sights": {
+      "de": [
+            {
+                  "name": "Αλυκή Λεμεσού",
+                  "text": "Ein bedeutender Salzsee bei Limassol mit schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Ein ruhiges Gewässer bei Limassol, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "Ein beliebter Ort in Limassol zum Schwimmen und für Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Game on",
+                  "text": "Eine moderne Spielhalle in Limassol für gemeinsamen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        33.043574,
+                        34.673326
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "Ein Zentrum für Spiele und Unterhaltung in der Stadt Limassol.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "Ein Spielplatz in Limassol, der Kindern Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
+            },
+            {
+                  "name": "PlayLounge",
+                  "text": "Ein einladender Spielbereich in Limassol für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        33.043405,
+                        34.67628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αλυκή Λεμεσού",
+                  "text": "Jelentős sóstó Limassolnál, szép tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "Nyugodt vízfelület Limassolnál, ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "Népszerű hely Limassolban úszáshoz és vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Game on",
+                  "text": "Modern játékterem Limassolban a közös családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        33.043574,
+                        34.673326
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "Játék- és szórakoztató központ Limassol városában.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "Játszótér Limassolban, amely teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
+            },
+            {
+                  "name": "PlayLounge",
+                  "text": "Hívogató játszótér Limassolban a fiatal látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        33.043405,
+                        34.67628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αλυκή Λεμεσού",
+                  "text": "Un lac sărat important lângă Limassol, cu peisaje frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πολεμιδιών",
+                  "text": "O zonă cu apă liniștită lângă Limassol, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "Un loc popular în Limassol pentru înot și relaxare la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Game on",
+                  "text": "O sală de jocuri modernă în Limassol pentru distracția întregii familii.",
+                  "category": "family",
+                  "coords": [
+                        33.043574,
+                        34.673326
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "Un centru pentru jocuri și divertisment în orașul Limassol.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "Un loc de joacă în Limassol care oferă spațiu copiilor pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
+            },
+            {
+                  "name": "PlayLounge",
+                  "text": "O zonă de joacă primitoare în Limassol pentru micii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        33.043405,
+                        34.67628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limassol Salt Lake",
+                  "text": "A significant salt lake near Limassol with beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        32.970751,
+                        34.621301
+                  ]
+            },
+            {
+                  "name": "Polemidia Reservoir",
+                  "text": "A calm body of water near Limassol, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        32.98375,
+                        34.722661
+                  ]
+            },
+            {
+                  "name": "Agios Tychonas Swimming Area",
+                  "text": "A popular spot in Limassol for swimming and waterside relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        33.121621,
+                        34.705412
+                  ]
+            },
+            {
+                  "name": "Game on",
+                  "text": "A modern amusement arcade in Limassol for shared family fun.",
+                  "category": "family",
+                  "coords": [
+                        33.043574,
+                        34.673326
+                  ]
+            },
+            {
+                  "name": "Place 2 Race",
+                  "text": "A center for games and entertainment in Limassol city.",
+                  "category": "family",
+                  "coords": [
+                        33.060851,
+                        34.68508
+                  ]
+            },
+            {
+                  "name": "Πλατεία Συνεργατισμού",
+                  "text": "A playground in Limassol providing space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        33.047853,
+                        34.700708
+                  ]
+            },
+            {
+                  "name": "PlayLounge",
+                  "text": "An inviting play area in Limassol for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        33.043405,
+                        34.67628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY-004",
     coords: [33.0443, 34.6750],
@@ -4296,6 +4917,24 @@ export const cyprusRegions: POI[] = [
                         33.936386,
                         35.127316
                   ]
+            },
+            {
+                  "name": "Yenişehir Gülselen Sulak Alanı",
+                  "text": "Ein lokaler See in Famagusta mit einer ruhigen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        33.918716,
+                        35.141419
+                  ]
+            },
+            {
+                  "name": "Fun Lab",
+                  "text": "Ein bunter Spielplatz in Famagusta für abwechslungsreichen Kinderspaß.",
+                  "category": "family",
+                  "coords": [
+                        33.92054,
+                        35.125566
+                  ]
             }
       ],
       "hu": [
@@ -4450,6 +5089,24 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.936386,
                         35.127316
+                  ]
+            },
+            {
+                  "name": "Yenişehir Gülselen Sulak Alanı",
+                  "text": "Helyi tó Famagustában, nyugodt légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        33.918716,
+                        35.141419
+                  ]
+            },
+            {
+                  "name": "Fun Lab",
+                  "text": "Színes játszótér Famagustában a változatos gyerekprogramokhoz.",
+                  "category": "family",
+                  "coords": [
+                        33.92054,
+                        35.125566
                   ]
             }
       ],
@@ -4606,6 +5263,24 @@ export const cyprusRegions: POI[] = [
                         33.936386,
                         35.127316
                   ]
+            },
+            {
+                  "name": "Yenişehir Gülselen Sulak Alanı",
+                  "text": "Un lac local în Famagusta, cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        33.918716,
+                        35.141419
+                  ]
+            },
+            {
+                  "name": "Fun Lab",
+                  "text": "Un loc de joacă colorat în Famagusta pentru distracția variată a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        33.92054,
+                        35.125566
+                  ]
             }
       ],
       "en": [
@@ -4760,6 +5435,24 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.936386,
                         35.127316
+                  ]
+            },
+            {
+                  "name": "Yenişehir Gülselen Sulak Alanı",
+                  "text": "A local lake in Famagusta with a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        33.918716,
+                        35.141419
+                  ]
+            },
+            {
+                  "name": "Fun Lab",
+                  "text": "A colorful playground in Famagusta for varied children's fun.",
+                  "category": "family",
+                  "coords": [
+                        33.92054,
+                        35.125566
                   ]
             }
       ]
@@ -4951,6 +5644,15 @@ export const cyprusRegions: POI[] = [
                         33.300787,
                         35.317306
                   ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "Ein schöner Spielplatz in Kyrenia, der Kindern viel Raum zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
             }
       ],
       "hu": [
@@ -5096,6 +5798,15 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.300787,
                         35.317306
+                  ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "Kedvelt játszótér Kyrenia városában, amely vidám kikapcsolódást nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
                   ]
             }
       ],
@@ -5243,6 +5954,15 @@ export const cyprusRegions: POI[] = [
                         33.300787,
                         35.317306
                   ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "Un teren de joacă plăcut în Kyrenia, care oferă copiilor spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
             }
       ],
       "en": [
@@ -5389,6 +6109,15 @@ export const cyprusRegions: POI[] = [
                         33.300787,
                         35.317306
                   ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "A nice playground in Kyrenia, offering children plenty of space for play and exploration.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
             }
       ]
 },
@@ -5519,7 +6248,7 @@ export const cyprusRegions: POI[] = [
             {
                   "name": "Parko Paliatso Luna Park",
                   "text": "Ein beliebter Freizeitpark in Ayia Napa mit zahlreichen Fahrgeschäften für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.997636,
                         34.985585
@@ -5728,7 +6457,7 @@ export const cyprusRegions: POI[] = [
             {
                   "name": "Parko Paliatso Luna Park",
                   "text": "Népszerű vidámpark Ayia Napában, számos játékkal minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.997636,
                         34.985585
@@ -5937,7 +6666,7 @@ export const cyprusRegions: POI[] = [
             {
                   "name": "Parko Paliatso Luna Park",
                   "text": "Un parc de distracții popular în Ayia Napa, cu numeroase atracții pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.997636,
                         34.985585
@@ -6146,7 +6875,7 @@ export const cyprusRegions: POI[] = [
             {
                   "name": "Parko Paliatso Luna Park",
                   "text": "A popular amusement park in Ayia Napa with numerous rides for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         33.997636,
                         34.985585

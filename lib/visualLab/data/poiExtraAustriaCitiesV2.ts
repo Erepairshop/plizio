@@ -3,7 +3,556 @@ import { POI } from './poi';
 export const austriaCitiesV2: POI[] = [
 
   {
-    id: "austria-villach-cities-v2",
+    id: "austria-villach-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ossiacher See",
+                  "text": "Ein malerischer See in Villach, der sich ideal zum Schwimmen und für Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Vassacher See",
+                  "text": "Ein ruhiger See in Villach, der zur Entspannung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        13.859939,
+                        46.633448
+                  ]
+            },
+            {
+                  "name": "Silberner See",
+                  "text": "Ein kleiner See in Villach, der eine schöne Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.88521,
+                        46.62431
+                  ]
+            },
+            {
+                  "name": "Magdalensee",
+                  "text": "Dieser See in Villach ist ein beliebtes Ziel für Naturfreunde und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        13.892982,
+                        46.617447
+                  ]
+            },
+            {
+                  "name": "Grünsee",
+                  "text": "Ein idyllischer See in Villach, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        13.892583,
+                        46.622171
+                  ]
+            },
+            {
+                  "name": "Fleetsee",
+                  "text": "Ein natürlicher See in Villach, der sich gut für ruhige Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.88884,
+                        46.62326
+                  ]
+            },
+            {
+                  "name": "Faaker See",
+                  "text": "Ein bekannter See in Villach, der für sein klares Wasser und die schöne Umgebung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        13.923377,
+                        46.576379
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Ein schöner See in Villach, der Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.906475,
+                        46.608837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Freihausplatz",
+                  "text": "Ein familienfreundlicher Spielplatz in Villach, der Kindern viel Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.847825,
+                        46.61362
+                  ]
+            },
+            {
+                  "name": "Spielplatz St. Magdalen",
+                  "text": "Ein schöner Spielplatz in Villach, ideal für einen Ausflug mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.891593,
+                        46.611014
+                  ]
+            },
+            {
+                  "name": "Spielplatz Parkhotel",
+                  "text": "Ein zentral gelegener Spielplatz in Villach, der Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.845936,
+                        46.611619
+                  ]
+            },
+            {
+                  "name": "Spielplatz Italienerstraße",
+                  "text": "Ein Spielplatz in Villach mit verschiedenen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.843444,
+                        46.610024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fellach",
+                  "text": "Ein beliebter Ort für Familien in Villach, um Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        13.832644,
+                        46.622811
+                  ]
+            },
+            {
+                  "name": "Spielplatz Maria Gail",
+                  "text": "Ein einladender Spielplatz in Villach, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        13.881433,
+                        46.598741
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heidenfeldstraße",
+                  "text": "Ein kleiner Spielplatz in Villach, der Kindern Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        13.845881,
+                        46.601974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ossiacher See",
+                  "text": "Egy festői tó Villachban, amely ideális úszáshoz és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Vassacher See",
+                  "text": "Egy nyugodt tó Villachban, amely pihenésre hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        13.859939,
+                        46.633448
+                  ]
+            },
+            {
+                  "name": "Silberner See",
+                  "text": "Egy kis tó Villachban, amely szép környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.88521,
+                        46.62431
+                  ]
+            },
+            {
+                  "name": "Magdalensee",
+                  "text": "Ez a villachi tó népszerű úti cél a természetkedvelők és a kikapcsolódni vágyók körében.",
+                  "category": "natural",
+                  "coords": [
+                        13.892982,
+                        46.617447
+                  ]
+            },
+            {
+                  "name": "Grünsee",
+                  "text": "Egy idilli tó Villachban, amely pihenésre csábít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.892583,
+                        46.622171
+                  ]
+            },
+            {
+                  "name": "Fleetsee",
+                  "text": "Egy természetes tó Villachban, amely alkalmas csendes sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        13.88884,
+                        46.62326
+                  ]
+            },
+            {
+                  "name": "Faaker See",
+                  "text": "Villach egyik ismert tava, amelyet tiszta vizéért és szép környezetéért kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        13.923377,
+                        46.576379
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Egy szép tó Villachban, amely szabadtéri kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        13.906475,
+                        46.608837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Freihausplatz",
+                  "text": "Egy családbarát játszótér Villachban, amely sok helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.847825,
+                        46.61362
+                  ]
+            },
+            {
+                  "name": "Spielplatz St. Magdalen",
+                  "text": "Egy szép játszótér Villachban, ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.891593,
+                        46.611014
+                  ]
+            },
+            {
+                  "name": "Spielplatz Parkhotel",
+                  "text": "Egy központi fekvésű játszótér Villachban, amely szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.845936,
+                        46.611619
+                  ]
+            },
+            {
+                  "name": "Spielplatz Italienerstraße",
+                  "text": "Egy játszótér Villachban, különféle játékokkal a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        13.843444,
+                        46.610024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fellach",
+                  "text": "Villachi családok kedvelt helye a szabadban töltött időhöz.",
+                  "category": "family",
+                  "coords": [
+                        13.832644,
+                        46.622811
+                  ]
+            },
+            {
+                  "name": "Spielplatz Maria Gail",
+                  "text": "Egy hívogató játszótér Villachban, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        13.881433,
+                        46.598741
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heidenfeldstraße",
+                  "text": "Egy kis játszótér Villachban, amely örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.845881,
+                        46.601974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ossiacher See",
+                  "text": "Un lac pitoresc în Villach, ideal pentru înot și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Vassacher See",
+                  "text": "Un lac liniștit în Villach, care invită la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        13.859939,
+                        46.633448
+                  ]
+            },
+            {
+                  "name": "Silberner See",
+                  "text": "Un lac mic în Villach, care oferă un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        13.88521,
+                        46.62431
+                  ]
+            },
+            {
+                  "name": "Magdalensee",
+                  "text": "Acest lac din Villach este o destinație populară pentru iubitorii de natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        13.892982,
+                        46.617447
+                  ]
+            },
+            {
+                  "name": "Grünsee",
+                  "text": "Un lac idilic în Villach, care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.892583,
+                        46.622171
+                  ]
+            },
+            {
+                  "name": "Fleetsee",
+                  "text": "Un lac natural în Villach, potrivit pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        13.88884,
+                        46.62326
+                  ]
+            },
+            {
+                  "name": "Faaker See",
+                  "text": "Un lac cunoscut în Villach, apreciat pentru apa sa limpede și împrejurimile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        13.923377,
+                        46.576379
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Un lac frumos în Villach, care oferă recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        13.906475,
+                        46.608837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Freihausplatz",
+                  "text": "Un teren de joacă pentru familii în Villach, care oferă copiilor mult spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.847825,
+                        46.61362
+                  ]
+            },
+            {
+                  "name": "Spielplatz St. Magdalen",
+                  "text": "Un teren de joacă frumos în Villach, ideal pentru o excursie cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        13.891593,
+                        46.611014
+                  ]
+            },
+            {
+                  "name": "Spielplatz Parkhotel",
+                  "text": "Un teren de joacă situat central în Villach, care oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.845936,
+                        46.611619
+                  ]
+            },
+            {
+                  "name": "Spielplatz Italienerstraße",
+                  "text": "Un teren de joacă în Villach cu diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.843444,
+                        46.610024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fellach",
+                  "text": "Un loc popular pentru familiile din Villach pentru a petrece timpul în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.832644,
+                        46.622811
+                  ]
+            },
+            {
+                  "name": "Spielplatz Maria Gail",
+                  "text": "Un teren de joacă primitor în Villach, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        13.881433,
+                        46.598741
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heidenfeldstraße",
+                  "text": "Un teren de joacă mic în Villach, care aduce bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        13.845881,
+                        46.601974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Ossiach",
+                  "text": "A scenic lake in Villach, ideal for swimming and walking.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Vassacher See",
+                  "text": "A quiet lake in Villach, perfect for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        13.859939,
+                        46.633448
+                  ]
+            },
+            {
+                  "name": "Silberner See",
+                  "text": "A small lake in Villach, offering a beautiful setting for walks.",
+                  "category": "natural",
+                  "coords": [
+                        13.88521,
+                        46.62431
+                  ]
+            },
+            {
+                  "name": "Magdalensee",
+                  "text": "This lake in Villach is a popular destination for nature lovers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        13.892982,
+                        46.617447
+                  ]
+            },
+            {
+                  "name": "Grünsee",
+                  "text": "An idyllic lake in Villach, inviting visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.892583,
+                        46.622171
+                  ]
+            },
+            {
+                  "name": "Fleetsee",
+                  "text": "A natural lake in Villach, suitable for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        13.88884,
+                        46.62326
+                  ]
+            },
+            {
+                  "name": "Lake Faak",
+                  "text": "A well-known lake in Villach, appreciated for its clear water and beautiful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        13.923377,
+                        46.576379
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "A beautiful lake in Villach, offering outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        13.906475,
+                        46.608837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Freihausplatz",
+                  "text": "A family-friendly playground in Villach, offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        13.847825,
+                        46.61362
+                  ]
+            },
+            {
+                  "name": "Spielplatz St. Magdalen",
+                  "text": "A nice playground in Villach, ideal for a trip with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        13.891593,
+                        46.611014
+                  ]
+            },
+            {
+                  "name": "Spielplatz Parkhotel",
+                  "text": "A centrally located playground in Villach, offering fun for children.",
+                  "category": "family",
+                  "coords": [
+                        13.845936,
+                        46.611619
+                  ]
+            },
+            {
+                  "name": "Spielplatz Italienerstraße",
+                  "text": "A playground in Villach with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        13.843444,
+                        46.610024
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fellach",
+                  "text": "A popular spot for families in Villach to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        13.832644,
+                        46.622811
+                  ]
+            },
+            {
+                  "name": "Spielplatz Maria Gail",
+                  "text": "An inviting playground in Villach where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        13.881433,
+                        46.598741
+                  ]
+            },
+            {
+                  "name": "Spielplatz Heidenfeldstraße",
+                  "text": "A small playground in Villach that brings joy to children.",
+                  "category": "family",
+                  "coords": [
+                        13.845881,
+                        46.601974
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Villach", hu: "Villach", ro: "Villach", en: "Villach" },
@@ -89,7 +638,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welser Tiergarten",
                   "text": "Ein traditionsreicher Tiergarten in Wels, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.017057,
                         48.153524
@@ -170,7 +719,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welldorado",
                   "text": "Ein beliebtes Freizeitbad in Wels mit Innen- und Außenbereichen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.016725,
                         48.149333
@@ -373,6 +922,204 @@ export const austriaCitiesV2: POI[] = [
                         14.007485,
                         48.163045
                   ]
+            },
+            {
+                  "name": "Kaltenhauserteich1",
+                  "text": "Der Kaltenhauserteich1 in Wels ist ein lokaler See, der sich gut für einen entspannten Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        13.997055,
+                        48.103497
+                  ]
+            },
+            {
+                  "name": "Retentionsbecken",
+                  "text": "Das Retentionsbecken in Wels ist ein Gewässer in der Stadt, das zu ruhigen Momenten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.08867,
+                        48.211726
+                  ]
+            },
+            {
+                  "name": "Ölabscheidebecken",
+                  "text": "Das Ölabscheidebecken in Wels ist ein technisches Gewässer, das sich in die lokale Umgebung einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        13.992233,
+                        48.178596
+                  ]
+            },
+            {
+                  "name": "Haidestraße",
+                  "text": "Der Spielplatz Haidestraße in Wels bietet Kindern aus der Umgebung einen Ort für Spiel und Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        14.021646,
+                        48.167689
+                  ]
+            },
+            {
+                  "name": "Karpatenstraße",
+                  "text": "Der Spielplatz in der Karpatenstraße in Wels bietet Kindern viel Raum für Bewegung und Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.015124,
+                        48.178748
+                  ]
+            },
+            {
+                  "name": "Grüne Zeile",
+                  "text": "Der Spielplatz Grüne Zeile in Wels ist ein schöner Ort für Kinder, um sicher im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.999439,
+                        48.154512
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Wimpassing",
+                  "text": "Die Freizeitanlage Wimpassing in Wels bietet vielfältige Spielmöglichkeiten für Kinder in einer gepflegten Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        13.989944,
+                        48.159961
+                  ]
+            },
+            {
+                  "name": "Traunuferstraße",
+                  "text": "Der Spielplatz in der Traunuferstraße in Wels ermöglicht Kindern abwechslungsreiches Spielen in Wassernähe.",
+                  "category": "family",
+                  "coords": [
+                        14.031655,
+                        48.155506
+                  ]
+            },
+            {
+                  "name": "Am Rosenhag",
+                  "text": "Am Rosenhag in Wels befindet sich ein kinderfreundlicher Spielplatz, der zum Toben an der frischen Luft einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.001294,
+                        48.155571
+                  ]
+            },
+            {
+                  "name": "Holterstraße",
+                  "text": "Der Spielplatz Holterstraße in Wels ist ein idealer Ort für eine kurze Spielpause im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.01247,
+                        48.16581
+                  ]
+            },
+            {
+                  "name": "Schmierndorferstraße",
+                  "text": "In der Schmierndorferstraße in Wels bietet dieser Spielplatz Kindern eine sichere Umgebung zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.006347,
+                        48.161162
+                  ]
+            },
+            {
+                  "name": "Hinterschweigerstraße",
+                  "text": "Der Spielplatz Hinterschweigerstraße in Wels ist eine praktische Anlaufstelle für Familien aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        14.004286,
+                        48.157357
+                  ]
+            },
+            {
+                  "name": "Eibenstraße",
+                  "text": "In der Eibenstraße in Wels finden Kinder einen gemütlichen Spielplatz mit Platz zum Laufen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.997925,
+                        48.145776
+                  ]
+            },
+            {
+                  "name": "Wildgansstraße",
+                  "text": "Der Spielplatz Wildgansstraße in Wels bietet verschiedene Möglichkeiten für Kinder, ihre Geschicklichkeit zu testen.",
+                  "category": "family",
+                  "coords": [
+                        14.039976,
+                        48.166038
+                  ]
+            },
+            {
+                  "name": "Nestroystraße",
+                  "text": "Der Spielplatz Nestroystraße in Wels lädt Kinder dazu ein, den Tag aktiv an der frischen Luft zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        14.047677,
+                        48.168906
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robert-Koch-Straße",
+                  "text": "Der Spielplatz in der Robert-Koch-Straße in Wels bietet Kindern eine Auswahl an klassischen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        14.006516,
+                        48.163344
+                  ]
+            },
+            {
+                  "name": "Minigolf Wels",
+                  "text": "Minigolf Wels ist ein schönes Ziel für Familien, die gemeinsam eine entspannte Zeit beim Sport verbringen möchten.",
+                  "category": "family",
+                  "coords": [
+                        14.018471,
+                        48.156176
+                  ]
+            },
+            {
+                  "name": "Hydenstraße",
+                  "text": "Der Spielplatz in der Hydenstraße in Wels bietet Kindern eine willkommene Abwechslung im Alltag.",
+                  "category": "family",
+                  "coords": [
+                        13.99835,
+                        48.167938
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterweg",
+                  "text": "Der Spielplatz Mitterweg in Wels ist ein ruhiger Ort für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        14.037668,
+                        48.168078
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ghegastraße",
+                  "text": "Am Spielplatz Ghegastraße in Wels finden Kinder verschiedene Möglichkeiten zum Klettern und Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        14.06344,
+                        48.163746
+                  ]
+            },
+            {
+                  "name": "Sandwirtstraße",
+                  "text": "In der Sandwirtstraße in Wels bietet dieser Spielplatz Kindern viel Platz für kreatives Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.029429,
+                        48.168276
+                  ]
+            },
+            {
+                  "name": "Slacklinepark Lichtenegger Straße",
+                  "text": "Der Slacklinepark in der Lichtenegger Straße in Wels bietet Kindern und Jugendlichen eine sportliche Herausforderung.",
+                  "category": "family",
+                  "coords": [
+                        13.991001,
+                        48.146491
+                  ]
             }
       ],
       "hu": [
@@ -415,7 +1162,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welser Tiergarten",
                   "text": "Nagy múltú állatkert Welsben, amely számos hazai és egzotikus állatnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.017057,
                         48.153524
@@ -496,7 +1243,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welldorado",
                   "text": "Népszerű szabadidős fürdő Welsben, beltéri és kültéri részlegekkel családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.016725,
                         48.149333
@@ -699,6 +1446,204 @@ export const austriaCitiesV2: POI[] = [
                         14.007485,
                         48.163045
                   ]
+            },
+            {
+                  "name": "Kaltenhauserteich1",
+                  "text": "A Wels-i Kaltenhauserteich1 egy helyi tó, amely alkalmas egy pihentető természetbeli sétára.",
+                  "category": "natural",
+                  "coords": [
+                        13.997055,
+                        48.103497
+                  ]
+            },
+            {
+                  "name": "Retentionsbecken",
+                  "text": "A Wels-i Retentionsbecken egy városi vízfelület, amely csendes szabadtéri pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        14.08867,
+                        48.211726
+                  ]
+            },
+            {
+                  "name": "Ölabscheidebecken",
+                  "text": "A Wels-i Ölabscheidebecken egy technikai jellegű vízfelület, amely illeszkedik a helyi környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        13.992233,
+                        48.178596
+                  ]
+            },
+            {
+                  "name": "Haidestraße",
+                  "text": "A Wels-i Haidestraße játszótér a környékbeli gyerekeknek kínál helyet a szabadtéri játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.021646,
+                        48.167689
+                  ]
+            },
+            {
+                  "name": "Karpatenstraße",
+                  "text": "A welsi Karpatenstraße játszótér tágas helyet kínál a gyerekeknek a szabadtéri mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.015124,
+                        48.178748
+                  ]
+            },
+            {
+                  "name": "Grüne Zeile",
+                  "text": "A welsi Grüne Zeile játszótér egy kellemes hely, ahol a gyerekek biztonságban játszhatnak a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        13.999439,
+                        48.154512
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Wimpassing",
+                  "text": "A welsi Wimpassing szabadidőközpont változatos játéklehetőségeket kínál a gyerekeknek gondozott környezetben.",
+                  "category": "family",
+                  "coords": [
+                        13.989944,
+                        48.159961
+                  ]
+            },
+            {
+                  "name": "Traunuferstraße",
+                  "text": "A welsi Traunuferstraße játszótér változatos kikapcsolódást nyújt a gyerekeknek a vízpart közelében.",
+                  "category": "family",
+                  "coords": [
+                        14.031655,
+                        48.155506
+                  ]
+            },
+            {
+                  "name": "Am Rosenhag",
+                  "text": "Welsben, Am Rosenhag területén egy gyermekbarát játszótér található, amely szabadtéri játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        14.001294,
+                        48.155571
+                  ]
+            },
+            {
+                  "name": "Holterstraße",
+                  "text": "A welsi Holterstraße játszótér ideális hely egy rövid szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.01247,
+                        48.16581
+                  ]
+            },
+            {
+                  "name": "Schmierndorferstraße",
+                  "text": "A welsi Schmierndorferstraße játszótere biztonságos környezetet nyújt a gyerekeknek a mászáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.006347,
+                        48.161162
+                  ]
+            },
+            {
+                  "name": "Hinterschweigerstraße",
+                  "text": "A welsi Hinterschweigerstraße játszótér praktikus célpont a környéken lakó családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.004286,
+                        48.157357
+                  ]
+            },
+            {
+                  "name": "Eibenstraße",
+                  "text": "Az Eibenstraße mentén Welsben egy barátságos játszótér várja a gyerekeket, ahol bőven van hely a szaladgáláshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.997925,
+                        48.145776
+                  ]
+            },
+            {
+                  "name": "Wildgansstraße",
+                  "text": "A welsi Wildgansstraße játszótér különféle lehetőségeket kínál a gyerekeknek ügyességük tesztelésére.",
+                  "category": "family",
+                  "coords": [
+                        14.039976,
+                        48.166038
+                  ]
+            },
+            {
+                  "name": "Nestroystraße",
+                  "text": "A welsi Nestroystraße játszótér arra ösztönzi a gyerekeket, hogy aktívan töltsék a napot a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        14.047677,
+                        48.168906
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robert-Koch-Straße",
+                  "text": "A welsi Robert-Koch-Straße játszótér klasszikus játékok választékát kínálja a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.006516,
+                        48.163344
+                  ]
+            },
+            {
+                  "name": "Minigolf Wels",
+                  "text": "A welsi minigolfpálya remek célpont a családok számára, akik szeretnének közösen, sportolva kikapcsolódni.",
+                  "category": "family",
+                  "coords": [
+                        14.018471,
+                        48.156176
+                  ]
+            },
+            {
+                  "name": "Hydenstraße",
+                  "text": "A welsi Hydenstraße játszótér kellemes kikapcsolódást nyújt a gyerekeknek a mindennapokban.",
+                  "category": "family",
+                  "coords": [
+                        13.99835,
+                        48.167938
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterweg",
+                  "text": "A welsi Mitterweg játszótér egy nyugodt hely a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.037668,
+                        48.168078
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ghegastraße",
+                  "text": "A welsi Ghegastraße játszótéren a gyerekek többféle mászó- és csúszdázási lehetőséget találnak.",
+                  "category": "family",
+                  "coords": [
+                        14.06344,
+                        48.163746
+                  ]
+            },
+            {
+                  "name": "Sandwirtstraße",
+                  "text": "A welsi Sandwirtstraße játszótere bőséges helyet biztosít a gyerekeknek a kreatív szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.029429,
+                        48.168276
+                  ]
+            },
+            {
+                  "name": "Slacklinepark Lichtenegger Straße",
+                  "text": "A welsi Lichtenegger Straße slackline-parkja sportos kihívást jelent a gyermekek és fiatalok számára.",
+                  "category": "family",
+                  "coords": [
+                        13.991001,
+                        48.146491
+                  ]
             }
       ],
       "ro": [
@@ -741,7 +1686,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welser Tiergarten",
                   "text": "O grădină zoologică cu tradiție din Wels, care adăpostește o varietate de animale autohtone și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.017057,
                         48.153524
@@ -822,7 +1767,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welldorado",
                   "text": "Un parc acvatic popular din Wels, cu zone interioare și exterioare pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.016725,
                         48.149333
@@ -1025,6 +1970,204 @@ export const austriaCitiesV2: POI[] = [
                         14.007485,
                         48.163045
                   ]
+            },
+            {
+                  "name": "Kaltenhauserteich1",
+                  "text": "Kaltenhauserteich1 din Wels este un lac local, potrivit pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        13.997055,
+                        48.103497
+                  ]
+            },
+            {
+                  "name": "Retentionsbecken",
+                  "text": "Retentionsbecken din Wels este o apă din oraș care invită la momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.08867,
+                        48.211726
+                  ]
+            },
+            {
+                  "name": "Ölabscheidebecken",
+                  "text": "Ölabscheidebecken din Wels este o apă tehnică care se încadrează în mediul local.",
+                  "category": "natural",
+                  "coords": [
+                        13.992233,
+                        48.178596
+                  ]
+            },
+            {
+                  "name": "Haidestraße",
+                  "text": "Locul de joacă Haidestraße din Wels oferă copiilor din zonă un spațiu pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.021646,
+                        48.167689
+                  ]
+            },
+            {
+                  "name": "Karpatenstraße",
+                  "text": "Locul de joacă de pe Karpatenstraße din Wels oferă copiilor mult spațiu pentru mișcare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.015124,
+                        48.178748
+                  ]
+            },
+            {
+                  "name": "Grüne Zeile",
+                  "text": "Locul de joacă Grüne Zeile din Wels este un loc plăcut unde copiii se pot juca în siguranță în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.999439,
+                        48.154512
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Wimpassing",
+                  "text": "Baza de agrement Wimpassing din Wels oferă diverse posibilități de joacă pentru copii într-un cadru îngrijit.",
+                  "category": "family",
+                  "coords": [
+                        13.989944,
+                        48.159961
+                  ]
+            },
+            {
+                  "name": "Traunuferstraße",
+                  "text": "Locul de joacă de pe Traunuferstraße din Wels permite copiilor să se joace în diverse moduri în apropierea apei.",
+                  "category": "family",
+                  "coords": [
+                        14.031655,
+                        48.155506
+                  ]
+            },
+            {
+                  "name": "Am Rosenhag",
+                  "text": "În zona Am Rosenhag din Wels se află un loc de joacă prietenos, care invită copiii la mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.001294,
+                        48.155571
+                  ]
+            },
+            {
+                  "name": "Holterstraße",
+                  "text": "Locul de joacă Holterstraße din Wels este un loc ideal pentru o scurtă pauză de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.01247,
+                        48.16581
+                  ]
+            },
+            {
+                  "name": "Schmierndorferstraße",
+                  "text": "Pe Schmierndorferstraße din Wels, acest loc de joacă oferă copiilor un mediu sigur pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.006347,
+                        48.161162
+                  ]
+            },
+            {
+                  "name": "Hinterschweigerstraße",
+                  "text": "Locul de joacă Hinterschweigerstraße din Wels este o destinație practică pentru familiile din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        14.004286,
+                        48.157357
+                  ]
+            },
+            {
+                  "name": "Eibenstraße",
+                  "text": "Pe Eibenstraße din Wels, copiii găsesc un loc de joacă primitor, cu spațiu pentru alergat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.997925,
+                        48.145776
+                  ]
+            },
+            {
+                  "name": "Wildgansstraße",
+                  "text": "Locul de joacă Wildgansstraße din Wels oferă diverse posibilități pentru copii de a-și testa îndemânarea.",
+                  "category": "family",
+                  "coords": [
+                        14.039976,
+                        48.166038
+                  ]
+            },
+            {
+                  "name": "Nestroystraße",
+                  "text": "Locul de joacă Nestroystraße din Wels îi invită pe copii să își petreacă ziua activ, în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.047677,
+                        48.168906
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robert-Koch-Straße",
+                  "text": "Locul de joacă de pe Robert-Koch-Straße din Wels oferă copiilor o selecție de echipamente de joacă clasice.",
+                  "category": "family",
+                  "coords": [
+                        14.006516,
+                        48.163344
+                  ]
+            },
+            {
+                  "name": "Minigolf Wels",
+                  "text": "Minigolf Wels este o destinație frumoasă pentru familiile care doresc să petreacă timp relaxant făcând sport împreună.",
+                  "category": "family",
+                  "coords": [
+                        14.018471,
+                        48.156176
+                  ]
+            },
+            {
+                  "name": "Hydenstraße",
+                  "text": "Locul de joacă de pe Hydenstraße din Wels oferă copiilor o variantă plăcută de recreere în viața de zi cu zi.",
+                  "category": "family",
+                  "coords": [
+                        13.99835,
+                        48.167938
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterweg",
+                  "text": "Locul de joacă Mitterweg din Wels este un loc liniștit unde copiii se pot juca și pot explora.",
+                  "category": "family",
+                  "coords": [
+                        14.037668,
+                        48.168078
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ghegastraße",
+                  "text": "La locul de joacă Ghegastraße din Wels, copiii găsesc diverse posibilități de cățărare și alunecare pe tobogan.",
+                  "category": "family",
+                  "coords": [
+                        14.06344,
+                        48.163746
+                  ]
+            },
+            {
+                  "name": "Sandwirtstraße",
+                  "text": "Pe Sandwirtstraße din Wels, acest loc de joacă oferă copiilor mult spațiu pentru jocuri creative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.029429,
+                        48.168276
+                  ]
+            },
+            {
+                  "name": "Slacklinepark Lichtenegger Straße",
+                  "text": "Parcul de slackline de pe Lichtenegger Straße din Wels oferă copiilor și tinerilor o provocare sportivă.",
+                  "category": "family",
+                  "coords": [
+                        13.991001,
+                        48.146491
+                  ]
             }
       ],
       "en": [
@@ -1067,7 +2210,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welser Tiergarten",
                   "text": "A long-standing zoo in Wels home to a variety of native and exotic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.017057,
                         48.153524
@@ -1148,7 +2291,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Welldorado",
                   "text": "A popular water park in Wels with indoor and outdoor areas for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.016725,
                         48.149333
@@ -1351,6 +2494,204 @@ export const austriaCitiesV2: POI[] = [
                         14.007485,
                         48.163045
                   ]
+            },
+            {
+                  "name": "Kaltenhauserteich1",
+                  "text": "Kaltenhauserteich1 in Wels is a local lake, well-suited for a relaxed walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.997055,
+                        48.103497
+                  ]
+            },
+            {
+                  "name": "Retentionsbecken",
+                  "text": "The Retentionsbecken in Wels is a body of water in the city that invites you to quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        14.08867,
+                        48.211726
+                  ]
+            },
+            {
+                  "name": "Ölabscheidebecken",
+                  "text": "The Ölabscheidebecken in Wels is a technical body of water that fits into the local environment.",
+                  "category": "natural",
+                  "coords": [
+                        13.992233,
+                        48.178596
+                  ]
+            },
+            {
+                  "name": "Haidestraße",
+                  "text": "The Haidestraße playground in Wels offers local children a place for play and exercise in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        14.021646,
+                        48.167689
+                  ]
+            },
+            {
+                  "name": "Karpatenstraße",
+                  "text": "The Karpatenstraße playground in Wels offers children plenty of space for outdoor movement and play.",
+                  "category": "family",
+                  "coords": [
+                        14.015124,
+                        48.178748
+                  ]
+            },
+            {
+                  "name": "Grüne Zeile",
+                  "text": "The Grüne Zeile playground in Wels is a lovely spot for children to play safely outdoors.",
+                  "category": "family",
+                  "coords": [
+                        13.999439,
+                        48.154512
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Wimpassing",
+                  "text": "The Wimpassing recreation area in Wels offers various play opportunities for children in a well-maintained setting.",
+                  "category": "family",
+                  "coords": [
+                        13.989944,
+                        48.159961
+                  ]
+            },
+            {
+                  "name": "Traunuferstraße",
+                  "text": "The playground on Traunuferstraße in Wels provides children with varied play options near the riverbank.",
+                  "category": "family",
+                  "coords": [
+                        14.031655,
+                        48.155506
+                  ]
+            },
+            {
+                  "name": "Am Rosenhag",
+                  "text": "Located at Am Rosenhag in Wels, this child-friendly playground invites kids to run around in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        14.001294,
+                        48.155571
+                  ]
+            },
+            {
+                  "name": "Holterstraße",
+                  "text": "The Holterstraße playground in Wels is an ideal spot for a short play break outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.01247,
+                        48.16581
+                  ]
+            },
+            {
+                  "name": "Schmierndorferstraße",
+                  "text": "On Schmierndorferstraße in Wels, this playground provides children with a safe environment for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        14.006347,
+                        48.161162
+                  ]
+            },
+            {
+                  "name": "Hinterschweigerstraße",
+                  "text": "The Hinterschweigerstraße playground in Wels is a convenient spot for local families to visit.",
+                  "category": "family",
+                  "coords": [
+                        14.004286,
+                        48.157357
+                  ]
+            },
+            {
+                  "name": "Eibenstraße",
+                  "text": "On Eibenstraße in Wels, children can find a cozy playground with plenty of room to run and play.",
+                  "category": "family",
+                  "coords": [
+                        13.997925,
+                        48.145776
+                  ]
+            },
+            {
+                  "name": "Wildgansstraße",
+                  "text": "The Wildgansstraße playground in Wels offers various opportunities for children to test their skills.",
+                  "category": "family",
+                  "coords": [
+                        14.039976,
+                        48.166038
+                  ]
+            },
+            {
+                  "name": "Nestroystraße",
+                  "text": "The Nestroystraße playground in Wels invites children to spend an active day in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        14.047677,
+                        48.168906
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robert-Koch-Straße",
+                  "text": "The playground on Robert-Koch-Straße in Wels offers children a selection of classic play equipment.",
+                  "category": "family",
+                  "coords": [
+                        14.006516,
+                        48.163344
+                  ]
+            },
+            {
+                  "name": "Minigolf Wels",
+                  "text": "Minigolf Wels is a great destination for families who want to spend a relaxing time playing sports together.",
+                  "category": "family",
+                  "coords": [
+                        14.018471,
+                        48.156176
+                  ]
+            },
+            {
+                  "name": "Hydenstraße",
+                  "text": "The playground on Hydenstraße in Wels offers children a welcome break in their daily routine.",
+                  "category": "family",
+                  "coords": [
+                        13.99835,
+                        48.167938
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mitterweg",
+                  "text": "The Mitterweg playground in Wels is a quiet spot for children to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        14.037668,
+                        48.168078
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ghegastraße",
+                  "text": "At the Ghegastraße playground in Wels, children find various opportunities for climbing and sliding.",
+                  "category": "family",
+                  "coords": [
+                        14.06344,
+                        48.163746
+                  ]
+            },
+            {
+                  "name": "Sandwirtstraße",
+                  "text": "On Sandwirtstraße in Wels, this playground offers children plenty of space for creative outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        14.029429,
+                        48.168276
+                  ]
+            },
+            {
+                  "name": "Slacklinepark Lichtenegger Straße",
+                  "text": "The slackline park on Lichtenegger Straße in Wels offers a sporting challenge for children and young people.",
+                  "category": "family",
+                  "coords": [
+                        13.991001,
+                        48.146491
+                  ]
             }
       ]
 },
@@ -1448,7 +2789,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldbad Enz",
                   "text": "Ein beliebtes Freibad in Dornbirn, das inmitten der Natur liegt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.76007,
                         47.397032
@@ -1624,6 +2965,213 @@ export const austriaCitiesV2: POI[] = [
                         9.747238,
                         47.409778
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Ein ruhiger Weiher in Dornbirn, der zu erholsamen Momenten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Staufensee",
+                  "text": "Dieser malerische Stausee in Dornbirn ist ein beliebtes Ziel für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.778517,
+                        47.380243
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Ein schöner Seeabschnitt in Dornbirn, der eine idyllische Kulisse für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Ein Naturbadesee in Dornbirn, der Erfrischung und Entspannung in grüner Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Diese Gewässer in Dornbirn bieten einen ruhigen Rückzugsort inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Ein friedlicher Weiher in Dornbirn, ideal für einen kurzen Ausflug und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Mittebrunnen",
+                  "text": "Ein einladender Spielplatz in Dornbirn, der Kindern viel Platz zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.733032,
+                        47.412217
+                  ]
+            },
+            {
+                  "name": "Fun4You Indoor Paintballhalle",
+                  "text": "Diese Indoor-Anlage in Dornbirn bietet aktiven Freizeitspaß für Familien und Gruppen.",
+                  "category": "family",
+                  "coords": [
+                        9.752728,
+                        47.401769
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Haselstauden",
+                  "text": "Ein moderner Kinderspielplatz in Dornbirn für Spielvergnügen an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        9.74658,
+                        47.431461
+                  ]
+            },
+            {
+                  "name": "Spielfabrik",
+                  "text": "Ein vielseitiger Spielplatz in Dornbirn, der abwechslungsreiche Möglichkeiten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.748668,
+                        47.420857
+                  ]
+            },
+            {
+                  "name": "Highmatrausch",
+                  "text": "Ein sportlicher Trampolinpark in Dornbirn für springfreudige Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.731984,
+                        47.414088
+                  ]
+            },
+            {
+                  "name": "Stadtteilpark Selma-Mitteldorf-Park",
+                  "text": "Eine familienfreundliche Parkanlage in Dornbirn mit Spielbereichen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.724677,
+                        47.404789
+                  ]
+            },
+            {
+                  "name": "Kindergarten Heinzenbeer",
+                  "text": "Ein Spielplatz in Dornbirn, der Kindern eine sichere Umgebung zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.718193,
+                        47.413773
+                  ]
+            },
+            {
+                  "name": "Achspielplatz",
+                  "text": "Dieser Spielplatz in Dornbirn ist ein beliebter Treffpunkt für Familien im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.72413,
+                        47.420606
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schulgasse Stadtbibliothek",
+                  "text": "Ein zentral gelegenener Spielplatz in Dornbirn, ideal für eine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.739813,
+                        47.411088
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Hatlerstraße",
+                  "text": "Ein freundlicher Spielbereich in Dornbirn, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.736294,
+                        47.401774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Marktstraße",
+                  "text": "Dieser Spielplatz in Dornbirn bietet abwechslungsreiche Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.742967,
+                        47.409603
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Villa Kunterbunt\"",
+                  "text": "Ein fantasievoller Spielplatz in Dornbirn für fröhliche Stunden im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.743889,
+                        47.411362
+                  ]
+            },
+            {
+                  "name": "Privatspielplatz",
+                  "text": "Eine kleine Spielfläche in Dornbirn für Kinder in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.739906,
+                        47.402744
+                  ]
+            },
+            {
+                  "name": "Spielplatz Forach",
+                  "text": "Ein schön gelegener Spielplatz in Dornbirn für Spiel und Bewegung an der Luft.",
+                  "category": "family",
+                  "coords": [
+                        9.732712,
+                        47.432403
+                  ]
+            },
+            {
+                  "name": "Spielplatz VS Rohrbach",
+                  "text": "Ein ansprechender Spielplatz in Dornbirn, der Kindern Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.731319,
+                        47.42032
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kinderspielplatz Härte",
+                  "text": "Ein familienfreundlicher Spielplatz in Dornbirn für Spaß in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        9.726244,
+                        47.407679
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schoren",
+                  "text": "Ein ruhiger Spielplatz in Dornbirn für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        9.727445,
+                        47.409574
+                  ]
             }
       ],
       "hu": [
@@ -1675,7 +3223,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldbad Enz",
                   "text": "Népszerű szabadtéri strand Dornbirnben, természeti környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.76007,
                         47.397032
@@ -1851,6 +3399,213 @@ export const austriaCitiesV2: POI[] = [
                         9.747238,
                         47.409778
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Nyugodt tavacska Dornbirnben, amely pihentető pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Staufensee",
+                  "text": "Ez a festői víztározó Dornbirnben kedvelt célpontja a természetjáró sétáknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.778517,
+                        47.380243
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Szép tórészlet Dornbirnben, amely idilli környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Természetes fürdőtó Dornbirnben, amely felfrissülést és pihenést kínál zöld környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Ezek a dornbirni vizek nyugodt menedéket nyújtanak a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Békés tavacska Dornbirnben, ideális egy rövid kiránduláshoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Mittebrunnen",
+                  "text": "Barátságos játszótér Dornbirnben, amely tágas helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.733032,
+                        47.412217
+                  ]
+            },
+            {
+                  "name": "Fun4You Indoor Paintballhalle",
+                  "text": "Ez a dornbirni fedett létesítmény aktív kikapcsolódást kínál családok és csoportok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.752728,
+                        47.401769
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Haselstauden",
+                  "text": "Modern játszótér Dornbirnben, amely vidám játékot kínál a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        9.74658,
+                        47.431461
+                  ]
+            },
+            {
+                  "name": "Spielfabrik",
+                  "text": "Sokoldalú játszótér Dornbirnben, amely változatos lehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.748668,
+                        47.420857
+                  ]
+            },
+            {
+                  "name": "Highmatrausch",
+                  "text": "Sportos trambulinpark Dornbirnben a ugrálni vágyó gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.731984,
+                        47.414088
+                  ]
+            },
+            {
+                  "name": "Stadtteilpark Selma-Mitteldorf-Park",
+                  "text": "Családbarát park Dornbirnben játszóterekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.724677,
+                        47.404789
+                  ]
+            },
+            {
+                  "name": "Kindergarten Heinzenbeer",
+                  "text": "Játszótér Dornbirnben, amely biztonságos környezetet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.718193,
+                        47.413773
+                  ]
+            },
+            {
+                  "name": "Achspielplatz",
+                  "text": "Ez a dornbirni játszótér a családok kedvelt szabadtéri találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        9.72413,
+                        47.420606
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schulgasse Stadtbibliothek",
+                  "text": "Központi fekvésű játszótér Dornbirnben, ideális egy szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.739813,
+                        47.411088
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Hatlerstraße",
+                  "text": "Barátságos játszóhely Dornbirnben, amely felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        9.736294,
+                        47.401774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Marktstraße",
+                  "text": "Ez a dornbirni játszótér változatos játékokat kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.742967,
+                        47.409603
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Villa Kunterbunt\"",
+                  "text": "Fantáziadús játszótér Dornbirnben a vidám szabadtéri órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.743889,
+                        47.411362
+                  ]
+            },
+            {
+                  "name": "Privatspielplatz",
+                  "text": "Kis játszófelület Dornbirnben a környékbeli gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.739906,
+                        47.402744
+                  ]
+            },
+            {
+                  "name": "Spielplatz Forach",
+                  "text": "Szép fekvésű játszótér Dornbirnben a szabadtéri játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.732712,
+                        47.432403
+                  ]
+            },
+            {
+                  "name": "Spielplatz VS Rohrbach",
+                  "text": "Vonzó játszótér Dornbirnben, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.731319,
+                        47.42032
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kinderspielplatz Härte",
+                  "text": "Családbarát játszótér Dornbirnben a természetbeni szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.726244,
+                        47.407679
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schoren",
+                  "text": "Nyugodt játszótér Dornbirnben a legkisebb látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        9.727445,
+                        47.409574
+                  ]
             }
       ],
       "ro": [
@@ -1902,7 +3657,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldbad Enz",
                   "text": "Un ștrand în aer liber popular din Dornbirn, situat în mijlocul naturii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.76007,
                         47.397032
@@ -2078,6 +3833,213 @@ export const austriaCitiesV2: POI[] = [
                         9.747238,
                         47.409778
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Un iaz liniștit în Dornbirn, care invită la momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Staufensee",
+                  "text": "Acest lac de acumulare pitoresc din Dornbirn este o destinație populară pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.778517,
+                        47.380243
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "O secțiune frumoasă de lac în Dornbirn, care oferă un cadru idilic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Un lac de scăldat natural în Dornbirn, care oferă răcoare și relaxare într-un mediu verde.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Aceste ape din Dornbirn oferă un refugiu liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Un iaz liniștit în Dornbirn, ideal pentru o scurtă excursie și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Mittebrunnen",
+                  "text": "Un loc de joacă primitor în Dornbirn, care oferă copiilor mult spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.733032,
+                        47.412217
+                  ]
+            },
+            {
+                  "name": "Fun4You Indoor Paintballhalle",
+                  "text": "Această facilitate interioară din Dornbirn oferă distracție activă pentru familii și grupuri.",
+                  "category": "family",
+                  "coords": [
+                        9.752728,
+                        47.401769
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Haselstauden",
+                  "text": "Un loc de joacă modern în Dornbirn pentru distracție la aer curat.",
+                  "category": "family",
+                  "coords": [
+                        9.74658,
+                        47.431461
+                  ]
+            },
+            {
+                  "name": "Spielfabrik",
+                  "text": "Un loc de joacă versatil în Dornbirn, care oferă diverse posibilități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.748668,
+                        47.420857
+                  ]
+            },
+            {
+                  "name": "Highmatrausch",
+                  "text": "Un parc de trambuline sportiv în Dornbirn pentru copiii și familiile care adoră să sară.",
+                  "category": "family",
+                  "coords": [
+                        9.731984,
+                        47.414088
+                  ]
+            },
+            {
+                  "name": "Stadtteilpark Selma-Mitteldorf-Park",
+                  "text": "Un parc pentru familii în Dornbirn, cu zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.724677,
+                        47.404789
+                  ]
+            },
+            {
+                  "name": "Kindergarten Heinzenbeer",
+                  "text": "Un loc de joacă în Dornbirn, care oferă copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.718193,
+                        47.413773
+                  ]
+            },
+            {
+                  "name": "Achspielplatz",
+                  "text": "Acest loc de joacă din Dornbirn este un punct de întâlnire popular pentru familii în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.72413,
+                        47.420606
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schulgasse Stadtbibliothek",
+                  "text": "Un loc de joacă situat central în Dornbirn, ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        9.739813,
+                        47.411088
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Hatlerstraße",
+                  "text": "O zonă de joacă prietenoasă în Dornbirn, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.736294,
+                        47.401774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Marktstraße",
+                  "text": "Acest loc de joacă din Dornbirn oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.742967,
+                        47.409603
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Villa Kunterbunt\"",
+                  "text": "Un loc de joacă plin de imaginație în Dornbirn pentru ore vesele în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.743889,
+                        47.411362
+                  ]
+            },
+            {
+                  "name": "Privatspielplatz",
+                  "text": "O mică zonă de joacă în Dornbirn pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        9.739906,
+                        47.402744
+                  ]
+            },
+            {
+                  "name": "Spielplatz Forach",
+                  "text": "Un loc de joacă frumos situat în Dornbirn pentru joacă și mișcare la aer curat.",
+                  "category": "family",
+                  "coords": [
+                        9.732712,
+                        47.432403
+                  ]
+            },
+            {
+                  "name": "Spielplatz VS Rohrbach",
+                  "text": "Un loc de joacă atractiv în Dornbirn, care oferă copiilor spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.731319,
+                        47.42032
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kinderspielplatz Härte",
+                  "text": "Un loc de joacă pentru familii în Dornbirn pentru distracție în natură.",
+                  "category": "family",
+                  "coords": [
+                        9.726244,
+                        47.407679
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schoren",
+                  "text": "Un loc de joacă liniștit în Dornbirn pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        9.727445,
+                        47.409574
+                  ]
             }
       ],
       "en": [
@@ -2129,7 +4091,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldbad Enz",
                   "text": "A popular outdoor swimming pool in Dornbirn, situated in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.76007,
                         47.397032
@@ -2305,6 +4267,213 @@ export const austriaCitiesV2: POI[] = [
                         9.747238,
                         47.409778
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "A quiet pond in Dornbirn, inviting for relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Staufensee",
+                  "text": "This scenic reservoir in Dornbirn is a popular destination for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.778517,
+                        47.380243
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "A beautiful section of lake in Dornbirn, offering an idyllic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "A natural swimming lake in Dornbirn, offering refreshment and relaxation in green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "These waters in Dornbirn offer a quiet retreat in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "A peaceful pond in Dornbirn, ideal for a short trip and nature watching.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Mittebrunnen",
+                  "text": "An inviting playground in Dornbirn, offering children plenty of space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        9.733032,
+                        47.412217
+                  ]
+            },
+            {
+                  "name": "Fun4You Indoor Paintballhalle",
+                  "text": "This indoor facility in Dornbirn offers active leisure fun for families and groups.",
+                  "category": "family",
+                  "coords": [
+                        9.752728,
+                        47.401769
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Haselstauden",
+                  "text": "A modern playground in Dornbirn for fun and games in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        9.74658,
+                        47.431461
+                  ]
+            },
+            {
+                  "name": "Spielfabrik",
+                  "text": "A versatile playground in Dornbirn, offering varied opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.748668,
+                        47.420857
+                  ]
+            },
+            {
+                  "name": "Highmatrausch",
+                  "text": "A sporty trampoline park in Dornbirn for kids and families who love to jump.",
+                  "category": "family",
+                  "coords": [
+                        9.731984,
+                        47.414088
+                  ]
+            },
+            {
+                  "name": "Stadtteilpark Selma-Mitteldorf-Park",
+                  "text": "A family-friendly park in Dornbirn with play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        9.724677,
+                        47.404789
+                  ]
+            },
+            {
+                  "name": "Kindergarten Heinzenbeer",
+                  "text": "A playground in Dornbirn, providing children with a safe environment for play.",
+                  "category": "family",
+                  "coords": [
+                        9.718193,
+                        47.413773
+                  ]
+            },
+            {
+                  "name": "Achspielplatz",
+                  "text": "This playground in Dornbirn is a popular outdoor meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        9.72413,
+                        47.420606
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schulgasse Stadtbibliothek",
+                  "text": "A centrally located playground in Dornbirn, ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        9.739813,
+                        47.411088
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Hatlerstraße",
+                  "text": "A friendly play area in Dornbirn, inviting for discovery and play.",
+                  "category": "family",
+                  "coords": [
+                        9.736294,
+                        47.401774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Marktstraße",
+                  "text": "This playground in Dornbirn offers a variety of play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        9.742967,
+                        47.409603
+                  ]
+            },
+            {
+                  "name": "Spielplatz \"Villa Kunterbunt\"",
+                  "text": "An imaginative playground in Dornbirn for happy hours outdoors.",
+                  "category": "family",
+                  "coords": [
+                        9.743889,
+                        47.411362
+                  ]
+            },
+            {
+                  "name": "Privatspielplatz",
+                  "text": "A small play area in Dornbirn for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        9.739906,
+                        47.402744
+                  ]
+            },
+            {
+                  "name": "Spielplatz Forach",
+                  "text": "A beautifully located playground in Dornbirn for play and movement in the air.",
+                  "category": "family",
+                  "coords": [
+                        9.732712,
+                        47.432403
+                  ]
+            },
+            {
+                  "name": "Spielplatz VS Rohrbach",
+                  "text": "An attractive playground in Dornbirn, offering children space for active play.",
+                  "category": "family",
+                  "coords": [
+                        9.731319,
+                        47.42032
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kinderspielplatz Härte",
+                  "text": "A family-friendly playground in Dornbirn for fun in nature.",
+                  "category": "family",
+                  "coords": [
+                        9.726244,
+                        47.407679
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Schoren",
+                  "text": "A quiet playground in Dornbirn for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        9.727445,
+                        47.409574
+                  ]
             }
       ]
 },
@@ -2384,7 +4553,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmschule Steyr",
                   "text": "Eine traditionelle öffentliche Badeanstalt in Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.406281,
                         48.041847
@@ -2465,7 +4634,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Stadtbad",
                   "text": "Das städtische Schwimmbad und Freizeitzentrum in Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.44323,
                         48.046141
@@ -2474,7 +4643,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Garstner Bad",
                   "text": "Ein öffentliches Freibad im Raum Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.412063,
                         48.021033
@@ -2659,6 +4828,24 @@ export const austriaCitiesV2: POI[] = [
                         14.414302,
                         48.044184
                   ]
+            },
+            {
+                  "name": "Aktivpark Trampolin",
+                  "text": "Ein aufregender Trampolinpark in Steyr, der Spaß und Action für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.413025,
+                        48.019697
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Gleink",
+                  "text": "Ein schöner Spielplatz in Steyr, der speziell auf jüngere Kinder ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        14.417687,
+                        48.067172
+                  ]
             }
       ],
       "hu": [
@@ -2692,7 +4879,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmschule Steyr",
                   "text": "Hagyományos nyilvános fürdőhely Steyrben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.406281,
                         48.041847
@@ -2773,7 +4960,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Stadtbad",
                   "text": "Steyr városi uszodája és szabadidőközpontja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.44323,
                         48.046141
@@ -2782,7 +4969,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Garstner Bad",
                   "text": "Nyilvános szabadtéri strand Steyr környékén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.412063,
                         48.021033
@@ -2967,6 +5154,24 @@ export const austriaCitiesV2: POI[] = [
                         14.414302,
                         48.044184
                   ]
+            },
+            {
+                  "name": "Aktivpark Trampolin",
+                  "text": "Egy izgalmas trambulinpark Steyrben, amely szórakozást és akciót kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        14.413025,
+                        48.019697
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Gleink",
+                  "text": "Egy szép játszótér Steyrben, amely kifejezetten a kisebb gyerekeknek készült.",
+                  "category": "family",
+                  "coords": [
+                        14.417687,
+                        48.067172
+                  ]
             }
       ],
       "ro": [
@@ -3000,7 +5205,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmschule Steyr",
                   "text": "O facilitate publică de înot tradițională în Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.406281,
                         48.041847
@@ -3081,7 +5286,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Stadtbad",
                   "text": "Piscina municipală și centrul de agrement din Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.44323,
                         48.046141
@@ -3090,7 +5295,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Garstner Bad",
                   "text": "O piscină publică în aer liber în zona Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.412063,
                         48.021033
@@ -3275,6 +5480,24 @@ export const austriaCitiesV2: POI[] = [
                         14.414302,
                         48.044184
                   ]
+            },
+            {
+                  "name": "Aktivpark Trampolin",
+                  "text": "Un parc de trambuline captivant în Steyr, care oferă distracție și acțiune pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.413025,
+                        48.019697
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Gleink",
+                  "text": "Un teren de joacă frumos în Steyr, conceput special pentru copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        14.417687,
+                        48.067172
+                  ]
             }
       ],
       "en": [
@@ -3308,7 +5531,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmschule Steyr",
                   "text": "A traditional public swimming facility in Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.406281,
                         48.041847
@@ -3389,7 +5612,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Stadtbad",
                   "text": "The municipal swimming pool and leisure facility in Steyr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.44323,
                         48.046141
@@ -3398,7 +5621,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Garstner Bad",
                   "text": "A public outdoor swimming pool in the Steyr area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.412063,
                         48.021033
@@ -3583,6 +5806,24 @@ export const austriaCitiesV2: POI[] = [
                         14.414302,
                         48.044184
                   ]
+            },
+            {
+                  "name": "Aktivpark Trampolin",
+                  "text": "An exciting trampoline park in Steyr, offering fun and action for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.413025,
+                        48.019697
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Gleink",
+                  "text": "A nice playground in Steyr, specifically designed for younger children.",
+                  "category": "family",
+                  "coords": [
+                        14.417687,
+                        48.067172
+                  ]
             }
       ]
 },
@@ -3761,7 +6002,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Felsenau",
                   "text": "Das Schwimmbad Felsenau ist ein traditionsreiches öffentliches Freibad in Feldkirch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.602189,
                         47.226819
@@ -3968,7 +6209,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Wildpark Feldkirch",
                   "text": "Der Wildpark Feldkirch beherbergt zahlreiche heimische Tierarten am Ardetzenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.599797,
                         47.246983
@@ -4044,6 +6285,159 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.591294,
                         47.230367
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Feldkirch ist ein ruhiges Gewässer, das zum Entspannen am Ufer und zum Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Feldkirch ist ein schönes Gewässer, das in eine natürliche Landschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Feldkirch bietet eine friedliche Atmosphäre für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Feldkirch ist ein lokales Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Feldkirch ist ein ruhiger Ort, um die Aussicht auf das Wasser und die Umgebung zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Feldkirch ist ein kleines Gewässer, das eine entspannte Atmosphäre für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Feldkirch ist ein naturnahes Gewässer, das sich gut für erholsame Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Feldkirch ist ein beliebtes Ziel für alle, die eine Abkühlung und Erholung am Wasser suchen.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Feldkirch bietet eine malerische Kulisse für eine kurze Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberau",
+                  "text": "Der Spielplatz Oberau in Feldkirch ist ein schönes Ausflugsziel für Familien mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        9.586362,
+                        47.254012
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hämmerlestraße",
+                  "text": "In der Hämmerlestraße in Feldkirch bietet dieser Spielplatz Kindern eine sichere Umgebung für tägliche Abenteuer.",
+                  "category": "family",
+                  "coords": [
+                        9.587981,
+                        47.247947
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reichenfeld",
+                  "text": "Der Spielplatz Reichenfeld in Feldkirch ist weitläufig angelegt und bietet viel Platz für Spiele im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.593376,
+                        47.234478
+                  ]
+            },
+            {
+                  "name": "Spielplatz Johannesgasse",
+                  "text": "Der Spielplatz in der Johannesgasse in Feldkirch bietet eine freundliche Atmosphäre für Familien aus der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        9.578763,
+                        47.258081
+                  ]
+            },
+            {
+                  "name": "Am Schlosshang",
+                  "text": "Am Schlosshang in Feldkirch befindet sich ein Spielplatz, der durch seine Lage eine besondere Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.612387,
+                        47.246353
+                  ]
+            },
+            {
+                  "name": "Sportplatzweg",
+                  "text": "Der Spielplatz am Sportplatzweg in Feldkirch ist ideal für Kinder, die sich gerne aktiv bewegen und spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.620854,
+                        47.244153
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "In der Wolf-Huber-Straße in Feldkirch finden Familien einen gut ausgestatteten Spielplatz für ihre Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Oberer Riegel",
+                  "text": "Der Spielplatz Oberer Riegel in Feldkirch bietet eine tolle Möglichkeit für Kinder, Zeit an der frischen Luft zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        9.587718,
+                        47.261628
                   ]
             }
       ],
@@ -4177,7 +6571,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Felsenau",
                   "text": "A Felsenau úszómedence egy nagy múltú nyilvános szabadtéri strand Feldkirchben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.602189,
                         47.226819
@@ -4384,7 +6778,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Wildpark Feldkirch",
                   "text": "A feldkirchi vadaspark számos őshonos állatfajnak ad otthont az Ardetzenbergen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.599797,
                         47.246983
@@ -4460,6 +6854,159 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.591294,
                         47.230367
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Feldkirchben található Mühleweiher egy nyugodt vízfelület, amely pihenésre és a természet élvezetére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A feldkirchi Baggerloch Nägele egy szép vízfelület, amely természetes környezetben fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A feldkirchi Baggerloch Wilhelm & Mayer békés hangulatot áraszt a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A feldkirchi Baggerloch Hilti & Jehle egy helyi vízfelület, amely természeti környezetbe hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A feldkirchi Baggersee Klostergatter egy nyugodt hely a vízre és a környékre nyíló kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A feldkirchi Güfelsee egy kis vízfelület, amely pihentető hangulatot kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A feldkirchi Alte Rüttenen egy természetközeli vízfelület, amely kiválóan alkalmas pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A feldkirchi Badesee kedvelt célpont azok számára, akik felfrissülésre és kikapcsolódásra vágynak a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A feldkirchi Sägaweiher festői környezetet biztosít egy rövid erdei kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberau",
+                  "text": "A feldkirchi Oberau játszótér remek kirándulási célpont a családok számára, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.586362,
+                        47.254012
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hämmerlestraße",
+                  "text": "A feldkirchi Hämmerlestraße játszótere biztonságos környezetet nyújt a gyerekeknek a napi kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.587981,
+                        47.247947
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reichenfeld",
+                  "text": "A feldkirchi Reichenfeld játszótér tágas kialakítású, és bőséges helyet biztosít a szabadtéri játékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.593376,
+                        47.234478
+                  ]
+            },
+            {
+                  "name": "Spielplatz Johannesgasse",
+                  "text": "A feldkirchi Johannesgasse játszótér barátságos hangulatot áraszt a városi családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.578763,
+                        47.258081
+                  ]
+            },
+            {
+                  "name": "Am Schlosshang",
+                  "text": "A feldkirchi Schlosshang területén található játszótér fekvéséből adódóan különleges környezetet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.612387,
+                        47.246353
+                  ]
+            },
+            {
+                  "name": "Sportplatzweg",
+                  "text": "A feldkirchi Sportplatzweg menti játszótér ideális a mozgást és az aktív játékot kedvelő gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.620854,
+                        47.244153
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "A feldkirchi Wolf-Huber-Straße mentén a családok jól felszerelt játszóteret találnak a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Oberer Riegel",
+                  "text": "A feldkirchi Oberer Riegel játszótér nagyszerű lehetőséget kínál a gyerekeknek a szabadtéri időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        9.587718,
+                        47.261628
                   ]
             }
       ],
@@ -4593,7 +7140,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Felsenau",
                   "text": "Ștrandul Felsenau este o piscină publică în aer liber cu tradiție din Feldkirch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.602189,
                         47.226819
@@ -4800,7 +7347,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Wildpark Feldkirch",
                   "text": "Parcul de animale sălbatice din Feldkirch găzduiește numeroase specii native pe muntele Ardetzenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.599797,
                         47.246983
@@ -4876,6 +7423,159 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.591294,
                         47.230367
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Feldkirch este un curs de apă liniștit, care invită la relaxare pe mal și la admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Feldkirch este un luciu de apă frumos, integrat într-un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Feldkirch oferă o atmosferă liniștită pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Feldkirch este un curs de apă local care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Feldkirch este un loc liniștit pentru a te bucura de vederea spre apă și de împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Feldkirch este un lac mic, care oferă o atmosferă relaxantă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Feldkirch este un curs de apă în mijlocul naturii, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Feldkirch este o destinație populară pentru cei care caută răcoare și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Feldkirch oferă un cadru pitoresc pentru o scurtă evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberau",
+                  "text": "Locul de joacă Oberau din Feldkirch este o destinație frumoasă pentru familii, oferind diverse facilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.586362,
+                        47.254012
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hämmerlestraße",
+                  "text": "Pe Hämmerlestraße din Feldkirch, acest loc de joacă oferă copiilor un mediu sigur pentru aventurile zilnice.",
+                  "category": "family",
+                  "coords": [
+                        9.587981,
+                        47.247947
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reichenfeld",
+                  "text": "Locul de joacă Reichenfeld din Feldkirch este spațios și oferă mult loc pentru jocuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.593376,
+                        47.234478
+                  ]
+            },
+            {
+                  "name": "Spielplatz Johannesgasse",
+                  "text": "Locul de joacă din Johannesgasse, Feldkirch, oferă o atmosferă prietenoasă pentru familiile din oraș.",
+                  "category": "family",
+                  "coords": [
+                        9.578763,
+                        47.258081
+                  ]
+            },
+            {
+                  "name": "Am Schlosshang",
+                  "text": "La Schlosshang, în Feldkirch, se află un loc de joacă care, prin poziționarea sa, oferă un cadru deosebit pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.612387,
+                        47.246353
+                  ]
+            },
+            {
+                  "name": "Sportplatzweg",
+                  "text": "Locul de joacă de pe Sportplatzweg din Feldkirch este ideal pentru copiii cărora le place să fie activi și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        9.620854,
+                        47.244153
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "Pe Wolf-Huber-Straße din Feldkirch, familiile găsesc un loc de joacă bine echipat pentru copiii lor.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Oberer Riegel",
+                  "text": "Locul de joacă Oberer Riegel din Feldkirch oferă o oportunitate excelentă pentru copii de a petrece timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.587718,
+                        47.261628
                   ]
             }
       ],
@@ -5009,7 +7709,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Felsenau",
                   "text": "Schwimmbad Felsenau is a long-standing public outdoor swimming pool in Feldkirch.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.602189,
                         47.226819
@@ -5216,7 +7916,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Wildpark Feldkirch",
                   "text": "The Feldkirch Wildlife Park is home to numerous native animal species on the Ardetzenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.599797,
                         47.246983
@@ -5292,6 +7992,159 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.591294,
                         47.230367
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Feldkirch is a calm body of water that invites visitors to relax on the shore and enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Feldkirch is a beautiful body of water embedded in a natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Feldkirch offers a peaceful atmosphere for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Feldkirch is a local body of water that invites visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Feldkirch is a quiet spot to enjoy the view of the water and the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Feldkirch is a small body of water that offers a relaxing atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Feldkirch is a natural body of water well-suited for relaxing strolls.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The swimming lake in Feldkirch is a popular destination for those seeking refreshment and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Feldkirch provides a picturesque backdrop for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberau",
+                  "text": "The Oberau playground in Feldkirch is a nice excursion destination for families with various play options.",
+                  "category": "family",
+                  "coords": [
+                        9.586362,
+                        47.254012
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hämmerlestraße",
+                  "text": "On Hämmerlestraße in Feldkirch, this playground provides children with a safe environment for daily adventures.",
+                  "category": "family",
+                  "coords": [
+                        9.587981,
+                        47.247947
+                  ]
+            },
+            {
+                  "name": "Spielplatz Reichenfeld",
+                  "text": "The Reichenfeld playground in Feldkirch is spacious and offers plenty of room for outdoor games.",
+                  "category": "family",
+                  "coords": [
+                        9.593376,
+                        47.234478
+                  ]
+            },
+            {
+                  "name": "Spielplatz Johannesgasse",
+                  "text": "The playground in Johannesgasse in Feldkirch offers a friendly atmosphere for families from the city.",
+                  "category": "family",
+                  "coords": [
+                        9.578763,
+                        47.258081
+                  ]
+            },
+            {
+                  "name": "Am Schlosshang",
+                  "text": "At Schlosshang in Feldkirch, there is a playground that offers a unique setting for playing due to its location.",
+                  "category": "family",
+                  "coords": [
+                        9.612387,
+                        47.246353
+                  ]
+            },
+            {
+                  "name": "Sportplatzweg",
+                  "text": "The playground at Sportplatzweg in Feldkirch is ideal for children who love being active and playing.",
+                  "category": "family",
+                  "coords": [
+                        9.620854,
+                        47.244153
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wolf-Huber-Straße",
+                  "text": "On Wolf-Huber-Straße in Feldkirch, families will find a well-equipped playground for their children.",
+                  "category": "family",
+                  "coords": [
+                        9.582344,
+                        47.228322
+                  ]
+            },
+            {
+                  "name": "Oberer Riegel",
+                  "text": "The Oberer Riegel playground in Feldkirch offers a great opportunity for children to spend time in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        9.587718,
+                        47.261628
                   ]
             }
       ]
@@ -5408,7 +8261,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Aqua Nova",
                   "text": "Ein modernes Erlebnisbad und Wellnesszentrum in Wiener Neustadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.259167,
                         47.840794
@@ -5548,6 +8401,69 @@ export const austriaCitiesV2: POI[] = [
                         16.233119,
                         47.832928
                   ]
+            },
+            {
+                  "name": "Anemonensee",
+                  "text": "Ein lokaler See in Wiener Neustadt, der eine entspannte Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.205625,
+                        47.810821
+                  ]
+            },
+            {
+                  "name": "Jungle Indoor Playland",
+                  "text": "Ein aufregender Indoor-Spielplatz in Wiener Neustadt für wetterunabhängigen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        16.249735,
+                        47.838763
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badenerstraße 3",
+                  "text": "Ein kleiner Spielbereich in Wiener Neustadt für eine kurze Pause im Freien.",
+                  "category": "family",
+                  "coords": [
+                        16.242031,
+                        47.828518
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pernerstoferstraße",
+                  "text": "Ein Quartiersspielplatz in Wiener Neustadt, der zum täglichen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        16.239818,
+                        47.829053
+                  ]
+            },
+            {
+                  "name": "Stadtpark Spielplatz",
+                  "text": "Ein schöner Spielplatz im Stadtpark von Wiener Neustadt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.237091,
+                        47.809479
+                  ]
+            },
+            {
+                  "name": "Peter Mattausch-Park",
+                  "text": "Ein Spielplatz in Wiener Neustadt, der in eine grüne Parkanlage eingebettet ist.",
+                  "category": "family",
+                  "coords": [
+                        16.227946,
+                        47.827773
+                  ]
+            },
+            {
+                  "name": "Sparefroh-Spielplatz",
+                  "text": "Ein farbenfroher Spielplatz in Wiener Neustadt, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        16.263038,
+                        47.807977
+                  ]
             }
       ],
       "hu": [
@@ -5617,7 +8533,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Aqua Nova",
                   "text": "Modern élményfürdő és wellnessközpont Bécsújhelyen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.259167,
                         47.840794
@@ -5757,6 +8673,69 @@ export const austriaCitiesV2: POI[] = [
                         16.233119,
                         47.832928
                   ]
+            },
+            {
+                  "name": "Anemonensee",
+                  "text": "Helyi tó Wiener Neustadtban, amely pihentető környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.205625,
+                        47.810821
+                  ]
+            },
+            {
+                  "name": "Jungle Indoor Playland",
+                  "text": "Izgalmas fedett játszóház Wiener Neustadtban az időjárástól független családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.249735,
+                        47.838763
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badenerstraße 3",
+                  "text": "Kis játszóhely Wiener Neustadtban egy rövid szabadtéri szünethez.",
+                  "category": "family",
+                  "coords": [
+                        16.242031,
+                        47.828518
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pernerstoferstraße",
+                  "text": "Lakótelepi játszótér Wiener Neustadtban, amely mindennapi játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        16.239818,
+                        47.829053
+                  ]
+            },
+            {
+                  "name": "Stadtpark Spielplatz",
+                  "text": "Szép játszótér Wiener Neustadt városi parkjában családok számára.",
+                  "category": "family",
+                  "coords": [
+                        16.237091,
+                        47.809479
+                  ]
+            },
+            {
+                  "name": "Peter Mattausch-Park",
+                  "text": "Játszótér Wiener Neustadtban, amely egy zöld parkban található.",
+                  "category": "family",
+                  "coords": [
+                        16.227946,
+                        47.827773
+                  ]
+            },
+            {
+                  "name": "Sparefroh-Spielplatz",
+                  "text": "Színes játszótér Wiener Neustadtban, amely sok örömet szerez a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.263038,
+                        47.807977
+                  ]
             }
       ],
       "ro": [
@@ -5826,7 +8805,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Aqua Nova",
                   "text": "Un centru modern de agrement acvatic și wellness în Wiener Neustadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.259167,
                         47.840794
@@ -5966,6 +8945,69 @@ export const austriaCitiesV2: POI[] = [
                         16.233119,
                         47.832928
                   ]
+            },
+            {
+                  "name": "Anemonensee",
+                  "text": "Un lac local în Wiener Neustadt, care oferă un mediu relaxant pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.205625,
+                        47.810821
+                  ]
+            },
+            {
+                  "name": "Jungle Indoor Playland",
+                  "text": "Un loc de joacă interior captivant în Wiener Neustadt pentru distracție în familie, indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        16.249735,
+                        47.838763
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badenerstraße 3",
+                  "text": "O mică zonă de joacă în Wiener Neustadt pentru o scurtă pauză în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.242031,
+                        47.828518
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pernerstoferstraße",
+                  "text": "Un loc de joacă de cartier în Wiener Neustadt, care invită la joaca zilnică.",
+                  "category": "family",
+                  "coords": [
+                        16.239818,
+                        47.829053
+                  ]
+            },
+            {
+                  "name": "Stadtpark Spielplatz",
+                  "text": "Un loc de joacă frumos în parcul orașului Wiener Neustadt pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        16.237091,
+                        47.809479
+                  ]
+            },
+            {
+                  "name": "Peter Mattausch-Park",
+                  "text": "Un loc de joacă în Wiener Neustadt, situat într-un parc verde.",
+                  "category": "family",
+                  "coords": [
+                        16.227946,
+                        47.827773
+                  ]
+            },
+            {
+                  "name": "Sparefroh-Spielplatz",
+                  "text": "Un loc de joacă colorat în Wiener Neustadt, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        16.263038,
+                        47.807977
+                  ]
             }
       ],
       "en": [
@@ -6035,7 +9077,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Aqua Nova",
                   "text": "A modern water park and wellness center in Wiener Neustadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.259167,
                         47.840794
@@ -6174,6 +9216,69 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.233119,
                         47.832928
+                  ]
+            },
+            {
+                  "name": "Anemonensee",
+                  "text": "A local lake in Wiener Neustadt, offering a relaxed environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.205625,
+                        47.810821
+                  ]
+            },
+            {
+                  "name": "Jungle Indoor Playland",
+                  "text": "An exciting indoor playground in Wiener Neustadt for family fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        16.249735,
+                        47.838763
+                  ]
+            },
+            {
+                  "name": "Spielplatz Badenerstraße 3",
+                  "text": "A small play area in Wiener Neustadt for a short outdoor break.",
+                  "category": "family",
+                  "coords": [
+                        16.242031,
+                        47.828518
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pernerstoferstraße",
+                  "text": "A neighborhood playground in Wiener Neustadt, inviting for daily play.",
+                  "category": "family",
+                  "coords": [
+                        16.239818,
+                        47.829053
+                  ]
+            },
+            {
+                  "name": "Stadtpark Spielplatz",
+                  "text": "A beautiful playground in the city park of Wiener Neustadt for families.",
+                  "category": "family",
+                  "coords": [
+                        16.237091,
+                        47.809479
+                  ]
+            },
+            {
+                  "name": "Peter Mattausch-Park",
+                  "text": "A playground in Wiener Neustadt, nestled within a green park area.",
+                  "category": "family",
+                  "coords": [
+                        16.227946,
+                        47.827773
+                  ]
+            },
+            {
+                  "name": "Sparefroh-Spielplatz",
+                  "text": "A colorful playground in Wiener Neustadt, bringing much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        16.263038,
+                        47.807977
                   ]
             }
       ]
@@ -6398,7 +9503,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Thermalstrandbad Baden",
                   "text": "Ein großes Thermal-Freibad im markanten Art-déco-Stil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.219097,
                         48.005879
@@ -6691,6 +9796,105 @@ export const austriaCitiesV2: POI[] = [
                         16.22895,
                         48.011124
                   ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "Ein Wasserbecken in Baden bei Wien, das in eine ruhige Landschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Waldkindergruppe Wichtelkreis",
+                  "text": "Ein Waldspielplatz in Baden bei Wien, der Kindern spielerisches Lernen in der Natur ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        16.23006,
+                        48.025266
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Fledermaus-Wiese",
+                  "text": "Ein idyllischer Waldspielplatz in Baden bei Wien für Abenteuer im Freien.",
+                  "category": "family",
+                  "coords": [
+                        16.235941,
+                        48.023767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ökopark",
+                  "text": "Ein modern gestalteter Spielplatz in Baden bei Wien mit Fokus auf naturnahes Spielen.",
+                  "category": "family",
+                  "coords": [
+                        16.249199,
+                        48.007152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Erdzeiselgraben",
+                  "text": "Ein familienfreundlicher Ort in Baden bei Wien, ideal zum Spielen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        16.247579,
+                        48.00897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rohrgasse",
+                  "text": "Ein lokaler Spielplatz in Baden bei Wien, der Kindern Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.243514,
+                        47.998852
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wimmergasse",
+                  "text": "Ein kleiner Spielplatz in Baden bei Wien für den täglichen Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        16.251375,
+                        48.001195
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwartzstraße",
+                  "text": "Ein gut erreichbarer Spielplatz in Baden bei Wien mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        16.254675,
+                        48.00584
+                  ]
+            },
+            {
+                  "name": "Bahnengolfclub BGC Score Pfaffstätten",
+                  "text": "Eine Minigolfanlage in Baden bei Wien, die Freizeitspaß für Jung und Alt bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.258932,
+                        48.017718
+                  ]
+            },
+            {
+                  "name": "ZV Minigolf",
+                  "text": "Ein Ort in Baden bei Wien für eine unterhaltsame Runde Minigolf mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.235371,
+                        48.01063
+                  ]
+            },
+            {
+                  "name": "Union Bahnengolfclub Baden",
+                  "text": "Ein Minigolfclub in Baden bei Wien, ideal für einen sportlichen Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        16.25695,
+                        47.999013
+                  ]
             }
       ],
       "hu": [
@@ -6868,7 +10072,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Thermalstrandbad Baden",
                   "text": "Nagy termálstrand jellegzetes Art Deco stílusban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.219097,
                         48.005879
@@ -7161,6 +10365,105 @@ export const austriaCitiesV2: POI[] = [
                         16.22895,
                         48.011124
                   ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "Egy víztározó Baden bei Wienben, amely nyugodt tájba ágyazódik.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Waldkindergruppe Wichtelkreis",
+                  "text": "Egy erdei játszótér Baden bei Wienben, amely lehetővé teszi a gyerekeknek a játékos tanulást a természetben.",
+                  "category": "family",
+                  "coords": [
+                        16.23006,
+                        48.025266
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Fledermaus-Wiese",
+                  "text": "Egy idilli erdei játszótér Baden bei Wienben a szabadtéri kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.235941,
+                        48.023767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ökopark",
+                  "text": "Egy modern kialakítású játszótér Baden bei Wienben, a természetközeli játékra összpontosítva.",
+                  "category": "family",
+                  "coords": [
+                        16.249199,
+                        48.007152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Erdzeiselgraben",
+                  "text": "Egy családbarát hely Baden bei Wienben, ideális játékhoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        16.247579,
+                        48.00897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rohrgasse",
+                  "text": "Egy helyi játszótér Baden bei Wienben, amely változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.243514,
+                        47.998852
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wimmergasse",
+                  "text": "Egy kis játszótér Baden bei Wienben a napi szabadidős szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.251375,
+                        48.001195
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwartzstraße",
+                  "text": "Egy jól megközelíthető játszótér Baden bei Wienben, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        16.254675,
+                        48.00584
+                  ]
+            },
+            {
+                  "name": "Bahnengolfclub BGC Score Pfaffstätten",
+                  "text": "Egy minigolfpálya Baden bei Wienben, amely kikapcsolódást nyújt kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.258932,
+                        48.017718
+                  ]
+            },
+            {
+                  "name": "ZV Minigolf",
+                  "text": "Egy hely Baden bei Wienben egy szórakoztató minigolfpartihoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        16.235371,
+                        48.01063
+                  ]
+            },
+            {
+                  "name": "Union Bahnengolfclub Baden",
+                  "text": "Egy minigolfklub Baden bei Wienben, ideális egy sportos családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.25695,
+                        47.999013
+                  ]
             }
       ],
       "ro": [
@@ -7338,7 +10641,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Thermalstrandbad Baden",
                   "text": "Un ștrand termal mare în stil Art Deco distinctiv.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.219097,
                         48.005879
@@ -7631,6 +10934,105 @@ export const austriaCitiesV2: POI[] = [
                         16.22895,
                         48.011124
                   ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "Un rezervor de apă în Baden bei Wien, situat într-un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Waldkindergruppe Wichtelkreis",
+                  "text": "Un teren de joacă în pădure în Baden bei Wien, care permite copiilor să învețe prin joc în natură.",
+                  "category": "family",
+                  "coords": [
+                        16.23006,
+                        48.025266
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Fledermaus-Wiese",
+                  "text": "Un teren de joacă idilic în pădure în Baden bei Wien pentru aventuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.235941,
+                        48.023767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ökopark",
+                  "text": "Un teren de joacă modern în Baden bei Wien, axat pe jocul în natură.",
+                  "category": "family",
+                  "coords": [
+                        16.249199,
+                        48.007152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Erdzeiselgraben",
+                  "text": "Un loc prietenos pentru familii în Baden bei Wien, ideal pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        16.247579,
+                        48.00897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rohrgasse",
+                  "text": "Un teren de joacă local în Baden bei Wien, care oferă diversitate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        16.243514,
+                        47.998852
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wimmergasse",
+                  "text": "Un teren de joacă mic în Baden bei Wien pentru distracție zilnică.",
+                  "category": "family",
+                  "coords": [
+                        16.251375,
+                        48.001195
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwartzstraße",
+                  "text": "Un teren de joacă ușor accesibil în Baden bei Wien, cu diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.254675,
+                        48.00584
+                  ]
+            },
+            {
+                  "name": "Bahnengolfclub BGC Score Pfaffstätten",
+                  "text": "Un teren de minigolf în Baden bei Wien, care oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        16.258932,
+                        48.017718
+                  ]
+            },
+            {
+                  "name": "ZV Minigolf",
+                  "text": "Un loc în Baden bei Wien pentru o partidă distractivă de minigolf cu familia.",
+                  "category": "family",
+                  "coords": [
+                        16.235371,
+                        48.01063
+                  ]
+            },
+            {
+                  "name": "Union Bahnengolfclub Baden",
+                  "text": "Un club de minigolf în Baden bei Wien, ideal pentru o după-amiază sportivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.25695,
+                        47.999013
+                  ]
             }
       ],
       "en": [
@@ -7808,7 +11210,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Thermalstrandbad Baden",
                   "text": "A large outdoor thermal bath in a striking Art Deco style.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.219097,
                         48.005879
@@ -8100,6 +11502,105 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.22895,
                         48.011124
+                  ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "A water reservoir in Baden bei Wien, set in a quiet landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Waldkindergruppe Wichtelkreis",
+                  "text": "A forest playground in Baden bei Wien, allowing children to learn through play in nature.",
+                  "category": "family",
+                  "coords": [
+                        16.23006,
+                        48.025266
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Fledermaus-Wiese",
+                  "text": "An idyllic forest playground in Baden bei Wien for outdoor adventures.",
+                  "category": "family",
+                  "coords": [
+                        16.235941,
+                        48.023767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ökopark",
+                  "text": "A modern playground in Baden bei Wien with a focus on nature-based play.",
+                  "category": "family",
+                  "coords": [
+                        16.249199,
+                        48.007152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Erdzeiselgraben",
+                  "text": "A family-friendly spot in Baden bei Wien, ideal for playing and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        16.247579,
+                        48.00897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rohrgasse",
+                  "text": "A local playground in Baden bei Wien, offering variety for children.",
+                  "category": "family",
+                  "coords": [
+                        16.243514,
+                        47.998852
+                  ]
+            },
+            {
+                  "name": "Spielplatz Wimmergasse",
+                  "text": "A small playground in Baden bei Wien for daily leisure fun.",
+                  "category": "family",
+                  "coords": [
+                        16.251375,
+                        48.001195
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwartzstraße",
+                  "text": "An easily accessible playground in Baden bei Wien with various play options.",
+                  "category": "family",
+                  "coords": [
+                        16.254675,
+                        48.00584
+                  ]
+            },
+            {
+                  "name": "Bahnengolfclub BGC Score Pfaffstätten",
+                  "text": "A miniature golf course in Baden bei Wien, offering leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        16.258932,
+                        48.017718
+                  ]
+            },
+            {
+                  "name": "ZV Minigolf",
+                  "text": "A spot in Baden bei Wien for an entertaining round of miniature golf with the family.",
+                  "category": "family",
+                  "coords": [
+                        16.235371,
+                        48.01063
+                  ]
+            },
+            {
+                  "name": "Union Bahnengolfclub Baden",
+                  "text": "A miniature golf club in Baden bei Wien, ideal for a sporty family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        16.25695,
+                        47.999013
                   ]
             }
       ]
@@ -8684,7 +12185,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Asia Spa Leoben",
                   "text": "Ein Wellness- und Thermalbad in Leoben mit asiatisch inspirierter Architektur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.096966,
                         47.386804
@@ -8905,6 +12406,87 @@ export const austriaCitiesV2: POI[] = [
                         15.071217,
                         47.360819
                   ]
+            },
+            {
+                  "name": "Trabocher See",
+                  "text": "Ein idyllischer See bei Leoben, der ein beliebtes Ausflugsziel für Naturliebhaber ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.990916,
+                        47.38957
+                  ]
+            },
+            {
+                  "name": "Hochspeicher Häuselberg",
+                  "text": "Ein künstlich angelegtes Gewässer in Leoben, das sich harmonisch in die Landschaft fügt.",
+                  "category": "natural",
+                  "coords": [
+                        15.078446,
+                        47.36482
+                  ]
+            },
+            {
+                  "name": "Behälter Judendorf",
+                  "text": "Ein ruhiges Wasserreservoir in Leoben, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.105206,
+                        47.390419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "Ein gut ausgestatteter Spielbereich in Leoben für Kinder zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        15.099395,
+                        47.35916
+                  ]
+            },
+            {
+                  "name": "Glacis",
+                  "text": "Ein Spielplatz in Leoben, der viel Platz für Spiel und Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.097186,
+                        47.378217
+                  ]
+            },
+            {
+                  "name": "Salzlände",
+                  "text": "Dieser Spielplatz in Leoben ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        15.103512,
+                        47.380502
+                  ]
+            },
+            {
+                  "name": "Pebalstraße",
+                  "text": "Ein moderner Spielbereich in Leoben für Kinder aller Altersstufen.",
+                  "category": "family",
+                  "coords": [
+                        15.101083,
+                        47.382427
+                  ]
+            },
+            {
+                  "name": "Krainerhof",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in Leoben für eine Pause im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        15.09856,
+                        47.362407
+                  ]
+            },
+            {
+                  "name": "Spielplatz LKH",
+                  "text": "Ein freundlicher Spielbereich in Leoben, der Kindern Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.083349,
+                        47.380756
+                  ]
             }
       ],
       "hu": [
@@ -8956,7 +12538,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Asia Spa Leoben",
                   "text": "Wellness- és termálfürdő Leobenben, ázsiai stílusú építészettel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.096966,
                         47.386804
@@ -9177,6 +12759,87 @@ export const austriaCitiesV2: POI[] = [
                         15.071217,
                         47.360819
                   ]
+            },
+            {
+                  "name": "Trabocher See",
+                  "text": "Idilli tó Leoben közelében, amely kedvelt kirándulóhely a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        14.990916,
+                        47.38957
+                  ]
+            },
+            {
+                  "name": "Hochspeicher Häuselberg",
+                  "text": "Mesterségesen kialakított tó Leobenben, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        15.078446,
+                        47.36482
+                  ]
+            },
+            {
+                  "name": "Behälter Judendorf",
+                  "text": "Nyugodt víztározó Leobenben, természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        15.105206,
+                        47.390419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "Jól felszerelt játszóhely Leobenben a felfedezésre váró gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.099395,
+                        47.35916
+                  ]
+            },
+            {
+                  "name": "Glacis",
+                  "text": "Játszótér Leobenben, amely tágas helyet kínál a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.097186,
+                        47.378217
+                  ]
+            },
+            {
+                  "name": "Salzlände",
+                  "text": "Ez a leobeni játszótér szép célpontja egy családi kirándulásnak.",
+                  "category": "family",
+                  "coords": [
+                        15.103512,
+                        47.380502
+                  ]
+            },
+            {
+                  "name": "Pebalstraße",
+                  "text": "Modern játszóhely Leobenben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.101083,
+                        47.382427
+                  ]
+            },
+            {
+                  "name": "Krainerhof",
+                  "text": "Kicsi, barátságos játszótér Leobenben egy pihenőhöz a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        15.09856,
+                        47.362407
+                  ]
+            },
+            {
+                  "name": "Spielplatz LKH",
+                  "text": "Barátságos játszóhely Leobenben, amely változatosságot kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.083349,
+                        47.380756
+                  ]
             }
       ],
       "ro": [
@@ -9228,7 +12891,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Asia Spa Leoben",
                   "text": "Un centru spa și termal în Leoben, cu o arhitectură inspirată din stilul asiatic.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.096966,
                         47.386804
@@ -9449,6 +13112,87 @@ export const austriaCitiesV2: POI[] = [
                         15.071217,
                         47.360819
                   ]
+            },
+            {
+                  "name": "Trabocher See",
+                  "text": "Un lac idilic lângă Leoben, care este o destinație populară pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.990916,
+                        47.38957
+                  ]
+            },
+            {
+                  "name": "Hochspeicher Häuselberg",
+                  "text": "O apă artificială în Leoben, care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        15.078446,
+                        47.36482
+                  ]
+            },
+            {
+                  "name": "Behälter Judendorf",
+                  "text": "Un rezervor de apă liniștit în Leoben, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.105206,
+                        47.390419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "O zonă de joacă bine echipată în Leoben pentru ca copiii să exploreze.",
+                  "category": "family",
+                  "coords": [
+                        15.099395,
+                        47.35916
+                  ]
+            },
+            {
+                  "name": "Glacis",
+                  "text": "Un loc de joacă în Leoben, care oferă mult spațiu pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.097186,
+                        47.378217
+                  ]
+            },
+            {
+                  "name": "Salzlände",
+                  "text": "Acest loc de joacă din Leoben este o destinație frumoasă pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.103512,
+                        47.380502
+                  ]
+            },
+            {
+                  "name": "Pebalstraße",
+                  "text": "O zonă de joacă modernă în Leoben pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.101083,
+                        47.382427
+                  ]
+            },
+            {
+                  "name": "Krainerhof",
+                  "text": "Un loc de joacă mic și primitor în Leoben pentru o pauză în natură.",
+                  "category": "family",
+                  "coords": [
+                        15.09856,
+                        47.362407
+                  ]
+            },
+            {
+                  "name": "Spielplatz LKH",
+                  "text": "O zonă de joacă prietenoasă în Leoben, care oferă diversitate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        15.083349,
+                        47.380756
+                  ]
             }
       ],
       "en": [
@@ -9500,7 +13244,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Asia Spa Leoben",
                   "text": "A wellness and thermal spa in Leoben featuring Asian-inspired architecture.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.096966,
                         47.386804
@@ -9721,6 +13465,87 @@ export const austriaCitiesV2: POI[] = [
                         15.071217,
                         47.360819
                   ]
+            },
+            {
+                  "name": "Trabocher See",
+                  "text": "An idyllic lake near Leoben, which is a popular excursion destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.990916,
+                        47.38957
+                  ]
+            },
+            {
+                  "name": "Hochspeicher Häuselberg",
+                  "text": "A man-made body of water in Leoben, blending harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.078446,
+                        47.36482
+                  ]
+            },
+            {
+                  "name": "Behälter Judendorf",
+                  "text": "A quiet water reservoir in Leoben, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.105206,
+                        47.390419
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "A well-equipped play area in Leoben for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        15.099395,
+                        47.35916
+                  ]
+            },
+            {
+                  "name": "Glacis",
+                  "text": "A playground in Leoben, offering plenty of space for outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        15.097186,
+                        47.378217
+                  ]
+            },
+            {
+                  "name": "Salzlände",
+                  "text": "This playground in Leoben is a nice destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        15.103512,
+                        47.380502
+                  ]
+            },
+            {
+                  "name": "Pebalstraße",
+                  "text": "A modern play area in Leoben for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.101083,
+                        47.382427
+                  ]
+            },
+            {
+                  "name": "Krainerhof",
+                  "text": "A small, cozy playground in Leoben for a break in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        15.09856,
+                        47.362407
+                  ]
+            },
+            {
+                  "name": "Spielplatz LKH",
+                  "text": "A friendly play area in Leoben, offering variety for children.",
+                  "category": "family",
+                  "coords": [
+                        15.083349,
+                        47.380756
+                  ]
             }
       ]
 },
@@ -9768,7 +13593,124 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-leoben-cities-v2.webp",
   },
   {
-    id: "austria-krems-cities-v2",
+    id: "austria-krems-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spielpark Stein",
+                  "text": "Ein großer Spielpark in Krems an der Donau mit vielfältigen Angeboten für Kindern.",
+                  "category": "family",
+                  "coords": [
+                        15.586331,
+                        48.402548
+                  ]
+            },
+            {
+                  "name": "Bienengarten",
+                  "text": "Ein thematisch gestalteter Spielplatz in Krems an der Donau für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        15.598223,
+                        48.412625
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "Ein ruhig gelegener Spielplatz in Krems an der Donau, ideal für entspannte Stunden.",
+                  "category": "family",
+                  "coords": [
+                        15.586283,
+                        48.404551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spielpark Stein",
+                  "text": "Egy nagy játszópark Krems an der Donauban, változatos lehetőségekkel a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.586331,
+                        48.402548
+                  ]
+            },
+            {
+                  "name": "Bienengarten",
+                  "text": "Egy tematikus játszótér Krems an der Donauban az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        15.598223,
+                        48.412625
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "Egy csendes fekvésű játszótér Krems an der Donauban, ideális a pihentető órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.586283,
+                        48.404551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spielpark Stein",
+                  "text": "Un parc de joacă mare în Krems an der Donau, cu oferte variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        15.586331,
+                        48.402548
+                  ]
+            },
+            {
+                  "name": "Bienengarten",
+                  "text": "Un teren de joacă tematic în Krems an der Donau pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.598223,
+                        48.412625
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "Un teren de joacă liniștit în Krems an der Donau, ideal pentru ore de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.586283,
+                        48.404551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spielpark Stein",
+                  "text": "A large play park in Krems an der Donau with a wide range of activities for children.",
+                  "category": "family",
+                  "coords": [
+                        15.586331,
+                        48.402548
+                  ]
+            },
+            {
+                  "name": "Bienengarten",
+                  "text": "A themed playground in Krems an der Donau for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.598223,
+                        48.412625
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "A quiet playground in Krems an der Donau, ideal for relaxing hours.",
+                  "category": "family",
+                  "coords": [
+                        15.586283,
+                        48.404551
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Krems an der Donau", hu: "Krems an der Donau", ro: "Krems an der Donau", en: "Krems an der Donau" },
@@ -9818,7 +13760,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldbad Pasching",
                   "text": "Ein öffentliches Freibad in der Nähe von Traun für sommerliche Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.226641,
                         48.236056
@@ -9827,7 +13769,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Ein beliebtes Erlebnisbad in Ansfelden mit verschiedenen Wasserattraktionen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -9836,7 +13778,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Taga Luba - Abenteuerland Hörsching",
                   "text": "Ein Abenteuer- und Erlebnispark für Familien in Hörsching bei Traun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.218252,
                         48.231921
@@ -9854,7 +13796,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Badezentrum Traun",
                   "text": "Ein modernes Badezentrum in Traun mit Hallenbad und Saunabereich.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.221014,
                         48.214365
@@ -9913,13 +13855,139 @@ export const austriaCitiesV2: POI[] = [
                         14.252683,
                         48.202878
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Der Oedtersee in Traun ist ein beliebtes Gewässer, das zum Verweilen am Ufer und zum Genießen der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Rutzinger See",
+                  "text": "Der Rutzinger See in Traun bietet eine ruhige Atmosphäre für Spaziergänge und Naturbeobachtungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.174734,
+                        48.201146
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "Der Puckinger See in Traun ist ein lokales Naherholungsziel mit einer friedlichen Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Zone A - Baden",
+                  "text": "Die Zone A am See in Traun ist speziell für Badegäste gestaltet und lädt zum Schwimmen und Sonnenbaden ein.",
+                  "category": "natural",
+                  "coords": [
+                        14.174422,
+                        48.202057
+                  ]
+            },
+            {
+                  "name": "Madlschenterweg",
+                  "text": "Der Spielplatz Madlschenterweg in Traun bietet Kindern verschiedene Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.239453,
+                        48.219416
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "Im Gablerpark Traun finden Familien einen schön angelegten Spielplatz für abwechslungsreiche Stunden im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Lasersport Pasching",
+                  "text": "Lasersport Pasching bei Traun bietet eine spannende und aktive Freizeitbeschäftigung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.234007,
+                        48.245407
+                  ]
+            },
+            {
+                  "name": "Lollipark",
+                  "text": "Der Lollipark in Traun ist ein beliebter Indoor-Spielplatz, der Kindern viel Raum für Bewegung und Spaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.235016,
+                        48.245611
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buchenweg",
+                  "text": "Der Spielplatz am Buchenweg in Traun ist ein gemütlicher Ort für Kinder aus der Nachbarschaft zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.206988,
+                        48.212458
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "In der Stelzhamerstraße in Traun finden Kinder einen Spielplatz, der zum aktiven Zeitvertreib an der Luft einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
+            },
+            {
+                  "name": "Ballwiese",
+                  "text": "Die Ballwiese in Traun ist ein idealer Platz für Kinder und Jugendliche, um gemeinsam Sport zu treiben.",
+                  "category": "family",
+                  "coords": [
+                        14.229054,
+                        48.223881
+                  ]
+            },
+            {
+                  "name": "Steinhumergutsiedlung",
+                  "text": "In der Steinhumergutsiedlung in Traun bietet dieser Spielplatz einen geschützten Raum für kindliches Spiel.",
+                  "category": "family",
+                  "coords": [
+                        14.223586,
+                        48.222615
+                  ]
+            },
+            {
+                  "name": "Falkenweg/Finkenweg",
+                  "text": "Der Spielplatz zwischen Falkenweg und Finkenweg in Traun ist ein kleiner Treffpunkt für Familien im Quartier.",
+                  "category": "family",
+                  "coords": [
+                        14.233115,
+                        48.223397
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schulstraße/Keplerstraße",
+                  "text": "Der Spielplatz an der Ecke Schulstraße und Keplerstraße in Traun bietet Kindern eine Pause vom Schulalltag.",
+                  "category": "family",
+                  "coords": [
+                        14.24481,
+                        48.225206
+                  ]
             }
       ],
       "hu": [
             {
                   "name": "Waldbad Pasching",
                   "text": "Nyilvános szabadtéri strand Traun közelében a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.226641,
                         48.236056
@@ -9928,7 +13996,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Népszerű élményfürdő Ansfeldenben, különféle vízi attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -9937,7 +14005,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Taga Luba - Abenteuerland Hörsching",
                   "text": "Kaland- és élménypark családoknak Hörschingben, Traun mellett.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.218252,
                         48.231921
@@ -9955,7 +14023,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Badezentrum Traun",
                   "text": "Modern fürdőközpont Traunban fedett medencével és szaunavilággal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.221014,
                         48.214365
@@ -10014,13 +14082,139 @@ export const austriaCitiesV2: POI[] = [
                         14.252683,
                         48.202878
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "A Traunban található Oedtersee egy népszerű vízfelület, amely pihenésre és a táj élvezetére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Rutzinger See",
+                  "text": "A Traunban fekvő Rutzinger See nyugodt környezetet biztosít a sétákhoz és a vízparti természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.174734,
+                        48.201146
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "A Traun melletti Puckinger See egy helyi pihenőhely békés vízfelülettel.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Zone A - Baden",
+                  "text": "A trauni tó A-zónáját kifejezetten a fürdőzőknek alakították ki, úszásra és napozásra csábítva őket.",
+                  "category": "natural",
+                  "coords": [
+                        14.174422,
+                        48.202057
+                  ]
+            },
+            {
+                  "name": "Madlschenterweg",
+                  "text": "A trauni Madlschenterweg játszótér különféle mászó- és játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.239453,
+                        48.219416
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "A trauni Gablerpark területén szépen kialakított játszótér várja a családokat a szabadtéri kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Lasersport Pasching",
+                  "text": "A Traun melletti Lasersport Pasching izgalmas és aktív szabadidős tevékenységet kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        14.234007,
+                        48.245407
+                  ]
+            },
+            {
+                  "name": "Lollipark",
+                  "text": "A trauni Lollipark egy népszerű fedett játszótér, amely bőséges helyet kínál a gyerekeknek a mozgáshoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.235016,
+                        48.245611
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buchenweg",
+                  "text": "A trauni Buchenweg játszótér egy barátságos hely a környéken lakó gyermekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.206988,
+                        48.212458
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "A trauni Stelzhamerstraße mentén egy játszótér várja a gyerekeket, amely aktív szabadtéri időtöltésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
+            },
+            {
+                  "name": "Ballwiese",
+                  "text": "A trauni Ballwiese ideális hely a gyermekek és fiatalok számára a közös sportoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.229054,
+                        48.223881
+                  ]
+            },
+            {
+                  "name": "Steinhumergutsiedlung",
+                  "text": "A trauni Steinhumergutsiedlung játszótere védett helyet biztosít a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        14.223586,
+                        48.222615
+                  ]
+            },
+            {
+                  "name": "Falkenweg/Finkenweg",
+                  "text": "A trauni Falkenweg és Finkenweg közötti játszótér egy kis találkozóhely a környékbeli családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.233115,
+                        48.223397
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schulstraße/Keplerstraße",
+                  "text": "A trauni Schulstraße és Keplerstraße sarkán lévő játszótér kikapcsolódást nyújt a gyerekeknek az iskolai hétköznapokból.",
+                  "category": "family",
+                  "coords": [
+                        14.24481,
+                        48.225206
+                  ]
             }
       ],
       "ro": [
             {
                   "name": "Waldbad Pasching",
                   "text": "Un ștrand public în apropiere de Traun pentru recreere pe timp de vară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.226641,
                         48.236056
@@ -10029,7 +14223,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Un parc acvatic popular în Ansfelden, cu diverse atracții acvatice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -10038,7 +14232,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Taga Luba - Abenteuerland Hörsching",
                   "text": "Un parc de aventură și distracție pentru familii în Hörsching, lângă Traun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.218252,
                         48.231921
@@ -10056,7 +14250,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Badezentrum Traun",
                   "text": "Un centru de înot modern în Traun, cu piscină acoperită și zonă de saună.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.221014,
                         48.214365
@@ -10115,13 +14309,139 @@ export const austriaCitiesV2: POI[] = [
                         14.252683,
                         48.202878
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Oedtersee din Traun este un lac popular, care invită vizitatorii la relaxare pe mal și la admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Rutzinger See",
+                  "text": "Rutzinger See din Traun oferă o atmosferă liniștită pentru plimbări și observarea naturii pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.174734,
+                        48.201146
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "Puckinger See din Traun este o destinație locală de recreere, cu un luciu de apă liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Zone A - Baden",
+                  "text": "Zona A de la lacul din Traun este amenajată special pentru scăldat, invitând la înot și plajă.",
+                  "category": "natural",
+                  "coords": [
+                        14.174422,
+                        48.202057
+                  ]
+            },
+            {
+                  "name": "Madlschenterweg",
+                  "text": "Locul de joacă Madlschenterweg din Traun oferă copiilor diverse posibilități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.239453,
+                        48.219416
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "În Gablerpark din Traun, familiile găsesc un loc de joacă frumos amenajat pentru ore plăcute în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Lasersport Pasching",
+                  "text": "Lasersport Pasching, lângă Traun, oferă o activitate de recreere interesantă și activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.234007,
+                        48.245407
+                  ]
+            },
+            {
+                  "name": "Lollipark",
+                  "text": "Lollipark din Traun este un loc de joacă interior popular, care oferă copiilor mult spațiu pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        14.235016,
+                        48.245611
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buchenweg",
+                  "text": "Locul de joacă de pe Buchenweg din Traun este un loc primitor pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        14.206988,
+                        48.212458
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "Pe Stelzhamerstraße din Traun, copiii găsesc un loc de joacă care invită la petrecerea activă a timpului în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
+            },
+            {
+                  "name": "Ballwiese",
+                  "text": "Ballwiese din Traun este un loc ideal pentru copii și tineri pentru a face sport împreună.",
+                  "category": "family",
+                  "coords": [
+                        14.229054,
+                        48.223881
+                  ]
+            },
+            {
+                  "name": "Steinhumergutsiedlung",
+                  "text": "În Steinhumergutsiedlung din Traun, acest loc de joacă oferă un spațiu protejat pentru jocurile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.223586,
+                        48.222615
+                  ]
+            },
+            {
+                  "name": "Falkenweg/Finkenweg",
+                  "text": "Locul de joacă dintre Falkenweg și Finkenweg din Traun este un mic punct de întâlnire pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        14.233115,
+                        48.223397
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schulstraße/Keplerstraße",
+                  "text": "Locul de joacă de la colțul Schulstraße cu Keplerstraße din Traun oferă copiilor o pauză de la rutina școlară.",
+                  "category": "family",
+                  "coords": [
+                        14.24481,
+                        48.225206
+                  ]
             }
       ],
       "en": [
             {
                   "name": "Waldbad Pasching",
                   "text": "A public outdoor pool near Traun for summer recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.226641,
                         48.236056
@@ -10130,7 +14450,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "A popular water park in Ansfelden with various water attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -10139,7 +14459,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Taga Luba - Abenteuerland Hörsching",
                   "text": "An adventure and theme park for families in Hörsching near Traun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.218252,
                         48.231921
@@ -10157,7 +14477,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Badezentrum Traun",
                   "text": "A modern bathing center in Traun with an indoor pool and sauna area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.221014,
                         48.214365
@@ -10215,6 +14535,132 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.252683,
                         48.202878
+                  ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "The Oedtersee in Traun is a popular body of water that invites visitors to linger on the shore and enjoy the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Rutzinger See",
+                  "text": "The Rutzinger See in Traun offers a quiet atmosphere for walks and nature observation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.174734,
+                        48.201146
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "The Puckinger See in Traun is a local recreation destination with a peaceful body of water.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Zone A - Swimming",
+                  "text": "Zone A at the lake in Traun is specially designed for swimmers and invites visitors to swim and sunbathe.",
+                  "category": "natural",
+                  "coords": [
+                        14.174422,
+                        48.202057
+                  ]
+            },
+            {
+                  "name": "Madlschenterweg",
+                  "text": "The Madlschenterweg playground in Traun offers children various opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        14.239453,
+                        48.219416
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "In Gablerpark Traun, families will find a beautifully designed playground for enjoyable hours outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Lasersport Pasching",
+                  "text": "Lasersport Pasching near Traun offers an exciting and active leisure activity for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.234007,
+                        48.245407
+                  ]
+            },
+            {
+                  "name": "Lollipark",
+                  "text": "The Lollipark in Traun is a popular indoor playground that offers children plenty of space for movement and fun.",
+                  "category": "family",
+                  "coords": [
+                        14.235016,
+                        48.245611
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buchenweg",
+                  "text": "The playground on Buchenweg in Traun is a cozy spot for neighborhood children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.206988,
+                        48.212458
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "On Stelzhamerstraße in Traun, children can find a playground that invites them to spend time actively outdoors.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
+            },
+            {
+                  "name": "Ballwiese",
+                  "text": "The Ballwiese in Traun is an ideal place for children and young people to play sports together.",
+                  "category": "family",
+                  "coords": [
+                        14.229054,
+                        48.223881
+                  ]
+            },
+            {
+                  "name": "Steinhumergutsiedlung",
+                  "text": "In the Steinhumergutsiedlung in Traun, this playground offers a protected space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.223586,
+                        48.222615
+                  ]
+            },
+            {
+                  "name": "Falkenweg/Finkenweg",
+                  "text": "The playground between Falkenweg and Finkenweg in Traun is a small meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        14.233115,
+                        48.223397
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schulstraße/Keplerstraße",
+                  "text": "The playground at the corner of Schulstraße and Keplerstraße in Traun offers children a break from their school routine.",
+                  "category": "family",
+                  "coords": [
+                        14.24481,
+                        48.225206
                   ]
             }
       ]
@@ -10426,6 +14872,96 @@ export const austriaCitiesV2: POI[] = [
                         9.657039,
                         47.435418
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Ein ruhiger Weiher bei Lustenau, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Dieses Gewässer in Lustenau bietet eine natürliche Kulisse für Erholungsuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "Ein naturnaher See in Lustenau, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Ein Naturbadesee bei Lustenau für erfrischenden Badespaß in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Diese Stillgewässer in Lustenau bieten eine friedliche Atmosphäre im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Ein kleiner Weiher in Lustenau, der sich gut für eine kurze Pause in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Kalkofen",
+                  "text": "Der Kalkofen in Lustenau bietet eine ruhige Kulisse für Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        9.608503,
+                        47.417034
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "Der Bodensee bei Lustenau bietet eine beeindruckende Kulisse für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Wiesenrain",
+                  "text": "Der Spielplatz im Wiesenrain in Lustenau bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.653934,
+                        47.40826
+                  ]
+            },
+            {
+                  "name": "Naturspielpark Am Moosbach",
+                  "text": "Der Naturspielpark Am Moosbach in Lustenau bietet naturnahen Spielspaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.665357,
+                        47.443908
+                  ]
             }
       ],
       "hu": [
@@ -10589,6 +15125,96 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.657039,
                         47.435418
+                  ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Nyugodt tavacska Lustenau közelében, amely pihentető sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Ez a lustenaui víz természetes környezetet kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "Természetközeli tó Lustenauban, ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Természetes fürdőtó Lustenau közelében a frissítő erdei fürdőzéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Ezek az állóvizek Lustenauban békés hangulatot árasztanak a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Kicsi tavacska Lustenauban, amely alkalmas egy rövid pihenőre a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Kalkofen",
+                  "text": "A Lustenau településen található Kalkofen kellemes helyszínt biztosít a sétákhoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.608503,
+                        47.417034
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "A Lustenau városánál fekvő Bódeni-tó népszerű helyszín a kikapcsolódáshoz és a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Wiesenrain",
+                  "text": "A Lustenau városában található Spielplatz im Wiesenrain játszótér változatos kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.653934,
+                        47.40826
+                  ]
+            },
+            {
+                  "name": "Naturspielpark Am Moosbach",
+                  "text": "A Lustenau városában található Naturspielpark Am Moosbach természetközeli játékélményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.665357,
+                        47.443908
                   ]
             }
       ],
@@ -10754,6 +15380,96 @@ export const austriaCitiesV2: POI[] = [
                         9.657039,
                         47.435418
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Un iaz liniștit lângă Lustenau, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Această apă din Lustenau oferă un cadru natural pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "Un lac natural în Lustenau, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Un lac de scăldat natural lângă Lustenau pentru distracție răcoritoare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Aceste ape stătătoare din Lustenau oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Un iaz mic în Lustenau, potrivit pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Kalkofen",
+                  "text": "Kalkofen din Lustenau oferă un cadru liniștit pentru plimbări și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.608503,
+                        47.417034
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "Lacul Constanța (Bodensee) de lângă Lustenau oferă un cadru natural superb pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Wiesenrain",
+                  "text": "Locul de joacă Spielplatz im Wiesenrain din Lustenau oferă diverse posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.653934,
+                        47.40826
+                  ]
+            },
+            {
+                  "name": "Naturspielpark Am Moosbach",
+                  "text": "Parcul de joacă Naturspielpark Am Moosbach din Lustenau oferă distracție în natură pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.665357,
+                        47.443908
+                  ]
             }
       ],
       "en": [
@@ -10918,6 +15634,96 @@ export const austriaCitiesV2: POI[] = [
                         9.657039,
                         47.435418
                   ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "A quiet pond near Lustenau, inviting for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "This body of water in Lustenau provides a natural setting for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "A natural lake in Lustenau, ideal for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "A natural swimming lake near Lustenau for refreshing swimming fun in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "These standing waters in Lustenau offer a peaceful atmosphere in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "A small pond in Lustenau, well-suited for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Kalkofen",
+                  "text": "Kalkofen in Lustenau offers a scenic setting for walking and relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.608503,
+                        47.417034
+                  ]
+            },
+            {
+                  "name": "Lake Constance",
+                  "text": "Lake Constance near Lustenau offers a scenic setting for walking and relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Wiesenrain",
+                  "text": "The Spielplatz im Wiesenrain playground in Lustenau offers various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.653934,
+                        47.40826
+                  ]
+            },
+            {
+                  "name": "Naturspielpark Am Moosbach",
+                  "text": "The Naturspielpark Am Moosbach in Lustenau provides nature-oriented play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.665357,
+                        47.443908
+                  ]
             }
       ]
 },
@@ -10970,7 +15776,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Hallen- und Freibad",
                   "text": "Ein kombiniertes Hallen- und Freibad in Kapfenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.298737,
                         47.444492
@@ -11056,13 +15862,58 @@ export const austriaCitiesV2: POI[] = [
                         15.280287,
                         47.446592
                   ]
+            },
+            {
+                  "name": "Löschwasserteich",
+                  "text": "Ein kleiner Teich in Kapfenberg, der einen ruhigen Platz im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.29409,
+                        47.483479
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "Ein lokaler Spielplatz in Kapfenberg, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "\"Großer Spielplatz\"",
+                  "text": "Ein weitläufiger Spielplatz in Kapfenberg mit viel Platz für Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        15.309429,
+                        47.445229
+                  ]
+            },
+            {
+                  "name": "Thomas Wölbitsch Spielplatz",
+                  "text": "Ein familienfreundlicher Spielplatz in Kapfenberg für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        15.275649,
+                        47.436382
+                  ]
+            },
+            {
+                  "name": "Prieselbauer",
+                  "text": "Ein beliebtes Ausflugsziel für Familien in Kapfenberg mit Spielmöglichkeiten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.311623,
+                        47.431548
+                  ]
             }
       ],
       "hu": [
             {
                   "name": "Hallen- und Freibad",
                   "text": "Kombinált fedett és szabadtéri strand Kapfenbergben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.298737,
                         47.444492
@@ -11148,13 +15999,58 @@ export const austriaCitiesV2: POI[] = [
                         15.280287,
                         47.446592
                   ]
+            },
+            {
+                  "name": "Löschwasserteich",
+                  "text": "Egy kis tó Kapfenbergben, amely nyugodt szabadtéri helyet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        15.29409,
+                        47.483479
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "Egy helyi játszótér Kapfenbergben, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "\"Großer Spielplatz\"",
+                  "text": "Egy tágas játszótér Kapfenbergben, sok hellyel a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.309429,
+                        47.445229
+                  ]
+            },
+            {
+                  "name": "Thomas Wölbitsch Spielplatz",
+                  "text": "Egy családbarát játszótér Kapfenbergben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.275649,
+                        47.436382
+                  ]
+            },
+            {
+                  "name": "Prieselbauer",
+                  "text": "Egy népszerű családi kirándulóhely Kapfenbergben szabadtéri játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        15.311623,
+                        47.431548
+                  ]
             }
       ],
       "ro": [
             {
                   "name": "Hallen- und Freibad",
                   "text": "O piscină interioară și exterioară combinată în Kapfenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.298737,
                         47.444492
@@ -11240,13 +16136,58 @@ export const austriaCitiesV2: POI[] = [
                         15.280287,
                         47.446592
                   ]
+            },
+            {
+                  "name": "Löschwasserteich",
+                  "text": "Un iaz mic în Kapfenberg, care oferă un loc liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.29409,
+                        47.483479
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "Un teren de joacă local în Kapfenberg, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "\"Großer Spielplatz\"",
+                  "text": "Un teren de joacă spațios în Kapfenberg, cu mult loc pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        15.309429,
+                        47.445229
+                  ]
+            },
+            {
+                  "name": "Thomas Wölbitsch Spielplatz",
+                  "text": "Un teren de joacă prietenos pentru familii în Kapfenberg pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.275649,
+                        47.436382
+                  ]
+            },
+            {
+                  "name": "Prieselbauer",
+                  "text": "O destinație populară pentru familii în Kapfenberg, cu opțiuni de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.311623,
+                        47.431548
+                  ]
             }
       ],
       "en": [
             {
                   "name": "Hallen- und Freibad",
                   "text": "A combined indoor and outdoor swimming pool in Kapfenberg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.298737,
                         47.444492
@@ -11331,6 +16272,51 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.280287,
                         47.446592
+                  ]
+            },
+            {
+                  "name": "Löschwasserteich",
+                  "text": "A small pond in Kapfenberg, offering a quiet outdoor spot.",
+                  "category": "natural",
+                  "coords": [
+                        15.29409,
+                        47.483479
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "A local playground in Kapfenberg where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "\"Großer Spielplatz\"",
+                  "text": "A spacious playground in Kapfenberg with plenty of room for movement.",
+                  "category": "family",
+                  "coords": [
+                        15.309429,
+                        47.445229
+                  ]
+            },
+            {
+                  "name": "Thomas Wölbitsch Spielplatz",
+                  "text": "A family-friendly playground in Kapfenberg for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.275649,
+                        47.436382
+                  ]
+            },
+            {
+                  "name": "Prieselbauer",
+                  "text": "A popular destination for families in Kapfenberg with outdoor play options.",
+                  "category": "family",
+                  "coords": [
+                        15.311623,
+                        47.431548
                   ]
             }
       ]
@@ -11578,6 +16564,78 @@ export const austriaCitiesV2: POI[] = [
                         13.089942,
                         47.665563
                   ]
+            },
+            {
+                  "name": "Bürgerausee",
+                  "text": "Der Bürgerausee in Hallein ist ein beliebtes Naherholungsgebiet mit schönen Wegen und Liegeflächen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        13.141576,
+                        47.622848
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee-Ausgleichsbecken",
+                  "text": "Das Ausgleichsbecken des Wiestalstausees in Hallein ist ein ruhiges Gewässer in einer naturnahen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        13.134957,
+                        47.718242
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee",
+                  "text": "Der Wiestalstausee in Hallein bietet eine beeindruckende Naturkulisse für Ausflüge und Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        13.167204,
+                        47.749058
+                  ]
+            },
+            {
+                  "name": "Spielplatz mit Volleyballanlage",
+                  "text": "Der Spielplatz mit Volleyballanlage in Hallein bietet sowohl Kindern als auch Jugendlichen sportliche Abwechslung.",
+                  "category": "family",
+                  "coords": [
+                        13.10212,
+                        47.680696
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule",
+                  "text": "Ein Spielplatz bei der Volksschule in Hallein für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.089609,
+                        47.664661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kuhlmannstraße",
+                  "text": "Ein öffentlicher Spielplatz in der Kuhlmannstraße in Hallein.",
+                  "category": "family",
+                  "coords": [
+                        13.086185,
+                        47.707428
+                  ]
+            },
+            {
+                  "name": "Drachenwald",
+                  "text": "Der Spielplatz Drachenwald in Hallein bietet Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        13.094914,
+                        47.701115
+                  ]
+            },
+            {
+                  "name": "Keltendorf Spielplatz",
+                  "text": "Ein Spielplatz im Keltendorf in Hallein für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        13.089178,
+                        47.667199
+                  ]
             }
       ],
       "hu": [
@@ -11777,6 +16835,78 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.089942,
                         47.665563
+                  ]
+            },
+            {
+                  "name": "Bürgerausee",
+                  "text": "A halleini Bürgerausee kedvelt pihenőhely szép sétányokkal és vízparti pihenőhelyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        13.141576,
+                        47.622848
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee-Ausgleichsbecken",
+                  "text": "A halleini Wiestalstausee kiegyenlítő tározója egy nyugodt vízfelület természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        13.134957,
+                        47.718242
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee",
+                  "text": "A halleini Wiestalstausee lenyűgöző természeti környezetet biztosít a kirándulásokhoz és vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.167204,
+                        47.749058
+                  ]
+            },
+            {
+                  "name": "Spielplatz mit Volleyballanlage",
+                  "text": "A halleini röplabdapályás játszótér sportos kikapcsolódást nyújt a gyermekeknek és a fiataloknak egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        13.10212,
+                        47.680696
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule",
+                  "text": "Egy játszótér a halleini általános iskolánál a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        13.089609,
+                        47.664661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kuhlmannstraße",
+                  "text": "Egy nyilvános játszótér a halleini Kuhlmannstraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        13.086185,
+                        47.707428
+                  ]
+            },
+            {
+                  "name": "Drachenwald",
+                  "text": "A halleini Drachenwald játszótér játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        13.094914,
+                        47.701115
+                  ]
+            },
+            {
+                  "name": "Keltendorf Spielplatz",
+                  "text": "Egy játszótér a halleini Keltendorfban a kis felfedezők számára.",
+                  "category": "family",
+                  "coords": [
+                        13.089178,
+                        47.667199
                   ]
             }
       ],
@@ -11978,6 +17108,78 @@ export const austriaCitiesV2: POI[] = [
                         13.089942,
                         47.665563
                   ]
+            },
+            {
+                  "name": "Bürgerausee",
+                  "text": "Bürgerausee din Hallein este o zonă de recreere populară, cu alei frumoase și spații de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        13.141576,
+                        47.622848
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee-Ausgleichsbecken",
+                  "text": "Bazinul de compensare al lacului Wiestalstausee din Hallein este un curs de apă liniștit într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        13.134957,
+                        47.718242
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee",
+                  "text": "Wiestalstausee din Hallein oferă un cadru natural impresionant pentru excursii și plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        13.167204,
+                        47.749058
+                  ]
+            },
+            {
+                  "name": "Spielplatz mit Volleyballanlage",
+                  "text": "Locul de joacă cu teren de volei din Hallein oferă diversitate sportivă atât copiilor, cât și tinerilor.",
+                  "category": "family",
+                  "coords": [
+                        13.10212,
+                        47.680696
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule",
+                  "text": "Un loc de joacă lângă școala primară din Hallein pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.089609,
+                        47.664661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kuhlmannstraße",
+                  "text": "Un loc de joacă public pe strada Kuhlmannstraße din Hallein.",
+                  "category": "family",
+                  "coords": [
+                        13.086185,
+                        47.707428
+                  ]
+            },
+            {
+                  "name": "Drachenwald",
+                  "text": "Locul de joacă Drachenwald din Hallein oferă facilități de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.094914,
+                        47.701115
+                  ]
+            },
+            {
+                  "name": "Keltendorf Spielplatz",
+                  "text": "Un loc de joacă în Keltendorf din Hallein pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        13.089178,
+                        47.667199
+                  ]
             }
       ],
       "en": [
@@ -12177,6 +17379,78 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.089942,
                         47.665563
+                  ]
+            },
+            {
+                  "name": "Bürgerausee",
+                  "text": "The Bürgerausee in Hallein is a popular recreation area with nice paths and lounging areas by the water.",
+                  "category": "natural",
+                  "coords": [
+                        13.141576,
+                        47.622848
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee-Ausgleichsbecken",
+                  "text": "The Wiestalstausee balancing reservoir in Hallein is a calm body of water in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        13.134957,
+                        47.718242
+                  ]
+            },
+            {
+                  "name": "Wiestalstausee",
+                  "text": "The Wiestalstausee in Hallein offers an impressive natural backdrop for excursions and walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        13.167204,
+                        47.749058
+                  ]
+            },
+            {
+                  "name": "Spielplatz mit Volleyballanlage",
+                  "text": "The playground with a volleyball court in Hallein offers sporting variety for both children and young people.",
+                  "category": "family",
+                  "coords": [
+                        13.10212,
+                        47.680696
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule",
+                  "text": "A playground near the elementary school in Hallein for children.",
+                  "category": "family",
+                  "coords": [
+                        13.089609,
+                        47.664661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kuhlmannstraße",
+                  "text": "A public playground in Kuhlmannstraße in Hallein.",
+                  "category": "family",
+                  "coords": [
+                        13.086185,
+                        47.707428
+                  ]
+            },
+            {
+                  "name": "Drachenwald",
+                  "text": "The Drachenwald playground in Hallein offers play facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        13.094914,
+                        47.701115
+                  ]
+            },
+            {
+                  "name": "Keltendorf Spielplatz",
+                  "text": "A playground in the Keltendorf in Hallein for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        13.089178,
+                        47.667199
                   ]
             }
       ]
@@ -12460,6 +17734,24 @@ export const austriaCitiesV2: POI[] = [
                         16.468625,
                         48.145042
                   ]
+            },
+            {
+                  "name": "Hüpfburg",
+                  "text": "Die Hüpfburg in Schwechat bietet Kindern viel Platz zum Austoben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        16.46992,
+                        48.138904
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz Leberberg",
+                  "text": "Der Wasserspielplatz Leberberg in Schwechat bietet an warmen Tagen besonderen Spielspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.460675,
+                        48.153777
+                  ]
             }
       ],
       "hu": [
@@ -12695,6 +17987,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.468625,
                         48.145042
+                  ]
+            },
+            {
+                  "name": "Hüpfburg",
+                  "text": "A Schwechat városában található Hüpfburg játszótér vidám kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.46992,
+                        48.138904
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz Leberberg",
+                  "text": "A Schwechat városában található Wasserspielplatz Leberberg vizes játékaival várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        16.460675,
+                        48.153777
                   ]
             }
       ],
@@ -12932,6 +18242,24 @@ export const austriaCitiesV2: POI[] = [
                         16.468625,
                         48.145042
                   ]
+            },
+            {
+                  "name": "Hüpfburg",
+                  "text": "Locul de joacă Hüpfburg din Schwechat oferă copiilor mult spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.46992,
+                        48.138904
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz Leberberg",
+                  "text": "Locul de joacă Wasserspielplatz Leberberg din Schwechat oferă distracție cu apă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        16.460675,
+                        48.153777
+                  ]
             }
       ],
       "en": [
@@ -13168,6 +18496,24 @@ export const austriaCitiesV2: POI[] = [
                         16.468625,
                         48.145042
                   ]
+            },
+            {
+                  "name": "Hüpfburg",
+                  "text": "The Hüpfburg playground in Schwechat offers plenty of space for children to play and move.",
+                  "category": "family",
+                  "coords": [
+                        16.46992,
+                        48.138904
+                  ]
+            },
+            {
+                  "name": "Wasserspielplatz Leberberg",
+                  "text": "The Wasserspielplatz Leberberg in Schwechat provides water-based play fun for children and families.",
+                  "category": "family",
+                  "coords": [
+                        16.460675,
+                        48.153777
+                  ]
             }
       ]
 },
@@ -13283,7 +18629,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Städtisches Freibad Simbach am Inn",
                   "text": "Ein öffentliches Freibad mit verschiedenen Sport- und Freizeitmöglichkeiten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.027181,
                         48.275438
@@ -13292,7 +18638,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Braunau",
                   "text": "Ein beliebtes Freizeitzentrum mit Schwimmbecken und Liegewiesen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.045024,
                         48.248226
@@ -13332,6 +18678,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.055191,
                         48.253709
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mozartstraße",
+                  "text": "Ein gut ausgestatteter Spielplatz in Braunau am Inn für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.039907,
+                        48.248096
                   ]
             }
       ],
@@ -13402,7 +18757,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Städtisches Freibad Simbach am Inn",
                   "text": "Nyilvános strandfürdő különféle sport- és szabadidős lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.027181,
                         48.275438
@@ -13411,7 +18766,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Braunau",
                   "text": "Népszerű szabadidőközpont úszómedencékkel és napozóterületekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.045024,
                         48.248226
@@ -13451,6 +18806,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.055191,
                         48.253709
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mozartstraße",
+                  "text": "Egy jól felszerelt játszótér Braunau am Innben gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.039907,
+                        48.248096
                   ]
             }
       ],
@@ -13521,7 +18885,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Städtisches Freibad Simbach am Inn",
                   "text": "Un ștrand public cu diverse facilități sportive și de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.027181,
                         48.275438
@@ -13530,7 +18894,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Braunau",
                   "text": "Un centru de recreere popular cu piscine și zone de plajă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.045024,
                         48.248226
@@ -13570,6 +18934,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.055191,
                         48.253709
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mozartstraße",
+                  "text": "Un teren de joacă bine echipat în Braunau am Inn pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.039907,
+                        48.248096
                   ]
             }
       ],
@@ -13640,7 +19013,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Städtisches Freibad Simbach am Inn",
                   "text": "A public outdoor pool with various sports and leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.027181,
                         48.275438
@@ -13649,7 +19022,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Braunau",
                   "text": "A popular leisure center with swimming pools and sunbathing areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.045024,
                         48.248226
@@ -13689,6 +19062,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.055191,
                         48.253709
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mozartstraße",
+                  "text": "A well-equipped playground in Braunau am Inn for children.",
+                  "category": "family",
+                  "coords": [
+                        13.039907,
+                        48.248096
                   ]
             }
       ]
@@ -13841,7 +19223,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Ein Sport- und Freizeitbad für Familien in Ansfelden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -13882,6 +19264,60 @@ export const austriaCitiesV2: POI[] = [
                         14.252683,
                         48.202878
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Ein beliebter Badesee in Ansfelden, der im Sommer Erfrischung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Kleiner Weikerlsee",
+                  "text": "Ein ruhiger See in Ansfelden, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        14.36122,
+                        48.263528
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "Ein schönes Erholungsgebiet in Ansfelden mit einem See zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "Ein familienfreundlicher Spielplatz in Ansfelden, der zum Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Spielplatz Audorf",
+                  "text": "Ein lokaler Spielbereich in Ansfelden für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        14.279006,
+                        48.219135
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "Ein Spielplatz in Ansfelden mit verschiedenen Geräten für aktiven Spaß.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
             }
       ],
       "hu": [
@@ -13897,7 +19333,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Sport- és szabadidős fürdő családok számára Ansfeldenben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -13938,6 +19374,60 @@ export const austriaCitiesV2: POI[] = [
                         14.252683,
                         48.202878
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Egy népszerű fürdőtó Ansfeldenben, amely nyáron felfrissülést nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Kleiner Weikerlsee",
+                  "text": "Egy nyugodt tó Ansfeldenben, ideális vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.36122,
+                        48.263528
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "Egy szép üdülőhely Ansfeldenben, tóval a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "Egy családbarát játszótér Ansfeldenben, amely játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Spielplatz Audorf",
+                  "text": "Egy helyi játszóhely Ansfeldenben a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.279006,
+                        48.219135
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "Egy játszótér Ansfeldenben, különféle eszközökkel az aktív szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
             }
       ],
       "ro": [
@@ -13953,7 +19443,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "O piscină sportivă și de agrement pentru familii în Ansfelden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -13994,6 +19484,60 @@ export const austriaCitiesV2: POI[] = [
                         14.252683,
                         48.202878
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Un lac de scăldat popular în Ansfelden, care oferă răcoare pe timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Kleiner Weikerlsee",
+                  "text": "Un lac liniștit în Ansfelden, ideal pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.36122,
+                        48.263528
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "O zonă frumoasă de recreere în Ansfelden, cu un lac pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "Un teren de joacă prietenos pentru familii în Ansfelden, care invită la joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Spielplatz Audorf",
+                  "text": "O zonă de joacă locală în Ansfelden pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        14.279006,
+                        48.219135
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "Un teren de joacă în Ansfelden cu diverse echipamente pentru distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
+                  ]
             }
       ],
       "en": [
@@ -14009,7 +19553,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "A sports and leisure pool for families in Ansfelden.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.258619,
                         48.209041
@@ -14049,6 +19593,60 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.252683,
                         48.202878
+                  ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "A popular swimming lake in Ansfelden, offering refreshment in summer.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Kleiner Weikerlsee",
+                  "text": "A quiet lake in Ansfelden, ideal for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        14.36122,
+                        48.263528
+                  ]
+            },
+            {
+                  "name": "Puckinger See",
+                  "text": "A beautiful recreation area in Ansfelden with a lake for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.194933,
+                        48.195136
+                  ]
+            },
+            {
+                  "name": "Gablerpark-Spielplatz",
+                  "text": "A family-friendly playground in Ansfelden, inviting children to play.",
+                  "category": "family",
+                  "coords": [
+                        14.270941,
+                        48.229982
+                  ]
+            },
+            {
+                  "name": "Spielplatz Audorf",
+                  "text": "A local play area in Ansfelden for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        14.279006,
+                        48.219135
+                  ]
+            },
+            {
+                  "name": "Spielplatz Stelzhamerstraße",
+                  "text": "A playground in Ansfelden with various equipment for active fun.",
+                  "category": "family",
+                  "coords": [
+                        14.258155,
+                        48.204156
                   ]
             }
       ]
@@ -14147,7 +19745,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erholungszentrum Rheinauen",
                   "text": "Ein großes Freizeit- und Freibadgelände direkt an den Rheinauen in Hohenems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.653178,
                         47.367247
@@ -14165,7 +19763,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Strandbad Diepoldsau",
                   "text": "Ein Naturbad am See in Diepoldsau, nahe der Grenze zu Hohenems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.672279,
                         47.380802
@@ -14368,6 +19966,105 @@ export const austriaCitiesV2: POI[] = [
                         9.676975,
                         47.366303
                   ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Der Alte Rhein in Hohenems ist ein Gewässer in schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Die Lehmlöcher in Hohenems sind Teiche, die sich für Spaziergänge eignen.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Der Stockenweiher in Hohenems ist ein kleiner See in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "Ein lokaler Löschteich in Hohenems in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.680772,
+                        47.316005
+                  ]
+            },
+            {
+                  "name": "Kinder-Erlebniswelt",
+                  "text": "Die Kinder-Erlebniswelt in Hohenems bietet Abwechslung für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.655476,
+                        47.367182
+                  ]
+            },
+            {
+                  "name": "Indoor Minigolf",
+                  "text": "Eine Indoor-Minigolfanlage in Hohenems für wetterunabhängigen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        9.676229,
+                        47.371814
+                  ]
+            },
+            {
+                  "name": "Dorfplatz",
+                  "text": "Ein Spielplatz am Dorfplatz in Hohenems für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        9.650201,
+                        47.353957
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grillparzerstraße",
+                  "text": "Ein kinderfreundlicher Spielplatz in der Grillparzerstraße in Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.674806,
+                        47.368909
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Dämmle",
+                  "text": "Der Spielplatz am Dämmle in Hohenems lädt Kinder zum Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        9.681627,
+                        47.368456
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Witzke",
+                  "text": "Ein schöner Spielplatz im Viertel Witzke in Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.669,
+                        47.357913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwefel",
+                  "text": "Ein öffentlicher Spielplatz im Stadtteil Schwefel in Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.676851,
+                        47.356063
+                  ]
             }
       ],
       "hu": [
@@ -14419,7 +20116,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erholungszentrum Rheinauen",
                   "text": "Nagy szabadidő- és strandkomplexum közvetlenül a hohenemsi Rajna-ártérnél.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.653178,
                         47.367247
@@ -14437,7 +20134,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Strandbad Diepoldsau",
                   "text": "Természetes tóparti strand Diepoldsauban, a hohenemsi határ közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.672279,
                         47.380802
@@ -14640,6 +20337,105 @@ export const austriaCitiesV2: POI[] = [
                         9.676975,
                         47.366303
                   ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Az Alter Rhein Hohenemsben egy szép természeti környezetben fekvő állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "A hohenemsi Lehmlöcher tavak alkalmasak egy kellemes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "A hohenemsi Stockenweiher egy kis tó a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "Egy helyi tűzivíztározó Hohenemsben, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.680772,
+                        47.316005
+                  ]
+            },
+            {
+                  "name": "Kinder-Erlebniswelt",
+                  "text": "A hohenemsi Kinder-Erlebniswelt kikapcsolódást nyújt a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.655476,
+                        47.367182
+                  ]
+            },
+            {
+                  "name": "Indoor Minigolf",
+                  "text": "Egy beltéri minigolfpálya Hohenemsben az időjárástól független családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.676229,
+                        47.371814
+                  ]
+            },
+            {
+                  "name": "Dorfplatz",
+                  "text": "Egy játszótér a hohenemsi Dorfplatzon a legkisebb látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        9.650201,
+                        47.353957
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grillparzerstraße",
+                  "text": "Egy gyerekbarát játszótér a hohenemsi Grillparzerstraße utcában.",
+                  "category": "family",
+                  "coords": [
+                        9.674806,
+                        47.368909
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Dämmle",
+                  "text": "A hohenemsi Spielplatz am Dämmle játékra hívja a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        9.681627,
+                        47.368456
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Witzke",
+                  "text": "Egy szép játszótér a hohenemsi Witzke negyedben.",
+                  "category": "family",
+                  "coords": [
+                        9.669,
+                        47.357913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwefel",
+                  "text": "Egy nyilvános játszótér a hohenemsi Schwefel városrészben.",
+                  "category": "family",
+                  "coords": [
+                        9.676851,
+                        47.356063
+                  ]
             }
       ],
       "ro": [
@@ -14691,7 +20487,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erholungszentrum Rheinauen",
                   "text": "O zonă mare de agrement și ștrand situată direct în luncile Rinului din Hohenems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.653178,
                         47.367247
@@ -14709,7 +20505,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Strandbad Diepoldsau",
                   "text": "Un ștrand natural la lac în Diepoldsau, lângă granița cu Hohenems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.672279,
                         47.380802
@@ -14912,6 +20708,105 @@ export const austriaCitiesV2: POI[] = [
                         9.676975,
                         47.366303
                   ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "Alter Rhein din Hohenems este o apă stătătoare într-un cadru natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "Lehmlöcher din Hohenems sunt iazuri potrivite pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "Stockenweiher din Hohenems este un lac mic din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "Un iaz de incendiu local în Hohenems, într-o locație liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.680772,
+                        47.316005
+                  ]
+            },
+            {
+                  "name": "Kinder-Erlebniswelt",
+                  "text": "Kinder-Erlebniswelt din Hohenems oferă recreere pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.655476,
+                        47.367182
+                  ]
+            },
+            {
+                  "name": "Indoor Minigolf",
+                  "text": "Un teren de minigolf acoperit în Hohenems pentru distracție în familie, indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        9.676229,
+                        47.371814
+                  ]
+            },
+            {
+                  "name": "Dorfplatz",
+                  "text": "Un loc de joacă în Dorfplatz din Hohenems pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        9.650201,
+                        47.353957
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grillparzerstraße",
+                  "text": "Un loc de joacă pentru copii pe strada Grillparzerstraße din Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.674806,
+                        47.368909
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Dämmle",
+                  "text": "Locul de joacă am Dämmle din Hohenems îi invită pe copii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.681627,
+                        47.368456
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Witzke",
+                  "text": "Un loc de joacă frumos în cartierul Witzke din Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.669,
+                        47.357913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwefel",
+                  "text": "Un loc de joacă public în districtul Schwefel din Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.676851,
+                        47.356063
+                  ]
             }
       ],
       "en": [
@@ -14963,7 +20858,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erholungszentrum Rheinauen",
                   "text": "A large leisure and outdoor pool area located directly on the Rhine floodplains in Hohenems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.653178,
                         47.367247
@@ -14981,7 +20876,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Strandbad Diepoldsau",
                   "text": "A natural lakeside pool in Diepoldsau, near the border with Hohenems.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.672279,
                         47.380802
@@ -15184,6 +21079,105 @@ export const austriaCitiesV2: POI[] = [
                         9.676975,
                         47.366303
                   ]
+            },
+            {
+                  "name": "Alter Rhein",
+                  "text": "The Alter Rhein in Hohenems is a body of water in a beautiful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.655836,
+                        47.403005
+                  ]
+            },
+            {
+                  "name": "Lehmlöcher",
+                  "text": "The Lehmlöcher in Hohenems are ponds suitable for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.674038,
+                        47.358909
+                  ]
+            },
+            {
+                  "name": "Stockenweiher",
+                  "text": "The Stockenweiher in Hohenems is a small lake in the region.",
+                  "category": "natural",
+                  "coords": [
+                        9.675548,
+                        47.357544
+                  ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "A local fire pond in Hohenems in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        9.680772,
+                        47.316005
+                  ]
+            },
+            {
+                  "name": "Kinder-Erlebniswelt",
+                  "text": "The Kinder-Erlebniswelt in Hohenems offers recreation for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.655476,
+                        47.367182
+                  ]
+            },
+            {
+                  "name": "Indoor Minigolf",
+                  "text": "An indoor minigolf course in Hohenems for weather-independent family fun.",
+                  "category": "family",
+                  "coords": [
+                        9.676229,
+                        47.371814
+                  ]
+            },
+            {
+                  "name": "Dorfplatz",
+                  "text": "A playground at the Dorfplatz in Hohenems for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        9.650201,
+                        47.353957
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grillparzerstraße",
+                  "text": "A child-friendly playground in Grillparzerstraße in Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.674806,
+                        47.368909
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Dämmle",
+                  "text": "The playground am Dämmle in Hohenems invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.681627,
+                        47.368456
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Witzke",
+                  "text": "A nice playground in the Witzke district in Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.669,
+                        47.357913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schwefel",
+                  "text": "A public playground in the Schwefel district in Hohenems.",
+                  "category": "family",
+                  "coords": [
+                        9.676851,
+                        47.356063
+                  ]
             }
       ]
 },
@@ -15353,7 +21347,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Liesinger Bad",
                   "text": "Ein öffentliches Schwimmbad in Perchtoldsdorf für Sport und Freizeit.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.280169,
                         48.132786
@@ -15362,7 +21356,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freizeitzentrum Perchtoldsdorf",
                   "text": "Ein Freizeitzentrum in Perchtoldsdorf mit vielfältigen Bade- und Sportmöglichkeiten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.267314,
                         48.12328
@@ -15805,7 +21799,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Liesinger Bad",
                   "text": "Nyilvános uszoda Perchtoldsdorfban sportoláshoz és szabadidőhöz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.280169,
                         48.132786
@@ -15814,7 +21808,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freizeitzentrum Perchtoldsdorf",
                   "text": "Perchtoldsdorfi szabadidőközpont különféle fürdési és sportolási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.267314,
                         48.12328
@@ -16257,7 +22251,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Liesinger Bad",
                   "text": "O piscină publică în Perchtoldsdorf pentru sport și petrecerea timpului liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.280169,
                         48.132786
@@ -16266,7 +22260,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freizeitzentrum Perchtoldsdorf",
                   "text": "Un centru de agrement în Perchtoldsdorf cu diverse facilități sportive și de înot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.267314,
                         48.12328
@@ -16709,7 +22703,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Liesinger Bad",
                   "text": "A public swimming pool in Perchtoldsdorf for sports and leisure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.280169,
                         48.132786
@@ -16718,7 +22712,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freizeitzentrum Perchtoldsdorf",
                   "text": "A recreation center in Perchtoldsdorf with various swimming and sports facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.267314,
                         48.12328
@@ -17085,7 +23079,88 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-perchtoldsdorf-cities-v2.webp",
   },
   {
-    id: "austria-ternitz-cities-v2",
+    id: "austria-ternitz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drudenteich",
+                  "text": "Der Drudenteich in Ternitz bietet eine ruhige Atmosphäre für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Das Reservoir in Ternitz bietet eine ruhige Kulisse für einen kurzen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drudenteich",
+                  "text": "A Ternitz településen található Drudenteich kellemes helyszínt biztosít a sétákhoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "A Ternitz településen található Reservoir kellemes környezetet kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drudenteich",
+                  "text": "Drudenteich din Ternitz oferă o atmosferă liniștită pentru plimbări în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Reservoir din Ternitz oferă un cadru liniștit pentru o scurtă plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drudenteich",
+                  "text": "Drudenteich in Ternitz offers a peaceful atmosphere for scenic walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.097198,
+                        47.704552
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "The Reservoir in Ternitz offers a quiet setting for a short walk and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.977678,
+                        47.741796
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Ternitz", hu: "Ternitz", ro: "Ternitz", en: "Ternitz" },
@@ -17212,6 +23287,51 @@ export const austriaCitiesV2: POI[] = [
                         14.06086,
                         46.70781
                   ]
+            },
+            {
+                  "name": "Ossiacher See",
+                  "text": "Ein großer See in Feldkirchen in Kärnten, bekannt für seine Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Sankt Urbaner See",
+                  "text": "Ein idyllischer See in Feldkirchen in Kärnten, ideal zum Schwimmen und Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        14.161066,
+                        46.745711
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "Ein künstlich angelegter See in Feldkirchen in Kärnten in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.107627,
+                        46.755257
+                  ]
+            },
+            {
+                  "name": "Flatschacher See",
+                  "text": "Ein Naturbadesee in Feldkirchen in Kärnten, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.061989,
+                        46.727646
+                  ]
+            },
+            {
+                  "name": "Sumsiland",
+                  "text": "Ein fantasievoller Spielplatz in Feldkirchen in Kärnten für Kinderabenteuer.",
+                  "category": "family",
+                  "coords": [
+                        14.099165,
+                        46.723811
+                  ]
             }
       ],
       "hu": [
@@ -17294,6 +23414,51 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.06086,
                         46.70781
+                  ]
+            },
+            {
+                  "name": "Ossiacher See",
+                  "text": "Egy nagy tó Feldkirchen in Kärntenben, amely szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Sankt Urbaner See",
+                  "text": "Egy idilli tó Feldkirchen in Kärntenben, ideális úszáshoz és túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.161066,
+                        46.745711
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "Egy mesterséges tó Feldkirchen in Kärntenben, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.107627,
+                        46.755257
+                  ]
+            },
+            {
+                  "name": "Flatschacher See",
+                  "text": "Egy természetes fürdőtó Feldkirchen in Kärntenben, amely nyugalmat és pihenést kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.061989,
+                        46.727646
+                  ]
+            },
+            {
+                  "name": "Sumsiland",
+                  "text": "Egy fantáziadús játszótér Feldkirchen in Kärntenben a gyermekek kalandjaihoz.",
+                  "category": "family",
+                  "coords": [
+                        14.099165,
+                        46.723811
                   ]
             }
       ],
@@ -17378,6 +23543,51 @@ export const austriaCitiesV2: POI[] = [
                         14.06086,
                         46.70781
                   ]
+            },
+            {
+                  "name": "Ossiacher See",
+                  "text": "Un lac mare în Feldkirchen în Carintia, cunoscut pentru oportunitățile sale de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Sankt Urbaner See",
+                  "text": "Un lac idilic în Feldkirchen în Carintia, ideal pentru înot și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        14.161066,
+                        46.745711
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "Un lac artificial în Feldkirchen în Carintia, într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        14.107627,
+                        46.755257
+                  ]
+            },
+            {
+                  "name": "Flatschacher See",
+                  "text": "Un lac natural de scăldat în Feldkirchen în Carintia, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.061989,
+                        46.727646
+                  ]
+            },
+            {
+                  "name": "Sumsiland",
+                  "text": "Un teren de joacă plin de imaginație în Feldkirchen în Carintia pentru aventurile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.099165,
+                        46.723811
+                  ]
             }
       ],
       "en": [
@@ -17460,6 +23670,51 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.06086,
                         46.70781
+                  ]
+            },
+            {
+                  "name": "Lake Ossiach",
+                  "text": "A large lake in Feldkirchen in Carinthia, known for its recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        13.95689,
+                        46.672487
+                  ]
+            },
+            {
+                  "name": "Sankt Urbaner See",
+                  "text": "An idyllic lake in Feldkirchen in Carinthia, ideal for swimming and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        14.161066,
+                        46.745711
+                  ]
+            },
+            {
+                  "name": "Rückhaltebecken",
+                  "text": "A man-made lake in Feldkirchen in Carinthia, set in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        14.107627,
+                        46.755257
+                  ]
+            },
+            {
+                  "name": "Flatschacher See",
+                  "text": "A natural swimming lake in Feldkirchen in Carinthia, offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        14.061989,
+                        46.727646
+                  ]
+            },
+            {
+                  "name": "Sumsiland",
+                  "text": "An imaginative playground in Feldkirchen in Carinthia for children's adventures.",
+                  "category": "family",
+                  "coords": [
+                        14.099165,
+                        46.723811
                   ]
             }
       ]
@@ -17558,7 +23813,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Val Blu",
                   "text": "Moderner Freizeitpark mit Hallenbad und Saunalandschaft in Bludenz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.832476,
                         47.156391
@@ -17725,6 +23980,51 @@ export const austriaCitiesV2: POI[] = [
                         9.797002,
                         47.173082
                   ]
+            },
+            {
+                  "name": "Tschalengasee",
+                  "text": "Der Tschalengasee in Bludenz ist ein kleiner See inmitten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.77479,
+                        47.171684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterfeld",
+                  "text": "Ein Spielplatz im Bereich Unterfeld in Bludenz für Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        9.832653,
+                        47.154421
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Krönele",
+                  "text": "Ein Minigolfplatz beim Krönele in Bludenz für Spaß mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.834591,
+                        47.140774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Daneu",
+                  "text": "Der Spielplatz Daneu in Bludenz bietet Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.813216,
+                        47.169984
+                  ]
+            },
+            {
+                  "name": "Plettenberg-Park",
+                  "text": "Der Plettenberg-Park in Bludenz verfügt über einen Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.823652,
+                        47.153137
+                  ]
             }
       ],
       "hu": [
@@ -17776,7 +24076,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Val Blu",
                   "text": "Modern szabadidőpark fedett medencével és szaunavilággal Bludenzben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.832476,
                         47.156391
@@ -17943,6 +24243,51 @@ export const austriaCitiesV2: POI[] = [
                         9.797002,
                         47.173082
                   ]
+            },
+            {
+                  "name": "Tschalengasee",
+                  "text": "A bludenzi Tschalengasee egy kis tó a táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        9.77479,
+                        47.171684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterfeld",
+                  "text": "Egy játszótér a bludenzi Unterfeld területén szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        9.832653,
+                        47.154421
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Krönele",
+                  "text": "Egy minigolfpálya a bludenzi Krönele mellett a család minden tagjának.",
+                  "category": "family",
+                  "coords": [
+                        9.834591,
+                        47.140774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Daneu",
+                  "text": "A bludenzi Daneu játszótér játékokat kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.813216,
+                        47.169984
+                  ]
+            },
+            {
+                  "name": "Plettenberg-Park",
+                  "text": "A bludenzi Plettenberg-Park játszótérrel várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        9.823652,
+                        47.153137
+                  ]
             }
       ],
       "ro": [
@@ -17994,7 +24339,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Val Blu",
                   "text": "Parc de distracții modern cu piscină interioară și zonă de saună în Bludenz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.832476,
                         47.156391
@@ -18161,6 +24506,51 @@ export const austriaCitiesV2: POI[] = [
                         9.797002,
                         47.173082
                   ]
+            },
+            {
+                  "name": "Tschalengasee",
+                  "text": "Tschalengasee din Bludenz este un lac mic în mijlocul peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        9.77479,
+                        47.171684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterfeld",
+                  "text": "Un loc de joacă în zona Unterfeld din Bludenz pentru activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        9.832653,
+                        47.154421
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Krönele",
+                  "text": "Un teren de minigolf la Krönele din Bludenz pentru distracție cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.834591,
+                        47.140774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Daneu",
+                  "text": "Locul de joacă Daneu din Bludenz oferă echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.813216,
+                        47.169984
+                  ]
+            },
+            {
+                  "name": "Plettenberg-Park",
+                  "text": "Plettenberg-Park din Bludenz dispune de un loc de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.823652,
+                        47.153137
+                  ]
             }
       ],
       "en": [
@@ -18212,7 +24602,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Val Blu",
                   "text": "Modern leisure park with an indoor pool and sauna landscape in Bludenz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         9.832476,
                         47.156391
@@ -18379,6 +24769,51 @@ export const austriaCitiesV2: POI[] = [
                         9.797002,
                         47.173082
                   ]
+            },
+            {
+                  "name": "Tschalengasee",
+                  "text": "The Tschalengasee in Bludenz is a small lake in the middle of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.77479,
+                        47.171684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Unterfeld",
+                  "text": "A playground in the Unterfeld area in Bludenz for leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        9.832653,
+                        47.154421
+                  ]
+            },
+            {
+                  "name": "Minigolfplatz Krönele",
+                  "text": "A minigolf course at Krönele in Bludenz for fun with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.834591,
+                        47.140774
+                  ]
+            },
+            {
+                  "name": "Spielplatz Daneu",
+                  "text": "The Daneu playground in Bludenz offers play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        9.813216,
+                        47.169984
+                  ]
+            },
+            {
+                  "name": "Plettenberg-Park",
+                  "text": "Plettenberg-Park in Bludenz features a playground for families.",
+                  "category": "family",
+                  "coords": [
+                        9.823652,
+                        47.153137
+                  ]
             }
       ]
 },
@@ -18485,7 +24920,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Parkbad Bad Ischl",
                   "text": "Das Parkbad Bad Ischl bietet zahlreiche Wasserattraktionen für Erholungssuchende.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.621908,
                         47.714301
@@ -18766,7 +25201,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Parkbad Bad Ischl",
                   "text": "A bad ischli Parkbad számos vízi attrakciót kínál a kikapcsolódásra vágyóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.621908,
                         47.714301
@@ -19047,7 +25482,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Parkbad Bad Ischl",
                   "text": "Parkbad Bad Ischl oferă numeroase atracții acvatice pentru cei care caută relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.621908,
                         47.714301
@@ -19328,7 +25763,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Parkbad Bad Ischl",
                   "text": "The Parkbad Bad Ischl offers numerous water attractions for those seeking recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.621908,
                         47.714301
@@ -19673,7 +26108,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Schwaz",
                   "text": "Ein Freizeitbad und Wasserpark in der Stadt Schwaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.705527,
                         47.337568
@@ -19682,7 +26117,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Stans",
                   "text": "Ein öffentliches Freibad in der Gemeinde Stans bei Schwaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.715298,
                         47.368611
@@ -19963,7 +26398,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Schwaz",
                   "text": "Szabadidős fürdő és vízi park Schwaz városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.705527,
                         47.337568
@@ -19972,7 +26407,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Stans",
                   "text": "Nyilvános strandfürdő Stans községben, Schwaz közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.715298,
                         47.368611
@@ -20253,7 +26688,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Schwaz",
                   "text": "Un parc acvatic și ștrand în orașul Schwaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.705527,
                         47.337568
@@ -20262,7 +26697,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Stans",
                   "text": "Un ștrand public în comuna Stans, lângă Schwaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.715298,
                         47.368611
@@ -20543,7 +26978,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Schwaz",
                   "text": "A leisure pool and water park in the city of Schwaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.705527,
                         47.337568
@@ -20552,7 +26987,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Stans",
                   "text": "A public outdoor pool in the municipality of Stans near Schwaz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.715298,
                         47.368611
@@ -20906,7 +27341,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Kufstein",
                   "text": "Öffentliches Schwimmbad in Kufstein mit verschiedenen Wasserbecken für Sport und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.167701,
                         47.590364
@@ -21160,7 +27595,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Kufstein",
                   "text": "Nyilvános uszoda Kufsteinben, különféle medencékkel sportoláshoz és kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.167701,
                         47.590364
@@ -21414,7 +27849,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Kufstein",
                   "text": "Piscină publică în Kufstein cu diverse bazine pentru sport și relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.167701,
                         47.590364
@@ -21668,7 +28103,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Kufstein",
                   "text": "A public swimming pool in Kufstein with various basins for sports and recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.167701,
                         47.590364
@@ -21960,7 +28395,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisschwimmbad",
                   "text": "Das Erlebnisschwimmbad Voitsberg bietet Badevergnügen und Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.154354,
                         47.044806
@@ -22046,6 +28481,33 @@ export const austriaCitiesV2: POI[] = [
                         15.156071,
                         47.054565
                   ]
+            },
+            {
+                  "name": "Pibersteinersee",
+                  "text": "Der Pibersteinersee in Voitsberg ist ein beliebtes Ziel für Erholungsuchende und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        15.064625,
+                        47.055324
+                  ]
+            },
+            {
+                  "name": "Rittler-Park",
+                  "text": "Der Rittler-Park in Voitsberg bietet Kindern viel Raum für Bewegung und Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.141306,
+                        47.047618
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Voitsberg",
+                  "text": "Die Minigolfanlage Voitsberg ist ein ideales Ziel für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        15.158049,
+                        47.048865
+                  ]
             }
       ],
       "hu": [
@@ -22097,7 +28559,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisschwimmbad",
                   "text": "A voitsbergi Erlebnisschwimmbad fürdőzési lehetőséget és szabadidős tevékenységeket kíniert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.154354,
                         47.044806
@@ -22183,6 +28645,33 @@ export const austriaCitiesV2: POI[] = [
                         15.156071,
                         47.054565
                   ]
+            },
+            {
+                  "name": "Pibersteinersee",
+                  "text": "A Voitsberg településen fekvő Pibersteinersee népszerű helyszín a pihenni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        15.064625,
+                        47.055324
+                  ]
+            },
+            {
+                  "name": "Rittler-Park",
+                  "text": "A Voitsberg városában található Rittler-Park változatos kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.141306,
+                        47.047618
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Voitsberg",
+                  "text": "A Voitsberg városában található minigolfpálya remek szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.158049,
+                        47.048865
+                  ]
             }
       ],
       "ro": [
@@ -22234,7 +28723,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisschwimmbad",
                   "text": "Erlebnisschwimmbad Voitsberg oferă facilități pentru înot și activități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.154354,
                         47.044806
@@ -22320,6 +28809,33 @@ export const austriaCitiesV2: POI[] = [
                         15.156071,
                         47.054565
                   ]
+            },
+            {
+                  "name": "Pibersteinersee",
+                  "text": "Pibersteinersee din Voitsberg este o destinație populară pentru relaxare și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.064625,
+                        47.055324
+                  ]
+            },
+            {
+                  "name": "Rittler-Park",
+                  "text": "Parcul Rittler-Park din Voitsberg oferă copiilor mult spațiu pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.141306,
+                        47.047618
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Voitsberg",
+                  "text": "Terenul de minigolf din Voitsberg este o destinație ideală pentru o ieșire distractivă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        15.158049,
+                        47.048865
+                  ]
             }
       ],
       "en": [
@@ -22371,7 +28887,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisschwimmbad",
                   "text": "The Voitsberg adventure pool offers swimming and recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.154354,
                         47.044806
@@ -22456,6 +28972,33 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.156071,
                         47.054565
+                  ]
+            },
+            {
+                  "name": "Pibersteinersee",
+                  "text": "Pibersteinersee in Voitsberg is a popular destination for relaxation and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        15.064625,
+                        47.055324
+                  ]
+            },
+            {
+                  "name": "Rittler-Park",
+                  "text": "The Rittler-Park in Voitsberg offers plenty of space for children to play and exercise outdoors.",
+                  "category": "family",
+                  "coords": [
+                        15.141306,
+                        47.047618
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage Voitsberg",
+                  "text": "The miniature golf course in Voitsberg is an ideal destination for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        15.158049,
+                        47.048865
                   ]
             }
       ]
@@ -22545,7 +29088,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldrapp",
                   "text": "Projekt zur Wiederansiedlung des seltenen Waldrapps in der Region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.283674,
                         48.817168
@@ -22631,6 +29174,51 @@ export const austriaCitiesV2: POI[] = [
                         15.284314,
                         48.81299
                   ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "Ein kleiner Teich in Waidhofen an der Thaya, der die Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        15.298929,
+                        48.77502
+                  ]
+            },
+            {
+                  "name": "Löschteich Jarolden",
+                  "text": "Ein ruhiges Gewässer in Waidhofen an der Thaya, ideal für einen kurzen Halt.",
+                  "category": "natural",
+                  "coords": [
+                        15.311678,
+                        48.838023
+                  ]
+            },
+            {
+                  "name": "Löschwasserteich Schirnes",
+                  "text": "Ein Teich in Waidhofen an der Thaya, der zur entspannten Atmosphäre beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        15.257139,
+                        48.854696
+                  ]
+            },
+            {
+                  "name": "Ziegengeist-Spielplatz",
+                  "text": "Ein lokaler Spielplatz in Waidhofen an der Thaya, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.288627,
+                        48.816532
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage",
+                  "text": "Eine gepflegte Minigolfanlage in Waidhofen an der Thaya für einen aktiven Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        15.289901,
+                        48.808322
+                  ]
             }
       ],
       "hu": [
@@ -22673,7 +29261,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldrapp",
                   "text": "Projekt a ritka tarvarjú visszatelepítésére a régióban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.283674,
                         48.817168
@@ -22759,6 +29347,51 @@ export const austriaCitiesV2: POI[] = [
                         15.284314,
                         48.81299
                   ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "Egy kis tó Waidhofen an der Thayában, amely gazdagítja a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        15.298929,
+                        48.77502
+                  ]
+            },
+            {
+                  "name": "Löschteich Jarolden",
+                  "text": "Egy nyugodt vízfelület Waidhofen an der Thayában, ideális egy rövid megállóhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.311678,
+                        48.838023
+                  ]
+            },
+            {
+                  "name": "Löschwasserteich Schirnes",
+                  "text": "Egy tó Waidhofen an der Thayában, amely hozzájárul a nyugodt légkörhöz.",
+                  "category": "natural",
+                  "coords": [
+                        15.257139,
+                        48.854696
+                  ]
+            },
+            {
+                  "name": "Ziegengeist-Spielplatz",
+                  "text": "Egy helyi játszótér Waidhofen an der Thayában, ideális családoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.288627,
+                        48.816532
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage",
+                  "text": "Egy gondozott minigolfpálya Waidhofen an der Thayában egy aktív délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.289901,
+                        48.808322
+                  ]
             }
       ],
       "ro": [
@@ -22801,7 +29434,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldrapp",
                   "text": "Proiect pentru reintroducerea rarei păsări Waldrapp în regiune.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.283674,
                         48.817168
@@ -22887,6 +29520,51 @@ export const austriaCitiesV2: POI[] = [
                         15.284314,
                         48.81299
                   ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "Un iaz mic în Waidhofen an der Thaya, care îmbogățește peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        15.298929,
+                        48.77502
+                  ]
+            },
+            {
+                  "name": "Löschteich Jarolden",
+                  "text": "O apă liniștită în Waidhofen an der Thaya, ideală pentru o oprire scurtă.",
+                  "category": "natural",
+                  "coords": [
+                        15.311678,
+                        48.838023
+                  ]
+            },
+            {
+                  "name": "Löschwasserteich Schirnes",
+                  "text": "Un iaz în Waidhofen an der Thaya, care contribuie la atmosfera relaxată.",
+                  "category": "natural",
+                  "coords": [
+                        15.257139,
+                        48.854696
+                  ]
+            },
+            {
+                  "name": "Ziegengeist-Spielplatz",
+                  "text": "Un teren de joacă local în Waidhofen an der Thaya, ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.288627,
+                        48.816532
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage",
+                  "text": "Un teren de minigolf bine întreținut în Waidhofen an der Thaya pentru o după-amiază activă.",
+                  "category": "family",
+                  "coords": [
+                        15.289901,
+                        48.808322
+                  ]
             }
       ],
       "en": [
@@ -22929,7 +29607,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Waldrapp",
                   "text": "Project for the reintroduction of the rare Northern Bald Ibis in the region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.283674,
                         48.817168
@@ -23014,6 +29692,51 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.284314,
                         48.81299
+                  ]
+            },
+            {
+                  "name": "Löschteich",
+                  "text": "A small pond in Waidhofen an der Thaya, enhancing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.298929,
+                        48.77502
+                  ]
+            },
+            {
+                  "name": "Löschteich Jarolden",
+                  "text": "A quiet body of water in Waidhofen an der Thaya, ideal for a short stop.",
+                  "category": "natural",
+                  "coords": [
+                        15.311678,
+                        48.838023
+                  ]
+            },
+            {
+                  "name": "Löschwasserteich Schirnes",
+                  "text": "A pond in Waidhofen an der Thaya, contributing to the relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        15.257139,
+                        48.854696
+                  ]
+            },
+            {
+                  "name": "Ziegengeist-Spielplatz",
+                  "text": "A local playground in Waidhofen an der Thaya, ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        15.288627,
+                        48.816532
+                  ]
+            },
+            {
+                  "name": "Minigolfanlage",
+                  "text": "A well-maintained miniature golf course in Waidhofen an der Thaya for an active afternoon.",
+                  "category": "family",
+                  "coords": [
+                        15.289901,
+                        48.808322
                   ]
             }
       ]
@@ -23112,7 +29835,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Judenburg",
                   "text": "Freizeitbad in Judenburg mit verschiedenen Rutschen und Sportbecken für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.652914,
                         47.162315
@@ -23180,6 +29903,24 @@ export const austriaCitiesV2: POI[] = [
                         14.639485,
                         47.176482
                   ]
+            },
+            {
+                  "name": "Prügelschmeißplatz",
+                  "text": "Der Prügelschmeißplatz in Judenburg ist ein lokaler Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        14.688278,
+                        47.18142
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Kinder Spielplatz",
+                  "text": "Ein öffentlicher Kinderspielplatz in Judenburg für tägliches Spielvergnügen.",
+                  "category": "family",
+                  "coords": [
+                        14.653664,
+                        47.168256
+                  ]
             }
       ],
       "hu": [
@@ -23231,7 +29972,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Judenburg",
                   "text": "Szabadidős fürdő Judenburgban csúszdákkal és sportmedencékkel családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.652914,
                         47.162315
@@ -23299,6 +30040,24 @@ export const austriaCitiesV2: POI[] = [
                         14.639485,
                         47.176482
                   ]
+            },
+            {
+                  "name": "Prügelschmeißplatz",
+                  "text": "A judenburgi Prügelschmeißplatz egy helyi játszótér.",
+                  "category": "family",
+                  "coords": [
+                        14.688278,
+                        47.18142
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Kinder Spielplatz",
+                  "text": "Egy nyilvános játszótér Judenburgban a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.653664,
+                        47.168256
+                  ]
             }
       ],
       "ro": [
@@ -23350,7 +30109,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Judenburg",
                   "text": "Ștrand în Judenburg cu diverse tobogane și bazine sportive pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.652914,
                         47.162315
@@ -23418,6 +30177,24 @@ export const austriaCitiesV2: POI[] = [
                         14.639485,
                         47.176482
                   ]
+            },
+            {
+                  "name": "Prügelschmeißplatz",
+                  "text": "Prügelschmeißplatz din Judenburg este un loc de joacă local.",
+                  "category": "family",
+                  "coords": [
+                        14.688278,
+                        47.18142
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Kinder Spielplatz",
+                  "text": "Un loc de joacă public în Judenburg pentru joaca de zi cu zi.",
+                  "category": "family",
+                  "coords": [
+                        14.653664,
+                        47.168256
+                  ]
             }
       ],
       "en": [
@@ -23469,7 +30246,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Erlebnisbad Judenburg",
                   "text": "A leisure pool in Judenburg with various slides and sports pools for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.652914,
                         47.162315
@@ -23537,6 +30314,24 @@ export const austriaCitiesV2: POI[] = [
                         14.639485,
                         47.176482
                   ]
+            },
+            {
+                  "name": "Prügelschmeißplatz",
+                  "text": "The Prügelschmeißplatz in Judenburg is a local playground.",
+                  "category": "family",
+                  "coords": [
+                        14.688278,
+                        47.18142
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Kinder Spielplatz",
+                  "text": "A public playground in Judenburg for daily play.",
+                  "category": "family",
+                  "coords": [
+                        14.653664,
+                        47.168256
+                  ]
             }
       ]
 },
@@ -23584,7 +30379,196 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-judenburg-cities-v2.webp",
   },
     {
-    id: "austria-freistadt-cities-v2",
+    id: "austria-freistadt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wasserschloss",
+                  "text": "Das Wasserschloss in Freistadt bietet eine malerische Kulisse für einen gemütlichen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        14.518893,
+                        48.468886
+                  ]
+            },
+            {
+                  "name": "Feistritzer Stausee",
+                  "text": "Der Feistritzer Stausee in Freistadt bietet eine ruhige Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        14.522223,
+                        48.468673
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginzkeystraße",
+                  "text": "Der Spielplatz Ginzkeystraße in Freistadt bietet Kindern verschiedene Möglichkeiten zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.49822,
+                        48.503236
+                  ]
+            },
+            {
+                  "name": "Finstere Promenade",
+                  "text": "Die Finstere Promenade in Freistadt ist ein schöner Ort für Familien zum Verweilen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        14.507051,
+                        48.511732
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginskeystraße",
+                  "text": "Der Spielplatz Ginskeystraße in Freistadt lädt Kinder zum Entdecken und Toben ein.",
+                  "category": "family",
+                  "coords": [
+                        14.500492,
+                        48.502544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wasserschloss",
+                  "text": "A Freistadt településen található Wasserschloss festői környezetet biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.518893,
+                        48.468886
+                  ]
+            },
+            {
+                  "name": "Feistritzer Stausee",
+                  "text": "A Freistadt közelében található Feistritzer Stausee kellemes helyszín a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        14.522223,
+                        48.468673
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginzkeystraße",
+                  "text": "A Freistadt városában található Ginzkeystraße játszótér vidám időtöltést kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.49822,
+                        48.503236
+                  ]
+            },
+            {
+                  "name": "Finstere Promenade",
+                  "text": "A Freistadt városában lévő Finstere Promenade játszótér kellemes kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.507051,
+                        48.511732
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginskeystraße",
+                  "text": "A Freistadt városában található Ginskeystraße játszótér izgalmas játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        14.500492,
+                        48.502544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wasserschloss",
+                  "text": "Wasserschloss din Freistadt oferă un cadru pitoresc pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.518893,
+                        48.468886
+                  ]
+            },
+            {
+                  "name": "Feistritzer Stausee",
+                  "text": "Lacul de acumulare Feistritzer Stausee din Freistadt oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.522223,
+                        48.468673
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginzkeystraße",
+                  "text": "Locul de joacă din strada Ginzkeystraße, Freistadt, oferă diverse opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.49822,
+                        48.503236
+                  ]
+            },
+            {
+                  "name": "Finstere Promenade",
+                  "text": "Finstere Promenade din Freistadt este un loc plăcut pentru familii, oferind spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        14.507051,
+                        48.511732
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginskeystraße",
+                  "text": "Locul de joacă Ginskeystraße din Freistadt invită copiii la joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        14.500492,
+                        48.502544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wasserschloss",
+                  "text": "The Wasserschloss in Freistadt offers a picturesque setting for a pleasant walk.",
+                  "category": "natural",
+                  "coords": [
+                        14.518893,
+                        48.468886
+                  ]
+            },
+            {
+                  "name": "Feistritzer Stausee",
+                  "text": "The Feistritzer Stausee in Freistadt offers a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.522223,
+                        48.468673
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginzkeystraße",
+                  "text": "The Ginzkeystraße playground in Freistadt offers various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        14.49822,
+                        48.503236
+                  ]
+            },
+            {
+                  "name": "Finstere Promenade",
+                  "text": "The Finstere Promenade in Freistadt is a nice place for families to spend time and play.",
+                  "category": "family",
+                  "coords": [
+                        14.507051,
+                        48.511732
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ginskeystraße",
+                  "text": "The Ginskeystraße playground in Freistadt invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        14.500492,
+                        48.502544
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Freistadt", hu: "Freistadt", ro: "Freistadt", en: "Freistadt" },
@@ -23940,7 +30924,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Alpenbad Liezen",
                   "text": "Öffentliches Freibad in Liezen mit Sport- und Erlebnisbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.242776,
                         47.572382
@@ -24017,13 +31001,31 @@ export const austriaCitiesV2: POI[] = [
                         14.245289,
                         47.569745
                   ]
+            },
+            {
+                  "name": "Goldsee",
+                  "text": "Der Goldsee in Liezen ist ein malerischer Bergsee in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.17556,
+                        47.622917
+                  ]
+            },
+            {
+                  "name": "EliFun",
+                  "text": "EliFun in Liezen bietet Indoor-Spielmöglichkeiten für Kinder an.",
+                  "category": "family",
+                  "coords": [
+                        14.245838,
+                        47.561866
+                  ]
             }
       ],
       "hu": [
             {
                   "name": "Alpenbad Liezen",
                   "text": "Nyilvános szabadtéri strand Liezenben sport- és élménymedencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.242776,
                         47.572382
@@ -24100,13 +31102,31 @@ export const austriaCitiesV2: POI[] = [
                         14.245289,
                         47.569745
                   ]
+            },
+            {
+                  "name": "Goldsee",
+                  "text": "A liezeni Goldsee egy festői hegyi tó a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        14.17556,
+                        47.622917
+                  ]
+            },
+            {
+                  "name": "EliFun",
+                  "text": "A liezeni EliFun beltéri játéklehetőségeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.245838,
+                        47.561866
+                  ]
             }
       ],
       "ro": [
             {
                   "name": "Alpenbad Liezen",
                   "text": "Ștrand public în Liezen cu zone de sport și agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.242776,
                         47.572382
@@ -24183,13 +31203,31 @@ export const austriaCitiesV2: POI[] = [
                         14.245289,
                         47.569745
                   ]
+            },
+            {
+                  "name": "Goldsee",
+                  "text": "Goldsee din Liezen este un lac montan pitoresc din zonă.",
+                  "category": "natural",
+                  "coords": [
+                        14.17556,
+                        47.622917
+                  ]
+            },
+            {
+                  "name": "EliFun",
+                  "text": "EliFun din Liezen oferă facilități de joacă în interior pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.245838,
+                        47.561866
+                  ]
             }
       ],
       "en": [
             {
                   "name": "Alpenbad Liezen",
                   "text": "A public outdoor pool in Liezen with sports and leisure areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.242776,
                         47.572382
@@ -24265,6 +31303,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.245289,
                         47.569745
+                  ]
+            },
+            {
+                  "name": "Goldsee",
+                  "text": "The Goldsee in Liezen is a picturesque mountain lake in the area.",
+                  "category": "natural",
+                  "coords": [
+                        14.17556,
+                        47.622917
+                  ]
+            },
+            {
+                  "name": "EliFun",
+                  "text": "EliFun in Liezen offers indoor play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        14.245838,
+                        47.561866
                   ]
             }
       ]
@@ -24404,6 +31460,15 @@ export const austriaCitiesV2: POI[] = [
                         16.594286,
                         48.56101
                   ]
+            },
+            {
+                  "name": "Generationenspielplatz Mistelbach Nord",
+                  "text": "Der Generationenspielplatz Mistelbach Nord bietet Spiel und Spaß für Jung und Alt.",
+                  "category": "family",
+                  "coords": [
+                        16.561217,
+                        48.578059
+                  ]
             }
       ],
       "hu": [
@@ -24495,6 +31560,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.594286,
                         48.56101
+                  ]
+            },
+            {
+                  "name": "Generationenspielplatz Mistelbach Nord",
+                  "text": "A Mistelbach Nord generációs játszótér szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        16.561217,
+                        48.578059
                   ]
             }
       ],
@@ -24588,6 +31662,15 @@ export const austriaCitiesV2: POI[] = [
                         16.594286,
                         48.56101
                   ]
+            },
+            {
+                  "name": "Generationenspielplatz Mistelbach Nord",
+                  "text": "Locul de joacă între generații Mistelbach Nord oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        16.561217,
+                        48.578059
+                  ]
             }
       ],
       "en": [
@@ -24680,6 +31763,15 @@ export const austriaCitiesV2: POI[] = [
                         16.594286,
                         48.56101
                   ]
+            },
+            {
+                  "name": "Generationenspielplatz Mistelbach Nord",
+                  "text": "The Generationenspielplatz Mistelbach Nord offers fun and play for all generations.",
+                  "category": "family",
+                  "coords": [
+                        16.561217,
+                        48.578059
+                  ]
             }
       ]
 },
@@ -24750,7 +31842,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Bruck",
                   "text": "Ein öffentliches Freibad in Bruck an der Mur, das Erholung und Freizeitspaß im Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.247836,
                         47.404077
@@ -24854,6 +31946,33 @@ export const austriaCitiesV2: POI[] = [
                         15.255963,
                         47.40386
                   ]
+            },
+            {
+                  "name": "Hochbehälter Utschgraben",
+                  "text": "Ein Wasserbecken in Bruck an der Mur in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.220895,
+                        47.384235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "Ein schöner Spielplatz in Bruck an der Mur, ideal für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Stadtgemeinde Bruck/Mur",
+                  "text": "Ein schöner Spielplatz in Bruck an der Mur, der Kindern Raum zum Austoben und Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.250051,
+                        47.407034
+                  ]
             }
       ],
       "hu": [
@@ -24878,7 +31997,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Bruck",
                   "text": "Nyilvános strandfürdő Bruck an der Mur városában, amely kikapcsolódást és vízi szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.247836,
                         47.404077
@@ -24982,6 +32101,33 @@ export const austriaCitiesV2: POI[] = [
                         15.255963,
                         47.40386
                   ]
+            },
+            {
+                  "name": "Hochbehälter Utschgraben",
+                  "text": "Egy víztározó Bruck an der Mur-ban, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.220895,
+                        47.384235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "Egy szép játszótér Bruck an der Mur-ban, ideális a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Stadtgemeinde Bruck/Mur",
+                  "text": "Egy szép játszótér Bruck an der Mur városában, amely szabadtéri kikapcsolódást és játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.250051,
+                        47.407034
+                  ]
             }
       ],
       "ro": [
@@ -25006,7 +32152,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Bruck",
                   "text": "Un ștrand public în Bruck an der Mur, care oferă relaxare și distracție acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.247836,
                         47.404077
@@ -25110,6 +32256,33 @@ export const austriaCitiesV2: POI[] = [
                         15.255963,
                         47.40386
                   ]
+            },
+            {
+                  "name": "Hochbehälter Utschgraben",
+                  "text": "Un rezervor de apă în Bruck an der Mur, într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        15.220895,
+                        47.384235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "Un teren de joacă frumos în Bruck an der Mur, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Stadtgemeinde Bruck/Mur",
+                  "text": "Un loc de joacă frumos în Bruck an der Mur, care oferă copiilor spațiu pentru mișcare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.250051,
+                        47.407034
+                  ]
             }
       ],
       "en": [
@@ -25134,7 +32307,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Freibad Bruck",
                   "text": "A public outdoor pool in Bruck an der Mur offering recreation and water activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.247836,
                         47.404077
@@ -25238,6 +32411,33 @@ export const austriaCitiesV2: POI[] = [
                         15.255963,
                         47.40386
                   ]
+            },
+            {
+                  "name": "Hochbehälter Utschgraben",
+                  "text": "A water reservoir in Bruck an der Mur, set in a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        15.220895,
+                        47.384235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
+                  "text": "A nice playground in Bruck an der Mur, ideal for children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.275954,
+                        47.430819
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Stadtgemeinde Bruck/Mur",
+                  "text": "A nice playground in Bruck an der Mur offering space for children to play and enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        15.250051,
+                        47.407034
+                  ]
             }
       ]
 },
@@ -25326,7 +32526,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Perjen",
                   "text": "Ein öffentliches Schwimmbad im Stadtteil Perjen für sommerliche Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.57036,
                         47.14682
@@ -25493,6 +32693,213 @@ export const austriaCitiesV2: POI[] = [
                         10.555865,
                         47.140273
                   ]
+            },
+            {
+                  "name": "Speichersee Schönjoch",
+                  "text": "Der Speichersee Schönjoch in Landeck liegt in den Bergen und lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        10.599097,
+                        47.077446
+                  ]
+            },
+            {
+                  "name": "Speicherteich Zammer Alm",
+                  "text": "Ein Speicherteich bei der Zammer Alm in Landeck in alpiner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        10.627394,
+                        47.156363
+                  ]
+            },
+            {
+                  "name": "Urgsee",
+                  "text": "Der Urgsee in Landeck ist ein kleiner natürlicher Bergsee.",
+                  "category": "natural",
+                  "coords": [
+                        10.565487,
+                        47.082938
+                  ]
+            },
+            {
+                  "name": "Vorderer Gatschsee",
+                  "text": "Der Vordere Gatschsee in Landeck ist ein Gewässer in der Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.555494,
+                        47.088619
+                  ]
+            },
+            {
+                  "name": "Hinterer Gatschsee",
+                  "text": "Der Hintere Gatschsee in Landeck ergänzt die Seenlandschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        10.552845,
+                        47.08625
+                  ]
+            },
+            {
+                  "name": "Giggler See",
+                  "text": "Der Giggler See in Landeck ist ein ruhiges Ausflugsziel in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        10.528212,
+                        47.092202
+                  ]
+            },
+            {
+                  "name": "Oberer Spinnsee",
+                  "text": "Der Obere Spinnsee in Landeck liegt eingebettet in die Tiroler Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        10.532998,
+                        47.071618
+                  ]
+            },
+            {
+                  "name": "Unterer Spinnsee",
+                  "text": "Der Untere Spinnsee in Landeck ist ein klares Gewässer in alpiner Lage.",
+                  "category": "natural",
+                  "coords": [
+                        10.539267,
+                        47.075434
+                  ]
+            },
+            {
+                  "name": "Weiherböden",
+                  "text": "Weiherböden in Landeck ist ein Feuchtgebiet mit Wasserflächen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.546237,
+                        47.132132
+                  ]
+            },
+            {
+                  "name": "Grametsee",
+                  "text": "Der Grametsee in Landeck bietet einen schönen Anblick in der Bergregion.",
+                  "category": "natural",
+                  "coords": [
+                        10.566449,
+                        47.108071
+                  ]
+            },
+            {
+                  "name": "Drei Seen",
+                  "text": "Die Drei Seen in Landeck sind eine Gruppe kleinerer Bergseen.",
+                  "category": "natural",
+                  "coords": [
+                        10.560898,
+                        47.10214
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "Ein Löschwasserbecken in Landeck, das funktional in die Umgebung integriert ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.496791,
+                        47.131275
+                  ]
+            },
+            {
+                  "name": "Wasserfassung Kraftwerk Wiesberg",
+                  "text": "Die Wasserfassung des Kraftwerks Wiesberg in Landeck ist ein künstliches Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        10.486178,
+                        47.100388
+                  ]
+            },
+            {
+                  "name": "Speicherteich Haunen",
+                  "text": "Der Speicherteich Haunen in Landeck liegt in einer Gebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.54775,
+                        47.148942
+                  ]
+            },
+            {
+                  "name": "Flathsee",
+                  "text": "Der Flathsee in Landeck ist ein ruhig gelegener See in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.534116,
+                        47.098434
+                  ]
+            },
+            {
+                  "name": "Wasensee",
+                  "text": "Der Wasensee in Landeck ist ein weiteres Naturgewässer in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        10.539066,
+                        47.085592
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lochbödele",
+                  "text": "Der Spielplatz Lochbödele in Landeck bietet Kindern Raum zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        10.560275,
+                        47.144816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Öd",
+                  "text": "Ein Spielplatz im Ortsteil Öd in Landeck für junge Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.572268,
+                        47.1453
+                  ]
+            },
+            {
+                  "name": "Sportplatz Öd",
+                  "text": "Ein kombinierter Sport- und Spielplatz im Stadtteil Öd in Landeck.",
+                  "category": "family",
+                  "coords": [
+                        10.574685,
+                        47.145341
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hochgallmigg",
+                  "text": "Ein lokaler Spielplatz in Hochgallmigg bei Landeck für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.591369,
+                        47.116288
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberreit",
+                  "text": "Ein öffentlicher Spielplatz in Oberreit bei Landeck für den Nachwuchs.",
+                  "category": "family",
+                  "coords": [
+                        10.584246,
+                        47.158051
+                  ]
+            },
+            {
+                  "name": "Spielplatz Urtl",
+                  "text": "Der Spielplatz Urtl in Landeck bietet vielfältige Spielgeräte an.",
+                  "category": "family",
+                  "coords": [
+                        10.572752,
+                        47.140005
+                  ]
+            },
+            {
+                  "name": "Klais",
+                  "text": "Der Spielplatz Klais in Landeck ist ein Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.560117,
+                        47.138603
+                  ]
             }
       ],
       "hu": [
@@ -25535,7 +32942,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Perjen",
                   "text": "Nyilvános strandfürdő Perjen negyedben a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.57036,
                         47.14682
@@ -25702,6 +33109,213 @@ export const austriaCitiesV2: POI[] = [
                         10.555865,
                         47.140273
                   ]
+            },
+            {
+                  "name": "Speichersee Schönjoch",
+                  "text": "A landecki Speichersee Schönjoch a hegyekben található, és pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        10.599097,
+                        47.077446
+                  ]
+            },
+            {
+                  "name": "Speicherteich Zammer Alm",
+                  "text": "Egy víztározó tó a landecki Zammer Almnál, alpesi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.627394,
+                        47.156363
+                  ]
+            },
+            {
+                  "name": "Urgsee",
+                  "text": "A landecki Urgsee egy kis természetes hegyi tó.",
+                  "category": "natural",
+                  "coords": [
+                        10.565487,
+                        47.082938
+                  ]
+            },
+            {
+                  "name": "Vorderer Gatschsee",
+                  "text": "A landecki Vorderer Gatschsee egy tó a hegyi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        10.555494,
+                        47.088619
+                  ]
+            },
+            {
+                  "name": "Hinterer Gatschsee",
+                  "text": "A landecki Hinterer Gatschsee kiegészíti a régió tóvidékét.",
+                  "category": "natural",
+                  "coords": [
+                        10.552845,
+                        47.08625
+                  ]
+            },
+            {
+                  "name": "Giggler See",
+                  "text": "A landecki Giggler See egy nyugodt kirándulóhely a hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        10.528212,
+                        47.092202
+                  ]
+            },
+            {
+                  "name": "Oberer Spinnsee",
+                  "text": "A landecki Oberer Spinnsee a tiroli hegyvilágban fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        10.532998,
+                        47.071618
+                  ]
+            },
+            {
+                  "name": "Unterer Spinnsee",
+                  "text": "A landecki Unterer Spinnsee egy tiszta vizű tó alpesi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.539267,
+                        47.075434
+                  ]
+            },
+            {
+                  "name": "Weiherböden",
+                  "text": "A landecki Weiherböden egy vizes élőhely vízfelületekkel a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.546237,
+                        47.132132
+                  ]
+            },
+            {
+                  "name": "Grametsee",
+                  "text": "A landecki Grametsee szép látványt nyújt a hegyvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        10.566449,
+                        47.108071
+                  ]
+            },
+            {
+                  "name": "Drei Seen",
+                  "text": "A landecki Drei Seen kisebb hegyi tavak csoportja.",
+                  "category": "natural",
+                  "coords": [
+                        10.560898,
+                        47.10214
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "Egy landecki tűzivíztározó, amely funkcionálisan illeszkedik a környezetbe.",
+                  "category": "natural",
+                  "coords": [
+                        10.496791,
+                        47.131275
+                  ]
+            },
+            {
+                  "name": "Wasserfassung Kraftwerk Wiesberg",
+                  "text": "A landecki Wiesberg erőmű vízkivétele egy mesterséges vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        10.486178,
+                        47.100388
+                  ]
+            },
+            {
+                  "name": "Speicherteich Haunen",
+                  "text": "A landecki Speicherteich Haunen hegyvidéki tájon található.",
+                  "category": "natural",
+                  "coords": [
+                        10.54775,
+                        47.148942
+                  ]
+            },
+            {
+                  "name": "Flathsee",
+                  "text": "A landecki Flathsee egy nyugodt környezetben fekvő tó a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.534116,
+                        47.098434
+                  ]
+            },
+            {
+                  "name": "Wasensee",
+                  "text": "A landecki Wasensee egy újabb természetes vízfelület a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        10.539066,
+                        47.085592
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lochbödele",
+                  "text": "A landecki Lochbödele játszótér teret biztosít a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.560275,
+                        47.144816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Öd",
+                  "text": "Egy játszótér a landecki Öd városrészben fiatal családoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.572268,
+                        47.1453
+                  ]
+            },
+            {
+                  "name": "Sportplatz Öd",
+                  "text": "Egy kombinált sport- és játszótér a landecki Öd városrészben.",
+                  "category": "family",
+                  "coords": [
+                        10.574685,
+                        47.145341
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hochgallmigg",
+                  "text": "Egy helyi játszótér a Landeck melletti Hochgallmiggben gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.591369,
+                        47.116288
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberreit",
+                  "text": "Egy nyilvános játszótér a Landeck melletti Oberreitben a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.584246,
+                        47.158051
+                  ]
+            },
+            {
+                  "name": "Spielplatz Urtl",
+                  "text": "A landecki Urtl játszótér változatos játékokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.572752,
+                        47.140005
+                  ]
+            },
+            {
+                  "name": "Klais",
+                  "text": "A landecki Klais játszótér találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.560117,
+                        47.138603
+                  ]
             }
       ],
       "ro": [
@@ -25744,7 +33358,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Perjen",
                   "text": "O piscină publică în cartierul Perjen pentru recreere pe timp de vară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.57036,
                         47.14682
@@ -25911,6 +33525,213 @@ export const austriaCitiesV2: POI[] = [
                         10.555865,
                         47.140273
                   ]
+            },
+            {
+                  "name": "Speichersee Schönjoch",
+                  "text": "Speichersee Schönjoch din Landeck este situat în munți și invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.599097,
+                        47.077446
+                  ]
+            },
+            {
+                  "name": "Speicherteich Zammer Alm",
+                  "text": "Un iaz de acumulare la Zammer Alm în Landeck, într-un cadru alpin.",
+                  "category": "natural",
+                  "coords": [
+                        10.627394,
+                        47.156363
+                  ]
+            },
+            {
+                  "name": "Urgsee",
+                  "text": "Urgsee din Landeck este un lac montan natural mic.",
+                  "category": "natural",
+                  "coords": [
+                        10.565487,
+                        47.082938
+                  ]
+            },
+            {
+                  "name": "Vorderer Gatschsee",
+                  "text": "Vorderer Gatschsee din Landeck este o apă stătătoare în peisajul montan.",
+                  "category": "natural",
+                  "coords": [
+                        10.555494,
+                        47.088619
+                  ]
+            },
+            {
+                  "name": "Hinterer Gatschsee",
+                  "text": "Hinterer Gatschsee din Landeck completează peisajul lacustre al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        10.552845,
+                        47.08625
+                  ]
+            },
+            {
+                  "name": "Giggler See",
+                  "text": "Giggler See din Landeck este o destinație de excursie liniștită în munți.",
+                  "category": "natural",
+                  "coords": [
+                        10.528212,
+                        47.092202
+                  ]
+            },
+            {
+                  "name": "Oberer Spinnsee",
+                  "text": "Oberer Spinnsee din Landeck este situat în munții tirolezi.",
+                  "category": "natural",
+                  "coords": [
+                        10.532998,
+                        47.071618
+                  ]
+            },
+            {
+                  "name": "Unterer Spinnsee",
+                  "text": "Unterer Spinnsee din Landeck este o apă limpede într-o locație alpină.",
+                  "category": "natural",
+                  "coords": [
+                        10.539267,
+                        47.075434
+                  ]
+            },
+            {
+                  "name": "Weiherböden",
+                  "text": "Weiherböden din Landeck este o zonă umedă cu suprafețe de apă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.546237,
+                        47.132132
+                  ]
+            },
+            {
+                  "name": "Grametsee",
+                  "text": "Grametsee din Landeck oferă o priveliște frumoasă în regiunea montană.",
+                  "category": "natural",
+                  "coords": [
+                        10.566449,
+                        47.108071
+                  ]
+            },
+            {
+                  "name": "Drei Seen",
+                  "text": "Drei Seen din Landeck sunt un grup de lacuri montane mai mici.",
+                  "category": "natural",
+                  "coords": [
+                        10.560898,
+                        47.10214
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "Un bazin de apă pentru incendiu în Landeck, integrat funcțional în mediu.",
+                  "category": "natural",
+                  "coords": [
+                        10.496791,
+                        47.131275
+                  ]
+            },
+            {
+                  "name": "Wasserfassung Kraftwerk Wiesberg",
+                  "text": "Priza de apă a centralei electrice Wiesberg din Landeck este o apă artificială.",
+                  "category": "natural",
+                  "coords": [
+                        10.486178,
+                        47.100388
+                  ]
+            },
+            {
+                  "name": "Speicherteich Haunen",
+                  "text": "Speicherteich Haunen din Landeck este situat într-un peisaj montan.",
+                  "category": "natural",
+                  "coords": [
+                        10.54775,
+                        47.148942
+                  ]
+            },
+            {
+                  "name": "Flathsee",
+                  "text": "Flathsee din Landeck este un lac situat liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.534116,
+                        47.098434
+                  ]
+            },
+            {
+                  "name": "Wasensee",
+                  "text": "Wasensee din Landeck este o altă apă naturală din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        10.539066,
+                        47.085592
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lochbödele",
+                  "text": "Locul de joacă Lochbödele din Landeck le oferă copiilor spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        10.560275,
+                        47.144816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Öd",
+                  "text": "Un loc de joacă în districtul Öd din Landeck pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        10.572268,
+                        47.1453
+                  ]
+            },
+            {
+                  "name": "Sportplatz Öd",
+                  "text": "Un teren combinat de sport și joacă în districtul Öd din Landeck.",
+                  "category": "family",
+                  "coords": [
+                        10.574685,
+                        47.145341
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hochgallmigg",
+                  "text": "Un loc de joacă local în Hochgallmigg lângă Landeck pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.591369,
+                        47.116288
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberreit",
+                  "text": "Un loc de joacă public în Oberreit lângă Landeck pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        10.584246,
+                        47.158051
+                  ]
+            },
+            {
+                  "name": "Spielplatz Urtl",
+                  "text": "Locul de joacă Urtl din Landeck oferă diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.572752,
+                        47.140005
+                  ]
+            },
+            {
+                  "name": "Klais",
+                  "text": "Locul de joacă Klais din Landeck este un punct de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        10.560117,
+                        47.138603
+                  ]
             }
       ],
       "en": [
@@ -25953,7 +33774,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Schwimmbad Perjen",
                   "text": "A public swimming pool in the Perjen district for summer recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.57036,
                         47.14682
@@ -26120,6 +33941,213 @@ export const austriaCitiesV2: POI[] = [
                         10.555865,
                         47.140273
                   ]
+            },
+            {
+                  "name": "Speichersee Schönjoch",
+                  "text": "The Speichersee Schönjoch in Landeck is located in the mountains and invites visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        10.599097,
+                        47.077446
+                  ]
+            },
+            {
+                  "name": "Speicherteich Zammer Alm",
+                  "text": "A storage pond at the Zammer Alm in Landeck in an alpine setting.",
+                  "category": "natural",
+                  "coords": [
+                        10.627394,
+                        47.156363
+                  ]
+            },
+            {
+                  "name": "Urgsee",
+                  "text": "The Urgsee in Landeck is a small natural mountain lake.",
+                  "category": "natural",
+                  "coords": [
+                        10.565487,
+                        47.082938
+                  ]
+            },
+            {
+                  "name": "Vorderer Gatschsee",
+                  "text": "The Vorderer Gatschsee in Landeck is a body of water in the mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.555494,
+                        47.088619
+                  ]
+            },
+            {
+                  "name": "Hinterer Gatschsee",
+                  "text": "The Hinterer Gatschsee in Landeck complements the lake landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        10.552845,
+                        47.08625
+                  ]
+            },
+            {
+                  "name": "Giggler See",
+                  "text": "The Giggler See in Landeck is a quiet excursion destination in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        10.528212,
+                        47.092202
+                  ]
+            },
+            {
+                  "name": "Oberer Spinnsee",
+                  "text": "The Oberer Spinnsee in Landeck is nestled in the Tyrolean mountains.",
+                  "category": "natural",
+                  "coords": [
+                        10.532998,
+                        47.071618
+                  ]
+            },
+            {
+                  "name": "Unterer Spinnsee",
+                  "text": "The Unterer Spinnsee in Landeck is a clear body of water in an alpine location.",
+                  "category": "natural",
+                  "coords": [
+                        10.539267,
+                        47.075434
+                  ]
+            },
+            {
+                  "name": "Weiherböden",
+                  "text": "Weiherböden in Landeck is a wetland with water areas in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.546237,
+                        47.132132
+                  ]
+            },
+            {
+                  "name": "Grametsee",
+                  "text": "The Grametsee in Landeck offers a beautiful sight in the mountain region.",
+                  "category": "natural",
+                  "coords": [
+                        10.566449,
+                        47.108071
+                  ]
+            },
+            {
+                  "name": "Drei Seen",
+                  "text": "The Drei Seen in Landeck are a group of smaller mountain lakes.",
+                  "category": "natural",
+                  "coords": [
+                        10.560898,
+                        47.10214
+                  ]
+            },
+            {
+                  "name": "Löschwasserbecken",
+                  "text": "A fire water basin in Landeck, functionally integrated into the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        10.496791,
+                        47.131275
+                  ]
+            },
+            {
+                  "name": "Wasserfassung Kraftwerk Wiesberg",
+                  "text": "The water intake of the Wiesberg power plant in Landeck is an artificial body of water.",
+                  "category": "natural",
+                  "coords": [
+                        10.486178,
+                        47.100388
+                  ]
+            },
+            {
+                  "name": "Speicherteich Haunen",
+                  "text": "The Haunen storage pond in Landeck is located in a mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.54775,
+                        47.148942
+                  ]
+            },
+            {
+                  "name": "Flathsee",
+                  "text": "The Flathsee in Landeck is a quietly located lake in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.534116,
+                        47.098434
+                  ]
+            },
+            {
+                  "name": "Wasensee",
+                  "text": "The Wasensee in Landeck is another natural body of water in the region.",
+                  "category": "natural",
+                  "coords": [
+                        10.539066,
+                        47.085592
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lochbödele",
+                  "text": "The Lochbödele playground in Landeck offers children space to run around.",
+                  "category": "family",
+                  "coords": [
+                        10.560275,
+                        47.144816
+                  ]
+            },
+            {
+                  "name": "Spielplatz Öd",
+                  "text": "A playground in the Öd district in Landeck for young families.",
+                  "category": "family",
+                  "coords": [
+                        10.572268,
+                        47.1453
+                  ]
+            },
+            {
+                  "name": "Sportplatz Öd",
+                  "text": "A combined sports and playground in the Öd district in Landeck.",
+                  "category": "family",
+                  "coords": [
+                        10.574685,
+                        47.145341
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hochgallmigg",
+                  "text": "A local playground in Hochgallmigg near Landeck for children.",
+                  "category": "family",
+                  "coords": [
+                        10.591369,
+                        47.116288
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberreit",
+                  "text": "A public playground in Oberreit near Landeck for children.",
+                  "category": "family",
+                  "coords": [
+                        10.584246,
+                        47.158051
+                  ]
+            },
+            {
+                  "name": "Spielplatz Urtl",
+                  "text": "The Urtl playground in Landeck offers various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        10.572752,
+                        47.140005
+                  ]
+            },
+            {
+                  "name": "Klais",
+                  "text": "The Klais playground in Landeck is a meeting place for families.",
+                  "category": "family",
+                  "coords": [
+                        10.560117,
+                        47.138603
+                  ]
             }
       ]
 },
@@ -26258,6 +34286,15 @@ export const austriaCitiesV2: POI[] = [
                         15.639257,
                         47.220736
                   ]
+            },
+            {
+                  "name": "Spielplatz vom Kindergarten",
+                  "text": "Der Spielplatz vom Kindergarten in Weiz ist ein schöner Ort für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        15.603943,
+                        47.212558
+                  ]
             }
       ],
       "hu": [
@@ -26349,6 +34386,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.639257,
                         47.220736
+                  ]
+            },
+            {
+                  "name": "Spielplatz vom Kindergarten",
+                  "text": "A Weiz városában található óvodai játszótér kellemes hely a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.603943,
+                        47.212558
                   ]
             }
       ],
@@ -26442,6 +34488,15 @@ export const austriaCitiesV2: POI[] = [
                         15.639257,
                         47.220736
                   ]
+            },
+            {
+                  "name": "Spielplatz vom Kindergarten",
+                  "text": "Locul de joacă al grădiniței din Weiz este un spațiu plăcut pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        15.603943,
+                        47.212558
+                  ]
             }
       ],
       "en": [
@@ -26534,6 +34589,15 @@ export const austriaCitiesV2: POI[] = [
                         15.639257,
                         47.220736
                   ]
+            },
+            {
+                  "name": "Spielplatz vom Kindergarten",
+                  "text": "The kindergarten playground in Weiz is a nice place for young children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.603943,
+                        47.212558
+                  ]
             }
       ]
 },
@@ -26581,7 +34645,484 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-weiz-cities-v2.webp",
   },
   {
-    id: "austria-imst-cities-v2",
+    id: "austria-imst-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Speichersee Hoch Imst",
+                  "text": "Der Speichersee Hoch Imst lädt zu entspannten Spaziergängen und zum Verweilen in der alpinen Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        10.705776,
+                        47.244749
+                  ]
+            },
+            {
+                  "name": "Starkenberger See",
+                  "text": "Der Starkenberger See in Imst ist ein idyllisches Gewässer, das zum Spazierengehen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.745854,
+                        47.256046
+                  ]
+            },
+            {
+                  "name": "Strader See",
+                  "text": "Der Strader See in Imst bietet eine ruhige Kulisse für Naturbeobachtungen und kurze Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        10.797713,
+                        47.271001
+                  ]
+            },
+            {
+                  "name": "Kropfsee",
+                  "text": "Der Kropfsee in Imst ist ein naturnahes Ausflugsziel, das zum Verweilen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.802406,
+                        47.272883
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule Sonnberg",
+                  "text": "Der Spielplatz der Volksschule Sonnberg in Imst bietet vielfältige Möglichkeiten zum Spielen an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        10.726633,
+                        47.231205
+                  ]
+            },
+            {
+                  "name": "Indoorspielplatz Playtopia Imst",
+                  "text": "Playtopia Imst ist ein Indoorspielplatz, der wetterunabhängigen Spielspaß und Action für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.735951,
+                        47.219235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gunglgrün",
+                  "text": "Der Spielplatz Gunglgrün in Imst ist ein beliebter Treffpunkt für Familien mit Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.721677,
+                        47.226146
+                  ]
+            },
+            {
+                  "name": "Hexengartle",
+                  "text": "Das Hexengartle in Imst bietet eine fantasievolle Umgebung für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        10.759319,
+                        47.256676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sportzentrum Imst",
+                  "text": "Der Spielplatz am Sportzentrum Imst bietet Kindern Raum für Bewegung und Spiel nach dem Sport.",
+                  "category": "family",
+                  "coords": [
+                        10.751046,
+                        47.241123
+                  ]
+            },
+            {
+                  "name": "Spielplatz Imsterau",
+                  "text": "Der Spielplatz Imsterau in Imst ist ein schöner Ort im Grünen, an dem Kinder ausgiebig spielen können.",
+                  "category": "family",
+                  "coords": [
+                        10.722822,
+                        47.214767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "Der Kindergarten-Spielplatz in Imst bietet eine geschützte und kinderfreundliche Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        10.739774,
+                        47.243725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberstadt",
+                  "text": "Der Spielplatz Oberstadt in Imst ist zentral gelegen und bietet Abwechslung für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        10.743311,
+                        47.243485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pavillon",
+                  "text": "Der Spielplatz beim Pavillon in Imst lädt zum Spielen im Freien in einer angenehmen Atmosphäre ein.",
+                  "category": "family",
+                  "coords": [
+                        10.737119,
+                        47.239204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Speichersee Hoch Imst",
+                  "text": "A Speichersee Hoch Imst kellemes sétákra és természeti kikapcsolódásra hívogat az alpesi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        10.705776,
+                        47.244749
+                  ]
+            },
+            {
+                  "name": "Starkenberger See",
+                  "text": "Az imsti Starkenberger See egy idilli állóvíz, amely sétákra és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        10.745854,
+                        47.256046
+                  ]
+            },
+            {
+                  "name": "Strader See",
+                  "text": "Az imsti Strader See nyugodt környezetet biztosít a természet megfigyeléséhez és rövid túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.797713,
+                        47.271001
+                  ]
+            },
+            {
+                  "name": "Kropfsee",
+                  "text": "Az imsti Kropfsee egy természetközeli kirándulóhely, amely pihenésre hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        10.802406,
+                        47.272883
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule Sonnberg",
+                  "text": "Az imsti Volksschule Sonnberg játszótere változatos lehetőségeket kínál a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.726633,
+                        47.231205
+                  ]
+            },
+            {
+                  "name": "Indoorspielplatz Playtopia Imst",
+                  "text": "A Playtopia Imst egy fedett játszóház, amely az időjárástól függetlenül kínál játékélményt és akciót a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.735951,
+                        47.219235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gunglgrün",
+                  "text": "Az imsti Gunglgrün játszótér népszerű találkozóhely a családok és gyerekek számára a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        10.721677,
+                        47.226146
+                  ]
+            },
+            {
+                  "name": "Hexengartle",
+                  "text": "Az imsti Hexengartle fantáziadús környezetet biztosít a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.759319,
+                        47.256676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sportzentrum Imst",
+                  "text": "Az Imst Sportközpont melletti játszótér helyet biztosít a gyerekeknek a mozgáshoz és a játékhoz a sportolás után.",
+                  "category": "family",
+                  "coords": [
+                        10.751046,
+                        47.241123
+                  ]
+            },
+            {
+                  "name": "Spielplatz Imsterau",
+                  "text": "Az imsti Imsterau játszótér egy szép zöldövezeti hely, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        10.722822,
+                        47.214767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "Az imsti óvodai játszótér védett és gyerekbarát környezetet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.739774,
+                        47.243725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberstadt",
+                  "text": "Az imsti Oberstadt játszótér központi helyen található, és kikapcsolódást nyújt a kis kalandoroknak.",
+                  "category": "family",
+                  "coords": [
+                        10.743311,
+                        47.243485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pavillon",
+                  "text": "Az imsti pavilon melletti játszótér kellemes hangulatban hívogat a szabadban való játékra.",
+                  "category": "family",
+                  "coords": [
+                        10.737119,
+                        47.239204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Speichersee Hoch Imst",
+                  "text": "Speichersee Hoch Imst invită la plimbări relaxante și la petrecerea timpului în mijlocul naturii alpine.",
+                  "category": "natural",
+                  "coords": [
+                        10.705776,
+                        47.244749
+                  ]
+            },
+            {
+                  "name": "Starkenberger See",
+                  "text": "Starkenberger See din Imst este un corp de apă idilic, care invită la plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.745854,
+                        47.256046
+                  ]
+            },
+            {
+                  "name": "Strader See",
+                  "text": "Strader See din Imst oferă un cadru liniștit pentru observarea naturii și drumeții scurte.",
+                  "category": "natural",
+                  "coords": [
+                        10.797713,
+                        47.271001
+                  ]
+            },
+            {
+                  "name": "Kropfsee",
+                  "text": "Kropfsee din Imst este o destinație aproape de natură, care invită la relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        10.802406,
+                        47.272883
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule Sonnberg",
+                  "text": "Locul de joacă al școlii primare Sonnberg din Imst oferă diverse posibilități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.726633,
+                        47.231205
+                  ]
+            },
+            {
+                  "name": "Indoorspielplatz Playtopia Imst",
+                  "text": "Playtopia Imst este un loc de joacă interior care oferă distracție și acțiune pentru copii, indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        10.735951,
+                        47.219235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gunglgrün",
+                  "text": "Locul de joacă Gunglgrün din Imst este un punct de întâlnire popular pentru familiile cu copii în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.721677,
+                        47.226146
+                  ]
+            },
+            {
+                  "name": "Hexengartle",
+                  "text": "Hexengartle din Imst oferă un mediu plin de imaginație pentru copii, pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        10.759319,
+                        47.256676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sportzentrum Imst",
+                  "text": "Locul de joacă de la centrul sportiv Imst oferă copiilor spațiu pentru mișcare și joacă după activitățile sportive.",
+                  "category": "family",
+                  "coords": [
+                        10.751046,
+                        47.241123
+                  ]
+            },
+            {
+                  "name": "Spielplatz Imsterau",
+                  "text": "Locul de joacă Imsterau din Imst este un loc frumos în natură, unde copiii se pot juca din plin.",
+                  "category": "family",
+                  "coords": [
+                        10.722822,
+                        47.214767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "Locul de joacă al grădiniței din Imst oferă un mediu protejat și prietenos pentru copii pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.739774,
+                        47.243725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberstadt",
+                  "text": "Locul de joacă Oberstadt din Imst este situat central și oferă divertisment pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        10.743311,
+                        47.243485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pavillon",
+                  "text": "Locul de joacă de lângă pavilionul din Imst invită la joacă în aer liber într-o atmosferă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        10.737119,
+                        47.239204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Speichersee Hoch Imst",
+                  "text": "The Speichersee Hoch Imst invites for relaxing walks and enjoying the alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        10.705776,
+                        47.244749
+                  ]
+            },
+            {
+                  "name": "Starkenberger See",
+                  "text": "The Starkenberger See in Imst is an idyllic body of water that invites for walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        10.745854,
+                        47.256046
+                  ]
+            },
+            {
+                  "name": "Strader See",
+                  "text": "The Strader See in Imst offers a peaceful setting for nature observation and short hikes.",
+                  "category": "natural",
+                  "coords": [
+                        10.797713,
+                        47.271001
+                  ]
+            },
+            {
+                  "name": "Kropfsee",
+                  "text": "The Kropfsee in Imst is a nature-oriented destination that invites for lingering by the water.",
+                  "category": "natural",
+                  "coords": [
+                        10.802406,
+                        47.272883
+                  ]
+            },
+            {
+                  "name": "Spielplatz Volksschule Sonnberg",
+                  "text": "The playground of the Sonnberg primary school in Imst offers various opportunities for playing in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        10.726633,
+                        47.231205
+                  ]
+            },
+            {
+                  "name": "Indoorspielplatz Playtopia Imst",
+                  "text": "Playtopia Imst is an indoor playground offering weather-independent fun and action for children.",
+                  "category": "family",
+                  "coords": [
+                        10.735951,
+                        47.219235
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gunglgrün",
+                  "text": "The Gunglgrün playground in Imst is a popular meeting point for families with children outdoors.",
+                  "category": "family",
+                  "coords": [
+                        10.721677,
+                        47.226146
+                  ]
+            },
+            {
+                  "name": "Hexengartle",
+                  "text": "The Hexengartle in Imst offers an imaginative environment for children to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        10.759319,
+                        47.256676
+                  ]
+            },
+            {
+                  "name": "Spielplatz Sportzentrum Imst",
+                  "text": "The playground at the Imst sports center offers children space for movement and play after sports activities.",
+                  "category": "family",
+                  "coords": [
+                        10.751046,
+                        47.241123
+                  ]
+            },
+            {
+                  "name": "Spielplatz Imsterau",
+                  "text": "The Imsterau playground in Imst is a lovely spot in the greenery where children can play extensively.",
+                  "category": "family",
+                  "coords": [
+                        10.722822,
+                        47.214767
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten",
+                  "text": "The kindergarten playground in Imst offers a protected and child-friendly environment for playing.",
+                  "category": "family",
+                  "coords": [
+                        10.739774,
+                        47.243725
+                  ]
+            },
+            {
+                  "name": "Spielplatz Oberstadt",
+                  "text": "The Oberstadt playground in Imst is centrally located and offers variety for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        10.743311,
+                        47.243485
+                  ]
+            },
+            {
+                  "name": "Spielplatz Pavillon",
+                  "text": "The playground at the pavilion in Imst invites for outdoor play in a pleasant atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        10.737119,
+                        47.239204
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Imst", hu: "Imst", ro: "Imst", en: "Imst" },
@@ -26626,7 +35167,124 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-imst-cities-v2.webp",
   },
   {
-    id: "austria-hartberg-cities-v2",
+    id: "austria-hartberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Löschteich",
+                  "text": "Ein Löschteich in Hartberg, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        15.958371,
+                        47.272756
+                  ]
+            },
+            {
+                  "name": "Angerparkspielplatz",
+                  "text": "Der Angerparkspielplatz in Hartberg bietet Kindern viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        15.982763,
+                        47.286116
+                  ]
+            },
+            {
+                  "name": "Spielplatz des Gasthofes Pack",
+                  "text": "Ein privater Spielplatz beim Gasthof Pack in Hartberg für kleine Gäste.",
+                  "category": "family",
+                  "coords": [
+                        15.966468,
+                        47.270131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Löschteich",
+                  "text": "Egy hartbergi tűzivíztározó, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        15.958371,
+                        47.272756
+                  ]
+            },
+            {
+                  "name": "Angerparkspielplatz",
+                  "text": "A hartbergi Angerparkspielplatz tágas teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.982763,
+                        47.286116
+                  ]
+            },
+            {
+                  "name": "Spielplatz des Gasthofes Pack",
+                  "text": "Egy privát játszótér a hartbergi Gasthof Packnál a kis vendégeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.966468,
+                        47.270131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Löschteich",
+                  "text": "Un iaz de incendiu în Hartberg, care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        15.958371,
+                        47.272756
+                  ]
+            },
+            {
+                  "name": "Angerparkspielplatz",
+                  "text": "Angerparkspielplatz din Hartberg oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.982763,
+                        47.286116
+                  ]
+            },
+            {
+                  "name": "Spielplatz des Gasthofes Pack",
+                  "text": "Un loc de joacă privat la Gasthof Pack din Hartberg pentru micii oaspeți.",
+                  "category": "family",
+                  "coords": [
+                        15.966468,
+                        47.270131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Löschteich",
+                  "text": "A fire pond in Hartberg that fits harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.958371,
+                        47.272756
+                  ]
+            },
+            {
+                  "name": "Angerparkspielplatz",
+                  "text": "The Angerparkspielplatz in Hartberg offers children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        15.982763,
+                        47.286116
+                  ]
+            },
+            {
+                  "name": "Spielplatz des Gasthofes Pack",
+                  "text": "A private playground at Gasthof Pack in Hartberg for small guests.",
+                  "category": "family",
+                  "coords": [
+                        15.966468,
+                        47.270131
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Hartberg", hu: "Hartberg", ro: "Hartberg", en: "Hartberg" },
@@ -26852,6 +35510,42 @@ export const austriaCitiesV2: POI[] = [
                         16.210081,
                         47.967848
                   ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "Der Hochbehälter Kottingbrunn in Bad Vöslau bietet eine ruhige Kulisse in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Ablaufpufferbecken",
+                  "text": "Das Ablaufpufferbecken in Bad Vöslau bietet eine ruhige Atmosphäre für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        16.262922,
+                        47.905469
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Felde",
+                  "text": "Der Spielplatz am Felde in Bad Vöslau bietet Kindern viel Platz für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        16.203194,
+                        47.956719
+                  ]
+            },
+            {
+                  "name": "MGC Bad Vöslau",
+                  "text": "Der MGC Bad Vöslau bietet eine gepflegte Minigolfanlage für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        16.216227,
+                        47.964472
+                  ]
             }
       ],
       "hu": [
@@ -27033,6 +35727,42 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.210081,
                         47.967848
+                  ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "A Bad Vöslau településen található Hochbehälter Kottingbrunn csendes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Ablaufpufferbecken",
+                  "text": "A Bad Vöslau településen található Ablaufpufferbecken kellemes helyszín a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.262922,
+                        47.905469
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Felde",
+                  "text": "A Bad Vöslau városában található Spielplatz am Felde tágas helyet biztosít a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.203194,
+                        47.956719
+                  ]
+            },
+            {
+                  "name": "MGC Bad Vöslau",
+                  "text": "A Bad Vöslau városában található MGC minigolfpálya remek családi programot kínál.",
+                  "category": "family",
+                  "coords": [
+                        16.216227,
+                        47.964472
                   ]
             }
       ],
@@ -27216,6 +35946,42 @@ export const austriaCitiesV2: POI[] = [
                         16.210081,
                         47.967848
                   ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "Hochbehälter Kottingbrunn din Bad Vöslau oferă un cadru liniștit în zona locală.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Ablaufpufferbecken",
+                  "text": "Ablaufpufferbecken din Bad Vöslau oferă o atmosferă liniștită pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.262922,
+                        47.905469
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Felde",
+                  "text": "Locul de joacă am Felde din Bad Vöslau oferă mult spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.203194,
+                        47.956719
+                  ]
+            },
+            {
+                  "name": "MGC Bad Vöslau",
+                  "text": "MGC Bad Vöslau oferă un teren de minigolf bine întreținut pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        16.216227,
+                        47.964472
+                  ]
             }
       ],
       "en": [
@@ -27398,6 +36164,42 @@ export const austriaCitiesV2: POI[] = [
                         16.210081,
                         47.967848
                   ]
+            },
+            {
+                  "name": "Hochbehälter Kottingbrunn",
+                  "text": "The Hochbehälter Kottingbrunn in Bad Vöslau offers a quiet setting in the area.",
+                  "category": "natural",
+                  "coords": [
+                        16.20252,
+                        47.942063
+                  ]
+            },
+            {
+                  "name": "Ablaufpufferbecken",
+                  "text": "The Ablaufpufferbecken in Bad Vöslau offers a peaceful atmosphere for local walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.262922,
+                        47.905469
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Felde",
+                  "text": "The Spielplatz am Felde playground in Bad Vöslau offers plenty of space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        16.203194,
+                        47.956719
+                  ]
+            },
+            {
+                  "name": "MGC Bad Vöslau",
+                  "text": "MGC Bad Vöslau offers a well-maintained miniature golf course for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        16.216227,
+                        47.964472
+                  ]
             }
       ]
 },
@@ -27445,7 +36247,592 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-bad-voslau-cities-v2.webp",
   },
   {
-    id: "austria-brunn-am-gebirge-cities-v2",
+    id: "austria-brunn-am-gebirge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grüner See",
+                  "text": "Der Grüne See in Brunn am Gebirge lädt zu entspannten Spaziergängen am Wasser in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "Der Kahrteich in Brunn am Gebirge ist ein ruhiges Gewässer, das zum Verweilen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "Der Karl Zechmeister-Teich in Brunn am Gebirge bietet eine natürliche Kulisse für kurze Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "Der Göpelteich in Brunn am Gebirge ist ein idyllisches Ziel für Spaziergänger und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "Das Seepark Kinderbecken in Brunn am Gebirge bietet eine sichere Umgebung für den Wasserspaß der Kleinen.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Hort Spielwiese",
+                  "text": "Die Hort Spielwiese in Brunn am Gebirge bietet Kindern viel Platz für Bewegung und gemeinsames Spiel.",
+                  "category": "family",
+                  "coords": [
+                        16.303013,
+                        48.095151
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnhausanlage",
+                  "text": "Der Spielplatz der Wohnhausanlage in Brunn am Gebirge ist eine praktische Möglichkeit für das Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        16.268776,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Südstadtzentrum",
+                  "text": "Das Südstadtzentrum in Brunn am Gebirge verfügt über einen Spielplatz, der Familien zum Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        16.308711,
+                        48.094859
+                  ]
+            },
+            {
+                  "name": "Hyrtlpark",
+                  "text": "Der Spielplatz im Hyrtlpark in Brunn am Gebirge bietet Kindern Spielmöglichkeiten in einer gepflegten Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        16.304949,
+                        48.085161
+                  ]
+            },
+            {
+                  "name": "Klosterpark Spielplatz",
+                  "text": "Der Klosterpark Spielplatz in Brunn am Gebirge ist ein ruhiger Ort für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        16.321296,
+                        48.084411
+                  ]
+            },
+            {
+                  "name": "Spielplatz - Verkehrsübungsplatz",
+                  "text": "Der Spielplatz mit Verkehrsübungsplatz in Brunn am Gebirge verbindet Spielspaß mit dem Erlernen von Verkehrsregeln.",
+                  "category": "family",
+                  "coords": [
+                        16.290205,
+                        48.09125
+                  ]
+            },
+            {
+                  "name": "Lercherlberg",
+                  "text": "Der Lercherlberg in Brunn am Gebirge bietet einen naturnahen Spielplatz für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.27612,
+                        48.102633
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jägerhausgasse",
+                  "text": "Der Spielplatz Jägerhausgasse in Brunn am Gebirge ist ein lokaler Treffpunkt für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        16.264659,
+                        48.080568
+                  ]
+            },
+            {
+                  "name": "Paradieschen",
+                  "text": "Das Paradieschen in Brunn am Gebirge bietet eine freundliche Umgebung zum Spielen und Toben für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.295548,
+                        48.088853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Donaustraße",
+                  "text": "Der Spielplatz Donaustraße in Brunn am Gebirge bietet Abwechslung und Bewegungsmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.303805,
+                        48.098849
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "Jumpin Warrior SCS in Brunn am Gebirge bietet actionreiche Spielmöglichkeiten für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grüner See",
+                  "text": "A Brunn am Gebirge-ben található Grüner See kellemes vízparti sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "A Brunn am Gebirge-ben fekvő Kahrteich egy nyugodt állóvíz, amely pihenésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "A Brunn am Gebirge-ben található Karl Zechmeister-Teich természetes környezetet biztosít rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "A Brunn am Gebirge-ben fekvő Göpelteich idilli célpont a sétálók és a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "A Brunn am Gebirge-ben található Seepark gyermekmedence biztonságos környezetet nyújt a kicsik vízi szórakozásához.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Hort Spielwiese",
+                  "text": "A Brunn am Gebirge-ben található Hort Spielwiese sok helyet biztosít a gyerekeknek a mozgáshoz és a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.303013,
+                        48.095151
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnhausanlage",
+                  "text": "A Brunn am Gebirge-i lakópark játszótere praktikus lehetőséget nyújt a szabadban való játékra.",
+                  "category": "family",
+                  "coords": [
+                        16.268776,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Südstadtzentrum",
+                  "text": "A Brunn am Gebirge-i Südstadtzentrum játszótérrel is rendelkezik, amely kikapcsolódásra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        16.308711,
+                        48.094859
+                  ]
+            },
+            {
+                  "name": "Hyrtlpark",
+                  "text": "A Brunn am Gebirge-i Hyrtlpark játszótere játéklehetőséget kínál a gyerekeknek egy gondozott parkban.",
+                  "category": "family",
+                  "coords": [
+                        16.304949,
+                        48.085161
+                  ]
+            },
+            {
+                  "name": "Klosterpark Spielplatz",
+                  "text": "A Brunn am Gebirge-i Klosterpark játszótér nyugodt hely a gyerekeknek a játékhoz és a felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        16.321296,
+                        48.084411
+                  ]
+            },
+            {
+                  "name": "Spielplatz - Verkehrsübungsplatz",
+                  "text": "A Brunn am Gebirge-i KRESZ-parkkal kombinált játszótér ötvözi a játékot a közlekedési szabályok elsajátításával.",
+                  "category": "family",
+                  "coords": [
+                        16.290205,
+                        48.09125
+                  ]
+            },
+            {
+                  "name": "Lercherlberg",
+                  "text": "A Brunn am Gebirge-ben található Lercherlberg természetközeli játszóteret kínál a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.27612,
+                        48.102633
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jägerhausgasse",
+                  "text": "A Brunn am Gebirge-i Jägerhausgasse játszótér helyi találkozóhely a gyerekeknek a szabadban való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.264659,
+                        48.080568
+                  ]
+            },
+            {
+                  "name": "Paradieschen",
+                  "text": "A Brunn am Gebirge-i Paradieschen barátságos környezetet biztosít a gyerekeknek a játékhoz és a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.295548,
+                        48.088853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Donaustraße",
+                  "text": "A Brunn am Gebirge-i Donaustraße játszótér kikapcsolódást és mozgási lehetőséget nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.303805,
+                        48.098849
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "A Brunn am Gebirge-i Jumpin Warrior SCS akciódús játéklehetőségeket kínál gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grüner See",
+                  "text": "Grüner See din Brunn am Gebirge invită la plimbări relaxante pe malul apei în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "Kahrteich din Brunn am Gebirge este un corp de apă liniștit, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "Karl Zechmeister-Teich din Brunn am Gebirge oferă un cadru natural pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "Göpelteich din Brunn am Gebirge este o destinație idilică pentru plimbări și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "Bazinul pentru copii Seepark din Brunn am Gebirge oferă un mediu sigur pentru distracția acvatică a celor mici.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Hort Spielwiese",
+                  "text": "Pajiștea de joacă a centrului de zi din Brunn am Gebirge oferă copiilor mult spațiu pentru mișcare și joacă în grup.",
+                  "category": "family",
+                  "coords": [
+                        16.303013,
+                        48.095151
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnhausanlage",
+                  "text": "Locul de joacă al complexului rezidențial din Brunn am Gebirge este o opțiune practică pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.268776,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Südstadtzentrum",
+                  "text": "Südstadtzentrum din Brunn am Gebirge dispune de un loc de joacă care invită familiile la relaxare.",
+                  "category": "family",
+                  "coords": [
+                        16.308711,
+                        48.094859
+                  ]
+            },
+            {
+                  "name": "Hyrtlpark",
+                  "text": "Locul de joacă din Hyrtlpark, Brunn am Gebirge, oferă copiilor facilități de joacă într-un parc îngrijit.",
+                  "category": "family",
+                  "coords": [
+                        16.304949,
+                        48.085161
+                  ]
+            },
+            {
+                  "name": "Klosterpark Spielplatz",
+                  "text": "Locul de joacă din Klosterpark, Brunn am Gebirge, este un loc liniștit pentru copii, pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        16.321296,
+                        48.084411
+                  ]
+            },
+            {
+                  "name": "Spielplatz - Verkehrsübungsplatz",
+                  "text": "Locul de joacă cu pistă pentru educație rutieră din Brunn am Gebirge îmbină distracția cu învățarea regulilor de circulație.",
+                  "category": "family",
+                  "coords": [
+                        16.290205,
+                        48.09125
+                  ]
+            },
+            {
+                  "name": "Lercherlberg",
+                  "text": "Lercherlberg din Brunn am Gebirge oferă un loc de joacă aproape de natură pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        16.27612,
+                        48.102633
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jägerhausgasse",
+                  "text": "Locul de joacă Jägerhausgasse din Brunn am Gebirge este un punct de întâlnire local pentru copii pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.264659,
+                        48.080568
+                  ]
+            },
+            {
+                  "name": "Paradieschen",
+                  "text": "Paradieschen din Brunn am Gebirge oferă un mediu prietenos pentru copii, pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        16.295548,
+                        48.088853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Donaustraße",
+                  "text": "Locul de joacă Donaustraße din Brunn am Gebirge oferă divertisment și posibilități de mișcare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.303805,
+                        48.098849
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "Jumpin Warrior SCS din Brunn am Gebirge oferă facilități de joacă pline de acțiune pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grüner See",
+                  "text": "The Grüner See in Brunn am Gebirge invites for relaxing walks by the water in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "The Kahrteich in Brunn am Gebirge is a quiet body of water that invites for lingering and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "The Karl Zechmeister-Teich in Brunn am Gebirge provides a natural setting for short trips into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "The Göpelteich in Brunn am Gebirge is an idyllic destination for walkers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "The Seepark children's pool in Brunn am Gebirge offers a safe environment for water fun for the little ones.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Hort Spielwiese",
+                  "text": "The after-school playground in Brunn am Gebirge offers children plenty of space for movement and group play.",
+                  "category": "family",
+                  "coords": [
+                        16.303013,
+                        48.095151
+                  ]
+            },
+            {
+                  "name": "Spielplatz der Wohnhausanlage",
+                  "text": "The residential complex playground in Brunn am Gebirge is a convenient option for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        16.268776,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Südstadtzentrum",
+                  "text": "The Südstadtzentrum in Brunn am Gebirge features a playground that invites families to linger.",
+                  "category": "family",
+                  "coords": [
+                        16.308711,
+                        48.094859
+                  ]
+            },
+            {
+                  "name": "Hyrtlpark",
+                  "text": "The playground in Hyrtlpark in Brunn am Gebirge offers children play opportunities in a well-maintained park.",
+                  "category": "family",
+                  "coords": [
+                        16.304949,
+                        48.085161
+                  ]
+            },
+            {
+                  "name": "Klosterpark Spielplatz",
+                  "text": "The Klosterpark playground in Brunn am Gebirge is a quiet place for children to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        16.321296,
+                        48.084411
+                  ]
+            },
+            {
+                  "name": "Spielplatz - Verkehrsübungsplatz",
+                  "text": "The playground with a traffic training area in Brunn am Gebirge combines play with learning traffic rules.",
+                  "category": "family",
+                  "coords": [
+                        16.290205,
+                        48.09125
+                  ]
+            },
+            {
+                  "name": "Lercherlberg",
+                  "text": "The Lercherlberg in Brunn am Gebirge offers a nature-oriented playground for families and children.",
+                  "category": "family",
+                  "coords": [
+                        16.27612,
+                        48.102633
+                  ]
+            },
+            {
+                  "name": "Spielplatz Jägerhausgasse",
+                  "text": "The Jägerhausgasse playground in Brunn am Gebirge is a local meeting spot for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        16.264659,
+                        48.080568
+                  ]
+            },
+            {
+                  "name": "Paradieschen",
+                  "text": "The Paradieschen in Brunn am Gebirge offers a friendly environment for children to play and romp around.",
+                  "category": "family",
+                  "coords": [
+                        16.295548,
+                        48.088853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Donaustraße",
+                  "text": "The Donaustraße playground in Brunn am Gebirge offers variety and movement opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        16.303805,
+                        48.098849
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "Jumpin Warrior SCS in Brunn am Gebirge offers action-packed play opportunities for children and teenagers.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Brunn am Gebirge", hu: "Brunn am Gebirge", ro: "Brunn am Gebirge", en: "Brunn am Gebirge" },
@@ -27531,7 +36918,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "Ein kleines Freibad in Leonding, besonders für Kinder geeignet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.281278,
                         48.28495
@@ -27540,7 +36927,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kürnbergbad",
                   "text": "Ein beliebtes Freibad am Fuße des Kürnbergs für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.251836,
                         48.267086
@@ -27770,6 +37157,123 @@ export const austriaCitiesV2: POI[] = [
                         14.268266,
                         48.305812
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Der Oedtersee in Leonding ist ein beliebtes Ziel für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Pleschinger See",
+                  "text": "Der Pleschinger See bei Leonding lädt zu erholsamen Stunden in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        14.332361,
+                        48.31934
+                  ]
+            },
+            {
+                  "name": "Gewässerschutzanlage",
+                  "text": "Eine Gewässerschutzanlage in Leonding, die als künstliches Becken angelegt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.310006,
+                        48.326455
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Kudlichstraße",
+                  "text": "Ein Spielplatz in der Kudlichstraße in Leonding für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        14.28479,
+                        48.285077
+                  ]
+            },
+            {
+                  "name": "Fitnessparcour - Freinberg",
+                  "text": "Der Fitnessparcour am Freinberg in Leonding bietet sportliche Betätigung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.265657,
+                        48.301586
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Wasserreservoir Freinberg",
+                  "text": "Ein Spielplatz beim Wasserreservoir am Freinberg in Leonding.",
+                  "category": "family",
+                  "coords": [
+                        14.264488,
+                        48.301897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisereiche",
+                  "text": "Dieser Spielplatz in Leonding bietet Abwechslung und Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.266569,
+                        48.302266
+                  ]
+            },
+            {
+                  "name": "Holzheimerspielplatz",
+                  "text": "Der Spielplatz in Leonding ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.254544,
+                        48.296949
+                  ]
+            },
+            {
+                  "name": "Bahnengolfanlage der Stadt Leonding",
+                  "text": "Die Minigolfanlage in Leonding lädt zu einer spannenden Runde mit der ganzen Familie ein.",
+                  "category": "family",
+                  "coords": [
+                        14.253627,
+                        48.267195
+                  ]
+            },
+            {
+                  "name": "Minigolf Freinberg",
+                  "text": "In Leonding bietet diese Minigolfanlage Freizeitspaß für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        14.271509,
+                        48.293962
+                  ]
+            },
+            {
+                  "name": "Kinder- und Jugendspielplatz - Margarethen",
+                  "text": "Ein freundlicher Spielplatz in Leonding, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.254449,
+                        48.307008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rufling",
+                  "text": "Dieser Spielplatz in Leonding ist mit verschiedenen Spielgeräten für Kinder ausgestattet.",
+                  "category": "family",
+                  "coords": [
+                        14.225992,
+                        48.276751
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Bockgasse",
+                  "text": "Ein lokal gelegener Spielplatz in Leonding für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.279251,
+                        48.291329
+                  ]
             }
       ],
       "hu": [
@@ -27812,7 +37316,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "Kisméretű szabadtéri strand Leondingban, kifejezetten gyermekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.281278,
                         48.28495
@@ -27821,7 +37325,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kürnbergbad",
                   "text": "Népszerű strandfürdő a Kürnberg lábánál az egész család számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.251836,
                         48.267086
@@ -28051,6 +37555,123 @@ export const austriaCitiesV2: POI[] = [
                         14.268266,
                         48.305812
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "A leondingi Oedtersee népszerű úti cél a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Pleschinger See",
+                  "text": "A Leonding melletti Pleschinger See pihentető órákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.332361,
+                        48.31934
+                  ]
+            },
+            {
+                  "name": "Gewässerschutzanlage",
+                  "text": "Egy leondingi vízvédelmi létesítmény, amely mesterséges medenceként van kialakítva.",
+                  "category": "natural",
+                  "coords": [
+                        14.310006,
+                        48.326455
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Kudlichstraße",
+                  "text": "Egy játszótér a leondingi Kudlichstraße utcában a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.28479,
+                        48.285077
+                  ]
+            },
+            {
+                  "name": "Fitnessparcour - Freinberg",
+                  "text": "A leondingi Freinberg fitnesspályája sportolási lehetőséget kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.265657,
+                        48.301586
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Wasserreservoir Freinberg",
+                  "text": "Egy játszótér a leondingi Freinberg víztározójánál.",
+                  "category": "family",
+                  "coords": [
+                        14.264488,
+                        48.301897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisereiche",
+                  "text": "Ez a Leonding városában található játszótér kikapcsolódást és játéklehetőséget nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.266569,
+                        48.302266
+                  ]
+            },
+            {
+                  "name": "Holzheimerspielplatz",
+                  "text": "A leondingi játszótér szép úti cél a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.254544,
+                        48.296949
+                  ]
+            },
+            {
+                  "name": "Bahnengolfanlage der Stadt Leonding",
+                  "text": "A leondingi minigolfpálya egy izgalmas körre hívja az egész családot.",
+                  "category": "family",
+                  "coords": [
+                        14.253627,
+                        48.267195
+                  ]
+            },
+            {
+                  "name": "Minigolf Freinberg",
+                  "text": "Leondingban ez a minigolfpálya szabadidős szórakozást kínál kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.271509,
+                        48.293962
+                  ]
+            },
+            {
+                  "name": "Kinder- und Jugendspielplatz - Margarethen",
+                  "text": "Barátságos játszótér Leondingban, amely teret biztosít a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.254449,
+                        48.307008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rufling",
+                  "text": "Ez a leondingi játszótér különféle játékokkal van felszerelve a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        14.225992,
+                        48.276751
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Bockgasse",
+                  "text": "Egy helyi játszótér Leondingban a mindennapi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        14.279251,
+                        48.291329
+                  ]
             }
       ],
       "ro": [
@@ -28093,7 +37714,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "O mică piscină în aer liber în Leonding, potrivită în special pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.281278,
                         48.28495
@@ -28102,7 +37723,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kürnbergbad",
                   "text": "O piscină în aer liber populară la poalele dealului Kürnberg, pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.251836,
                         48.267086
@@ -28332,6 +37953,123 @@ export const austriaCitiesV2: POI[] = [
                         14.268266,
                         48.305812
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "Oedtersee din Leonding este o destinație populară pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Pleschinger See",
+                  "text": "Pleschinger See de lângă Leonding invită la ore de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.332361,
+                        48.31934
+                  ]
+            },
+            {
+                  "name": "Gewässerschutzanlage",
+                  "text": "O instalație de protecție a apei în Leonding, amenajată ca bazin artificial.",
+                  "category": "natural",
+                  "coords": [
+                        14.310006,
+                        48.326455
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Kudlichstraße",
+                  "text": "Un loc de joacă pe strada Kudlichstraße din Leonding pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        14.28479,
+                        48.285077
+                  ]
+            },
+            {
+                  "name": "Fitnessparcour - Freinberg",
+                  "text": "Parcursul de fitness de pe Freinberg din Leonding oferă activități sportive pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.265657,
+                        48.301586
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Wasserreservoir Freinberg",
+                  "text": "Un loc de joacă la rezervorul de apă de pe Freinberg din Leonding.",
+                  "category": "family",
+                  "coords": [
+                        14.264488,
+                        48.301897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisereiche",
+                  "text": "Acest loc de joacă din Leonding oferă varietate și posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.266569,
+                        48.302266
+                  ]
+            },
+            {
+                  "name": "Holzheimerspielplatz",
+                  "text": "Locul de joacă din Leonding este o destinație frumoasă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        14.254544,
+                        48.296949
+                  ]
+            },
+            {
+                  "name": "Bahnengolfanlage der Stadt Leonding",
+                  "text": "Terenul de minigolf din Leonding invită întreaga familie la o rundă captivantă.",
+                  "category": "family",
+                  "coords": [
+                        14.253627,
+                        48.267195
+                  ]
+            },
+            {
+                  "name": "Minigolf Freinberg",
+                  "text": "În Leonding, acest teren de minigolf oferă distracție în timpul liber pentru cei mici și mari.",
+                  "category": "family",
+                  "coords": [
+                        14.271509,
+                        48.293962
+                  ]
+            },
+            {
+                  "name": "Kinder- und Jugendspielplatz - Margarethen",
+                  "text": "Un loc de joacă primitor în Leonding, care oferă copiilor spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        14.254449,
+                        48.307008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rufling",
+                  "text": "Acest loc de joacă din Leonding este dotat cu diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.225992,
+                        48.276751
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz - Bockgasse",
+                  "text": "Un loc de joacă local în Leonding pentru activități zilnice de agrement.",
+                  "category": "family",
+                  "coords": [
+                        14.279251,
+                        48.291329
+                  ]
             }
       ],
       "en": [
@@ -28374,7 +38112,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "A small outdoor pool in Leonding, especially suitable for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.281278,
                         48.28495
@@ -28383,7 +38121,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Kürnbergbad",
                   "text": "A popular outdoor swimming pool at the foot of Kürnberg for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.251836,
                         48.267086
@@ -28613,6 +38351,123 @@ export const austriaCitiesV2: POI[] = [
                         14.268266,
                         48.305812
                   ]
+            },
+            {
+                  "name": "Oedtersee",
+                  "text": "The Oedtersee in Leonding is a popular destination for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.221095,
+                        48.212734
+                  ]
+            },
+            {
+                  "name": "Pleschinger See",
+                  "text": "The Pleschinger See near Leonding invites visitors to relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.332361,
+                        48.31934
+                  ]
+            },
+            {
+                  "name": "Gewässerschutzanlage",
+                  "text": "A water protection facility in Leonding, designed as an artificial basin.",
+                  "category": "natural",
+                  "coords": [
+                        14.310006,
+                        48.326455
+                  ]
+            },
+            {
+                  "name": "Playground - Kudlichstraße",
+                  "text": "A playground in Kudlichstraße in Leonding for children from the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        14.28479,
+                        48.285077
+                  ]
+            },
+            {
+                  "name": "Fitnessparcour - Freinberg",
+                  "text": "The fitness trail at Freinberg in Leonding offers sporting activities for families.",
+                  "category": "family",
+                  "coords": [
+                        14.265657,
+                        48.301586
+                  ]
+            },
+            {
+                  "name": "Playground - Wasserreservoir Freinberg",
+                  "text": "A playground at the water reservoir on the Freinberg in Leonding.",
+                  "category": "family",
+                  "coords": [
+                        14.264488,
+                        48.301897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisereiche",
+                  "text": "This playground in Leonding offers variety and play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        14.266569,
+                        48.302266
+                  ]
+            },
+            {
+                  "name": "Holzheimerspielplatz",
+                  "text": "The playground in Leonding is a nice destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        14.254544,
+                        48.296949
+                  ]
+            },
+            {
+                  "name": "Bahnengolfanlage der Stadt Leonding",
+                  "text": "The miniature golf course in Leonding invites the whole family for an exciting round.",
+                  "category": "family",
+                  "coords": [
+                        14.253627,
+                        48.267195
+                  ]
+            },
+            {
+                  "name": "Miniature golf Freinberg",
+                  "text": "In Leonding, this miniature golf course offers leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        14.271509,
+                        48.293962
+                  ]
+            },
+            {
+                  "name": "Playground - Margarethen",
+                  "text": "A friendly playground in Leonding providing space for children to play and move around.",
+                  "category": "family",
+                  "coords": [
+                        14.254449,
+                        48.307008
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rufling",
+                  "text": "This playground in Leonding is equipped with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        14.225992,
+                        48.276751
+                  ]
+            },
+            {
+                  "name": "Playground - Bockgasse",
+                  "text": "A local playground in Leonding for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        14.279251,
+                        48.291329
+                  ]
             }
       ]
 },
@@ -28660,7 +38515,88 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-leonding-cities-v2.webp",
   },
   {
-    id: "austria-ganserndorf-cities-v2",
+    id: "austria-ganserndorf-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wasser Reservoir",
+                  "text": "Das Wasser Reservoir in Gänserndorf bietet eine ruhige Kulisse für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        16.71266,
+                        48.393112
+                  ]
+            },
+            {
+                  "name": "Neugasse",
+                  "text": "Der Spielplatz Neugasse in Gänserndorf bietet abwechslungsreiche Geräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.727312,
+                        48.342432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wasser Reservoir",
+                  "text": "A Gänserndorf településen található víztározó kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.71266,
+                        48.393112
+                  ]
+            },
+            {
+                  "name": "Neugasse",
+                  "text": "A Gänserndorf városában található Neugasse játszótér vidám időtöltést kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.727312,
+                        48.342432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wasser Reservoir",
+                  "text": "Rezervorul de apă din Gänserndorf oferă un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        16.71266,
+                        48.393112
+                  ]
+            },
+            {
+                  "name": "Neugasse",
+                  "text": "Locul de joacă din strada Neugasse, Gänserndorf, oferă diverse dotări pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.727312,
+                        48.342432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wasser Reservoir",
+                  "text": "The water reservoir in Gänserndorf offers a quiet setting for a walk in the area.",
+                  "category": "natural",
+                  "coords": [
+                        16.71266,
+                        48.393112
+                  ]
+            },
+            {
+                  "name": "Neugasse",
+                  "text": "The Neugasse playground in Gänserndorf offers various equipment for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        16.727312,
+                        48.342432
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Gänserndorf", hu: "Gänserndorf", ro: "Gänserndorf", en: "Gänserndorf" },
@@ -28841,6 +38777,15 @@ export const austriaCitiesV2: POI[] = [
                         14.354622,
                         46.764694
                   ]
+            },
+            {
+                  "name": "Längsee",
+                  "text": "Der Längsee bei Sankt Veit an der Glan lädt zu entspannten Spaziergängen und zum Verweilen in der Kärntner Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        14.425549,
+                        46.789501
+                  ]
             }
       ],
       "hu": [
@@ -28977,6 +38922,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.354622,
                         46.764694
+                  ]
+            },
+            {
+                  "name": "Längsee",
+                  "text": "A Sankt Veit an der Glan közelében fekvő Längsee kellemes sétákra és kikapcsolódásra hív a karintiai természetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.425549,
+                        46.789501
                   ]
             }
       ],
@@ -29115,6 +39069,15 @@ export const austriaCitiesV2: POI[] = [
                         14.354622,
                         46.764694
                   ]
+            },
+            {
+                  "name": "Längsee",
+                  "text": "Längsee de lângă Sankt Veit an der Glan invită la plimbări relaxante și la petrecerea timpului în natura din Carintia.",
+                  "category": "natural",
+                  "coords": [
+                        14.425549,
+                        46.789501
+                  ]
             }
       ],
       "en": [
@@ -29252,6 +39215,15 @@ export const austriaCitiesV2: POI[] = [
                         14.354622,
                         46.764694
                   ]
+            },
+            {
+                  "name": "Längsee",
+                  "text": "The Längsee near Sankt Veit an der Glan invites for relaxing walks and enjoying the Carinthian scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.425549,
+                        46.789501
+                  ]
             }
       ]
 },
@@ -29322,7 +39294,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Naturschwimmbad Radnig",
                   "text": "Ein Naturbad in Radnig, das Erholung im Freien bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.364023,
                         46.644566
@@ -29432,7 +39404,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Naturschwimmbad Radnig",
                   "text": "Természetes strandfürdő Radnigban, amely szabadtéri kikapcsolódást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.364023,
                         46.644566
@@ -29542,7 +39514,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Naturschwimmbad Radnig",
                   "text": "Un ștrand natural în Radnig, care oferă recreere în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.364023,
                         46.644566
@@ -29652,7 +39624,7 @@ export const austriaCitiesV2: POI[] = [
             {
                   "name": "Naturschwimmbad Radnig",
                   "text": "A natural swimming pool in Radnig offering outdoor recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         13.364023,
                         46.644566
@@ -30055,7 +40027,160 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-fehring-cities-v2.webp",
   },
   {
-    id: "austria-gleisdorf-cities-v2",
+    id: "austria-gleisdorf-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staubecken",
+                  "text": "Das Staubecken in Gleisdorf ist ein ruhiger Ort am Wasser, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.721459,
+                        47.125648
+                  ]
+            },
+            {
+                  "name": "Playground Stadtpark",
+                  "text": "Der Spielplatz im Stadtpark Gleisdorf bietet vielfältige Spielgeräte in einer angenehmen Parklandschaft.",
+                  "category": "family",
+                  "coords": [
+                        15.712686,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Abenteuer Minigolf Hollywood",
+                  "text": "Abenteuer Minigolf Hollywood in Gleisdorf bietet Spielspaß und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        15.716661,
+                        47.097945
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Purzelbaum",
+                  "text": "Der Spielplatz des Kindergartens Purzelbaum in Gleisdorf bietet Kindern eine sichere Umgebung zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.711598,
+                        47.100072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Staubecken",
+                  "text": "A gleisdorfi Staubecken egy nyugodt vízparti hely, amely sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        15.721459,
+                        47.125648
+                  ]
+            },
+            {
+                  "name": "Playground Stadtpark",
+                  "text": "A gleisdorfi városi park játszótere változatos játékokat kínál kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        15.712686,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Abenteuer Minigolf Hollywood",
+                  "text": "A gleisdorfi Abenteuer Minigolf Hollywood szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.716661,
+                        47.097945
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Purzelbaum",
+                  "text": "A gleisdorfi Purzelbaum óvoda játszótere biztonságos környezetet nyújt a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.711598,
+                        47.100072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Staubecken",
+                  "text": "Bazinul de acumulare din Gleisdorf este un loc liniștit lângă apă, care invită la plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        15.721459,
+                        47.125648
+                  ]
+            },
+            {
+                  "name": "Playground Stadtpark",
+                  "text": "Locul de joacă din parcul orașului Gleisdorf oferă diverse echipamente de joacă într-un peisaj de parc plăcut.",
+                  "category": "family",
+                  "coords": [
+                        15.712686,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Abenteuer Minigolf Hollywood",
+                  "text": "Abenteuer Minigolf Hollywood din Gleisdorf oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.716661,
+                        47.097945
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Purzelbaum",
+                  "text": "Locul de joacă al grădiniței Purzelbaum din Gleisdorf oferă copiilor un mediu sigur pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.711598,
+                        47.100072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Staubecken",
+                  "text": "The Staubecken in Gleisdorf is a quiet spot by the water that invites for walking.",
+                  "category": "natural",
+                  "coords": [
+                        15.721459,
+                        47.125648
+                  ]
+            },
+            {
+                  "name": "Playground Stadtpark",
+                  "text": "The playground in Gleisdorf City Park offers various play equipment in a pleasant park setting.",
+                  "category": "family",
+                  "coords": [
+                        15.712686,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Abenteuer Minigolf Hollywood",
+                  "text": "Abenteuer Minigolf Hollywood in Gleisdorf offers fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.716661,
+                        47.097945
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kindergarten Purzelbaum",
+                  "text": "The playground of the Purzelbaum kindergarten in Gleisdorf offers a safe environment for outdoor play for children.",
+                  "category": "family",
+                  "coords": [
+                        15.711598,
+                        47.100072
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Gleisdorf", hu: "Gleisdorf", ro: "Gleisdorf", en: "Gleisdorf" },

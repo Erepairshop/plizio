@@ -26,7 +26,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Orcaland",
                   "text": "Orcaland ist ein Freizeitpark in Abidjan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.984315,
                         5.298253
@@ -35,7 +35,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "Die Piscine d’État de Treichville ist ein Wasserpark in Abidjan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.001042,
                         5.308238
@@ -145,7 +145,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Orcaland",
                   "text": "Az Orcaland egy vidámpark Abidjan városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.984315,
                         5.298253
@@ -154,7 +154,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "A Piscine d’État de Treichville egy aquapark Abidjan városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.001042,
                         5.308238
@@ -264,7 +264,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Orcaland",
                   "text": "Orcaland este un parc tematic în Abidjan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.984315,
                         5.298253
@@ -273,7 +273,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "Piscine d’État de Treichville este un parc acvatic în Abidjan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.001042,
                         5.308238
@@ -383,7 +383,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Orcaland",
                   "text": "Orcaland is a theme park in Abidjan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -3.984315,
                         5.298253
@@ -392,7 +392,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "The Piscine d’État de Treichville is a water park in Abidjan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -4.001042,
                         5.308238

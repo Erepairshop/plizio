@@ -2353,7 +2353,7 @@ export const finlandRegions: POI[] = [
             {
                   "name": "JukuPark Turku",
                   "text": "Ein großer Wasserpark in Turku mit zahlreichen Rutschen und Becken für Familienaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.256688,
                         60.478468
@@ -2805,7 +2805,7 @@ export const finlandRegions: POI[] = [
             {
                   "name": "JukuPark Turku",
                   "text": "Egy nagy vízi park Turkuban, számos csúszdával és medencével a családi kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.256688,
                         60.478468
@@ -3257,7 +3257,7 @@ export const finlandRegions: POI[] = [
             {
                   "name": "JukuPark Turku",
                   "text": "Un parc acvatic mare în Turku, cu numeroase tobogane și piscine pentru activități în familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.256688,
                         60.478468
@@ -3709,7 +3709,7 @@ export const finlandRegions: POI[] = [
             {
                   "name": "JukuPark Turku",
                   "text": "A large water park in Turku with numerous slides and pools for family activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.256688,
                         60.478468
@@ -4225,7 +4225,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "HopLop",
                   "text": "HopLop ist ein Indoor-Aktivitätspark in Oulu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.465823,
                         64.994839
@@ -4659,7 +4659,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "HopLop",
                   "text": "A HopLop egy beltéri kalandpark Ouluban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.465823,
                         64.994839
@@ -5093,7 +5093,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "HopLop",
                   "text": "HopLop este un parc de activități indoor din Oulu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.465823,
                         64.994839
@@ -5527,7 +5527,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "HopLop",
                   "text": "HopLop is an indoor activity park in Oulu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.465823,
                         64.994839
@@ -6006,7 +6006,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Leo's Helsinki, Outlet",
                   "text": "Ein großer Indoor-Spielplatz in Vantaa, der vielfältige Aktivitäten für Kinder bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.081197,
                         60.27536
@@ -6215,7 +6215,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Leo's Helsinki, Outlet",
                   "text": "Egy nagy fedett játszótér Vantaában, amely változatos tevékenységeket kínál gyermekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.081197,
                         60.27536
@@ -6424,7 +6424,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Leo's Helsinki, Outlet",
                   "text": "Un spațiu de joacă interior mare în Vantaa, care oferă activități variate pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.081197,
                         60.27536
@@ -6633,7 +6633,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Leo's Helsinki, Outlet",
                   "text": "A large indoor playground in Vantaa offering diverse activities for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.081197,
                         60.27536
@@ -7058,7 +7058,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Yli-Marolan 4H-kotieläinpiha",
                   "text": "Ein familienfreundlicher Bauernhof, auf dem Besucher Haustiere treffen können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.647838,
                         60.976152
@@ -7375,7 +7375,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Yli-Marolan 4H-kotieläinpiha",
                   "text": "Családbarát állatfarm, ahol a látogatók háziállatokkal találkozhatnak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.647838,
                         60.976152
@@ -7692,7 +7692,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Yli-Marolan 4H-kotieläinpiha",
                   "text": "O fermă de animale potrivită pentru familii, unde vizitatorii pot vedea animale domestice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.647838,
                         60.976152
@@ -8009,7 +8009,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Yli-Marolan 4H-kotieläinpiha",
                   "text": "A family-friendly animal farm where visitors can meet domestic animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.647838,
                         60.976152
@@ -8290,7 +8290,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "AaltoAlvari ist ein Wasserpark in Jyväskylä.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -8697,7 +8697,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "Az AaltoAlvari egy vízipark Jyväskylä városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -9104,7 +9104,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "AaltoAlvari este un parc acvatic din Jyväskylä.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -9511,7 +9511,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "AaltoAlvari",
                   "text": "AaltoAlvari is a water park facility located in Jyväskylä.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.728224,
                         62.236189
@@ -11644,7 +11644,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Tropiclandia",
                   "text": "Tropiclandia ist ein Wasserpark in Vaasa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.585801,
                         63.087472
@@ -12033,7 +12033,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Tropiclandia",
                   "text": "A Tropiclandia egy vízipark Vaasa városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.585801,
                         63.087472
@@ -12422,7 +12422,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Tropiclandia",
                   "text": "Tropiclandia este un parc acvatic situat în Vaasa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.585801,
                         63.087472
@@ -12811,7 +12811,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Tropiclandia",
                   "text": "Tropiclandia is a water park situated in Vaasa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.585801,
                         63.087472
@@ -13928,7 +13928,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Hiekkalinna",
                   "text": "Eine jährliche Attraktion in Lappeenranta mit beeindruckenden Sandskulpturen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.184284,
                         61.068699
@@ -14128,7 +14128,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Hiekkalinna",
                   "text": "Évente megrendezett látványosság Lappeenrantában, lenyűgöző homokszobrokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.184284,
                         61.068699
@@ -14328,7 +14328,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Hiekkalinna",
                   "text": "O atracție anuală în Lappeenranta, cu sculpturi impresionante din nisip.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.184284,
                         61.068699
@@ -14528,7 +14528,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Sandcastle",
                   "text": "An annual attraction in Lappeenranta featuring impressive sand sculptures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.184284,
                         61.068699
@@ -14809,7 +14809,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Maretarium",
                   "text": "Maretarium ist ein öffentliches Aquarium, das Wasserlebewesen in Kotka zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.950682,
                         60.461145
@@ -15054,7 +15054,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Maretarium",
                   "text": "A Maretarium egy nyilvános akvárium, amely a vízi élővilágot mutatja be Kotka városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.950682,
                         60.461145
@@ -15299,7 +15299,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Maretarium",
                   "text": "Maretarium este un acvariu public care expune viața acvatică în Kotka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.950682,
                         60.461145
@@ -15544,7 +15544,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Maretarium",
                   "text": "Maretarium is a public aquarium displaying aquatic life in Kotka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.950682,
                         60.461145
@@ -15834,7 +15834,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Roiske",
                   "text": "Ein Wassersportzentrum in Rovaniemi, das verschiedene Aktivitäten auf den lokalen Flüssen anbietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.743653,
                         66.520199
@@ -16016,7 +16016,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Roiske",
                   "text": "Vízi sportközpont Rovaniemiben, amely különféle aktivitásokat kínál a helyi folyókon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.743653,
                         66.520199
@@ -16198,7 +16198,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Roiske",
                   "text": "Un centru de activități nautice în Rovaniemi, care oferă diverse distracții pe râurile locale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.743653,
                         66.520199
@@ -16380,7 +16380,7 @@ export const finlandCities: POI[] = [
             {
                   "name": "Roiske Water Activities Centre",
                   "text": "A water sports center in Rovaniemi offering various activities on the local rivers.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.743653,
                         66.520199
@@ -20535,7 +20535,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Hoplop Lohja",
                   "text": "Hoplop Lohja ist ein Themenpark für Kinder in Lohja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.085505,
                         60.247189
@@ -20553,7 +20553,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "SikaKiva Eläinpiha",
                   "text": "SikaKiva Eläinpiha ist ein Tierhof und Zoo in Lohja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.080954,
                         60.235321
@@ -20771,7 +20771,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Hoplop Lohja",
                   "text": "A Hoplop Lohja egy vidámpark gyermekeknek Lohja városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.085505,
                         60.247189
@@ -20789,7 +20789,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "SikaKiva Eläinpiha",
                   "text": "A SikaKiva Eläinpiha egy állatudvar és állatkert Lohja városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.080954,
                         60.235321
@@ -21007,7 +21007,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Hoplop Lohja",
                   "text": "Hoplop Lohja este un parc tematic pentru copii din Lohja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.085505,
                         60.247189
@@ -21025,7 +21025,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "SikaKiva Eläinpiha",
                   "text": "SikaKiva Eläinpiha este o mică grădină zoologică în Lohja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.080954,
                         60.235321
@@ -21243,7 +21243,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Hoplop Lohja",
                   "text": "Hoplop Lohja is a theme park for children in Lohja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.085505,
                         60.247189
@@ -21261,7 +21261,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "SikaKiva Eläinpiha",
                   "text": "SikaKiva Eläinpiha is an animal yard and petting zoo located in Lohja.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.080954,
                         60.235321
@@ -21470,7 +21470,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Muminwelt",
                   "text": "Ein beliebter Themenpark in Naantali, der den Geschichten der Mumins von Tove Jansson gewidmet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.004413,
                         60.472859
@@ -21661,7 +21661,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Muumimaailma",
                   "text": "Népszerű tematikus park Naantaliban, amely Tove Jansson Mumin-történeteit eleveníti fel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.004413,
                         60.472859
@@ -21852,7 +21852,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Muumimaailma",
                   "text": "Un parc tematic popular în Naantali, dedicat poveștilor cu Mumi de Tove Jansson.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.004413,
                         60.472859
@@ -22043,7 +22043,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Moomin World",
                   "text": "A popular theme park in Naantali dedicated to Tove Jansson's Moomin stories.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.004413,
                         60.472859
@@ -26554,7 +26554,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Imatran valtionhotelli",
                   "text": "Ein historisches schlossähnliches Hotel am Fluss Vuoksi in Imatra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.768981,
                         61.168771
@@ -26637,7 +26637,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Imatran valtionhotelli",
                   "text": "Történelmi kastélyszálló az Imatrán átfolyó Vuoksi-folyó partján.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.768981,
                         61.168771
@@ -26720,7 +26720,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Imatran valtionhotelli",
                   "text": "Un hotel istoric în stil castel, situat pe râul Vuoksi din Imatra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.768981,
                         61.168771
@@ -26803,7 +26803,7 @@ export const finlandNatureExtended: POI[] = [
             {
                   "name": "Imatran valtionhotelli",
                   "text": "A historic castle-like hotel located by the Vuoksi River in Imatra.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         28.768981,
                         61.168771

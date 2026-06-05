@@ -363,7 +363,7 @@ export const sanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Ein Abenteuerpark im Wald mit Kletterparcours für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -500,7 +500,7 @@ export const sanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Erdei kalandpark kötélpályákkal minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -637,7 +637,7 @@ export const sanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "Un parc de aventură în pădure, cu trasee de cățărare pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831
@@ -774,7 +774,7 @@ export const sanmarinoCities: POI[] = [
             {
                   "name": "San Marino Adventures",
                   "text": "An adventure park in the forest with climbing courses for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         12.429577,
                         43.941831

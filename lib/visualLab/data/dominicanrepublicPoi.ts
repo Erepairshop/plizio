@@ -93,7 +93,7 @@ export const dominicanrepublicCities: POI[] = [
             {
                   "name": "Scream Land",
                   "text": "Scream Land ist ein unterhaltsamer Freizeitpark in Santiago de los Caballeros.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.68652,
                         19.457077
@@ -248,7 +248,7 @@ export const dominicanrepublicCities: POI[] = [
             {
                   "name": "Scream Land",
                   "text": "A Scream Land egy szórakoztató vidámpark Santiago de los Caballeros városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.68652,
                         19.457077
@@ -403,7 +403,7 @@ export const dominicanrepublicCities: POI[] = [
             {
                   "name": "Scream Land",
                   "text": "Scream Land este un parc tematic distractiv situat în Santiago de los Caballeros.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.68652,
                         19.457077
@@ -558,7 +558,7 @@ export const dominicanrepublicCities: POI[] = [
             {
                   "name": "Scream Land",
                   "text": "Scream Land is an entertaining theme park located in Santiago de los Caballeros.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -70.68652,
                         19.457077

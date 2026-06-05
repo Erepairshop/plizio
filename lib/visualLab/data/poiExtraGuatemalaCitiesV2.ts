@@ -302,7 +302,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Aqua Magic",
                   "text": "Ein Wasserpark in Puerto San José mit verschiedenen Rutschen und Pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.817704,
                         13.918659
@@ -331,7 +331,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Aqua Magic",
                   "text": "Vízi park Puerto San Joséban, különféle csúszdákkal és medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.817704,
                         13.918659
@@ -360,7 +360,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Aqua Magic",
                   "text": "Un parc acvatic în Puerto San José, cu diverse tobogane și piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.817704,
                         13.918659
@@ -389,7 +389,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Aqua Magic",
                   "text": "A water park in Puerto San José featuring various slides and pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.817704,
                         13.918659
@@ -1667,7 +1667,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Planta",
                   "text": "Ein familienfreundlicher Wasserpark für Freizeitaktivitäten in Esquipulas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.336828,
                         14.545319
@@ -1714,7 +1714,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Planta",
                   "text": "Családbarát vízi élménypark Esquipulas területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.336828,
                         14.545319
@@ -1761,7 +1761,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Planta",
                   "text": "Un parc acvatic pentru familii și activități recreative în Esquipulas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.336828,
                         14.545319
@@ -1808,7 +1808,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Planta",
                   "text": "A family-friendly water park for recreational activities in Esquipulas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.336828,
                         14.545319
@@ -3142,7 +3142,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Jersey ACJ",
                   "text": "Ein kleiner Zoo oder Tierpark in San José Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.418193,
                         14.547266
@@ -3151,7 +3151,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "La Finka",
                   "text": "Ein Freizeit- oder Themenpark in San José Pinula für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.421464,
                         14.543054
@@ -3171,7 +3171,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Jersey ACJ",
                   "text": "Kisméretű állatkert vagy vadaspark San José Pinulában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.418193,
                         14.547266
@@ -3180,7 +3180,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "La Finka",
                   "text": "Szórakoztató- vagy élménypark San José Pinulában családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.421464,
                         14.543054
@@ -3200,7 +3200,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Jersey ACJ",
                   "text": "O mică grădină zoologică sau parc de animale în San José Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.418193,
                         14.547266
@@ -3209,7 +3209,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "La Finka",
                   "text": "Un parc de distracții sau tematic în San José Pinula pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.421464,
                         14.543054
@@ -3229,7 +3229,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Jersey ACJ",
                   "text": "A small zoo or animal park in San José Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.418193,
                         14.547266
@@ -3238,7 +3238,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "La Finka",
                   "text": "A recreational or theme park in San José Pinula for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.421464,
                         14.543054
@@ -3295,7 +3295,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque Lotificación La Montaña",
                   "text": "Ein Freizeitpark mit verschiedenen Attraktionen in Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.478859,
                         14.594689
@@ -3304,7 +3304,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque La Villa de Guadalupe",
                   "text": "Ein Park für Familienerholung und Freizeitgestaltung in Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.505462,
                         14.589345
@@ -3331,7 +3331,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Akua",
                   "text": "Ein moderner Wasserpark mit Rutschen und Pools in Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.482805,
                         14.609755
@@ -3369,7 +3369,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque Lotificación La Montaña",
                   "text": "Szórakoztató park különféle attrakciókkal Santa Catarina Pinula városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.478859,
                         14.594689
@@ -3378,7 +3378,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque La Villa de Guadalupe",
                   "text": "Családi pihenésre és kikapcsolódásra alkalmas park Santa Catarina Pinulában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.505462,
                         14.589345
@@ -3405,7 +3405,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Akua",
                   "text": "Modern vízi park csúszdákkal és medencékkel Santa Catarina Pinula területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.482805,
                         14.609755
@@ -3443,7 +3443,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque Lotificación La Montaña",
                   "text": "Un parc de distracții cu diverse atracții în Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.478859,
                         14.594689
@@ -3452,7 +3452,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque La Villa de Guadalupe",
                   "text": "Un parc pentru recreere în familie și timp liber în Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.505462,
                         14.589345
@@ -3479,7 +3479,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Akua",
                   "text": "Un parc acvatic modern cu tobogane și piscine în Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.482805,
                         14.609755
@@ -3517,7 +3517,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque Lotificación La Montaña",
                   "text": "A theme park offering various attractions in Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.478859,
                         14.594689
@@ -3526,7 +3526,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Parque La Villa de Guadalupe",
                   "text": "A park for family recreation and leisure in Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.505462,
                         14.589345
@@ -3553,7 +3553,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             {
                   "name": "Akua",
                   "text": "A modern water park with slides and pools in Santa Catarina Pinula.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -90.482805,
                         14.609755

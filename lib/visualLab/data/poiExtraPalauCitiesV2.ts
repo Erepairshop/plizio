@@ -26,7 +26,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Palau International Coral Reef Centre ist ein Aquarium in Koror.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -154,7 +154,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "A Palau International Coral Reef Centre egy akvárium Koror városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -282,7 +282,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Palau International Coral Reef Centre este un acvariu situat în Koror.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -410,7 +410,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Palau International Coral Reef Centre is an aquarium located in Koror.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -962,7 +962,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Aquarium in Meyuns.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -1054,7 +1054,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Akvárium Meyunsban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -1146,7 +1146,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Acvariu în Meyuns.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
@@ -1238,7 +1238,7 @@ export const palauCitiesV2: POI[] = [
             {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Aquarium in Meyuns.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         134.466229,
                         7.33864

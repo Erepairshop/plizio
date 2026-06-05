@@ -205,7 +205,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Der Zoological Garden of Monaco ist ein Zoo in Monaco-Ville. Er bietet einen Lebensraum für verschiedene Tiere in der Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -448,7 +448,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo ist eine Wasserparkanlage in Monaco-Ville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -612,7 +612,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "A Zoological Garden of Monaco egy állatkert Monaco-Ville-ben. Különféle állatoknak nyújt élőhelyet a városban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -855,7 +855,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "A Thermes Marins Monte-Carlo egy vízipark létesítmény Monaco-Ville-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -1019,7 +1019,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Zoological Garden of Monaco este o grădină zoologică situată în Monaco-Ville. Oferă un habitat pentru diverse animale din oraș.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -1262,7 +1262,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo este o facilitate de parc acvatic situată în Monaco-Ville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -1426,7 +1426,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Zoological Garden of Monaco",
                   "text": "The Zoological Garden of Monaco is a zoo situated in Monaco-Ville. It provides a habitat for various animals in the city.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -1669,7 +1669,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo is a water park facility located in Monaco-Ville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -1878,7 +1878,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Ein zoologischer Garten in Monaco, der einen Einblick in die Tierwelt aus aller Welt bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -2103,7 +2103,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Ein luxuriöses Wellnesszentrum und Spa mit Thalassotherapie in Monte-Carlo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -2285,7 +2285,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Monacói állatkert, amely betekintést nyújt a világ minden tájáról származó állatvilágba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -2510,7 +2510,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Luxus wellnessközpont és fürdő talasszoterápiával Monte-Carlóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -2692,7 +2692,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "O grădină zoologică în Monaco, care oferă o privire asupra faunei din întreaga lume.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -2917,7 +2917,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Un centru de wellness și spa de lux cu talasoterapie în Monte-Carlo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -3099,7 +3099,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Zoological Garden of Monaco",
                   "text": "A zoological garden in Monaco offering a glimpse into wildlife from around the world.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -3324,7 +3324,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "A luxurious wellness center and spa with thalassotherapy in Monte-Carlo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -3541,7 +3541,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Ein von Fürst Rainier III. gegründeter Zoo, der sich auf gespendete oder gerettete Tiere konzentriert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -3793,7 +3793,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Eine luxuriöse Wellness- und Thermalanlage in Monaco, bekannt für ihre Meerwasser-Therapien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -3948,7 +3948,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "III. Rainier herceg által alapított állatkert, amely az adományozott vagy mentett állatokra összpontosít.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -4200,7 +4200,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Luxus wellness- és termálközpont Monacóban, amely tengervizes terápiáiról ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -4355,7 +4355,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "O grădină zoologică fondată de prințul Rainier al III-lea, axată pe animale donate sau salvate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -4607,7 +4607,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "O facilitate de wellness și termală de lux din Monaco, cunoscută pentru terapiile cu apă de mare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -4762,7 +4762,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Zoological Garden of Monaco",
                   "text": "A zoo founded by Prince Rainier III, focusing on animals donated or rescued.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -5014,7 +5014,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "A luxury wellness and thermal facility in Monaco, known for its seawater therapies.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -5222,7 +5222,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Der Zoologische Garten von Monaco ist ein bekannter Zoo in La Condamine, der eine Sammlung verschiedener Tiere zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -5465,7 +5465,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo ist ein Wasserpark und Spa in La Condamine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -5629,7 +5629,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "A Monacói Állatkert egy nevezetes állatkert La Condamine-ban, amely változatos állatgyűjteményt mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -5872,7 +5872,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "A Thermes Marins Monte-Carlo egy élményfürdő La Condamine-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -6036,7 +6036,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Jardin animalier de Monaco",
                   "text": "Grădina Zoologică din Monaco este o grădină zoologică notabilă situată în La Condamine, prezentând o colecție diversă de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -6279,7 +6279,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo este un parc acvatic situat în La Condamine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755
@@ -6443,7 +6443,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Zoological Garden of Monaco",
                   "text": "The Zoological Garden of Monaco is a notable zoo located in La Condamine, showcasing a collection of diverse animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.418647,
                         43.73116
@@ -6686,7 +6686,7 @@ export const monacoDistricts: POI[] = [
             {
                   "name": "Thermes Marins Monte-Carlo",
                   "text": "Thermes Marins Monte-Carlo is a water park facility located in La Condamine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         7.427069,
                         43.737755

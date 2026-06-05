@@ -343,7 +343,7 @@ export const japanCities: POI[] = [
             {
                   "name": "キッズプラザ大阪",
                   "text": "Kids Plaza Osaka ist ein Themenpark in Osaka. Es widmet sich der kindlichen Bildung durch interaktive Ausstellungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.510271,
                         34.704525
@@ -822,7 +822,7 @@ export const japanCities: POI[] = [
             {
                   "name": "キッズプラザ大阪",
                   "text": "A Kids Plaza Osaka egy vidámpark Oszakában. A gyermekek oktatásának szentelik interaktív kiállításokon keresztül.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.510271,
                         34.704525
@@ -1301,7 +1301,7 @@ export const japanCities: POI[] = [
             {
                   "name": "キッズプラザ大阪",
                   "text": "Kids Plaza Osaka este un parc tematic din Osaka. Este dedicat educației copiilor prin expoziții interactive.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.510271,
                         34.704525
@@ -1780,7 +1780,7 @@ export const japanCities: POI[] = [
             {
                   "name": "Kids Plaza Osaka",
                   "text": "Kids Plaza Osaka is a theme park in Osaka. It is dedicated to children's education through interactive exhibits.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.510271,
                         34.704525
@@ -4474,7 +4474,7 @@ export const japanCities: POI[] = [
             {
                   "name": "横浜市立野毛山動物園",
                   "text": "Ein kostenloser Zoo in Yokohama, der viele verschiedene Tierarten beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         139.62259,
                         35.44744
@@ -4917,7 +4917,7 @@ export const japanCities: POI[] = [
             {
                   "name": "横浜市立野毛山動物園",
                   "text": "Ingyenes állatkert Yokohamában, amely számos különböző állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         139.62259,
                         35.44744
@@ -5360,7 +5360,7 @@ export const japanCities: POI[] = [
             {
                   "name": "横浜市立野毛山動物園",
                   "text": "O grădină zoologică gratuită din Yokohama, care găzduiește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         139.62259,
                         35.44744
@@ -5803,7 +5803,7 @@ export const japanCities: POI[] = [
             {
                   "name": "Nogeyama zoo",
                   "text": "A free zoo in Yokohama that is home to many different animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         139.62259,
                         35.44744
@@ -7966,7 +7966,7 @@ export const japanCities: POI[] = [
             {
                   "name": "AOAO Sapporo",
                   "text": "Das AOAO Sapporo ist ein modernes Aquarium im Zentrum der Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.353577,
                         43.057763
@@ -7975,7 +7975,7 @@ export const japanCities: POI[] = [
             {
                   "name": "HAPPY BERNARD",
                   "text": "Happy Bernard ist ein kleiner Zoo in Sapporo, der sich auf Tierbegegnungen spezialisiert hat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.35146,
                         43.048808
@@ -8391,7 +8391,7 @@ export const japanCities: POI[] = [
             {
                   "name": "AOAO Sapporo",
                   "text": "Az AOAO Sapporo egy modern akvárium a város központjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.353577,
                         43.057763
@@ -8400,7 +8400,7 @@ export const japanCities: POI[] = [
             {
                   "name": "HAPPY BERNARD",
                   "text": "A Happy Bernard egy kis állatkert Szapporóban, amely az állatokkal való közvetlen kapcsolatot hangsúlyozza.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.35146,
                         43.048808
@@ -8816,7 +8816,7 @@ export const japanCities: POI[] = [
             {
                   "name": "AOAO Sapporo",
                   "text": "AOAO Sapporo este un acvariu modern situat în centrul orașului.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.353577,
                         43.057763
@@ -8825,7 +8825,7 @@ export const japanCities: POI[] = [
             {
                   "name": "HAPPY BERNARD",
                   "text": "Happy Bernard este o mică grădină zoologică din Sapporo, specializată în interacțiunea cu animalele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.35146,
                         43.048808
@@ -9241,7 +9241,7 @@ export const japanCities: POI[] = [
             {
                   "name": "AOAO Sapporo",
                   "text": "AOAO Sapporo is a modern aquarium located in the city center.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.353577,
                         43.057763
@@ -9250,7 +9250,7 @@ export const japanCities: POI[] = [
             {
                   "name": "HAPPY BERNARD",
                   "text": "Happy Bernard is a small zoo in Sapporo specializing in animal encounters.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         141.35146,
                         43.048808
@@ -9820,7 +9820,7 @@ export const japanCities: POI[] = [
             {
                   "name": "福岡市動植物園",
                   "text": "Ein kombinierter Tier- und Pflanzengarten im Herzen von Fukuoka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         130.389011,
                         33.573263
@@ -10254,7 +10254,7 @@ export const japanCities: POI[] = [
             {
                   "name": "福岡市動植物園",
                   "text": "Fukuoka szívében található állat- és botanikus kert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         130.389011,
                         33.573263
@@ -10688,7 +10688,7 @@ export const japanCities: POI[] = [
             {
                   "name": "福岡市動植物園",
                   "text": "O grădină zoologică și botanică situată în inima orașului Fukuoka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         130.389011,
                         33.573263
@@ -11122,7 +11122,7 @@ export const japanCities: POI[] = [
             {
                   "name": "Fukuoka Municipal Zoo and Botanical Garden",
                   "text": "A combined animal and plant garden located in the heart of Fukuoka.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         130.389011,
                         33.573263
@@ -11629,7 +11629,7 @@ export const japanCities: POI[] = [
             {
                   "name": "神戸市立王子動物園",
                   "text": "Der Kobe Oji Zoo ist ein beliebter zoologischer Park in Kobe mit einer vielfältigen Auswahl an Tierarten aus aller Welt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.214122,
                         34.710769
@@ -11982,7 +11982,7 @@ export const japanCities: POI[] = [
             {
                   "name": "神戸市立王子動物園",
                   "text": "A Kóbe Ódzsi Állatkert egy népszerű állatkert Kóbéban, amely a globális állatfajok széles választékát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.214122,
                         34.710769
@@ -12335,7 +12335,7 @@ export const japanCities: POI[] = [
             {
                   "name": "神戸市立王子動物園",
                   "text": "Grădina Zoologică Kobe Oji este un parc zoologic popular din Kobe, cu o gamă diversă de specii de animale de pe tot globul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.214122,
                         34.710769
@@ -12688,7 +12688,7 @@ export const japanCities: POI[] = [
             {
                   "name": "Kobe Oji Zoo",
                   "text": "Kobe Oji Zoo is a popular zoological park in Kobe featuring a diverse range of global animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         135.214122,
                         34.710769
@@ -12907,7 +12907,7 @@ export const japanCities: POI[] = [
             {
                   "name": "kiond ひろしま",
                   "text": "Kiond Hiroshima ist ein Themenpark, der spielerische Lernerfahrungen bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.45519,
                         34.400592
@@ -12916,7 +12916,7 @@ export const japanCities: POI[] = [
             {
                   "name": "BESIDE HIROSHIMA by UTSUWA",
                   "text": "Ein Wasserpark in Hiroshima, der Möglichkeiten für Freizeitaktivitäten im Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.452192,
                         34.402677
@@ -12952,7 +12952,7 @@ export const japanCities: POI[] = [
             {
                   "name": "中央公園ファミリープール",
                   "text": "Eine öffentliche Schwimmanlage in Hiroshima, die für die Erholung mit der Familie geeignet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.453693,
                         34.399697
@@ -13305,7 +13305,7 @@ export const japanCities: POI[] = [
             {
                   "name": "kiond ひろしま",
                   "text": "A Kiond Hiroshima egy élménypark, amely játékos tanulási lehetőségeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.45519,
                         34.400592
@@ -13314,7 +13314,7 @@ export const japanCities: POI[] = [
             {
                   "name": "BESIDE HIROSHIMA by UTSUWA",
                   "text": "Vízipark Hirosimában, amely vízi szabadidős tevékenységeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.452192,
                         34.402677
@@ -13350,7 +13350,7 @@ export const japanCities: POI[] = [
             {
                   "name": "中央公園ファミリープール",
                   "text": "Családi kikapcsolódásra alkalmas nyilvános uszoda Hirosimában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.453693,
                         34.399697
@@ -13703,7 +13703,7 @@ export const japanCities: POI[] = [
             {
                   "name": "kiond ひろしま",
                   "text": "Kiond Hiroshima este un parc tematic care oferă experiențe de învățare ludice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.45519,
                         34.400592
@@ -13712,7 +13712,7 @@ export const japanCities: POI[] = [
             {
                   "name": "BESIDE HIROSHIMA by UTSUWA",
                   "text": "Un parc acvatic din Hiroshima care oferă activități recreative în apă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.452192,
                         34.402677
@@ -13748,7 +13748,7 @@ export const japanCities: POI[] = [
             {
                   "name": "中央公園ファミリープール",
                   "text": "O facilitate publică de înot din Hiroshima, potrivită pentru recreere în familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.453693,
                         34.399697
@@ -14101,7 +14101,7 @@ export const japanCities: POI[] = [
             {
                   "name": "kiond ひろしま",
                   "text": "Kiond Hiroshima is a theme park offering playful learning experiences.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.45519,
                         34.400592
@@ -14110,7 +14110,7 @@ export const japanCities: POI[] = [
             {
                   "name": "BESIDE HIROSHIMA by UTSUWA",
                   "text": "A water park in Hiroshima offering recreational water activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.452192,
                         34.402677
@@ -14146,7 +14146,7 @@ export const japanCities: POI[] = [
             {
                   "name": "Family Swimming Pool",
                   "text": "A public swimming facility in Hiroshima suitable for family recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         132.453693,
                         34.399697

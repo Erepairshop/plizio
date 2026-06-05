@@ -87,6 +87,15 @@ export const bulgariaAllPoi: POI[] = [
                         23.488812,
                         41.833942
                   ]
+            },
+            {
+                  "name": "Кринец",
+                  "text": "Ein See bei Bansko, ideal um die alpine Landschaft zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
+                  ]
             }
       ],
       "hu": [
@@ -142,6 +151,15 @@ export const bulgariaAllPoi: POI[] = [
                   "coords": [
                         23.488812,
                         41.833942
+                  ]
+            },
+            {
+                  "name": "Кринец",
+                  "text": "Egy tó Banszko környékén, amely ideális az alpesi táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
                   ]
             }
       ],
@@ -199,6 +217,15 @@ export const bulgariaAllPoi: POI[] = [
                         23.488812,
                         41.833942
                   ]
+            },
+            {
+                  "name": "Кринец",
+                  "text": "Un lac în apropiere de Bansko, ideal pentru a admira peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
+                  ]
             }
       ],
       "en": [
@@ -254,6 +281,15 @@ export const bulgariaAllPoi: POI[] = [
                   "coords": [
                         23.488812,
                         41.833942
+                  ]
+            },
+            {
+                  "name": "Krinets",
+                  "text": "A lake near Bansko, ideal for admiring the alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        23.494319,
+                        41.822326
                   ]
             }
       ]
@@ -383,7 +419,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Лунапарк",
                   "text": "Лунапарк ist ein Freizeitpark in Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.724361,
                         42.660824
@@ -410,7 +446,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Морской аквариум \"Свети Никола\"",
                   "text": "Das Meeresaquarium „Sveti Nikola“ ist eine maritime Attraktion in Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.722967,
                         42.66194
@@ -428,7 +464,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Mini-Aquapark Pirates of the Caribbean",
                   "text": "Pirates of the Caribbean ist ein Wasserpark in Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.707555,
                         42.665935
@@ -486,6 +522,24 @@ export const bulgariaAllPoi: POI[] = [
                   "coords": [
                         27.734071,
                         42.659053
+                  ]
+            },
+            {
+                  "name": "Ахелой ез.",
+                  "text": "Der Ахелой ез. in Nessebar ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Микроязовир Ахелой",
+                  "text": "Der Микроязовир Ахелой in Nessebar ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
                   ]
             }
       ],
@@ -565,7 +619,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Лунапарк",
                   "text": "A Лунапарк egy vidámpark Neszebarban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.724361,
                         42.660824
@@ -592,7 +646,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Морской аквариум \"Свети Никола\"",
                   "text": "A \"Sveti Nikola\" Tengeri Akvárium Neszebar városában található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.722967,
                         42.66194
@@ -610,7 +664,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Mini-Aquapark Pirates of the Caribbean",
                   "text": "A Pirates of the Caribbean egy vízipark Neszebarban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.707555,
                         42.665935
@@ -668,6 +722,24 @@ export const bulgariaAllPoi: POI[] = [
                   "coords": [
                         27.734071,
                         42.659053
+                  ]
+            },
+            {
+                  "name": "Ахелой ез.",
+                  "text": "A Ахелой ез. egy tó Nessebar területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Микроязовир Ахелой",
+                  "text": "A Микроязовир Ахелой egy tó Nessebar területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
                   ]
             }
       ],
@@ -747,7 +819,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Лунапарк",
                   "text": "Лунапарк este un parc tematic situat în Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.724361,
                         42.660824
@@ -774,7 +846,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Морской аквариум \"Свети Никола\"",
                   "text": "Acvariul marin „Sveti Nikola” este o atracție situată în orașul Nesebăr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.722967,
                         42.66194
@@ -792,7 +864,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Mini-Aquapark Pirates of the Caribbean",
                   "text": "Pirates of the Caribbean este un parc acvatic situat în Nesebăr.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.707555,
                         42.665935
@@ -850,6 +922,24 @@ export const bulgariaAllPoi: POI[] = [
                   "coords": [
                         27.734071,
                         42.659053
+                  ]
+            },
+            {
+                  "name": "Ахелой ез.",
+                  "text": "Ахелой ез. din Nessebar este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Микроязовир Ахелой",
+                  "text": "Микроязовир Ахелой din Nessebar este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
                   ]
             }
       ],
@@ -929,7 +1019,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Лунапарк",
                   "text": "Лунапарк is a theme park located in Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.724361,
                         42.660824
@@ -956,7 +1046,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Морской аквариум \"Свети Никола\"",
                   "text": "The \"Sveti Nikola\" Sea Aquarium is a marine attraction located in Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.722967,
                         42.66194
@@ -974,7 +1064,7 @@ export const bulgariaAllPoi: POI[] = [
             {
                   "name": "Pirates of the Caribbean",
                   "text": "Pirates of the Caribbean is a water park attraction located in Nessebar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.707555,
                         42.665935
@@ -1032,6 +1122,24 @@ export const bulgariaAllPoi: POI[] = [
                   "coords": [
                         27.734071,
                         42.659053
+                  ]
+            },
+            {
+                  "name": "Ахелой ез.",
+                  "text": "The Ахелой ез. in Nessebar is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Микроязовир Ахелой",
+                  "text": "The Микроязовир Ахелой in Nessebar is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
                   ]
             }
       ]

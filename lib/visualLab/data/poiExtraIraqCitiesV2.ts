@@ -2671,7 +2671,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             {
                   "name": "ئەکواپارکی شنگلبانە",
                   "text": "ئەکواپارکی شنگلبانە ist ein Wasserpark, der Freizeitmöglichkeiten in Rawanduz bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.508262,
                         36.615651
@@ -2826,7 +2826,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             {
                   "name": "ئەکواپارکی شنگلبانە",
                   "text": "A ئەکواپارکی شنگلبانە egy vízipark, amely kikapcsolódási lehetőséget nyújt Rawanduzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.508262,
                         36.615651
@@ -2981,7 +2981,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             {
                   "name": "ئەکواپارکی شنگلبانە",
                   "text": "ئەکواپارکی شنگلبانە este un parc acvatic ce oferă facilități de agrement în Rawanduz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.508262,
                         36.615651
@@ -3136,7 +3136,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             {
                   "name": "ئەکواپارکی شنگلبانە",
                   "text": "ئەکواپارکی شنگلبانە is a water park offering recreational activities in Rawanduz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         44.508262,
                         36.615651

@@ -811,7 +811,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             {
                   "name": "The Snake Pit",
                   "text": "The Snake Pit ist eine zoologische Einrichtung in Victoria Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.83847,
                         -17.928293
@@ -1047,7 +1047,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             {
                   "name": "The Snake Pit",
                   "text": "A The Snake Pit egy állatkerti létesítmény Victoria Falls területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.83847,
                         -17.928293
@@ -1283,7 +1283,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             {
                   "name": "The Snake Pit",
                   "text": "The Snake Pit este o facilitate zoologică situată în Victoria Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.83847,
                         -17.928293
@@ -1519,7 +1519,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             {
                   "name": "The Snake Pit",
                   "text": "The Snake Pit is a zoological facility located in Victoria Falls.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.83847,
                         -17.928293

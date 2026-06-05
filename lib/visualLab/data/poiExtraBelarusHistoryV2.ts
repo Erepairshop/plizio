@@ -2903,7 +2903,7 @@ export const belarusHistoryV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Dieser Kultur- und Erholungspark ist ein Freizeitpark mit verschiedenen Aktivitäten im historischen Sluzk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -3076,7 +3076,7 @@ export const belarusHistoryV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Ez a Kulturális és Pihenőpark szabadidős tevékenységeket kínál az egykori Sluzk városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -3249,7 +3249,7 @@ export const belarusHistoryV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "Acest Parc de Cultură și Recreere este un parc tematic care oferă activități de agrement în istoricul Sluzk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864
@@ -3422,7 +3422,7 @@ export const belarusHistoryV2: POI[] = [
             {
                   "name": "Парк культуры і адпачынку",
                   "text": "This Park of Culture and Recreation is a theme park providing leisure activities in Historisches Sluzk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         27.54735,
                         53.021864

@@ -5560,7 +5560,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Ein Streichelzoo in Ta' Qali, der besonders bei Familien beliebt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -5913,7 +5913,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Állatsimogató Ta' Qaliban, amely különösen népszerű a családok körében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -6266,7 +6266,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "O fermă cu animale domestice în Ta' Qali, populară în rândul familiilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -6619,7 +6619,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Ta' Qali Petting Farm",
                   "text": "A petting farm in Ta' Qali that is particularly popular with families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -7331,7 +7331,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Die Ta' Qali Petting Farm ist ein familienfreundlicher Zoo in der Nähe von Mdina (Stille Stadt).",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -7576,7 +7576,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "A Ta' Qali Petting Farm egy családbarát állatkert Mdina (Stille Stadt) közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -7821,7 +7821,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
                   "text": "Ta' Qali Petting Farm este o grădină zoologică potrivită pentru familii, situată lângă Mdina (Stille Stadt).",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724
@@ -8066,7 +8066,7 @@ export const maltaPoi: POI[] = [
             {
                   "name": "Ta' Qali Petting Farm",
                   "text": "Ta' Qali Petting Farm is a family-friendly zoo attraction located near Mdina (Stille Stadt).",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         14.420648,
                         35.890724

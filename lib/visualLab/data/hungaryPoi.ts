@@ -9278,7 +9278,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kalocsai Uszoda és Gyógyfürdő",
                   "text": "Ein Thermalbad und Wasserpark in Kollotschau zur Entspannung und Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99006,
                         46.533516
@@ -9423,7 +9423,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kalocsai Uszoda és Gyógyfürdő",
                   "text": "Kollotschaui uszoda és gyógyfürdő pihenési és kikapcsolódási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99006,
                         46.533516
@@ -9568,7 +9568,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kalocsai Uszoda és Gyógyfürdő",
                   "text": "Un parc acvatic și băi termale în Kollotschau pentru relaxare și recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99006,
                         46.533516
@@ -9713,7 +9713,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kalocsai Uszoda és Gyógyfürdő",
                   "text": "A water park and thermal bath in Kollotschau for relaxation and recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.99006,
                         46.533516
@@ -10154,7 +10154,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Árpád Gyógy-és Strandfürdő",
                   "text": "Das Árpád Heil- und Strandbad ist ein beliebtes Thermalbad und Wasserpark in Tschaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.103777,
                         46.675552
@@ -10348,7 +10348,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Árpád Gyógy-és Strandfürdő",
                   "text": "Az Árpád Gyógy- és Strandfürdő egy népszerű termálfürdő Békéscsabán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.103777,
                         46.675552
@@ -10542,7 +10542,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Árpád Gyógy-és Strandfürdő",
                   "text": "Băile Termale și Ștrandul Árpád este un parc acvatic și spa popular situat în Tschaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.103777,
                         46.675552
@@ -10736,7 +10736,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Árpád Gyógy-és Strandfürdő",
                   "text": "The Árpád Spa and Lido is a popular thermal bath and water park located in Tschaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.103777,
                         46.675552
@@ -12403,7 +12403,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Selyemréti Strandfürdő",
                   "text": "Das Selyemréti Strandfürdő ist ein bekannter Wasserpark im Freien in Mischkolz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.807466,
                         48.101496
@@ -12735,7 +12735,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Selyemréti Strandfürdő",
                   "text": "A Selyemréti Strandfürdő egy ismert szabadtéri fürdőkomplexum Miskolcon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.807466,
                         48.101496
@@ -13067,7 +13067,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Selyemréti Strandfürdő",
                   "text": "Selyemréti Strandfürdő este un parc acvatic în aer liber bine cunoscut din Mischkolz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.807466,
                         48.101496
@@ -13399,7 +13399,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Selyemréti Strandfürdő",
                   "text": "The Selyemréti Strandfürdő is a well-known outdoor water park in Mischkolz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.807466,
                         48.101496
@@ -16958,7 +16958,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csitáry G. Emil Uszoda Strandpénztár",
                   "text": "Das Csitáry G. Emil Uszoda Strandpénztár ist ein Wasserpark in Stuhlweißenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.404477,
                         47.194601
@@ -17269,7 +17269,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csitáry G. Emil Uszoda Strandpénztár",
                   "text": "A Csitáry G. Emil Uszoda Strandpénztár egy vízi park Székesfehérváron.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.404477,
                         47.194601
@@ -17580,7 +17580,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csitáry G. Emil Uszoda Strandpénztár",
                   "text": "Csitáry G. Emil Uszoda Strandpénztár este un parc acvatic din Stuhlweißenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.404477,
                         47.194601
@@ -17891,7 +17891,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csitáry G. Emil Uszoda Strandpénztár",
                   "text": "The Csitáry G. Emil Uszoda Strandpénztár is a water park in Stuhlweißenburg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.404477,
                         47.194601
@@ -18201,7 +18201,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaújvárosi Aquantis Élményfürdő és Csúszdapark",
                   "text": "Ein großer Erlebnis- und Wasserpark in Neustadt an der Donau für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.940778,
                         46.957999
@@ -18401,7 +18401,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaújvárosi Aquantis Élményfürdő és Csúszdapark",
                   "text": "Nagyméretű élményfürdő és csúszdapark Neustadt an der Donau városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.940778,
                         46.957999
@@ -18601,7 +18601,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaújvárosi Aquantis Élményfürdő és Csúszdapark",
                   "text": "Un parc acvatic de amploare în Neustadt an der Donau pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.940778,
                         46.957999
@@ -18801,7 +18801,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaújvárosi Aquantis Élményfürdő és Csúszdapark",
                   "text": "A large adventure and water park in Neustadt an der Donau for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.940778,
                         46.957999
@@ -18972,7 +18972,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "H2O Akváriumház",
                   "text": "Ein Schauaquarium in Gárdony, das die Fischfauna des Velence-Sees präsentiert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.6001,
                         47.196907
@@ -19140,7 +19140,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "H2O Akváriumház",
                   "text": "Gárdonyi akvárium, amely a Velencei-tó halvilágát mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.6001,
                         47.196907
@@ -19308,7 +19308,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "H2O Akváriumház",
                   "text": "Un acvariu din Gárdony care prezintă fauna piscicolă a lacului Velence.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.6001,
                         47.196907
@@ -19476,7 +19476,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "H2O Akváriumház",
                   "text": "An aquarium in Gárdony showcasing the fish species of Lake Velence.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.6001,
                         47.196907
@@ -19839,7 +19839,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "RQ Vízi Élménypark és Gyógyfürdő",
                   "text": "Der RQ Water Adventure Park and Thermal Bath ist ein Wasserpark in Raab.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.627364,
                         47.689123
@@ -20161,7 +20161,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "RQ Vízi Élménypark és Gyógyfürdő",
                   "text": "Az RQ Vízi Élménypark és Gyógyfürdő egy vízi komplexum Győrben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.627364,
                         47.689123
@@ -20483,7 +20483,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "RQ Vízi Élménypark és Gyógyfürdő",
                   "text": "RQ Water Adventure Park and Thermal Bath este un parc acvatic situat în Raab.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.627364,
                         47.689123
@@ -20805,7 +20805,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "RQ Water Adventure Park and Thermal Bath",
                   "text": "The RQ Water Adventure Park and Thermal Bath is a water park facility located in Raab.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.627364,
                         47.689123
@@ -21215,7 +21215,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Lőver Fürdő",
                   "text": "Ein moderner Badekomplex mit Schwimmbecken im Stadtteil Lővérek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.56803,
                         47.674918
@@ -21525,7 +21525,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Lőver Fürdő",
                   "text": "Modern uszoda és strandkomplexum a város Lőverek negyedében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.56803,
                         47.674918
@@ -21835,7 +21835,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Lőver Fürdő",
                   "text": "Un complex modern de agrement cu bazine situat în zona Lővérek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.56803,
                         47.674918
@@ -22145,7 +22145,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Lőver Fürdő",
                   "text": "A modern swimming pool and bath complex in the Lővérek district.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.56803,
                         47.674918
@@ -22584,7 +22584,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Strucc",
                   "text": "Ein Gehege im Zoo von Debrecen, das Strauße in einer naturnahen Umgebung zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.635413,
                         47.553079
@@ -22602,7 +22602,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum Mediterrán Élményfürdő",
                   "text": "Ein tropisches Erlebnisbad in Debrecen mit Wasserfällen, Rutschen und mediterraner Vegetation unter einer Glaskuppel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.629711,
                         47.553082
@@ -22611,7 +22611,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Debreceni Állat- és Növénykert",
                   "text": "Der erste Zoo Ungarns außerhalb der Hauptstadt, der eine Vielzahl von Tieren und Pflanzen beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634715,
                         47.552101
@@ -22638,7 +22638,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum strandfürdő",
                   "text": "Ein modernes Freibad in Debrecen mit zahlreichen Becken und Rutschen für sommerlichen Badespaß.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.628944,
                         47.554624
@@ -22647,7 +22647,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zsiráfház",
                   "text": "Das Giraffenhaus im Zoo von Debrecen, in dem Besucher diese majestätischen Tiere aus der Nähe sehen können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634129,
                         47.550575
@@ -22656,7 +22656,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Állatsimogató",
                   "text": "Ein Bereich im Zoo von Debrecen, in dem Besucher direkten Kontakt zu zahmen Tieren haben können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.632815,
                         47.551722
@@ -22949,7 +22949,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Strucc",
                   "text": "A debreceni állatkert strucckifutója, ahol a látogatók ezeket a különleges madarakat figyelhetik meg.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.635413,
                         47.553079
@@ -22967,7 +22967,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum Mediterrán Élményfürdő",
                   "text": "Debreceni mediterrán élményfürdő trópusi növényekkel, csúszdákkal és kalandmedencékkel egy üvegkupola alatt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.629711,
                         47.553082
@@ -22976,7 +22976,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Debreceni Állat- és Növénykert",
                   "text": "Magyarország első vidéki állat- és növénykertje, amely számos különleges fajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634715,
                         47.552101
@@ -23003,7 +23003,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum strandfürdő",
                   "text": "Modern strandfürdő Debrecenben, amely számos medencével és csúszdával várja a nyári fürdőzőket.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.628944,
                         47.554624
@@ -23012,7 +23012,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zsiráfház",
                   "text": "A debreceni állatkert zsiráfháza, ahol a látogatók közelről megtekinthetik ezeket a méltóságteljes állatokat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634129,
                         47.550575
@@ -23021,7 +23021,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Állatsimogató",
                   "text": "A debreceni állatkert állatsimogatója, ahol a látogatók közvetlen kapcsolatba kerülhetnek a szelíd állatokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.632815,
                         47.551722
@@ -23314,7 +23314,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Strucc",
                   "text": "O incintă din grădina zoologică din Debrețin, unde pot fi observați struții.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.635413,
                         47.553079
@@ -23332,7 +23332,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum Mediterrán Élményfürdő",
                   "text": "Un parc acvatic mediteranean în Debrețin, cu plante tropicale, tobogane și bazine de aventură sub o cupolă de sticlă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.629711,
                         47.553082
@@ -23341,7 +23341,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Debreceni Állat- és Növénykert",
                   "text": "Prima grădină zoologică și botanică din afara capitalei Ungariei, găzduind numeroase specii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634715,
                         47.552101
@@ -23368,7 +23368,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum strandfürdő",
                   "text": "Un ștrand modern în Debrețin, cu numeroase bazine și tobogane pentru distracție estivală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.628944,
                         47.554624
@@ -23377,7 +23377,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zsiráfház",
                   "text": "Casa girafelelor din grădină zoologică din Debrețin, unde vizitatorii pot vedea aceste animale maiestuoase.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634129,
                         47.550575
@@ -23386,7 +23386,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Állatsimogató",
                   "text": "O zonă de mângâiat animalele în grădina zoologică din Debrețin, pentru contact direct cu animale blânde.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.632815,
                         47.551722
@@ -23673,7 +23673,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Strucc",
                   "text": "An ostrich enclosure at the Debrecen Zoo, where visitors can observe these large birds.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.635413,
                         47.553079
@@ -23691,7 +23691,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum Mediterrán Élményfürdő",
                   "text": "A Mediterranean indoor water park in Debrecen with tropical plants, slides, and adventure pools under a glass dome.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.629711,
                         47.553082
@@ -23700,7 +23700,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Debreceni Állat- és Növénykert",
                   "text": "Hungary's first zoo outside the capital, home to a wide variety of animals and plants.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634715,
                         47.552101
@@ -23727,7 +23727,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Aquaticum strandfürdő",
                   "text": "A modern outdoor beach bath in Debrecen with numerous pools and slides for summer recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.628944,
                         47.554624
@@ -23736,7 +23736,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zsiráfház",
                   "text": "The giraffe house at the Debrecen Zoo, allowing visitors to see these majestic animals up close.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.634129,
                         47.550575
@@ -23745,7 +23745,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Állatsimogató",
                   "text": "A petting zoo area at the Debrecen Zoo, where visitors can interact directly with tame animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.632815,
                         47.551722
@@ -23964,7 +23964,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Premium zone Hungarospa Hajdúszoboszló",
                   "text": "Die Premium zone Hungarospa ist ein exklusiver Wasserparkbereich in Hajdúszoboszló.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.395842,
                         47.453413
@@ -24108,7 +24108,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Premium zone Hungarospa Hajdúszoboszló",
                   "text": "A Hungarospa Prémium Zónája egy exkluzív szabadtéri fürdőrészleg Hajdúszoboszlón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.395842,
                         47.453413
@@ -24252,7 +24252,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Premium zone Hungarospa Hajdúszoboszló",
                   "text": "Premium zone Hungarospa este o zonă exclusivistă de parc acvatic în Hajdúszoboszló.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.395842,
                         47.453413
@@ -24396,7 +24396,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Premium zone Hungarospa Hajdúszoboszló",
                   "text": "The Premium zone Hungarospa is an exclusive water park area in Hajdúszoboszló.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.395842,
                         47.453413
@@ -24716,7 +24716,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Mátyus Udvarház és Lovastanya",
                   "text": "Ein Reiterhof und Tierpark am Rande von Eger mit Freizeitangeboten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.409674,
                         47.91312
@@ -25008,7 +25008,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Mátyus Udvarház és Lovastanya",
                   "text": "Lovastanya és állatpark szabadidős programokkal Eger határában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.409674,
                         47.91312
@@ -25300,7 +25300,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Mátyus Udvarház és Lovastanya",
                   "text": "Un domeniu ecvestru și parc zoologic oferind activități de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.409674,
                         47.91312
@@ -25592,7 +25592,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Mátyus Udvarház és Lovastanya",
                   "text": "An equestrian estate and animal park offering leisure activities near Eger.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.409674,
                         47.91312
@@ -25842,7 +25842,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Gyöngyösi Uszoda és Termálstrand",
                   "text": "Ein beliebtes Thermalbad und Freibad für Erholungssuchende in Gyöngyös.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.920473,
                         47.774477
@@ -26077,7 +26077,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Gyöngyösi Uszoda és Termálstrand",
                   "text": "Népszerű termálfürdő és strand a kikapcsolódni vágyók számára Gyöngyösön.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.920473,
                         47.774477
@@ -26312,7 +26312,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Gyöngyösi Uszoda és Termálstrand",
                   "text": "O baie termală și ștrand popular pentru recreere în Gyöngyös.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.920473,
                         47.774477
@@ -26547,7 +26547,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Gyöngyösi Uszoda és Termálstrand",
                   "text": "A popular thermal bath and outdoor swimming pool for recreation in Gyöngyös.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.920473,
                         47.774477
@@ -26901,7 +26901,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bagolyvár Vadaspark",
                   "text": "Dieser Tierpark namens Bagolyvár Vadaspark befindet sich in Sollnock.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.194658,
                         47.203117
@@ -26946,7 +26946,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Véső úti Strandfürdő",
                   "text": "Dieser Wasserpark und das öffentliche Bad befinden sich in Sollnock.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.168351,
                         47.170191
@@ -27163,7 +27163,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bagolyvár Vadaspark",
                   "text": "A Bagolyvár Vadaspark nevű állatkert Szolnokon található.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.194658,
                         47.203117
@@ -27208,7 +27208,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Véső úti Strandfürdő",
                   "text": "A Véső úti Strandfürdő egy vízi élménypark Szolnokon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.168351,
                         47.170191
@@ -27425,7 +27425,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bagolyvár Vadaspark",
                   "text": "Această grădină zoologică numită Bagolyvár Vadaspark este situată în Sollnock.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.194658,
                         47.203117
@@ -27470,7 +27470,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Véső úti Strandfürdő",
                   "text": "Acest parc acvatic și baie publică se află în Sollnock.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.168351,
                         47.170191
@@ -27687,7 +27687,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bagolyvár Vadaspark",
                   "text": "This zoo attraction called Bagolyvár Vadaspark is located in Sollnock.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.194658,
                         47.203117
@@ -27732,7 +27732,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Véső úti Strandfürdő",
                   "text": "This water park and public bath is located in Sollnock.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.168351,
                         47.170191
@@ -27935,7 +27935,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Jászberényi Strand- és Termálfürdő",
                   "text": "Ein Thermal- und Strandbad in Jászberény mit verschiedenen Becken zur Entspannung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.908685,
                         47.502989
@@ -28054,7 +28054,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Jászberényi Strand- és Termálfürdő",
                   "text": "Jászberényi termál- és strandfürdő, amely több medencével várja a pihenni vágyókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.908685,
                         47.502989
@@ -28173,7 +28173,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Jászberényi Strand- és Termálfürdő",
                   "text": "O baie termală și ștrand în Jászberény, cu diverse bazine pentru relaxare.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.908685,
                         47.502989
@@ -28292,7 +28292,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Jászberényi Strand- és Termálfürdő",
                   "text": "A thermal and outdoor bath in Jászberény with several pools for relaxation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.908685,
                         47.502989
@@ -28393,7 +28393,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kumánia Gyógy- és Strandfürdő",
                   "text": "Ein modernes Heil- und Strandbad für Wellness in Kisújszállás.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.755458,
                         47.221127
@@ -28473,7 +28473,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kumánia Gyógy- és Strandfürdő",
                   "text": "Modern gyógy- és strandfürdő a wellness kedvelőinek Kisújszálláson.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.755458,
                         47.221127
@@ -28553,7 +28553,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kumánia Gyógy- és Strandfürdő",
                   "text": "O baie termală și ștrand modern pentru wellness în Kisújszállás.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.755458,
                         47.221127
@@ -28633,7 +28633,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Kumánia Gyógy- és Strandfürdő",
                   "text": "A modern thermal and open-air bath for wellness in Kisújszállás.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.755458,
                         47.221127
@@ -29618,7 +29618,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "Ein großes Thermalresort in Štúrovo bei Esztergom mit zahlreichen Pools und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -29636,7 +29636,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zábavný park VadašLand",
                   "text": "Ein Freizeitpark im Vadaš Thermal Resort mit Attraktionen für Kinder und Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -29672,7 +29672,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "Ein öffentliches Schwimmbad und Strandbad in Esztergom, benannt nach dem heiligen Stephan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -29948,7 +29948,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "Párkányban (Štúrovo), Esztergom közelében található nagy termálfürdő számos medencével és csúszdával.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -29966,7 +29966,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zábavný park VadašLand",
                   "text": "A Vadaš termálfürdő területén található vidámpark, amely játékokat kínál gyerekeknek és családoknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -30002,7 +30002,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "Szent Istvánról elnevezett közforgalmú strandfürdő és uszoda Esztergomban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -30278,7 +30278,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "Un complex termal mare în Štúrovo, lângă Esztergom, cu numeroase piscine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -30296,7 +30296,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zábavný park VadašLand",
                   "text": "Un parc de distracții în cadrul complexului termal Vadaš, cu atracții pentru copii și familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -30332,7 +30332,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "Un ștrand și bazin de înot public din Esztergom, numit după Sfântul Ștefan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -30608,7 +30608,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vadaš Thermal Resort Štúrovo",
                   "text": "A large thermal resort in Štúrovo near Esztergom featuring numerous pools and water slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715967,
                         47.802271
@@ -30626,7 +30626,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Zábavný park VadašLand",
                   "text": "An amusement park within the Vadaš thermal resort area with attractions for children and families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.715632,
                         47.805074
@@ -30662,7 +30662,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szent István Strandfürdő (uszoda)",
                   "text": "A public swimming pool and outdoor bath in Esztergom, named after Saint Stephen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.739945,
                         47.795277
@@ -30888,7 +30888,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Fényes Fürdő és Kemping",
                   "text": "Ein Naturbad und Campingplatz in einem Naturschutzgebiet bei Totis.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.308599,
                         47.668291
@@ -31192,7 +31192,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Fényes Fürdő és Kemping",
                   "text": "Természetvédelmi területen fekvő különleges fürdőhely és kemping Tatán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.308599,
                         47.668291
@@ -31496,7 +31496,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Fényes Fürdő és Kemping",
                   "text": "O baie naturală și camping într-o zonă protejată lângă Tata.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.308599,
                         47.668291
@@ -31800,7 +31800,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Fényes Fürdő és Kemping",
                   "text": "A natural bath and campsite located in a nature reserve near Tata.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.308599,
                         47.668291
@@ -33257,7 +33257,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szentendrei Kisállatkert",
                   "text": "Park in Szentendre, der kleinere Tierarten zeigt, ideal für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.056086,
                         47.689991
@@ -33533,7 +33533,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szentendrei Kisállatkert",
                   "text": "Kisebb állatfajokat bemutató park Szentendrén, főként családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.056086,
                         47.689991
@@ -33809,7 +33809,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szentendrei Kisállatkert",
                   "text": "Parc din Szentendre care prezintă specii mici de animale, ideal pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.056086,
                         47.689991
@@ -34085,7 +34085,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szentendrei Kisállatkert",
                   "text": "Park in Szentendre displaying smaller animal species, ideal for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.056086,
                         47.689991
@@ -34336,7 +34336,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vaddisznópark",
                   "text": "Dieser Wildschweinpark ist eine zoologische Attraktion in Gödöllő.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.328224,
                         47.602164
@@ -34601,7 +34601,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vaddisznópark",
                   "text": "Ez a vaddisznópark egy zoológiai látványosság Gödöllőn.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.328224,
                         47.602164
@@ -34866,7 +34866,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vaddisznópark",
                   "text": "Acest parc de mistreți este o atracție zoologică situată în Gödöllő.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.328224,
                         47.602164
@@ -35131,7 +35131,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vaddisznópark",
                   "text": "This wild boar park is a zoological attraction located in Gödöllő.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.328224,
                         47.602164
@@ -35396,7 +35396,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vác Városi Uszoda és Strandfürdő",
                   "text": "Ein Freizeitzentrum in Vác mit Schwimmbecken und Strandbereichen für sommerliche Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127672,
                         47.77575
@@ -35640,7 +35640,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vác Városi Uszoda és Strandfürdő",
                   "text": "Szórakoztató központ Vácott úszómedencékkel és strandrésszel a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127672,
                         47.77575
@@ -35884,7 +35884,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vác Városi Uszoda és Strandfürdő",
                   "text": "Un centru de agrement din Vác cu piscine și zone de plajă pentru recreere pe timp de vară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127672,
                         47.77575
@@ -36128,7 +36128,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vác Városi Uszoda és Strandfürdő",
                   "text": "A leisure centre in Vác with swimming pools and beach areas for summer recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.127672,
                         47.77575
@@ -36546,7 +36546,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Virágfürdő",
                   "text": "Ein moderner Wasserpark und Thermalbad in Kaposvár mit verschiedenen Erlebnisbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.798765,
                         46.350393
@@ -36818,7 +36818,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Virágfürdő",
                   "text": "Modern vízipark és termálfürdő Kaposváron, különféle élménymedencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.798765,
                         46.350393
@@ -37090,7 +37090,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Virágfürdő",
                   "text": "Un parc acvatic modern și băi termale în Kaposvár, cu diverse bazine de agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.798765,
                         46.350393
@@ -37362,7 +37362,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Virágfürdő",
                   "text": "A modern water park and thermal bath in Kaposvár with various leisure pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.798765,
                         46.350393
@@ -38625,7 +38625,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Teknős Park",
                   "text": "Ein spezieller Tierpark in Balatonföldvár, der sich auf die Beobachtung und Pflege verschiedener Schildkrötenarten konzentriert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.888476,
                         46.836595
@@ -38800,7 +38800,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Teknős Park",
                   "text": "Különleges állatpark Balatonföldváron, amely a különböző teknősfajok megfigyelésére és gondozására összpontosít.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.888476,
                         46.836595
@@ -38975,7 +38975,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Teknős Park",
                   "text": "Un parc zoologic special în Balatonföldvár, axat pe observarea și îngrijirea diverselor specii de țestoase.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.888476,
                         46.836595
@@ -39150,7 +39150,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Teknős Park",
                   "text": "A special animal park in Balatonföldvár focused on observing and caring for various turtle species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.888476,
                         46.836595
@@ -39487,7 +39487,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Júlia Fürdő",
                   "text": "Ein beliebtes Thermal- und Erlebnisbad in Nyíregyháza für Entspannung und Freizeit.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.707484,
                         47.952937
@@ -39706,7 +39706,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Júlia Fürdő",
                   "text": "Népszerű termál- és élményfürdő Nyíregyházán a pihenés és szabadidő számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.707484,
                         47.952937
@@ -39925,7 +39925,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Júlia Fürdő",
                   "text": "O baie termală și de agrement populară în Nyíregyháza pentru relaxare și petrecerea timpului liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.707484,
                         47.952937
@@ -40144,7 +40144,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Júlia Fürdő",
                   "text": "A popular thermal and adventure bath in Nyíregyháza for relaxation and leisure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.707484,
                         47.952937
@@ -40559,7 +40559,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szilva Termál és Wellnessfürdő",
                   "text": "Ein modernes Thermal- und Wellnessbad in Vásárosnamény für Entspannung und Wasservergnügen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.321042,
                         48.125451
@@ -40568,7 +40568,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Movie Planet",
                   "text": "Ein Freizeitpark in Vásárosnamény mit filmbezogenen Attraktionen und Unterhaltungsangeboten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.347519,
                         48.118424
@@ -40630,7 +40630,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szilva Termál és Wellnessfürdő",
                   "text": "Modern termál- és wellnessfürdő Vásárosnaményban a kikapcsolódás és a vízi élmények jegyében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.321042,
                         48.125451
@@ -40639,7 +40639,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Movie Planet",
                   "text": "Szórakoztató park Vásárosnaményban filmes tematikájú látnivalókkal és kikapcsolódási lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.347519,
                         48.118424
@@ -40701,7 +40701,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szilva Termál és Wellnessfürdő",
                   "text": "O baie termală și wellness modernă în Vásárosnamény pentru relaxare și distracție acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.321042,
                         48.125451
@@ -40710,7 +40710,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Movie Planet",
                   "text": "Un parc de distracții în Vásárosnamény cu atracții și divertisment cu tematică cinematografică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.347519,
                         48.118424
@@ -40772,7 +40772,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szilva Termál és Wellnessfürdő",
                   "text": "A modern thermal and wellness bath in Vásárosnamény for relaxation and water experiences.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.321042,
                         48.125451
@@ -40781,7 +40781,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Movie Planet",
                   "text": "A theme park in Vásárosnamény with movie-related attractions and entertainment.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.347519,
                         48.118424
@@ -41788,7 +41788,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Thermalbad Bonyhád",
                   "text": "Ein Thermalbad in Bonyhád, das Besuchern Entspannung in heilendem Wasser und Schwimmbecken bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.538833,
                         46.292832
@@ -41892,7 +41892,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bonyhádi Termálfürdő",
                   "text": "Bonyhádi termálfürdő, amely gyógyvízben való ellazulást és úszómedencéket kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.538833,
                         46.292832
@@ -41996,7 +41996,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bonyhádi Termálfürdő",
                   "text": "O baie termală în Bonyhád, care oferă vizitatorilor relaxare în apă curativă și piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.538833,
                         46.292832
@@ -42100,7 +42100,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bonyhádi Termálfürdő",
                   "text": "A thermal bath in Bonyhád offering visitors relaxation in healing water and swimming pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.538833,
                         46.292832
@@ -44929,7 +44929,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Familien Erlebnisbad",
                   "text": "Ein familienfreundlicher Wasserpark in Kotenburg für Entspannung und Badespaß.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.950526,
                         47.247089
@@ -44938,7 +44938,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Sárvár Fürdő",
                   "text": "Ein bekanntes Thermalbad in Kotenburg mit verschiedenen Becken und Wellnessangeboten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.948363,
                         47.24626
@@ -45128,7 +45128,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Családi élményfürdő",
                   "text": "Családbarát vízi park Kotenburgban, amely kikapcsolódást és fürdőzési élményt nyújt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.950526,
                         47.247089
@@ -45137,7 +45137,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Sárvár Fürdő",
                   "text": "Ismert termálfürdő Kotenburgban, különféle medencékkel és wellness szolgáltatásokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.948363,
                         47.24626
@@ -45327,7 +45327,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Családi élményfürdő",
                   "text": "Un parc acvatic de familie în Kotenburg, oferind relaxare și distracție la scăldat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.950526,
                         47.247089
@@ -45336,7 +45336,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Sárvár Fürdő",
                   "text": "O baie termală cunoscută în Kotenburg, cu diverse bazine și facilități de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.948363,
                         47.24626
@@ -45526,7 +45526,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Family spa",
                   "text": "A family-friendly water park in Kotenburg offering relaxation and swimming fun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.950526,
                         47.247089
@@ -45535,7 +45535,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Sárvár Spa",
                   "text": "A well-known thermal spa in Kotenburg with various pools and wellness facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.948363,
                         47.24626
@@ -47817,7 +47817,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strandfürdő és fedett uszoda",
                   "text": "Ein städtisches Bad in Egersee mit Freibecken und einer Schwimmhalle für ganzjährigen Betrieb.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.842393,
                         46.837607
@@ -47994,7 +47994,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strandfürdő és fedett uszoda",
                   "text": "Városi strandfürdő Egersee-ben kültéri medencékkel és fedett uszodával az egész éves üzemeléshez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.842393,
                         46.837607
@@ -48171,7 +48171,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strandfürdő és fedett uszoda",
                   "text": "O baie municipală în Egersee, cu bazine exterioare și o piscină interioară funcțională tot anul.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.842393,
                         46.837607
@@ -48348,7 +48348,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strandfürdő és fedett uszoda",
                   "text": "A municipal bath in Egersee with outdoor pools and an indoor swimming hall for year-round use.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.842393,
                         46.837607
@@ -50302,7 +50302,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szigetvári Gyógyfürdő",
                   "text": "Ein Thermalbad in Inselburg, das Entspannung und Heilwasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.80139,
                         46.051495
@@ -50420,7 +50420,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szigetvári Gyógyfürdő",
                   "text": "Szigetvári termálfürdő, amely gyógyvízzel és kikapcsolódási lehetőségekkel várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.80139,
                         46.051495
@@ -50538,7 +50538,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szigetvári Gyógyfürdő",
                   "text": "O baie termală în Szigetvár, care oferă relaxare și apă curativă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.80139,
                         46.051495
@@ -50656,7 +50656,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Szigetvári Gyógyfürdő",
                   "text": "A thermal bath in Szigetvár offering relaxation and medicinal waters.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.80139,
                         46.051495
@@ -51640,7 +51640,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Félegyházi Termál Parkfürdő",
                   "text": "Ein Thermalbad in Feledihas mit Heilwasserbecken und Erholungsmöglichkeiten in einer Parkanlage.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.837626,
                         46.710117
@@ -51771,7 +51771,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Félegyházi Termál Parkfürdő",
                   "text": "Termálfürdő Feledihasban gyógyvizes medencékkel és kikapcsolódási lehetőségekkel egy parkos környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.837626,
                         46.710117
@@ -51902,7 +51902,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Félegyházi Termál Parkfürdő",
                   "text": "O baie termală în Feledihas cu bazine cu apă curativă și posibilități de recreere într-un parc.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.837626,
                         46.710117
@@ -52033,7 +52033,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Félegyházi Termál Parkfürdő",
                   "text": "A thermal bath in Feledihas with medicinal water pools and recreation facilities in a park setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.837626,
                         46.710117
@@ -52252,7 +52252,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Élményfürdő",
                   "text": "Ein modernes Erlebnisbad in Orosháza mit verschiedenen Becken und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.628154,
                         46.565968
@@ -52410,7 +52410,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Élményfürdő",
                   "text": "Modern élményfürdő Orosházán, különféle medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.628154,
                         46.565968
@@ -52568,7 +52568,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Élményfürdő",
                   "text": "Un parc acvatic modern în Orosháza, cu diverse bazine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.628154,
                         46.565968
@@ -52726,7 +52726,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Élményfürdő",
                   "text": "A modern water park in Orosháza featuring various pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.628154,
                         46.565968
@@ -53680,7 +53680,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csongrádi Gyógyfürdő és Uszoda",
                   "text": "Ein Thermal- und Schwimmbad in Csongrád für Erholung und Sport.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.145492,
                         46.709604
@@ -53814,7 +53814,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csongrádi Gyógyfürdő és Uszoda",
                   "text": "Csongrádi termálfürdő és uszoda, amely pihenésre és sportolásra is alkalmas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.145492,
                         46.709604
@@ -53948,7 +53948,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csongrádi Gyógyfürdő és Uszoda",
                   "text": "O baie termală și piscină în Csongrád pentru relaxare și sport.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.145492,
                         46.709604
@@ -54082,7 +54082,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Csongrádi Gyógyfürdő és Uszoda",
                   "text": "A thermal bath and swimming pool in Csongrád for relaxation and sports.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.145492,
                         46.709604
@@ -54863,7 +54863,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bio Flexum-Termál Gyógyfürdő",
                   "text": "Beliebtes Heil- und Thermalbad in Mosonmagyaróvár, bekannt für sein anerkanntes Heilwasser.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.277828,
                         47.87638
@@ -54981,7 +54981,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bio Flexum-Termál Gyógyfürdő",
                   "text": "Népszerű gyógy- és termálfürdő Mosonmagyaróváron, amely elismert gyógyvízzel rendelkezik.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.277828,
                         47.87638
@@ -55099,7 +55099,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bio Flexum-Termál Gyógyfürdő",
                   "text": "Un centru termal și balnear popular din Mosonmagyaróvár, cunoscut pentru apele sale terapeutice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.277828,
                         47.87638
@@ -55217,7 +55217,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bio Flexum-Termál Gyógyfürdő",
                   "text": "A popular thermal and medicinal spa in Mosonmagyaróvár known for its therapeutic waters.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.277828,
                         47.87638
@@ -56055,7 +56055,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bocskai Strand- és Gyógyfürdő",
                   "text": "Ein Thermal- und Heilbad in Hajdúböszörmény, benannt nach dem Fürsten István Bocskai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.501271,
                         47.68313
@@ -56158,7 +56158,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bocskai Strand- és Gyógyfürdő",
                   "text": "Termál- és gyógyfürdő Hajdúböszörményben, amely Bocskai István fejedelemről kapta nevét.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.501271,
                         47.68313
@@ -56261,7 +56261,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bocskai Strand- és Gyógyfürdő",
                   "text": "O baie termală și curativă în Hajdúböszörmény, numită după principele István Bocskai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.501271,
                         47.68313
@@ -56364,7 +56364,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bocskai Strand- és Gyógyfürdő",
                   "text": "A thermal and medicinal bath in Hajdúböszörmény, named after Prince István Bocskai.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.501271,
                         47.68313
@@ -58678,7 +58678,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Termálne kúpalisko",
                   "text": "Ein beliebtes Thermalbad und Wasserpark in Komorn mit verschiedenen Becken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.134989,
                         47.756953
@@ -58996,7 +58996,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Termálfürdő",
                   "text": "Népszerű termálfürdő és strand Komáromban, különféle medencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.134989,
                         47.756953
@@ -59314,7 +59314,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Termálne kúpalisko",
                   "text": "O baie termală populară și parc acvatic din Komorn, cu diverse bazine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.134989,
                         47.756953
@@ -59632,7 +59632,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Termálne kúpalisko",
                   "text": "A popular thermal bath and water park in Komorn with various pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.134989,
                         47.756953
@@ -60035,7 +60035,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolnai Arborétum és Állatpark",
                   "text": "Ein Naturschutzgebiet mit seltenen Bäumen und einem Tierpark, das zur Entspannung einlädt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.984883,
                         47.641967
@@ -60071,7 +60071,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolna fürdő",
                   "text": "Ein modernes Heil- und Erlebnisbad in Bábolna mit Thermalwasserbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.97496,
                         47.640242
@@ -60125,7 +60125,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolnai Arborétum és Állatpark",
                   "text": "Kellemes kikapcsolódást nyújtó természetvédelmi terület ritka fákkal és állatparkkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.984883,
                         47.641967
@@ -60161,7 +60161,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolna fürdő",
                   "text": "Modern gyógy- és élményfürdő Bábolnán, amely termálvizes medencékkel várja a látogatókat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.97496,
                         47.640242
@@ -60215,7 +60215,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolnai Arborétum és Állatpark",
                   "text": "O rezervație naturală cu arbori rari și un parc de animale, oferind o experiență plăcută în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.984883,
                         47.641967
@@ -60251,7 +60251,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolna fürdő",
                   "text": "O baie termală și de aventură modernă în Bábolna, cu bazine cu apă termală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.97496,
                         47.640242
@@ -60305,7 +60305,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolnai Arborétum és Állatpark",
                   "text": "A nature reserve with rare trees and an animal park, offering a pleasant outdoor experience.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.984883,
                         47.641967
@@ -60341,7 +60341,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bábolna fürdő",
                   "text": "A modern thermal and adventure bath in Bábolna featuring thermal water pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.97496,
                         47.640242
@@ -61989,7 +61989,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vidámpark Balatonlelle",
                   "text": "Ein saisonaler Vergnügungspark in Balatonlelle mit verschiedenen Fahrgeschäften.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.677869,
                         46.782401
@@ -61998,7 +61998,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bobpálya",
                   "text": "Eine Sommerrodelbahn in Balatonlelle, die Freizeitspaß für die ganze Familie bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.66148,
                         46.779361
@@ -62007,7 +62007,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Hullám utcai szabadstrand",
                   "text": "Ein freier Strand am Plattensee in der Hullám-Straße von Balatonlelle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.704574,
                         46.792984
@@ -62148,7 +62148,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vidámpark Balatonlelle",
                   "text": "Szezonálisan üzemelő vidámpark Balatonlellén, különféle játékokkal és attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.677869,
                         46.782401
@@ -62157,7 +62157,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bobpálya",
                   "text": "Balatonlellei bobpálya, amely kikapcsolódást nyújt az egész család számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.66148,
                         46.779361
@@ -62166,7 +62166,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Hullám utcai szabadstrand",
                   "text": "Ingyenesen használható balatoni szabadstrand a lellei Hullám utcában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.704574,
                         46.792984
@@ -62307,7 +62307,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vidámpark Balatonlelle",
                   "text": "Un parc de distracții sezonier în Balatonlelle, cu diverse atracții.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.677869,
                         46.782401
@@ -62316,7 +62316,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bobpálya",
                   "text": "O pistă de bob de vară în Balatonlelle, care oferă distracție pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.66148,
                         46.779361
@@ -62325,7 +62325,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Hullám utcai szabadstrand",
                   "text": "O plajă liberă la Lacul Balaton, situată pe strada Hullám din Balatonlelle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.704574,
                         46.792984
@@ -62466,7 +62466,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Vidámpark Balatonlelle",
                   "text": "A seasonal amusement park in Balatonlelle featuring various rides and attractions.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.677869,
                         46.782401
@@ -62475,7 +62475,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Bobpálya",
                   "text": "A summer bobsleigh track in Balatonlelle providing fun for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.66148,
                         46.779361
@@ -62484,7 +62484,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Hullám utcai szabadstrand",
                   "text": "A free public beach on Lake Balaton located in Hullám Street, Balatonlelle.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.704574,
                         46.792984
@@ -64350,7 +64350,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaföldvári strand és gyógyfürdő",
                   "text": "Ein Wasserpark, der Strand- und Spa-Einrichtungen in Donafeldwar bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.929671,
                         46.809068
@@ -64434,7 +64434,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaföldvári strand és gyógyfürdő",
                   "text": "Strandot és gyógyfürdőt kínáló vízipark Donafeldwar városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.929671,
                         46.809068
@@ -64518,7 +64518,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaföldvári strand és gyógyfürdő",
                   "text": "Un parc acvatic care oferă plajă și facilități spa în Donafeldwar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.929671,
                         46.809068
@@ -64602,7 +64602,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Dunaföldvári strand és gyógyfürdő",
                   "text": "A water park offering a beach and spa facilities in Donafeldwar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.929671,
                         46.809068
@@ -64736,7 +64736,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Funcity",
                   "text": "Ein modernes Freizeitzentrum und Themenpark in Bük für Unterhaltung und Spiele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.788371,
                         47.380378
@@ -64745,7 +64745,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Büki Gyógy és Élményfürdő",
                   "text": "Beliebtes Thermal- und Erlebnisbad in Bük.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.784497,
                         47.381326
@@ -64840,7 +64840,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Funcity",
                   "text": "Modern szórakoztató központ és élménypark Bükön.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.788371,
                         47.380378
@@ -64849,7 +64849,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Büki Gyógy és Élményfürdő",
                   "text": "Népszerű gyógy- és élményfürdő Bükön.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.784497,
                         47.381326
@@ -64944,7 +64944,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Funcity",
                   "text": "Un centru modern de divertisment și parc tematic din Bük pentru jocuri și recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.788371,
                         47.380378
@@ -64953,7 +64953,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Büki Gyógy és Élményfürdő",
                   "text": "O populară baie termală și parc acvatic în Bük.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.784497,
                         47.381326
@@ -65048,7 +65048,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Funcity",
                   "text": "A modern entertainment center and theme park in Bük for games and recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.788371,
                         47.380378
@@ -65057,7 +65057,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Büki Gyógy és Élményfürdő",
                   "text": "Popular thermal bath and water park in Bük.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         16.784497,
                         47.381326
@@ -65618,7 +65618,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Várkert Fürdő",
                   "text": "Das Várkert Fürdő ist ein Wasserpark in der Stadt Papa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.473878,
                         47.337259
@@ -65799,7 +65799,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Várkert Fürdő",
                   "text": "A Várkert Fürdő egy vízipark Pápa városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.473878,
                         47.337259
@@ -65980,7 +65980,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Várkert Fürdő",
                   "text": "Várkert Fürdő este un parc acvatic situat în orașul Papa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.473878,
                         47.337259
@@ -66161,7 +66161,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Várkert Fürdő",
                   "text": "Várkert Fürdő is a water park located in the city of Papa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.473878,
                         47.337259
@@ -74194,7 +74194,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tölgyes Strand",
                   "text": "Ein beliebtes Thermalbad und Erholungspark in Jászapáti, umgeben von Eichenbäumen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.1415,
                         47.505498
@@ -74276,7 +74276,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tölgyes Strand",
                   "text": "Népszerű termálfürdő és szabadidőpark Jászapátiban, tölgyfákkal övezett környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.1415,
                         47.505498
@@ -74358,7 +74358,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tölgyes Strand",
                   "text": "O baie termală și parc de recreere popular în Jászapáti, înconjurat de stejari.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.1415,
                         47.505498
@@ -74440,7 +74440,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tölgyes Strand",
                   "text": "A popular thermal bath and recreation park in Jászapáti surrounded by oak trees.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.1415,
                         47.505498
@@ -74583,7 +74583,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tiszaújvárosi Gyógy- és Strandfürdő",
                   "text": "Das Tiszaújvárosi Gyógy- és Strandfürdő ist ein Wasserpark in der Stadt Tiszaújváros.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.04958,
                         47.931594
@@ -74696,7 +74696,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tiszaújvárosi Gyógy- és Strandfürdő",
                   "text": "A Tiszaújvárosi Gyógy- és Strandfürdő egy vízipark Tiszaújvárosban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.04958,
                         47.931594
@@ -74809,7 +74809,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tiszaújvárosi Gyógy- és Strandfürdő",
                   "text": "Tiszaújvárosi Gyógy- és Strandfürdő este un parc acvatic situat în orașul Tiszaújváros.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.04958,
                         47.931594
@@ -74922,7 +74922,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Tiszaújvárosi Gyógy- és Strandfürdő",
                   "text": "Tiszaújvárosi Gyógy- és Strandfürdő is a water park located in the city of Tiszaújváros.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.04958,
                         47.931594
@@ -75642,7 +75642,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strand és Sportközpont",
                   "text": "Ein städtisches Sport- und Freizeitzentrum in Százhalombatta mit Schwimmbädern.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.921569,
                         47.318068
@@ -75728,7 +75728,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strand és Sportközpont",
                   "text": "Városi sport- és szabadidőközpont Százhalombattán úszómedencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.921569,
                         47.318068
@@ -75814,7 +75814,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strand és Sportközpont",
                   "text": "Un centru urban de sport și recreere în Százhalombatta cu piscine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.921569,
                         47.318068
@@ -75900,7 +75900,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Városi strand és Sportközpont",
                   "text": "A municipal sport and leisure centre in Százhalombatta with swimming pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.921569,
                         47.318068
@@ -76909,7 +76909,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Barcsi Gyógyfürdő és Rekreációs Központ",
                   "text": "Das Barcsi Gyógyfürdő és Rekreációs Központ ist ein Wasserpark in der Stadt Barcs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.451608,
                         45.959797
@@ -76991,7 +76991,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Barcsi Gyógyfürdő és Rekreációs Központ",
                   "text": "A Barcsi Gyógyfürdő és Rekreációs Központ egy vízipark Barcs városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.451608,
                         45.959797
@@ -77073,7 +77073,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Barcsi Gyógyfürdő és Rekreációs Központ",
                   "text": "Barcsi Gyógyfürdő és Rekreációs Központ este un parc acvatic situat în orașul Barcs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.451608,
                         45.959797
@@ -77155,7 +77155,7 @@ export const hungaryCities: POI[] = [
             {
                   "name": "Barcsi Gyógyfürdő és Rekreációs Központ",
                   "text": "Barcsi Gyógyfürdő és Rekreációs Központ is a water park located in the city of Barcs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.451608,
                         45.959797

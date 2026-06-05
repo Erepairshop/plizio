@@ -2425,7 +2425,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World ist ein Wasserpark in Santa Maria.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.922764,
                         16.591517
@@ -2562,7 +2562,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "A Splash Water World egy élményfürdő Santa Maria városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.922764,
                         16.591517
@@ -2699,7 +2699,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World este un parc acvatic situat în Santa Maria.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.922764,
                         16.591517
@@ -2836,7 +2836,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World is a water park located in Santa Maria.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.922764,
                         16.591517
@@ -4264,7 +4264,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "Quad Zone ist ein Freizeitpark in Estância de Baixo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -4273,7 +4273,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World ist ein Wasserpark in Estância de Baixo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -4338,7 +4338,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "A Quad Zone egy vidámpark Estância de Baixóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -4347,7 +4347,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "A Splash Water World egy élvezetes vízi park Estância de Baixóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -4412,7 +4412,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "Quad Zone este un parc tematic situat în Estância de Baixo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -4421,7 +4421,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World este un parc acvatic din Estância de Baixo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -4486,7 +4486,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "Quad Zone is a theme park located in Estância de Baixo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -4495,7 +4495,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World is an exciting water park in Estância de Baixo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -4864,7 +4864,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "Quad Zone ist ein Freizeitpark in der Stadt Rabil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -4873,7 +4873,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World ist ein Wasserpark in der Stadt Rabil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -4938,7 +4938,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "A Quad Zone egy vidámpark Rabil városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -4947,7 +4947,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "A Splash Water World egy vízipark Rabil városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -5012,7 +5012,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "Quad Zone este un parc tematic situat în orașul Rabil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -5021,7 +5021,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World este un parc acvatic situat în orașul Rabil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253
@@ -5086,7 +5086,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Quad Zone",
                   "text": "Quad Zone is a theme park located in the city of Rabil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.885168,
                         16.141106
@@ -5095,7 +5095,7 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             {
                   "name": "Splash Water World",
                   "text": "Splash Water World is a water park located in the city of Rabil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.905945,
                         16.139253

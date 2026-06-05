@@ -298,7 +298,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Schwanseebad Freibad",
                   "text": "Ein beliebtes öffentliches Freibad in Weimar für Erholung und sportliche Aktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.319206,
                         50.984485
@@ -594,7 +594,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Schwanseebad Freibad",
                   "text": "Népszerű szabadtéri strand Weimarban pihenéshez és sportoláshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.319206,
                         50.984485
@@ -890,7 +890,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Schwanseebad Freibad",
                   "text": "O piscină publică în aer liber populară în Weimar pentru recreere și activități sportive.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.319206,
                         50.984485
@@ -1186,7 +1186,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Schwanseebad Freibad",
                   "text": "A popular public outdoor swimming pool in Weimar for recreation and sporting activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         11.319206,
                         50.984485
@@ -1819,7 +1819,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "aquaplex",
                   "text": "Ein modernes Sport- und Freizeitbad in Eisenach mit Schwimmbecken und Saunalandschaft.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.307118,
                         50.982705
@@ -1841,6 +1841,69 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.319155,
                         50.978849
+                  ]
+            },
+            {
+                  "name": "Klettergarten",
+                  "text": "Ein spannender Spielplatz in Eisenach, der Kinder zu Bewegung und Abenteuern einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.308366,
+                        50.998202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Westplatz",
+                  "text": "Zentral gelegener Spielplatz in Eisenach für eine aktive Zeit mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.301461,
+                        50.980539
+                  ]
+            },
+            {
+                  "name": "Spielplatz und Pausenhof der \"Alten Posthalterei\"",
+                  "text": "Dieser Spielplatz in Eisenach bietet abwechslungsreiche Möglichkeiten für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        10.315107,
+                        50.976629
+                  ]
+            },
+            {
+                  "name": "Spielplatz Domstraße",
+                  "text": "Ein einladender Ort in Eisenach, an dem Kinder sicher spielen und toben können.",
+                  "category": "family",
+                  "coords": [
+                        10.319787,
+                        50.971581
+                  ]
+            },
+            {
+                  "name": "Eliasanger",
+                  "text": "Dieser Spielplatz in Eisenach ist ein beliebter Treffpunkt für Familien aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        10.291635,
+                        50.992072
+                  ]
+            },
+            {
+                  "name": "Eselei",
+                  "text": "Ein schöner Spielplatz in Eisenach für einen entspannten Nachmittag mit den Kindern.",
+                  "category": "family",
+                  "coords": [
+                        10.307278,
+                        50.968582
+                  ]
+            },
+            {
+                  "name": "Anwohnerspielplatz",
+                  "text": "Spielplatz in Eisenach, der speziell auf die Bedürfnisse von Familien ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        10.312957,
+                        50.996621
                   ]
             }
       ],
@@ -1998,7 +2061,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "aquaplex",
                   "text": "Eisenach modern sport- és élményfürdője úszómedencékkel és szaunavilággal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.307118,
                         50.982705
@@ -2020,6 +2083,69 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.319155,
                         50.978849
+                  ]
+            },
+            {
+                  "name": "Klettergarten",
+                  "text": "Egy izgalmas játszótér Eisenachban, amely mozgásra és kalandra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        10.308366,
+                        50.998202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Westplatz",
+                  "text": "Központi fekvésű játszótér Eisenachban az egész család aktív időtöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        10.301461,
+                        50.980539
+                  ]
+            },
+            {
+                  "name": "Spielplatz und Pausenhof der \"Alten Posthalterei\"",
+                  "text": "Ez az eisenachi játszótér változatos lehetőségeket kínál minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.315107,
+                        50.976629
+                  ]
+            },
+            {
+                  "name": "Spielplatz Domstraße",
+                  "text": "Egy hívogató hely Eisenachban, ahol a gyerekek biztonságban játszhatnak és hancúrozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        10.319787,
+                        50.971581
+                  ]
+            },
+            {
+                  "name": "Eliasanger",
+                  "text": "Ez az eisenachi játszótér a környékbeli családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        10.291635,
+                        50.992072
+                  ]
+            },
+            {
+                  "name": "Eselei",
+                  "text": "Egy szép játszótér Eisenachban egy pihentető délutánhoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        10.307278,
+                        50.968582
+                  ]
+            },
+            {
+                  "name": "Anwohnerspielplatz",
+                  "text": "Játszótér Eisenachban, amelyet kifejezetten a családok igényeire terveztek.",
+                  "category": "family",
+                  "coords": [
+                        10.312957,
+                        50.996621
                   ]
             }
       ],
@@ -2177,7 +2303,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "aquaplex",
                   "text": "Un complex modern de natație și agrement din Eisenach, cu bazine și zonă de saună.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.307118,
                         50.982705
@@ -2199,6 +2325,69 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.319155,
                         50.978849
+                  ]
+            },
+            {
+                  "name": "Klettergarten",
+                  "text": "Un loc de joacă captivant în Eisenach, care invită copiii la mișcare și aventură.",
+                  "category": "family",
+                  "coords": [
+                        10.308366,
+                        50.998202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Westplatz",
+                  "text": "Loc de joacă situat central în Eisenach pentru timp activ cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.301461,
+                        50.980539
+                  ]
+            },
+            {
+                  "name": "Spielplatz und Pausenhof der \"Alten Posthalterei\"",
+                  "text": "Acest loc de joacă din Eisenach oferă posibilități variate pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.315107,
+                        50.976629
+                  ]
+            },
+            {
+                  "name": "Spielplatz Domstraße",
+                  "text": "Un loc primitor în Eisenach, unde copiii se pot juca și zbengui în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        10.319787,
+                        50.971581
+                  ]
+            },
+            {
+                  "name": "Eliasanger",
+                  "text": "Acest loc de joacă din Eisenach este un loc de întâlnire popular pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        10.291635,
+                        50.992072
+                  ]
+            },
+            {
+                  "name": "Eselei",
+                  "text": "Un loc de joacă frumos în Eisenach pentru o după-amiază relaxantă cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        10.307278,
+                        50.968582
+                  ]
+            },
+            {
+                  "name": "Anwohnerspielplatz",
+                  "text": "Loc de joacă în Eisenach, conceput special pentru nevoile familiilor.",
+                  "category": "family",
+                  "coords": [
+                        10.312957,
+                        50.996621
                   ]
             }
       ],
@@ -2356,7 +2545,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "aquaplex",
                   "text": "A modern sports and leisure pool in Eisenach with swimming pools and a sauna area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.307118,
                         50.982705
@@ -2378,6 +2567,69 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.319155,
                         50.978849
+                  ]
+            },
+            {
+                  "name": "Klettergarten",
+                  "text": "An exciting playground in Eisenach that invites children to move and have adventures.",
+                  "category": "family",
+                  "coords": [
+                        10.308366,
+                        50.998202
+                  ]
+            },
+            {
+                  "name": "Spielplatz Westplatz",
+                  "text": "Centrally located playground in Eisenach for active time with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.301461,
+                        50.980539
+                  ]
+            },
+            {
+                  "name": "Spielplatz und Pausenhof der \"Alten Posthalterei\"",
+                  "text": "This playground in Eisenach offers varied opportunities for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.315107,
+                        50.976629
+                  ]
+            },
+            {
+                  "name": "Spielplatz Domstraße",
+                  "text": "An inviting place in Eisenach where children can play and romp safely.",
+                  "category": "family",
+                  "coords": [
+                        10.319787,
+                        50.971581
+                  ]
+            },
+            {
+                  "name": "Eliasanger",
+                  "text": "This playground in Eisenach is a popular meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        10.291635,
+                        50.992072
+                  ]
+            },
+            {
+                  "name": "Eselei",
+                  "text": "A nice playground in Eisenach for a relaxed afternoon with the children.",
+                  "category": "family",
+                  "coords": [
+                        10.307278,
+                        50.968582
+                  ]
+            },
+            {
+                  "name": "Anwohnerspielplatz",
+                  "text": "Playground in Eisenach that is specifically designed for the needs of families.",
+                  "category": "family",
+                  "coords": [
+                        10.312957,
+                        50.996621
                   ]
             }
       ]
@@ -2736,7 +2988,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Stadt-Bad Gotha",
                   "text": "Historisches Jugendstil-Hallenbad in Gotha mit modernen Wellness- und Schwimmeinrichtungen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.696353,
                         50.950296
@@ -2754,7 +3006,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tierpark Gotha",
                   "text": "Heimattierpark in Gotha, der zahlreiche europäische Tierarten in naturnahen Gehegen beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.719941,
                         50.934486
@@ -2790,7 +3042,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "Öffentliches Freibad in Gotha mit Schwimmbecken und Liegewiesen für sommerliche Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.710359,
                         50.934115
@@ -2812,6 +3064,42 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.666214,
                         50.960248
+                  ]
+            },
+            {
+                  "name": "Speicher Friemar",
+                  "text": "Der Speicher Friemar bei Gotha ist ein künstliches Gewässer in der Agrarlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.79981,
+                        50.981077
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken Ohrdrufer Straße",
+                  "text": "Das Regenrückhaltebecken Ohrdrufer Straße in Gotha dient der lokalen Wasserregulierung.",
+                  "category": "natural",
+                  "coords": [
+                        10.714886,
+                        50.931249
+                  ]
+            },
+            {
+                  "name": "Big Play",
+                  "text": "Big Play in Gotha bietet verschiedene Möglichkeiten für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        10.69719,
+                        50.939333
+                  ]
+            },
+            {
+                  "name": "Dschungel Spielplatz Sundhausen",
+                  "text": "Der Dschungel Spielplatz Sundhausen in Gotha ist thematisch gestaltet.",
+                  "category": "family",
+                  "coords": [
+                        10.672798,
+                        50.930752
                   ]
             }
       ],
@@ -2897,7 +3185,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Stadt-Bad Gotha",
                   "text": "Történelmi szecessziós uszoda Gothában, modern wellness- és úszómedencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.696353,
                         50.950296
@@ -2915,7 +3203,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tierpark Gotha",
                   "text": "Gothai állatkert, amely számos európai állatfajnak ad otthont természetközeli kifutókban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.719941,
                         50.934486
@@ -2951,7 +3239,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "Nyilvános szabadtéri strand Gothában úszómedencékkel a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.710359,
                         50.934115
@@ -2973,6 +3261,42 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.666214,
                         50.960248
+                  ]
+            },
+            {
+                  "name": "Speicher Friemar",
+                  "text": "A Gotha közeli Speicher Friemar egy mesterséges víztározó a mezőgazdasági tájban.",
+                  "category": "natural",
+                  "coords": [
+                        10.79981,
+                        50.981077
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken Ohrdrufer Straße",
+                  "text": "A gothai Ohrdrufer Straße esővíz-visszatartó medencéje a helyi vízszabályozást szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        10.714886,
+                        50.931249
+                  ]
+            },
+            {
+                  "name": "Big Play",
+                  "text": "A gothai Big Play különféle lehetőségeket kínál a gyerekeknek a játékra és felfedezésre.",
+                  "category": "family",
+                  "coords": [
+                        10.69719,
+                        50.939333
+                  ]
+            },
+            {
+                  "name": "Dschungel Spielplatz Sundhausen",
+                  "text": "A gothai Sundhausen dzsungel-játszótér tematikus kialakítású.",
+                  "category": "family",
+                  "coords": [
+                        10.672798,
+                        50.930752
                   ]
             }
       ],
@@ -3058,7 +3382,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Stadt-Bad Gotha",
                   "text": "Piscină istorică în stil Art Nouveau din Gotha, cu facilități moderne de wellness și înot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.696353,
                         50.950296
@@ -3076,7 +3400,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tierpark Gotha",
                   "text": "Grădină zoologică din Gotha, care găzduiește specii de animale europene în țarcuri naturale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.719941,
                         50.934486
@@ -3112,7 +3436,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "Ștrand public în Gotha, cu bazine de înot și zone de plajă pentru recreere estivă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.710359,
                         50.934115
@@ -3134,6 +3458,42 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.666214,
                         50.960248
+                  ]
+            },
+            {
+                  "name": "Speicher Friemar",
+                  "text": "Speicher Friemar de lângă Gotha este un corp de apă artificial în peisajul agricol.",
+                  "category": "natural",
+                  "coords": [
+                        10.79981,
+                        50.981077
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken Ohrdrufer Straße",
+                  "text": "Bazinul de retenție a apei pluviale din Ohrdrufer Straße, Gotha, servește la reglarea locală a apei.",
+                  "category": "natural",
+                  "coords": [
+                        10.714886,
+                        50.931249
+                  ]
+            },
+            {
+                  "name": "Big Play",
+                  "text": "Big Play din Gotha oferă diverse posibilități pentru copii de a se juca și a explora.",
+                  "category": "family",
+                  "coords": [
+                        10.69719,
+                        50.939333
+                  ]
+            },
+            {
+                  "name": "Dschungel Spielplatz Sundhausen",
+                  "text": "Locul de joacă Jungla din Sundhausen, Gotha, are un design tematic.",
+                  "category": "family",
+                  "coords": [
+                        10.672798,
+                        50.930752
                   ]
             }
       ],
@@ -3219,7 +3579,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Stadt-Bad Gotha",
                   "text": "Historic Art Nouveau indoor pool in Gotha with modern wellness and swimming facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.696353,
                         50.950296
@@ -3237,7 +3597,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tierpark Gotha",
                   "text": "Local zoo in Gotha, home to numerous European animal species in naturalistic enclosures.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.719941,
                         50.934486
@@ -3273,7 +3633,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "Public outdoor pool in Gotha with swimming basins and sunbathing lawns for summer leisure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.710359,
                         50.934115
@@ -3295,6 +3655,42 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         10.666214,
                         50.960248
+                  ]
+            },
+            {
+                  "name": "Speicher Friemar",
+                  "text": "The Speicher Friemar near Gotha is an artificial body of water in the agricultural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.79981,
+                        50.981077
+                  ]
+            },
+            {
+                  "name": "Regenrückhaltebecken Ohrdrufer Straße",
+                  "text": "The retention basin on Ohrdrufer Straße in Gotha serves local water regulation.",
+                  "category": "natural",
+                  "coords": [
+                        10.714886,
+                        50.931249
+                  ]
+            },
+            {
+                  "name": "Big Play",
+                  "text": "Big Play in Gotha offers various opportunities for children to play and discover.",
+                  "category": "family",
+                  "coords": [
+                        10.69719,
+                        50.939333
+                  ]
+            },
+            {
+                  "name": "Dschungel Spielplatz Sundhausen",
+                  "text": "The Jungle Playground Sundhausen in Gotha features a thematic design.",
+                  "category": "family",
+                  "coords": [
+                        10.672798,
+                        50.930752
                   ]
             }
       ]
@@ -3951,7 +4347,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "BAD 2",
                   "text": "Ein modernes Freizeit- und Hallenbad in Bremerhaven mit verschiedenen Schwimmbecken und Wellnessbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.596108,
                         53.522191
@@ -3960,7 +4356,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "Ein kleines Tiergehege im Bürgerpark, das heimische Tierarten beherbergt und ein beliebtes Ausflugsziel ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.602251,
                         53.541922
@@ -3982,6 +4378,96 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.580287,
                         53.538428
+                  ]
+            },
+            {
+                  "name": "Spadener See",
+                  "text": "Der Spadener See bei Bremerhaven lädt zu erholsamen Spaziergängen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        8.652927,
+                        53.571748
+                  ]
+            },
+            {
+                  "name": "Auesee",
+                  "text": "Der Auesee bei Bremerhaven ist ein schöner Ort für Naturbeobachtungen und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        8.572983,
+                        53.58488
+                  ]
+            },
+            {
+                  "name": "Friedheimer See",
+                  "text": "Der Friedheimer See bei Bremerhaven bietet eine idyllische Kulisse für Aufenthalte im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        8.664886,
+                        53.522044
+                  ]
+            },
+            {
+                  "name": "Martens See",
+                  "text": "Der Martens See bei Bremerhaven ist ein ruhiges Gewässer, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.578957,
+                        53.59858
+                  ]
+            },
+            {
+                  "name": "Jumpin",
+                  "text": "Der Trampolinpark Jumpin in Bremerhaven ist ein beliebtes Ziel für aktive Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.582595,
+                        53.523649
+                  ]
+            },
+            {
+                  "name": "Straßburger Platz",
+                  "text": "Der Spielplatz Straßburger Platz in Bremerhaven bietet Abwechslung für Kinder im Stadtteil.",
+                  "category": "family",
+                  "coords": [
+                        8.598668,
+                        53.533064
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz am Zoo",
+                  "text": "Der Kinderspielplatz am Zoo in Bremerhaven ist eine ideale Ergänzung für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        8.571405,
+                        53.545155
+                  ]
+            },
+            {
+                  "name": "Rollerbahn",
+                  "text": "Die Rollerbahn in Bremerhaven bietet Platz für sportliches Spiel und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        8.609608,
+                        53.519433
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bürgerpark-Süd",
+                  "text": "Der Spielplatz Bürgerpark-Süd in Bremerhaven liegt im Grünen und lädt zum Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        8.619884,
+                        53.531608
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Platz",
+                  "text": "Der Spielplatz Berliner Platz in Bremerhaven bietet Kindern eine zentral gelegene Spielfläche.",
+                  "category": "family",
+                  "coords": [
+                        8.584768,
+                        53.535401
                   ]
             }
       ],
@@ -4156,7 +4642,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "BAD 2",
                   "text": "Modern szabadidős és fedett uszoda Bremerhavenben, különféle medencékkel és wellness-szolgáltatásokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.596108,
                         53.522191
@@ -4165,7 +4651,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "Kicsi vadaspark a Bürgerparkban, amely hazai állatfajoknak ad otthont és népszerű kirándulóhely.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.602251,
                         53.541922
@@ -4187,6 +4673,96 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.580287,
                         53.538428
+                  ]
+            },
+            {
+                  "name": "Spadener See",
+                  "text": "A Bremerhaven közeli Spadener See kellemes sétákra és pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.652927,
+                        53.571748
+                  ]
+            },
+            {
+                  "name": "Auesee",
+                  "text": "A Bremerhaven melletti Auesee szép hely a természet megfigyelésére és a nyugalomra.",
+                  "category": "natural",
+                  "coords": [
+                        8.572983,
+                        53.58488
+                  ]
+            },
+            {
+                  "name": "Friedheimer See",
+                  "text": "A Bremerhaven környéki Friedheimer See idilli környezetet biztosít a szabadban való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.664886,
+                        53.522044
+                  ]
+            },
+            {
+                  "name": "Martens See",
+                  "text": "A Bremerhaven közeli Martens See egy nyugodt állóvíz, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        8.578957,
+                        53.59858
+                  ]
+            },
+            {
+                  "name": "Jumpin",
+                  "text": "A bremerhaveni Jumpin trambulinpark népszerű úti cél az aktív családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.582595,
+                        53.523649
+                  ]
+            },
+            {
+                  "name": "Straßburger Platz",
+                  "text": "A bremerhaveni Straßburger Platz játszótere kikapcsolódást nyújt a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.598668,
+                        53.533064
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz am Zoo",
+                  "text": "A bremerhaveni állatkert melletti játszótér ideális kiegészítője egy családi kirándulásnak.",
+                  "category": "family",
+                  "coords": [
+                        8.571405,
+                        53.545155
+                  ]
+            },
+            {
+                  "name": "Rollerbahn",
+                  "text": "A bremerhaveni Rollerbahn helyet biztosít a sportos játékhoz és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.609608,
+                        53.519433
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bürgerpark-Süd",
+                  "text": "A bremerhaveni Bürgerpark-Süd játszótere zöld környezetben várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        8.619884,
+                        53.531608
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Platz",
+                  "text": "A bremerhaveni Berliner Platz játszótere központi helyen kínál játéklehetőséget a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.584768,
+                        53.535401
                   ]
             }
       ],
@@ -4361,7 +4937,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "BAD 2",
                   "text": "O piscină modernă de agrement și acoperită din Bremerhaven, cu diverse bazine și zone de wellness.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.596108,
                         53.522191
@@ -4370,7 +4946,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "O mică incintă pentru animale în Bürgerpark, care găzduiește specii locale și este o destinație populară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.602251,
                         53.541922
@@ -4392,6 +4968,96 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.580287,
                         53.538428
+                  ]
+            },
+            {
+                  "name": "Spadener See",
+                  "text": "Lacul Spadener See de lângă Bremerhaven invită la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.652927,
+                        53.571748
+                  ]
+            },
+            {
+                  "name": "Auesee",
+                  "text": "Lacul Auesee de lângă Bremerhaven este un loc frumos pentru observarea naturii și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        8.572983,
+                        53.58488
+                  ]
+            },
+            {
+                  "name": "Friedheimer See",
+                  "text": "Lacul Friedheimer See de lângă Bremerhaven oferă un cadru idilic pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.664886,
+                        53.522044
+                  ]
+            },
+            {
+                  "name": "Martens See",
+                  "text": "Lacul Martens See de lângă Bremerhaven este o apă liniștită care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.578957,
+                        53.59858
+                  ]
+            },
+            {
+                  "name": "Jumpin",
+                  "text": "Parcul de trambuline Jumpin din Bremerhaven este o destinație populară pentru familiile active.",
+                  "category": "family",
+                  "coords": [
+                        8.582595,
+                        53.523649
+                  ]
+            },
+            {
+                  "name": "Straßburger Platz",
+                  "text": "Locul de joacă Straßburger Platz din Bremerhaven oferă distracție copiilor din cartier.",
+                  "category": "family",
+                  "coords": [
+                        8.598668,
+                        53.533064
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz am Zoo",
+                  "text": "Locul de joacă pentru copii de lângă grădina zoologică din Bremerhaven este o completare ideală pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.571405,
+                        53.545155
+                  ]
+            },
+            {
+                  "name": "Rollerbahn",
+                  "text": "Pista de role din Bremerhaven oferă spațiu pentru jocuri sportive și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.609608,
+                        53.519433
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bürgerpark-Süd",
+                  "text": "Locul de joacă Bürgerpark-Süd din Bremerhaven este situat în mijlocul naturii și invită la joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.619884,
+                        53.531608
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Platz",
+                  "text": "Locul de joacă Berliner Platz din Bremerhaven oferă copiilor un spațiu de joacă situat central.",
+                  "category": "family",
+                  "coords": [
+                        8.584768,
+                        53.535401
                   ]
             }
       ],
@@ -4566,7 +5232,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "BAD 2",
                   "text": "A modern indoor leisure pool in Bremerhaven with various swimming pools and wellness areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.596108,
                         53.522191
@@ -4575,7 +5241,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "A small animal enclosure in the Bürgerpark, home to local species and a popular destination for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.602251,
                         53.541922
@@ -4597,6 +5263,96 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.580287,
                         53.538428
+                  ]
+            },
+            {
+                  "name": "Spadener See",
+                  "text": "Spadener See near Bremerhaven invites you to take relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.652927,
+                        53.571748
+                  ]
+            },
+            {
+                  "name": "Auesee",
+                  "text": "Auesee near Bremerhaven is a beautiful place for nature observation and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        8.572983,
+                        53.58488
+                  ]
+            },
+            {
+                  "name": "Friedheimer See",
+                  "text": "Friedheimer See near Bremerhaven offers an idyllic setting for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        8.664886,
+                        53.522044
+                  ]
+            },
+            {
+                  "name": "Martens See",
+                  "text": "Martens See near Bremerhaven is a quiet body of water that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        8.578957,
+                        53.59858
+                  ]
+            },
+            {
+                  "name": "Jumpin",
+                  "text": "The Jumpin trampoline park in Bremerhaven is a popular destination for active families.",
+                  "category": "family",
+                  "coords": [
+                        8.582595,
+                        53.523649
+                  ]
+            },
+            {
+                  "name": "Straßburger Platz",
+                  "text": "The Straßburger Platz playground in Bremerhaven offers variety for children in the district.",
+                  "category": "family",
+                  "coords": [
+                        8.598668,
+                        53.533064
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz am Zoo",
+                  "text": "The playground at the zoo in Bremerhaven is an ideal addition to a family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.571405,
+                        53.545155
+                  ]
+            },
+            {
+                  "name": "Rollerbahn",
+                  "text": "The roller rink in Bremerhaven offers space for sporty play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        8.609608,
+                        53.519433
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bürgerpark-Süd",
+                  "text": "The Bürgerpark-Süd playground in Bremerhaven is located in a green area and invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        8.619884,
+                        53.531608
+                  ]
+            },
+            {
+                  "name": "Spielplatz Berliner Platz",
+                  "text": "The Berliner Platz playground in Bremerhaven offers a centrally located play area for children.",
+                  "category": "family",
+                  "coords": [
+                        8.584768,
+                        53.535401
                   ]
             }
       ]
@@ -5156,7 +5912,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "Ein beliebtes öffentliches Hallenbad in der Bremer Neustadt mit Sauna, Wellnessbereich und Schwimmbecken.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.795696,
                         53.070891
@@ -5264,7 +6020,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "Ein soziales Projekt, das Sportanlagen mit Tierhaltung und Naturerlebnissen verbindet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
@@ -5273,7 +6029,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "Ein kleines Tiergehege in Bremen, das einheimische Tierarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.826835,
                         53.096427
@@ -5506,7 +6262,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "Népszerű nyilvános fedett uszoda Bréma Neustadt negyedében, szaunával, wellness részleggel és úszómedencékkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.795696,
                         53.070891
@@ -5614,7 +6370,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "Szociális projekt, amely sportpályákat, állattartást és természetközeli élményeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
@@ -5623,7 +6379,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "Kisméretű állatkifutó Brémában, amely hazai állatfajokat mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.826835,
                         53.096427
@@ -5856,7 +6612,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "O piscină publică acoperită populară în Neustadt, Bremen, cu saună, zonă de wellness și bazine de înot.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.795696,
                         53.070891
@@ -5964,7 +6720,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "Un proiect social care îmbină facilitățile sportive cu îngrijirea animalelor și natura.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
@@ -5973,7 +6729,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "O mică incintă pentru animale din Bremen, care adăpostește specii locale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.826835,
                         53.096427
@@ -6206,7 +6962,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Südbad",
                   "text": "A popular public indoor swimming pool in Bremen's Neustadt district featuring a sauna, wellness area, and pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.795696,
                         53.070891
@@ -6314,7 +7070,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "A community project combining sports facilities with animal care and nature experiences.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
@@ -6323,7 +7079,7 @@ export const poiExtraDe4a: POI[] = [
             {
                   "name": "Tiergehege",
                   "text": "A small animal enclosure in Bremen showcasing local species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         8.826835,
                         53.096427

@@ -107,7 +107,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Parque Amelia Denis de Icaza",
                   "text": "Ein Erholungspark in Balboa mit Outdoor-Aktivitäten und Grünflächen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.54675,
                         8.951049
@@ -125,7 +125,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Divercity",
                   "text": "Dieser familienfreundliche Freizeitpark in Balboa bietet interaktive Erlebnisse für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.551957,
                         8.977253
@@ -469,7 +469,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Parque Amelia Denis de Icaza",
                   "text": "Rekreációs park Balboában, amely szabadtéri tevékenységeket és zöldterületeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.54675,
                         8.951049
@@ -487,7 +487,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Divercity",
                   "text": "Ez a balboai családbarát vidámpark interaktív élményeket kínál gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.551957,
                         8.977253
@@ -831,7 +831,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Parque Amelia Denis de Icaza",
                   "text": "Un parc recreativ din Balboa care oferă activități în aer liber și spații verzi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.54675,
                         8.951049
@@ -849,7 +849,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Divercity",
                   "text": "Acest parc tematic din Balboa oferă experiențe interactive pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.551957,
                         8.977253
@@ -1193,7 +1193,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Parque Amelia Denis de Icaza",
                   "text": "A recreational park in Balboa offering outdoor activities and green spaces.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.54675,
                         8.951049
@@ -1211,7 +1211,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Divercity",
                   "text": "This family-friendly theme park in Balboa offers interactive experiences for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.551957,
                         8.977253
@@ -1565,7 +1565,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Hummingbird Feeder",
                   "text": "Ein Ort in Gamboa, an dem Kolibris beobachtet werden können.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.724705,
                         9.130946
@@ -1594,7 +1594,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Hummingbird Feeder",
                   "text": "Kolibrimegfigyelő hely Gamboában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.724705,
                         9.130946
@@ -1623,7 +1623,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Hummingbird Feeder",
                   "text": "Un loc de observare a colibri în Gamboa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.724705,
                         9.130946
@@ -1652,7 +1652,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             {
                   "name": "Hummingbird Feeder",
                   "text": "A location in Gamboa dedicated to observing hummingbirds.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.724705,
                         9.130946

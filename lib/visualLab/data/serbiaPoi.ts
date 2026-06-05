@@ -1810,7 +1810,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоо врт Бор",
                   "text": "Der Zoo Bor ist eine Attraktion, die der Öffentlichkeit eine Vielzahl von Tierarten zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.09661,
                         44.058333
@@ -1884,7 +1884,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоо врт Бор",
                   "text": "A Bori Állatkert egy látványosság, amely különféle állatfajokat mutat be a közönségnek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.09661,
                         44.058333
@@ -1958,7 +1958,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоо врт Бор",
                   "text": "Grădina Zoologică din Bor este o atracție care expune publicului o varietate de specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.09661,
                         44.058333
@@ -2032,7 +2032,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоо врт Бор",
                   "text": "The Bor Zoo is an attraction displaying a variety of animal species to the public.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.09661,
                         44.058333
@@ -3354,7 +3354,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Aqua Park Atina",
                   "text": "Ein moderner Wasserpark für Freizeitaktivitäten in Leskovac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.963542,
                         43.002549
@@ -3437,7 +3437,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Aqua Park Atina",
                   "text": "Modern vízi élménypark Leskovacban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.963542,
                         43.002549
@@ -3520,7 +3520,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Aqua Park Atina",
                   "text": "Un parc acvatic modern pentru activități de recreere în Leskovac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.963542,
                         43.002549
@@ -3603,7 +3603,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Aqua Park Atina",
                   "text": "A modern water park for leisure activities in Leskovac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.963542,
                         43.002549
@@ -4088,7 +4088,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоолошки врт „Тигар”",
                   "text": "Der Tigar-Zoo ist ein familienfreundlicher zoologischer Park in Jagodina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.264828,
                         43.964414
@@ -4097,7 +4097,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "Der Aquapark ist ein beliebtes Erholungsziel mit Wasserrutschen und Pools in Jagodina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.267504,
                         43.967005
@@ -4153,7 +4153,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоолошки врт „Тигар”",
                   "text": "A Tigris Állatkert egy családbarát állatkert Jagodinán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.264828,
                         43.964414
@@ -4162,7 +4162,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "Az Aquapark egy népszerű szabadidős célpont csúszdákkal és medencékkel Jagodinán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.267504,
                         43.967005
@@ -4218,7 +4218,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоолошки врт „Тигар”",
                   "text": "Grădina Zoologică Tigrul este un parc zoologic potrivit pentru familii situat în Jagodina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.264828,
                         43.964414
@@ -4227,7 +4227,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "Parcul Acvatic este o destinație de recreere populară cu tobogane de apă și piscine în Jagodina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.267504,
                         43.967005
@@ -4283,7 +4283,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Зоолошки врт „Тигар”",
                   "text": "The Tigar Zoo is a family-friendly zoological park located in Jagodina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.264828,
                         43.964414
@@ -4292,7 +4292,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Аква парк",
                   "text": "The Aqua Park is a popular recreational destination with water slides and pools in Jagodina.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.267504,
                         43.967005
@@ -6421,7 +6421,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Бамбиланд",
                   "text": "Ein bekannter Freizeitpark für Familien in der Stadt Požarevac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.1721,
                         44.619445
@@ -6486,7 +6486,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Бамбиланд",
                   "text": "Népszerű családi vidámpark Požarevac városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.1721,
                         44.619445
@@ -6551,7 +6551,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Бамбиланд",
                   "text": "Un parc tematic popular pentru familii din orașul Požarevac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.1721,
                         44.619445
@@ -6616,7 +6616,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Бамбиланд",
                   "text": "A popular family theme park in the city of Požarevac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.1721,
                         44.619445
@@ -6817,7 +6817,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Отворени базени Крушевац",
                   "text": "Die Freibäder von Kruševac sind ein beliebter Wasserpark und Erholungsort in Kruševac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.328923,
                         43.573785
@@ -6882,7 +6882,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Отворени базени Крушевац",
                   "text": "A Kruševaci Nyitott Medencék egy népszerű vízipark és rekreációs terület Kruševacban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.328923,
                         43.573785
@@ -6947,7 +6947,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Отворени базени Крушевац",
                   "text": "Piscinele Deschise Kruševac reprezintă un parc acvatic și o zonă de agrement populară în Kruševac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.328923,
                         43.573785
@@ -7012,7 +7012,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Отворени базени Крушевац",
                   "text": "Kruševac Open Pools is a popular water park and recreational area in Kruševac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         21.328923,
                         43.573785
@@ -7229,7 +7229,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Пони село",
                   "text": "Ein kleiner Zoo in Valjevo, der besonders für Familien mit Kindern attraktiv ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.866258,
                         44.259529
@@ -7357,7 +7357,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Пони село",
                   "text": "Kisméretű állatkert Valjevóban, amely különösen a gyermekes családok számára vonzó.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.866258,
                         44.259529
@@ -7485,7 +7485,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Пони село",
                   "text": "O mică grădină zoologică din Valjevo, atractivă în special pentru familiile cu copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.866258,
                         44.259529
@@ -7613,7 +7613,7 @@ export const serbiaDistrictPoi: POI[] = [
             {
                   "name": "Пони село",
                   "text": "A small zoo in Valjevo, especially attractive for families with children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.866258,
                         44.259529

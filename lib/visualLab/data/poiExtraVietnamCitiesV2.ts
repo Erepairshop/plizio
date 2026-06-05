@@ -26,7 +26,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "Ein großer Wasserpark in Ho-Chi-Minh-Stadt mit zahlreichen Attraktionen für alle Altersgruppen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
@@ -199,7 +199,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "Nagy vízipark Ho Si Minh-városban, számos látnivalóval minden korosztály számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
@@ -372,7 +372,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "Un parc acvatic mare în Ho Chi Minh City, cu numeroase atracții pentru toate vârstele.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
@@ -545,7 +545,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "A large water park in Ho Chi Minh City with numerous attractions for all ages.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
@@ -1940,7 +1940,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
                   "text": "Ein Vergnügungs- und Wasserpark in der Stadt Móng Cái.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.974285,
                         21.522459
@@ -1969,7 +1969,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
                   "text": "Szórakoztató- és vízipark Móng Cái városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.974285,
                         21.522459
@@ -1998,7 +1998,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
                   "text": "Un parc de distracții și acvatic în orașul Móng Cái.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.974285,
                         21.522459
@@ -2027,7 +2027,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Trung tâm Vui chơi giải trí Móng Cái",
                   "text": "An amusement and water park in the city of Móng Cái.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         107.974285,
                         21.522459
@@ -2483,7 +2483,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công Viên Nước TTC",
                   "text": "Ein moderner Wasserpark in Bến Tre für Freizeitaktivitäten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.39798,
                         10.236267
@@ -2530,7 +2530,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công Viên Nước TTC",
                   "text": "Modern vízi park Bến Tre városában szabadidős tevékenységekhez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.39798,
                         10.236267
@@ -2577,7 +2577,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công Viên Nước TTC",
                   "text": "Un parc acvatic modern în Bến Tre pentru activități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.39798,
                         10.236267
@@ -2624,7 +2624,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             {
                   "name": "Công Viên Nước TTC",
                   "text": "A modern water park in Bến Tre for recreational activities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         106.39798,
                         10.236267

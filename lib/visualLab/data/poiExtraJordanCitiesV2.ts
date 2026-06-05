@@ -587,7 +587,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             {
                   "name": "Rose City Saraya Waterpark",
                   "text": "Rose City Saraya Waterpark ist ein Wasserpark in Akaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.993029,
                         29.541657
@@ -706,7 +706,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             {
                   "name": "Rose City Saraya Waterpark",
                   "text": "A Rose City Saraya Waterpark egy vízipark Akabában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.993029,
                         29.541657
@@ -825,7 +825,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             {
                   "name": "Rose City Saraya Waterpark",
                   "text": "Rose City Saraya Waterpark este un parc acvatic din Akaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.993029,
                         29.541657
@@ -944,7 +944,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
             {
                   "name": "Rose City Saraya Waterpark",
                   "text": "Rose City Saraya Waterpark is an aquatic park located in Akaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.993029,
                         29.541657

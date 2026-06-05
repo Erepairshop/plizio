@@ -1088,7 +1088,7 @@ export const saintluciaHistoryV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Der Splash Island Water Park ist ein Wasserpark in der Altstadt von Gros Islet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -1216,7 +1216,7 @@ export const saintluciaHistoryV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "A Splash Island Water Park egy vízi vidámpark Altstadt von Gros Islet területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -1344,7 +1344,7 @@ export const saintluciaHistoryV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park este un parc acvatic situat în Altstadt von Gros Islet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131
@@ -1472,7 +1472,7 @@ export const saintluciaHistoryV2: POI[] = [
             {
                   "name": "Splash Island Water Park",
                   "text": "Splash Island Water Park is an aquatic amusement park in Altstadt von Gros Islet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -60.954113,
                         14.078131

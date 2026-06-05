@@ -2933,7 +2933,7 @@ export const norwayHistoryV2: POI[] = [
             {
                   "name": "Polaria",
                   "text": "Ein arktisches Aquarium in Tromsø, bekannt für seine markante moderne Architektur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -3151,7 +3151,7 @@ export const norwayHistoryV2: POI[] = [
             {
                   "name": "Polaria",
                   "text": "Sarkvidéki témájú akvárium Tromsøben, amely jellegzetes modern építészetéről ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -3369,7 +3369,7 @@ export const norwayHistoryV2: POI[] = [
             {
                   "name": "Polaria",
                   "text": "Un acvariu cu tematică arctică în Tromsø, cunoscut pentru arhitectura sa modernă distinctivă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -3587,7 +3587,7 @@ export const norwayHistoryV2: POI[] = [
             {
                   "name": "Polaria",
                   "text": "An Arctic-themed aquarium in Tromsø known for its striking modern architecture.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665

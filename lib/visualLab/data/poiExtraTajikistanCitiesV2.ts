@@ -138,7 +138,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк имени Рудаки",
                   "text": "Ein Stadtpark in Bochtar, der nach dem berühmten Dichter Rudaki benannt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.772414,
                         37.840492
@@ -221,7 +221,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк имени Рудаки",
                   "text": "Bohtar városi parkja, amelyet a híres költőről, Rudakiról neveztek el.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.772414,
                         37.840492
@@ -304,7 +304,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк имени Рудаки",
                   "text": "Un parc orășenesc din Bohtar, numit după celebrul poet Rudaki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.772414,
                         37.840492
@@ -387,7 +387,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк имени Рудаки",
                   "text": "A city park in Bochtar named after the famous poet Rudaki.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.772414,
                         37.840492
@@ -584,7 +584,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Зоопарки Кулоб",
                   "text": "Ein Tiergarten in Kulob, der verschiedene lokale und exotische Tierarten beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.803208,
                         37.934709
@@ -667,7 +667,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Зоопарки Кулоб",
                   "text": "Kulobi állatkert, amely számos helyi és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.803208,
                         37.934709
@@ -750,7 +750,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Зоопарки Кулоб",
                   "text": "O grădină zoologică în Kulob care găzduiește diverse specii de animale locale și exotice.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.803208,
                         37.934709
@@ -833,7 +833,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Зоопарки Кулоб",
                   "text": "A zoo in Kulob home to various local and exotic animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         69.803208,
                         37.934709
@@ -1202,7 +1202,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Центральный парк",
                   "text": "Ein zentraler Erholungspark in Tursunsoda mit verschiedenen Freizeitangeboten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.231258,
                         38.511901
@@ -1211,7 +1211,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк Победы",
                   "text": "Ein öffentlicher Park in Tursunsoda, der an den Sieg im Großen Vaterländischen Krieg erinnert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.218041,
                         38.517749
@@ -1240,7 +1240,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Центральный парк",
                   "text": "Központi pihenőpark Tursunsodában különféle szabadidős lehetőségekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.231258,
                         38.511901
@@ -1249,7 +1249,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк Победы",
                   "text": "Közpark Tursunsodában, amely a Nagy Honvédő Háborúban aratott győzelemnek állít emléket.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.218041,
                         38.517749
@@ -1278,7 +1278,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Центральный парк",
                   "text": "Un parc central de recreere în Tursunsoda, oferind diverse facilități pentru petrecerea timpului liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.231258,
                         38.511901
@@ -1287,7 +1287,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк Победы",
                   "text": "Un parc public în Tursunsoda care comemorează victoria în Marele Război pentru Apărarea Patriei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.218041,
                         38.517749
@@ -1316,7 +1316,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Central Park",
                   "text": "A central recreation park in Tursunsoda featuring various leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.231258,
                         38.511901
@@ -1325,7 +1325,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Парк Победы",
                   "text": "A public park in Tursunsoda commemorating the victory in the Great Patriotic War.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         68.218041,
                         38.517749
@@ -1568,7 +1568,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Parki Rudaki",
                   "text": "Ein nach dem Dichter Rudaki benannter Freizeitpark im Stadtzentrum von Pandschakent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.610789,
                         39.496236
@@ -1669,7 +1669,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Parki Rudaki",
                   "text": "A Rudaki költőről elnevezett szabadidőpark Pandschakent városközpontjában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.610789,
                         39.496236
@@ -1770,7 +1770,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Parki Rudaki",
                   "text": "Un parc de recreere numit după poetul Rudaki, situat în centrul orașului Pandschakent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.610789,
                         39.496236
@@ -1871,7 +1871,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
             {
                   "name": "Parki Rudaki",
                   "text": "A recreation park named after the poet Rudaki in the city center of Panjakent.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         67.610789,
                         39.496236

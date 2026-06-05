@@ -7916,7 +7916,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Grădina Zoologică Târgoviște",
                   "text": "Der zoologische Garten von Târgoviște ist ein Zoo in der rumänischen Stadt Târgoviște.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.457043,
                         44.935695
@@ -8144,7 +8144,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Grădina Zoologică Târgoviște",
                   "text": "A Târgoviștei Állatkert egy állatkert Târgoviște városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.457043,
                         44.935695
@@ -8372,7 +8372,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Grădina Zoologică Târgoviște",
                   "text": "Grădina Zoologică din Târgoviște este un parc zoologic din orașul Târgoviște.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.457043,
                         44.935695
@@ -8600,7 +8600,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Targoviste Zoological Garden",
                   "text": "The Targoviste Zoological Garden is a zoo located in Târgoviște.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.457043,
                         44.935695
@@ -9245,7 +9245,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Cremma Sunny Beach",
                   "text": "Ein Wasserpark in Drobeta-Turnu Severin, der Freizeit- und Erholungsmöglichkeiten bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.648646,
                         44.636134
@@ -9426,7 +9426,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Cremma Sunny Beach",
                   "text": "Vízi vidámpark Drobeta-Turnu Severinben, amely szabadidős és kikapcsolódási lehetőségeket kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.648646,
                         44.636134
@@ -9607,7 +9607,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Cremma Sunny Beach",
                   "text": "Un parc acvatic în Drobeta-Turnu Severin care oferă facilități de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.648646,
                         44.636134
@@ -9788,7 +9788,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Cremma Sunny Beach",
                   "text": "A water park in Drobeta-Turnu Severin offering leisure and recreation facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         22.648646,
                         44.636134
@@ -19120,7 +19120,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Therme București",
                   "text": "Ein großer Wellness- und Wasserparkkomplex in der Nähe von Bukarest.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.085421,
                         44.605558
@@ -19168,7 +19168,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Therme București",
                   "text": "Hatalmas wellness- és élményfürdő Bukarest közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.085421,
                         44.605558
@@ -19216,7 +19216,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Therme București",
                   "text": "Un complex vast de wellness și parc acvatic situat lângă București.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.085421,
                         44.605558
@@ -19264,7 +19264,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Therme București",
                   "text": "A large wellness and water park complex located near Bucharest.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.085421,
                         44.605558
@@ -19503,7 +19503,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Grădina Zoologică Sibiu",
                   "text": "Der zoologische Garten in Sibiu beherbergt zahlreiche Tierarten in naturnaher Umgebung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.123293,
                         45.762374
@@ -19551,7 +19551,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Grădina Zoologică Sibiu",
                   "text": "A nagyszebeni állatkert számos állatfajnak ad otthont természetközeli környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.123293,
                         45.762374
@@ -19599,7 +19599,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Grădina Zoologică Sibiu",
                   "text": "Grădina zoologică din Sibiu găzduiește numeroase specii de animale într-un cadru natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.123293,
                         45.762374
@@ -19647,7 +19647,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Sibiu Zoological Garden",
                   "text": "The zoological garden in Sibiu hosts numerous animal species in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.123293,
                         45.762374
@@ -25316,7 +25316,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Ștrand apă sărată",
                   "text": "Ein Freibad mit Salzwasser in der Nähe des Salzbergwerks Cacica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.897004,
                         47.635266
@@ -25325,7 +25325,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Sunny Days - piscină cu apă sărată",
                   "text": "Ein moderner Freizeitkomplex mit Salzwasserpool in Cacica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.905796,
                         47.637783
@@ -25346,7 +25346,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Ștrand apă sărată",
                   "text": "Sós vizű szabadtéri strand a kacikai sóbánya közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.897004,
                         47.635266
@@ -25355,7 +25355,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Sunny Days - piscină cu apă sărată",
                   "text": "Modern szabadidős központ sós vizű medencével Kacikán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.905796,
                         47.637783
@@ -25376,7 +25376,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Ștrand apă sărată",
                   "text": "Un ștrand cu apă sărată situat în apropierea salinei Cacica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.897004,
                         47.635266
@@ -25385,7 +25385,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Sunny Days - piscină cu apă sărată",
                   "text": "Un complex modern de agrement cu piscină cu apă sărată în Cacica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.905796,
                         47.637783
@@ -25406,7 +25406,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Ștrand apă sărată",
                   "text": "An outdoor salt-water swimming pool located near the Cacica salt mine.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.897004,
                         47.635266
@@ -25415,7 +25415,7 @@ export const romaniaCities: POI[] = [
             {
                   "name": "Sunny Days - piscină cu apă sărată",
                   "text": "A modern leisure complex featuring a salt-water pool in Cacica.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.905796,
                         47.637783

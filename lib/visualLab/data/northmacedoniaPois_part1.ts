@@ -18,7 +18,7 @@ export const mkPoisPart1: POI[] = [
             {
                   "name": "Луна парк Струга",
                   "text": "Der Luna Park in Struga bietet Vergnügungsmöglichkeiten für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.680973,
                         41.173447
@@ -110,7 +110,7 @@ export const mkPoisPart1: POI[] = [
             {
                   "name": "Луна парк Струга",
                   "text": "A Strugai Luna Park szórakozási lehetőségeket kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.680973,
                         41.173447
@@ -202,7 +202,7 @@ export const mkPoisPart1: POI[] = [
             {
                   "name": "Луна парк Струга",
                   "text": "Luna Park Struga oferă facilități de distracție pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.680973,
                         41.173447
@@ -294,7 +294,7 @@ export const mkPoisPart1: POI[] = [
             {
                   "name": "Луна парк Струга",
                   "text": "Luna Park Struga is an amusement park offering entertainment for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.680973,
                         41.173447

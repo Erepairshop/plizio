@@ -782,7 +782,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Natürliches Schwimmbecken in Koumac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -847,7 +847,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Természetes úszómedence Koumacban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -912,7 +912,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Piscină naturală în Koumac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -977,7 +977,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine naturelle",
                   "text": "Natural swimming pool in Koumac.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         164.275747,
                         -20.573754
@@ -1808,7 +1808,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine intercommunale",
                   "text": "Öffentliches Schwimmbad in La Foa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         165.827758,
                         -21.704945
@@ -1828,7 +1828,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine intercommunale",
                   "text": "Nyilvános uszoda La Foában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         165.827758,
                         -21.704945
@@ -1848,7 +1848,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine intercommunale",
                   "text": "Piscină publică în La Foa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         165.827758,
                         -21.704945
@@ -1868,7 +1868,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Piscine intercommunale",
                   "text": "Public swimming pool in La Foa.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         165.827758,
                         -21.704945
@@ -4283,7 +4283,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Aquarium des Lagons",
                   "text": "Das Aquarium des Lagons ist ein beliebtes Aquarium in Baie des Citrons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.438142,
                         -22.302545
@@ -4328,7 +4328,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege ist ein Freizeitpark in Baie des Citrons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -4600,7 +4600,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Aquarium des Lagons",
                   "text": "Az Aquarium des Lagons egy népszerű akvárium Baie des Citrons területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.438142,
                         -22.302545
@@ -4645,7 +4645,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "A Manege egy vidámpark Baie des Citrons területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -4917,7 +4917,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Aquarium des Lagons",
                   "text": "Aquarium des Lagons este un acvariu popular situat în Baie des Citrons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.438142,
                         -22.302545
@@ -4962,7 +4962,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege este un parc de distracții în Baie des Citrons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -5234,7 +5234,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Aquarium des Lagons",
                   "text": "Aquarium des Lagons is a popular aquarium situated in Baie des Citrons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.438142,
                         -22.302545
@@ -5279,7 +5279,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege is a theme park in Baie des Citrons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -5642,7 +5642,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Ein bemerkenswerter Zoo- und Waldpark in Magenta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -5660,7 +5660,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Ein Natur- und Zoopark in Magenta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -5824,7 +5824,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Egy jelentős állat- és erdőpark Magenta városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -5842,7 +5842,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Egy természetvédelmi és állatkert Magenta városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6006,7 +6006,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Un parc zoologic și forestier notabil situat în Magenta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6024,7 +6024,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Un parc natural și zoologic aflat în Magenta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6188,7 +6188,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "A notable zoological and forest park situated in Magenta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6206,7 +6206,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "A nature and zoological park found in Magenta.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6416,7 +6416,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Zoo und Wildpark Michel Corbasson in Rivière-Salée.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6425,7 +6425,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Wild- und Tierpark in Rivière-Salée.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6508,7 +6508,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Michel Corbasson Állatkert és Vadaspark Rivière-Salée-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6517,7 +6517,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Vadaspark és állatkert Rivière-Salée-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6600,7 +6600,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Grădina zoologică și parcul forestier Michel Corbasson din Rivière-Salée.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6609,7 +6609,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc forestier și grădină zoologică în Rivière-Salée.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6692,7 +6692,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Michel Corbasson Zoo and Forest Park in Rivière-Salée.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6701,7 +6701,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Forest park and zoo in Rivière-Salée.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6830,7 +6830,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson ist ein Zoo in Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -6866,7 +6866,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc Forestier et Zooligique ist ein Zoo in Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -6884,7 +6884,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege ist ein Freizeitpark in Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -7147,7 +7147,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "A Parc Zoologique et Forestier Michel Corbasson egy állatkert Vallée des Colons területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -7183,7 +7183,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "A Parc Forestier et Zooligique egy állatkert Vallée des Colons területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -7201,7 +7201,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "A Manege egy vidámpark Vallée des Colons területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -7464,7 +7464,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson este o grădină zoologică în Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -7500,7 +7500,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc Forestier et Zooligique este o grădină zoologică în Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -7518,7 +7518,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege este un parc de distracții în Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -7781,7 +7781,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson is a zoo in Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -7817,7 +7817,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc Forestier et Zooligique is a zoo in Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -7835,7 +7835,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege is a theme park in Vallée des Colons.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -9890,7 +9890,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Der Parc Zoologique et Forestier Michel Corbasson ist ein zoologischer Park in Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -9926,7 +9926,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Der Parc Forestier et Zooligique ist ein zoologischer Garten in Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -9944,7 +9944,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege ist ein Freizeitpark in Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -10126,7 +10126,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "A Parc Zoologique et Forestier Michel Corbasson egy állatkert Vallée du Tir városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -10162,7 +10162,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "A Parc Forestier et Zooligique egy állatkert Vallée du Tir városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -10180,7 +10180,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "A Manege egy vidámpark Vallée du Tir városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -10362,7 +10362,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson este un parc zoologic în Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -10398,7 +10398,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc Forestier et Zooligique este un parc zoologic în Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -10416,7 +10416,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege este un parc tematic în Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -10598,7 +10598,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson is a zoological park located in Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -10634,7 +10634,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc Forestier et Zooligique is a zoological park located in Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -10652,7 +10652,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege is a theme park located in Vallée du Tir.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -11546,7 +11546,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Der Parc Zoologique et Forestier Michel Corbasson ist ein Zoo in Sainte-Marie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -11692,7 +11692,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "A Parc Zoologique et Forestier Michel Corbasson egy állatkert Sainte-Marie városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -11838,7 +11838,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson este o grădină zoologică în Sainte-Marie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -11984,7 +11984,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Parc Zoologique et Forestier Michel Corbasson is a zoo located in Sainte-Marie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -12590,7 +12590,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Zoo und Wildpark Michel Corbasson bei Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -12626,7 +12626,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Wild- und Tierpark in Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -12644,7 +12644,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege Freizeitpark in Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -12880,7 +12880,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Michel Corbasson Állatkert és Vadaspark Vallée des Colons Est közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -12916,7 +12916,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Vadaspark és állatkert Vallée des Colons Est-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -12934,7 +12934,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege vidámpark Vallée des Colons Est-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -13170,7 +13170,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Grădina zoologică și parcul forestier Michel Corbasson lângă Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -13206,7 +13206,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Parc forestier și grădină zoologică în Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -13224,7 +13224,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Parc de distracții Manege în Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051
@@ -13460,7 +13460,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Zoologique et Forestier Michel Corbasson",
                   "text": "Michel Corbasson Zoo and Forest Park near Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.45697,
                         -22.258123
@@ -13496,7 +13496,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Parc Forestier et Zooligique",
                   "text": "Forest park and zoo in Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.457819,
                         -22.256315
@@ -13514,7 +13514,7 @@ export const newcaledoniaCitiesV2: POI[] = [
             {
                   "name": "Manege",
                   "text": "Manege theme park in Vallée des Colons Est.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         166.442016,
                         -22.277051

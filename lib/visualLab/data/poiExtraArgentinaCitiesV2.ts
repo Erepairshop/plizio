@@ -2572,7 +2572,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico",
                   "text": "Der Parque Tematico ist ein Themenpark in Tandil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.137141,
                         -37.335377
@@ -2853,7 +2853,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico",
                   "text": "A Parque Tematico egy vidámpark Tandilban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.137141,
                         -37.335377
@@ -3134,7 +3134,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico",
                   "text": "Parque Tematico este un parc tematic din Tandil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.137141,
                         -37.335377
@@ -3415,7 +3415,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico",
                   "text": "Parque Tematico is an engaging theme park offering amusement in Tandil.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.137141,
                         -37.335377
@@ -7679,7 +7679,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Serpentario",
                   "text": "Das Serpentario ist eine zoologische Einrichtung für Schlangen in Goya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.263602,
                         -29.156616
@@ -7726,7 +7726,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Serpentario",
                   "text": "A Serpentario egy kígyókra specializálódott állatkerti létesítmény Goya városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.263602,
                         -29.156616
@@ -7773,7 +7773,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Serpentario",
                   "text": "Serpentario este o grădină zoologică specializată situată în Goya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.263602,
                         -29.156616
@@ -7820,7 +7820,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Serpentario",
                   "text": "The Serpentario is a specialized zoological facility located in Goya.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.263602,
                         -29.156616
@@ -9066,7 +9066,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de los Duendes",
                   "text": "Ein Themenpark in Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210312,
                         -24.262042
@@ -9075,7 +9075,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de las Flores",
                   "text": "Ein Themenpark in Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210105,
                         -24.249907
@@ -9093,7 +9093,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Balneario Municipal",
                   "text": "Ein Wasserpark in Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.197296,
                         -24.25991
@@ -9149,7 +9149,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de los Duendes",
                   "text": "Vidámpark Palpalá-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210312,
                         -24.262042
@@ -9158,7 +9158,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de las Flores",
                   "text": "Vidámpark Palpalá-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210105,
                         -24.249907
@@ -9176,7 +9176,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Balneario Municipal",
                   "text": "Vízi park Palpalá-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.197296,
                         -24.25991
@@ -9232,7 +9232,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de los Duendes",
                   "text": "Un parc tematic în Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210312,
                         -24.262042
@@ -9241,7 +9241,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de las Flores",
                   "text": "Un parc tematic în Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210105,
                         -24.249907
@@ -9259,7 +9259,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Balneario Municipal",
                   "text": "Un parc acvatic în Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.197296,
                         -24.25991
@@ -9315,7 +9315,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de los Duendes",
                   "text": "A theme park in Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210312,
                         -24.262042
@@ -9324,7 +9324,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Paseo de las Flores",
                   "text": "A theme park in Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.210105,
                         -24.249907
@@ -9342,7 +9342,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Balneario Municipal",
                   "text": "A water park in Palpalá.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -65.197296,
                         -24.25991
@@ -10424,7 +10424,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico Vial",
                   "text": "Der Parque Tematico Vial ist ein Themenpark in Godoy Cruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.856558,
                         -32.92793
@@ -10543,7 +10543,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico Vial",
                   "text": "A Parque Tematico Vial egy vidámpark Godoy Cruzban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.856558,
                         -32.92793
@@ -10662,7 +10662,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico Vial",
                   "text": "Parque Tematico Vial este un parc tematic situat în Godoy Cruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.856558,
                         -32.92793
@@ -10781,7 +10781,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             {
                   "name": "Parque Tematico Vial",
                   "text": "Parque Tematico Vial is a theme park located in Godoy Cruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -68.856558,
                         -32.92793

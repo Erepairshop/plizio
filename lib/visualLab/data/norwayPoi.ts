@@ -8381,7 +8381,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Polaria",
                   "text": "Polaria ist ein Aquarium in Tromsø.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -8608,7 +8608,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Polaria",
                   "text": "A Polaria egy akvárium Tromsøben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -8835,7 +8835,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Polaria",
                   "text": "Polaria este un acvariu în Tromsø.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -9062,7 +9062,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Polaria",
                   "text": "Polaria is an aquarium situated in Tromsø.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.949872,
                         69.643665
@@ -10628,7 +10628,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Gamlebyen modelljernbanesenter",
                   "text": "Gamlebyen modelljernbanesenter ist ein Freizeitpark in der Stadt Fredrikstad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.955577,
                         59.202975
@@ -10909,7 +10909,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Gamlebyen modelljernbanesenter",
                   "text": "A Gamlebyen modelljernbanesenter egy vidámpark Fredrikstad városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.955577,
                         59.202975
@@ -11190,7 +11190,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Gamlebyen modelljernbanesenter",
                   "text": "Gamlebyen modelljernbanesenter este un parc tematic din orașul Fredrikstad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.955577,
                         59.202975
@@ -11471,7 +11471,7 @@ export const norwayCities: POI[] = [
             {
                   "name": "Gamlebyen modelljernbanesenter",
                   "text": "Gamlebyen modelljernbanesenter is a theme park in the city of Fredrikstad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         10.955577,
                         59.202975

@@ -1494,7 +1494,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Iguanario",
                   "text": "Ein Iguanen-Schutzgebiet in Manzanillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -104.318337,
                         19.04696
@@ -1676,7 +1676,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Iguanario",
                   "text": "Leguánrezervátum Manzanillóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -104.318337,
                         19.04696
@@ -1858,7 +1858,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Iguanario",
                   "text": "O rezervație de iguane în Manzanillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -104.318337,
                         19.04696
@@ -2040,7 +2040,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Iguanario",
                   "text": "An iguana sanctuary in Manzanillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -104.318337,
                         19.04696
@@ -3039,7 +3039,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Tio Loco",
                   "text": "Ein Freizeitpark für Familien und Kinder in Cárdenas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.212939,
                         23.029019
@@ -3131,7 +3131,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Tio Loco",
                   "text": "Családok és gyermekek számára kialakított szabadidőpark Cárdenasban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.212939,
                         23.029019
@@ -3223,7 +3223,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Tio Loco",
                   "text": "Un parc de distracții pentru familii și copii în Cárdenas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.212939,
                         23.029019
@@ -3315,7 +3315,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
             {
                   "name": "Tio Loco",
                   "text": "A recreational park designed for families and children in Cárdenas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -81.212939,
                         23.029019

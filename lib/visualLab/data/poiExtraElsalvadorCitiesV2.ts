@@ -8,7 +8,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico Texincal",
                   "text": "Der Parque Acuatico Texincal ist ein beliebtes Ausflugsziel für Wasserspaß in Soyapango.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.167337,
                         13.719047
@@ -37,7 +37,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico Texincal",
                   "text": "A Parque Acuatico Texincal népszerű vízi élménypark Soyapango városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.167337,
                         13.719047
@@ -66,7 +66,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico Texincal",
                   "text": "Parque Acuatico Texincal este o destinație populară pentru distracție acvatică în Soyapango.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.167337,
                         13.719047
@@ -95,7 +95,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico Texincal",
                   "text": "Parque Acuatico Texincal is a popular destination for water fun in Soyapango.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.167337,
                         13.719047
@@ -740,7 +740,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Balneario El Trapiche",
                   "text": "Ein beliebtes Ausflugsziel in Chalchuapa mit Schwimmbecken und Freizeitanlagen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.671684,
                         13.996251
@@ -796,7 +796,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Balneario El Trapiche",
                   "text": "Népszerű chalchuapai pihenőhely úszómedencékkel és szabadidős létesítményekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.671684,
                         13.996251
@@ -852,7 +852,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Balneario El Trapiche",
                   "text": "O destinație de agrement populară în Chalchuapa, cu piscine și facilități recreative.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.671684,
                         13.996251
@@ -908,7 +908,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Balneario El Trapiche",
                   "text": "A popular recreational destination in Chalchuapa with swimming pools and leisure facilities.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.671684,
                         13.996251
@@ -3991,7 +3991,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Las Margaritas",
                   "text": "Ein lokaler Wasserpark in Perquín mit Erfrischungsmöglichkeiten für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.144197,
                         13.949721
@@ -4000,7 +4000,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "LLANO MUERTO",
                   "text": "Ein Freizeitbad in Perquín, das für Entspannung und Wasserspaß bekannt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.129617,
                         13.975409
@@ -4009,7 +4009,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "POZA EL PEROL",
                   "text": "Ein natürliches Schwimmbecken in Perquín, ideal für ein Bad im Freien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.128426,
                         13.975585
@@ -4018,7 +4018,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Cueva El Ratón",
                   "text": "Ein Ausflugsziel in Perquín, das Wasseraktivitäten in einer natürlichen Umgebung bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.14159,
                         13.953334
@@ -4047,7 +4047,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Las Margaritas",
                   "text": "Helyi vízipark Perquínben, amely felfrissülést kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.144197,
                         13.949721
@@ -4056,7 +4056,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "LLANO MUERTO",
                   "text": "Szabadidős fürdőhely Perquínben, amely kikapcsolódást és vízi szórakozást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.129617,
                         13.975409
@@ -4065,7 +4065,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "POZA EL PEROL",
                   "text": "Természetes fürdőhely Perquínben, amely ideális a szabadtéri mártózáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.128426,
                         13.975585
@@ -4074,7 +4074,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Cueva El Ratón",
                   "text": "Kirándulóhely Perquínben, amely vízi tevékenységeket kínál természetes környezetben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.14159,
                         13.953334
@@ -4103,7 +4103,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Las Margaritas",
                   "text": "Un parc acvatic local în Perquín care oferă posibilități de răcorire pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.144197,
                         13.949721
@@ -4112,7 +4112,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "LLANO MUERTO",
                   "text": "Un ștrand recreativ în Perquín, cunoscut pentru relaxare și distracție acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.129617,
                         13.975409
@@ -4121,7 +4121,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "POZA EL PEROL",
                   "text": "O piscină naturală în Perquín, ideală pentru o baie în aer liber.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.128426,
                         13.975585
@@ -4130,7 +4130,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Cueva El Ratón",
                   "text": "O destinație în Perquín care oferă activități acvatice într-un cadru natural.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.14159,
                         13.953334
@@ -4159,7 +4159,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Las Margaritas",
                   "text": "A local water park in Perquín offering refreshment for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.144197,
                         13.949721
@@ -4168,7 +4168,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "LLANO MUERTO",
                   "text": "A recreational water park in Perquín known for relaxation and water fun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.129617,
                         13.975409
@@ -4177,7 +4177,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "POZA EL PEROL",
                   "text": "A natural swimming spot in Perquín, ideal for an outdoor dip.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.128426,
                         13.975585
@@ -4186,7 +4186,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Cueva El Ratón",
                   "text": "A destination in Perquín offering water activities in a natural setting.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.14159,
                         13.953334
@@ -5213,7 +5213,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico",
                   "text": "Ein Freizeitpark in Panchimalco mit Wasserbecken für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.181873,
                         13.608824
@@ -5222,7 +5222,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "La Granjita Educativa",
                   "text": "Ein kleiner pädagogischer Zoo in Panchimalco, der besonders für Kinder geeignet ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.194899,
                         13.642534
@@ -5368,7 +5368,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico",
                   "text": "Szabadidőpark Panchimalcóban vizes medencékkel az egész család számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.181873,
                         13.608824
@@ -5377,7 +5377,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "La Granjita Educativa",
                   "text": "Kisméretű oktató állatkert Panchimalcóban, amely kifejezetten gyermekeknek ajánlott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.194899,
                         13.642534
@@ -5523,7 +5523,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico",
                   "text": "Un parc recreativ în Panchimalco cu bazine pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.181873,
                         13.608824
@@ -5532,7 +5532,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "La Granjita Educativa",
                   "text": "O mică grădină zoologică educațională în Panchimalco, potrivită în special pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.194899,
                         13.642534
@@ -5678,7 +5678,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuatico",
                   "text": "A recreational park in Panchimalco with swimming pools for the family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.181873,
                         13.608824
@@ -5687,7 +5687,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "La Granjita Educativa",
                   "text": "A small educational zoo in Panchimalco, particularly suitable for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.194899,
                         13.642534
@@ -6470,7 +6470,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "MUNDO ACUATICO",
                   "text": "Ein lokaler Wasserpark in Osicala für Freizeitaktivitäten und Familienspaß.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.162816,
                         13.80846
@@ -6481,7 +6481,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "MUNDO ACUATICO",
                   "text": "Helyi vízipark Osicalában szabadidős tevékenységekhez és családi szórakozáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.162816,
                         13.80846
@@ -6492,7 +6492,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "MUNDO ACUATICO",
                   "text": "Un parc acvatic local în Osicala pentru activități de agrement și distracție în familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.162816,
                         13.80846
@@ -6503,7 +6503,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "MUNDO ACUATICO",
                   "text": "A local water park in Osicala for leisure activities and family fun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -88.162816,
                         13.80846
@@ -7497,7 +7497,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Casa Blanca",
                   "text": "Ein Wasserpark mit verschiedenen Pools und Rutschen für Familienfreizeit.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.445362,
                         13.744554
@@ -7517,7 +7517,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Casa Blanca",
                   "text": "Vízi park különböző medencékkel és csúszdákkal a családi kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.445362,
                         13.744554
@@ -7537,7 +7537,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Casa Blanca",
                   "text": "Un parc acvatic cu diverse piscine și tobogane pentru recreerea familiei.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.445362,
                         13.744554
@@ -7557,7 +7557,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Casa Blanca",
                   "text": "A water park featuring various pools and slides for family recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -89.445362,
                         13.744554
@@ -7880,7 +7880,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Queiquín",
                   "text": "Ein Freizeitzentrum mit Schwimmbecken und Attraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.963348,
                         13.435348
@@ -7889,7 +7889,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Simbra",
                   "text": "Ein touristisches Zentrum mit Wasserbecken zur Erfrischung im warmen Klima.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.96677,
                         13.433845
@@ -7900,7 +7900,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Queiquín",
                   "text": "Szabadidőközpont úszómedencékkel és gyermekeknek szóló attrakciókkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.963348,
                         13.435348
@@ -7909,7 +7909,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Simbra",
                   "text": "Turisztikai központ vizes medencékkel a meleg éghajlaton való felfrissüléshez.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.96677,
                         13.433845
@@ -7920,7 +7920,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Queiquín",
                   "text": "Un centru de recreere cu piscine și atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.963348,
                         13.435348
@@ -7929,7 +7929,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Simbra",
                   "text": "Un centru turistic cu bazine cu apă pentru răcorire în climatul cald.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.96677,
                         13.433845
@@ -7940,7 +7940,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Parque Acuático Queiquín",
                   "text": "A recreational center with swimming pools and attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.963348,
                         13.435348
@@ -7949,7 +7949,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             {
                   "name": "Turicentro La Simbra",
                   "text": "A tourist center with water pools for refreshment in the warm climate.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.96677,
                         13.433845

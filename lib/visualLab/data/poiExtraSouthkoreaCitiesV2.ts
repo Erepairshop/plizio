@@ -350,7 +350,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "광명안양천 어린이물놀이장",
                   "text": "Der Gwangmyeong Anyangcheon Children's Water Park ist ein Wasserpark in Gwangmyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.869649,
                         37.493317
@@ -514,7 +514,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "광명안양천 어린이물놀이장",
                   "text": "A Gwangmyeong Anyangcheon Children's Water Park egy vízi park Gwangmyeong városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.869649,
                         37.493317
@@ -678,7 +678,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "광명안양천 어린이물놀이장",
                   "text": "Gwangmyeong Anyangcheon Children's Water Park este un parc acvatic în Gwangmyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.869649,
                         37.493317
@@ -842,7 +842,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "광명안양천 어린이물놀이장",
                   "text": "Gwangmyeong Anyangcheon Children's Water Park is a water park in Gwangmyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.869649,
                         37.493317
@@ -1283,7 +1283,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "버니아쿠아",
                   "text": "버니아쿠아 ist ein Aquarium in Yeosu, das Meereslebewesen zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.646117,
                         34.760689
@@ -1301,7 +1301,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "다이노밸리",
                   "text": "다이노밸리 ist ein Themenpark in Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.640183,
                         34.748808
@@ -1319,7 +1319,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유월드루지테마파크",
                   "text": "유월드루지테마파크 ist ein lokaler Themenpark in Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.64133,
                         34.747888
@@ -1456,7 +1456,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "버니아쿠아",
                   "text": "A 버니아쿠아 egy akvárium, amely vízi élővilágot mutat be Yeosu városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.646117,
                         34.760689
@@ -1474,7 +1474,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "다이노밸리",
                   "text": "A 다이노밸리 egy vidámpark Yeosu városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.640183,
                         34.748808
@@ -1492,7 +1492,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유월드루지테마파크",
                   "text": "A 유월드루지테마파크 egy helyi vidámpark Yeosu városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.64133,
                         34.747888
@@ -1629,7 +1629,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "버니아쿠아",
                   "text": "버니아쿠아 este un acvariu care prezintă viața acvatică în Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.646117,
                         34.760689
@@ -1647,7 +1647,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "다이노밸리",
                   "text": "다이노밸리 este un parc tematic situat în Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.640183,
                         34.748808
@@ -1665,7 +1665,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유월드루지테마파크",
                   "text": "유월드루지테마파크 este un parc tematic local situat în Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.64133,
                         34.747888
@@ -1802,7 +1802,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "버니아쿠아",
                   "text": "버니아쿠아 is an aquarium showcasing aquatic life in Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.646117,
                         34.760689
@@ -1820,7 +1820,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "다이노밸리",
                   "text": "다이노밸리 is a theme park attraction located in Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.640183,
                         34.748808
@@ -1838,7 +1838,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유월드루지테마파크",
                   "text": "유월드루지테마파크 is a local theme park situated in Yeosu.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.64133,
                         34.747888
@@ -2051,7 +2051,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "더코이",
                   "text": "The Koi ist ein Zoo in Suncheon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.482834,
                         34.976641
@@ -2197,7 +2197,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "더코이",
                   "text": "A The Koi egy állatkert Suncheon városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.482834,
                         34.976641
@@ -2343,7 +2343,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "더코이",
                   "text": "The Koi este o grădină zoologică în Suncheon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.482834,
                         34.976641
@@ -2489,7 +2489,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "더코이",
                   "text": "The Koi is a zoo in Suncheon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.482834,
                         34.976641
@@ -2678,7 +2678,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "거제랜드",
                   "text": "거제랜드 ist ein Vergnügungs- und Themenpark in Geoje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.624018,
                         34.876123
@@ -2687,7 +2687,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "리프페럿",
                   "text": "리프페럿 ist ein Zoo in der Stadt Geoje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.609479,
                         34.890668
@@ -2734,7 +2734,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "거제랜드",
                   "text": "A 거제랜드 egy szórakoztató és vidámpark Geoje városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.624018,
                         34.876123
@@ -2743,7 +2743,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "리프페럿",
                   "text": "A 리프페럿 egy állatkert Geoje városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.609479,
                         34.890668
@@ -2790,7 +2790,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "거제랜드",
                   "text": "거제랜드 este un parc tematic și de distracții situat în Geoje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.624018,
                         34.876123
@@ -2799,7 +2799,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "리프페럿",
                   "text": "리프페럿 este o grădină zoologică situată în orașul Geoje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.609479,
                         34.890668
@@ -2846,7 +2846,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "거제랜드",
                   "text": "거제랜드 is an amusement and theme park located in Geoje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.624018,
                         34.876123
@@ -2855,7 +2855,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "리프페럿",
                   "text": "리프페럿 is a zoo located in the city of Geoje.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.609479,
                         34.890668
@@ -3233,7 +3233,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "마부민속촌",
                   "text": "Mabu Folk Village ist ein Themenpark in Andong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.718059,
                         36.5761
@@ -3370,7 +3370,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "마부민속촌",
                   "text": "A Mabu Folk Village egy vidámpark Andong városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.718059,
                         36.5761
@@ -3507,7 +3507,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "마부민속촌",
                   "text": "Mabu Folk Village este un parc tematic situat în Andong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.718059,
                         36.5761
@@ -3644,7 +3644,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "Mabu Folk Village",
                   "text": "Mabu Folk Village is a theme park located in Andong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.718059,
                         36.5761
@@ -3905,7 +3905,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "미란다 스파 플러스",
                   "text": "Ein Wasserpark und Wellnessbereich in Icheon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.451148,
                         37.276215
@@ -4006,7 +4006,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "미란다 스파 플러스",
                   "text": "Vízipark és wellness központ Icshonban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.451148,
                         37.276215
@@ -4107,7 +4107,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "미란다 스파 플러스",
                   "text": "Un parc acvatic și zonă de wellness în Icheon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.451148,
                         37.276215
@@ -4208,7 +4208,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "Miranda Spa Plus",
                   "text": "A water park and spa area in Icheon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.451148,
                         37.276215
@@ -4349,7 +4349,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "프리미어 뽀로로테마파크 다산",
                   "text": "Der Pororo Premier Theme Park Dasan ist ein Themenpark in Guri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.171771,
                         37.595141
@@ -4450,7 +4450,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "프리미어 뽀로로테마파크 다산",
                   "text": "A Pororo Premier Theme Park Dasan egy vidámpark Guri városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.171771,
                         37.595141
@@ -4551,7 +4551,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "프리미어 뽀로로테마파크 다산",
                   "text": "Pororo Premier Theme Park Dasan este un parc tematic în Guri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.171771,
                         37.595141
@@ -4652,7 +4652,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "Pororo Premier Theme Park Dasan",
                   "text": "Pororo Premier Theme Park Dasan is a theme park in Guri.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.171771,
                         37.595141
@@ -5681,7 +5681,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "충주라바랜드",
                   "text": "충주라바랜드 ist ein Themenpark in Chungju.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.907778,
                         36.989679
@@ -5755,7 +5755,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "충주라바랜드",
                   "text": "A 충주라바랜드 egy vidámpark Cshungdzsu városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.907778,
                         36.989679
@@ -5829,7 +5829,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "충주라바랜드",
                   "text": "충주라바랜드 este un parc tematic în Chungju.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.907778,
                         36.989679
@@ -5903,7 +5903,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "충주라바랜드",
                   "text": "충주라바랜드 is a theme park in Chungju.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.907778,
                         36.989679
@@ -6335,7 +6335,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "민속촌",
                   "text": "Ein Themenpark in Naju, der ein traditionelles koreanisches Dorf zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.715271,
                         35.029008
@@ -6445,7 +6445,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "민속촌",
                   "text": "Naju-i vidámpark, amely egy hagyományos koreai falut mutat be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.715271,
                         35.029008
@@ -6555,7 +6555,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "민속촌",
                   "text": "Un parc tematic din Naju care prezintă un sat tradițional coreean.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.715271,
                         35.029008
@@ -6665,7 +6665,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "Folk Village",
                   "text": "A theme park in Naju showcasing a traditional Korean folk village.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         126.715271,
                         35.029008
@@ -7034,7 +7034,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "테마파크",
                   "text": "Dieser Ort ist ein lokaler Freizeitpark in Mungyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.201969,
                         36.599478
@@ -7063,7 +7063,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "테마파크",
                   "text": "Ez a helyszín egy helyi vidámpark Mungyeong városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.201969,
                         36.599478
@@ -7092,7 +7092,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "테마파크",
                   "text": "Acest loc este un parc de distracții local situat în Mungyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.201969,
                         36.599478
@@ -7121,7 +7121,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "테마파크",
                   "text": "This site is a local theme park situated in Mungyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.201969,
                         36.599478
@@ -7208,7 +7208,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "아쿠아필드",
                   "text": "Ein moderner Wasserpark und Wellnesskomplex in Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.224243,
                         37.54589
@@ -7217,7 +7217,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유니온파크 물놀이터",
                   "text": "Ein Wasserpark im Union Park in Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.219207,
                         37.546486
@@ -7226,7 +7226,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "주렁주렁 하남점",
                   "text": "Ein Indoor-Streichelzoo und Tierpark in Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.223567,
                         37.543578
@@ -7318,7 +7318,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "아쿠아필드",
                   "text": "Modern vízipark és wellness komplexum Hanamban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.224243,
                         37.54589
@@ -7327,7 +7327,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유니온파크 물놀이터",
                   "text": "Vízipark az Union Park területén Hanamban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.219207,
                         37.546486
@@ -7336,7 +7336,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "주렁주렁 하남점",
                   "text": "Fedett állatsimogató és állatpark Hanamban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.223567,
                         37.543578
@@ -7428,7 +7428,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "아쿠아필드",
                   "text": "Un parc acvatic modern și complex de wellness în Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.224243,
                         37.54589
@@ -7437,7 +7437,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "유니온파크 물놀이터",
                   "text": "Un parc acvatic situat în Union Park din Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.219207,
                         37.546486
@@ -7446,7 +7446,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "주렁주렁 하남점",
                   "text": "O grădină zoologică interioară și parc cu animale în Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.223567,
                         37.543578
@@ -7538,7 +7538,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "아쿠아필드",
                   "text": "A modern water park and spa complex in Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.224243,
                         37.54589
@@ -7547,7 +7547,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "Union Park Water Park",
                   "text": "A water park located within Union Park in Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.219207,
                         37.546486
@@ -7556,7 +7556,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "주렁주렁 하남점",
                   "text": "An indoor petting zoo and animal park in Hanam.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         127.223567,
                         37.543578
@@ -7754,7 +7754,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "스카이라인루지 통영",
                   "text": "Dieser Ort ist ein Outdoor-Freizeitpark und Freizeitziel in Tongyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.424808,
                         34.82352
@@ -7763,7 +7763,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "디피랑",
                   "text": "Dies ist ein moderner Freizeitpark in der Stadt Tongyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.428753,
                         34.841228
@@ -7900,7 +7900,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "스카이라인루지 통영",
                   "text": "Ez a hely egy szabadtéri vidámpark és szabadidős úti cél Tongyeongban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.424808,
                         34.82352
@@ -7909,7 +7909,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "디피랑",
                   "text": "Ez egy modern vidámpark Tongyeong városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.428753,
                         34.841228
@@ -8046,7 +8046,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "스카이라인루지 통영",
                   "text": "Acest loc este un parc tematic în aer liber și o destinație de agrement din Tongyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.424808,
                         34.82352
@@ -8055,7 +8055,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "디피랑",
                   "text": "Acesta este un parc de distracții modern situat în orașul Tongyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.428753,
                         34.841228
@@ -8192,7 +8192,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "스카이라인루지 통영",
                   "text": "This site is an outdoor theme park and leisure destination in Tongyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.424808,
                         34.82352
@@ -8201,7 +8201,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             {
                   "name": "디피랑",
                   "text": "This is a modern theme park located in the city of Tongyeong.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         128.428753,
                         34.841228

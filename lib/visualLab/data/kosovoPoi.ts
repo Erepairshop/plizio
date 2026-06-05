@@ -215,7 +215,7 @@ export const kosovoPois: POI[] = [
             {
                   "name": "Delfini",
                   "text": "Delfini ist ein unterhaltsamer Wasserpark, der Freizeitschwimmen und Wasseraktivitäten in Gjakova bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.437042,
                         42.360419
@@ -361,7 +361,7 @@ export const kosovoPois: POI[] = [
             {
                   "name": "Delfini",
                   "text": "A Delfini egy szórakoztató vízi park, amely rekreációs úszást és vízi tevékenységeket kínál Gjakovában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.437042,
                         42.360419
@@ -507,7 +507,7 @@ export const kosovoPois: POI[] = [
             {
                   "name": "Delfini",
                   "text": "Delfini este un parc acvatic plin de distracție, care oferă înot de agrement și activități acvatice în Gjakova.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.437042,
                         42.360419
@@ -653,7 +653,7 @@ export const kosovoPois: POI[] = [
             {
                   "name": "Delfini",
                   "text": "Delfini is a fun-filled water park providing recreational swimming and water activities in Gjakova.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         20.437042,
                         42.360419

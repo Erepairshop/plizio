@@ -147,7 +147,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Magic Piscina",
                   "text": "Magic Piscina ist ein Wasserpark in der Stadt Trujillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.005489,
                         -8.121277
@@ -192,7 +192,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Campo Ferial",
                   "text": "Campo Ferial ist ein Freizeitpark in Trujillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.033771,
                         -8.132934
@@ -329,7 +329,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Magic Piscina",
                   "text": "A Magic Piscina egy vízi park Trujillo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.005489,
                         -8.121277
@@ -374,7 +374,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Campo Ferial",
                   "text": "A Campo Ferial egy vidámpark Trujillo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.033771,
                         -8.132934
@@ -511,7 +511,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Magic Piscina",
                   "text": "Magic Piscina este un parc acvatic situat în orașul Trujillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.005489,
                         -8.121277
@@ -556,7 +556,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Campo Ferial",
                   "text": "Campo Ferial este un parc tematic situat în Trujillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.033771,
                         -8.132934
@@ -693,7 +693,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Magic Piscina",
                   "text": "Magic Piscina is a water park located in the city of Trujillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.005489,
                         -8.121277
@@ -738,7 +738,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Campo Ferial",
                   "text": "Campo Ferial is a theme park situated in Trujillo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -79.033771,
                         -8.132934
@@ -1654,7 +1654,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Vivero Forestal",
                   "text": "Themenpark in Chimbote.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.592394,
                         -9.057662
@@ -1746,7 +1746,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Vivero Forestal",
                   "text": "Vidámpark Chimbotéban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.592394,
                         -9.057662
@@ -1838,7 +1838,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Vivero Forestal",
                   "text": "Parc tematic în Chimbote.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.592394,
                         -9.057662
@@ -1930,7 +1930,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
             {
                   "name": "Vivero Forestal",
                   "text": "Theme park in Chimbote.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -78.592394,
                         -9.057662

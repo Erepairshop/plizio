@@ -3156,7 +3156,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Park Lojrash",
                   "text": "Park Lojrash ist ein Freizeit-Themenpark in Fushë-Krujë.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.724194,
                         41.48352
@@ -3176,7 +3176,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Park Lojrash",
                   "text": "A Park Lojrash egy vidámpark Fushë-Krujë városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.724194,
                         41.48352
@@ -3196,7 +3196,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Park Lojrash",
                   "text": "Park Lojrash este un parc tematic de distracții situat în Fushë-Krujë.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.724194,
                         41.48352
@@ -3216,7 +3216,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Park Lojrash",
                   "text": "Park Lojrash is an amusement theme park located in Fushë-Krujë.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.724194,
                         41.48352
@@ -7173,7 +7173,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Pishina",
                   "text": "Ein Wasserpark für Freizeit und Erholung in Paskuqan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.831532,
                         41.351063
@@ -7238,7 +7238,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Pishina",
                   "text": "Egy vízi park kikapcsolódásra és pihenésre Paskuqanban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.831532,
                         41.351063
@@ -7303,7 +7303,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Pishina",
                   "text": "Un parc acvatic pentru agrement și relaxare în Paskuqan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.831532,
                         41.351063
@@ -7368,7 +7368,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "Pishina",
                   "text": "A water park for leisure and relaxation in Paskuqan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.831532,
                         41.351063
@@ -7560,7 +7560,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "AQUAPARK",
                   "text": "AQUAPARK ist ein Wasserpark in der Stadt Golem, der Unterhaltung im Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.517739,
                         41.231887
@@ -7670,7 +7670,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "AQUAPARK",
                   "text": "Az AQUAPARK egy vízi vidámpark, amely szórakozási lehetőségeket kínál Golem városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.517739,
                         41.231887
@@ -7780,7 +7780,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "AQUAPARK",
                   "text": "AQUAPARK este un parc acvatic care oferă divertisment în orașul Golem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.517739,
                         41.231887
@@ -7890,7 +7890,7 @@ imageHint: "Krujë Castle and old bazaar street",
             {
                   "name": "AQUAPARK",
                   "text": "AQUAPARK is a water park offering aquatic entertainment in the city of Golem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         19.517739,
                         41.231887

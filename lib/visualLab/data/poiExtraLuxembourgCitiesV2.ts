@@ -136,7 +136,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             {
                   "name": "Piscine Plein-Air Dudelange",
                   "text": "Ein beliebtes Freibad in Düdelingen für sommerliche Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.089819,
                         49.485236
@@ -282,7 +282,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             {
                   "name": "Piscine Plein-Air Dudelange",
                   "text": "Népszerű szabadtéri strand Düdelingenben a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.089819,
                         49.485236
@@ -428,7 +428,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             {
                   "name": "Piscine Plein-Air Dudelange",
                   "text": "O piscină în aer liber populară în Düdelingen pentru recreere pe timp de vară.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.089819,
                         49.485236
@@ -574,7 +574,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             {
                   "name": "Piscine Plein-Air Dudelange",
                   "text": "A popular outdoor swimming pool in Düdelingen for summer recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.089819,
                         49.485236
@@ -887,7 +887,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Parc Merveilleux",
                   "text": "Ein beliebter Freizeitpark und Zoo in Bettemburg mit Attraktionen für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.119976,
                         49.510703
@@ -941,7 +941,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Minizoo Streichelzoo",
                   "text": "Ein kleiner Streichelzoo in Bettemburg, ideal für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.118495,
                         49.5133
@@ -1033,7 +1033,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Parc Merveilleux",
                   "text": "Népszerű szabadidőpark és állatkert Bettemburgban, családi látványosságokkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.119976,
                         49.510703
@@ -1087,7 +1087,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Minizoo Streichelzoo",
                   "text": "Kis állatsimogató Bettemburgban, ideális gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.118495,
                         49.5133
@@ -1179,7 +1179,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Parc Merveilleux",
                   "text": "Un parc de distracții și grădină zoologică populară în Bettembourg, cu atracții pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.119976,
                         49.510703
@@ -1233,7 +1233,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Minizoo Streichelzoo",
                   "text": "O mică grădină zoologică cu animale de mângâiat în Bettembourg, ideală pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.118495,
                         49.5133
@@ -1325,7 +1325,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Parc Merveilleux",
                   "text": "A popular theme park and zoo in Bettembourg with attractions for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.119976,
                         49.510703
@@ -1379,7 +1379,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             {
                   "name": "Minizoo Streichelzoo",
                   "text": "A small petting zoo in Bettembourg, ideal for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.118495,
                         49.5133
@@ -8163,7 +8163,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
                   "text": "Der Dinosaurierpark Teufelsschlucht bei Echternach ist ein beliebter Themenpark.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.436365,
                         49.844055
@@ -8381,7 +8381,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
                   "text": "Az echternachi Dinosaurierpark Teufelsschlucht egy népszerű tematikus park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.436365,
                         49.844055
@@ -8599,7 +8599,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
                   "text": "Dinosaurierpark Teufelsschlucht de lângă Echternach este un parc tematic popular.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.436365,
                         49.844055
@@ -8817,7 +8817,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
                   "text": "Dinosaurierpark Teufelsschlucht near Echternach is a popular theme park.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.436365,
                         49.844055
@@ -11033,7 +11033,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Jardin des Papillons",
                   "text": "Der Jardin des Papillons ist ein bekanntes Schmetterlingshaus in Grevenmacher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449731,
                         49.684151
@@ -11060,7 +11060,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Outdoor swimming pool",
                   "text": "Das Freibad in Grevenmacher bietet Erholung im Wasser.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449931,
                         49.682373
@@ -11170,7 +11170,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Jardin des Papillons",
                   "text": "A Jardin des Papillons egy ismert pillangókert Grevenmacherben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449731,
                         49.684151
@@ -11197,7 +11197,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Outdoor swimming pool",
                   "text": "A grevenmacheri szabadtéri medence vízi kikapcsolódást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449931,
                         49.682373
@@ -11307,7 +11307,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Jardin des Papillons",
                   "text": "Jardin des Papillons este o grădină de fluturi cunoscută în Grevenmacher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449731,
                         49.684151
@@ -11334,7 +11334,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Outdoor swimming pool",
                   "text": "Piscina în aer liber din Grevenmacher oferă relaxare acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449931,
                         49.682373
@@ -11444,7 +11444,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Jardin des Papillons",
                   "text": "Jardin des Papillons is a well-known butterfly garden in Grevenmacher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449731,
                         49.684151
@@ -11471,7 +11471,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Outdoor swimming pool",
                   "text": "The outdoor swimming pool in Grevenmacher offers aquatic recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.449931,
                         49.682373
@@ -12637,7 +12637,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine de Remich",
                   "text": "Die Piscine de Remich ist ein beliebter Wasserpark in Bus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.363901,
                         49.540506
@@ -12756,7 +12756,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine de Remich",
                   "text": "A Piscine de Remich egy népszerű vízi park Busban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.363901,
                         49.540506
@@ -12875,7 +12875,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine de Remich",
                   "text": "Piscine de Remich este un parc acvatic popular din Bus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.363901,
                         49.540506
@@ -12994,7 +12994,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine de Remich",
                   "text": "Piscine de Remich is a popular water park in Bus.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.363901,
                         49.540506
@@ -16714,7 +16714,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Freibad Troisvierges",
                   "text": "Ein öffentliches Freibad in der Nähe von Hachiville mit Schwimm- und Spielbereichen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.000373,
                         50.118291
@@ -16824,7 +16824,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine en plein air de Troisvierges",
                   "text": "Nyitott közösségi strand Hachiville közelében úszó- és játékterületekkel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.000373,
                         50.118291
@@ -16934,7 +16934,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine en plein air de Troisvierges",
                   "text": "O piscină publică în aer liber lângă Hachiville, cu zone de înot și joacă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.000373,
                         50.118291
@@ -17044,7 +17044,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             {
                   "name": "Piscine en plein air de Troisvierges",
                   "text": "A public open-air swimming pool near Hachiville with swimming and play areas.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         6.000373,
                         50.118291

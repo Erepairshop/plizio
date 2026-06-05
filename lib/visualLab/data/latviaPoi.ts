@@ -5970,7 +5970,7 @@ export const latviaAllPoi = [
             {
                   "name": "Valmieras Peldbaseina Atpūtas Zona",
                   "text": "Ein Freizeit- und Badebereich in Valmiera.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.388492,
                         57.527572
@@ -6053,7 +6053,7 @@ export const latviaAllPoi = [
             {
                   "name": "Valmieras Peldbaseina Atpūtas Zona",
                   "text": "Szabadidős és fürdőhely Valmierában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.388492,
                         57.527572
@@ -6136,7 +6136,7 @@ export const latviaAllPoi = [
             {
                   "name": "Valmieras Peldbaseina Atpūtas Zona",
                   "text": "O zonă de recreere și înot în Valmiera.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.388492,
                         57.527572
@@ -6219,7 +6219,7 @@ export const latviaAllPoi = [
             {
                   "name": "Valmieras Peldbaseina Atpūtas Zona",
                   "text": "A recreation and swimming area in Valmiera.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         25.388492,
                         57.527572
@@ -6397,7 +6397,7 @@ export const latviaAllPoi = [
             {
                   "name": "Zilo Kalnu Milžu Taka",
                   "text": "Ein Abenteuerpfad in den Blauen Bergen von Ogre, der Naturerlebnis und aktive Erholung miteinander verbindet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.595974,
                         56.826312
@@ -6516,7 +6516,7 @@ export const latviaAllPoi = [
             {
                   "name": "Zilo Kalnu Milžu Taka",
                   "text": "Kalandösvény az ogrei Kék-hegyekben, amely a természetközeli élményt és az aktív kikapcsolódást ötvözi.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.595974,
                         56.826312
@@ -6635,7 +6635,7 @@ export const latviaAllPoi = [
             {
                   "name": "Zilo Kalnu Milžu Taka",
                   "text": "Un traseu de aventură în Munții Albaștri din Ogre, care îmbină experiența naturii cu recreerea activă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.595974,
                         56.826312
@@ -6754,7 +6754,7 @@ export const latviaAllPoi = [
             {
                   "name": "Zilo Kalnu Milžu Taka",
                   "text": "An adventure trail in the Blue Mountains of Ogre, combining nature experience with active recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         24.595974,
                         56.826312
@@ -12464,7 +12464,7 @@ export const latviaCities = [
             {
                   "name": "Latgales zoodārzs",
                   "text": "Ein kleiner Zoo in Daugavpils, der sich auf exotische Reptilien und Amphibien spezialisiert hat.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.509689,
                         55.873676
@@ -12700,7 +12700,7 @@ export const latviaCities = [
             {
                   "name": "Latgales zoodārzs",
                   "text": "Kisméretű állatkert Daugavpilsben, amely egzotikus hüllőkre és kétéltűekre specializálódott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.509689,
                         55.873676
@@ -12936,7 +12936,7 @@ export const latviaCities = [
             {
                   "name": "Latgales zoodārzs",
                   "text": "O mică grădină zoologică din Daugavpils, specializată în reptile și amfibieni exotici.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.509689,
                         55.873676
@@ -13172,7 +13172,7 @@ export const latviaCities = [
             {
                   "name": "Latgales zoodārzs",
                   "text": "A small zoo in Daugavpils specializing in exotic reptiles and amphibians.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         26.509689,
                         55.873676

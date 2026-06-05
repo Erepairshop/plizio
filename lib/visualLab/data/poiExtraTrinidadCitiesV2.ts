@@ -2690,7 +2690,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Five Islands Water & Amusement Park",
                   "text": "Ein Wasser- und Vergnügungspark in Carenage.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.611341,
                         10.687665
@@ -2710,7 +2710,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Five Islands Water & Amusement Park",
                   "text": "Vízi és vidámpark Carenage településen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.611341,
                         10.687665
@@ -2730,7 +2730,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Five Islands Water & Amusement Park",
                   "text": "Un parc acvatic și de distracții situat în Carenage.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.611341,
                         10.687665
@@ -2750,7 +2750,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Five Islands Water & Amusement Park",
                   "text": "A water and amusement park located in Carenage.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.611341,
                         10.687665
@@ -4535,7 +4535,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "Der wichtigste Zoo von Trinidad und Tobago in Port of Spain.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -4690,7 +4690,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "Trinidad és Tobago legfontosabb állatkertje Port of Spainben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -4845,7 +4845,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "Principala grădină zoologică din Trinidad și Tobago, situată în Port of Spain.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -5000,7 +5000,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "The main zoo of Trinidad and Tobago, located in Port of Spain.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -5200,7 +5200,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "Der Haupzoo der Insel, direkt am Queen's Park Savannah gelegen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -5227,7 +5227,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Cascadia Hotel Water Park",
                   "text": "Ein Freizeitpark mit Wasserattraktionen beim Cascadia Hotel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.498734,
                         10.685289
@@ -5382,7 +5382,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "A sziget fő állatkertje, közvetlenül a Queen's Park Savannah mellett.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -5409,7 +5409,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Cascadia Hotel Water Park",
                   "text": "Szórakoztató vízi park a Cascadia Hotelnél.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.498734,
                         10.685289
@@ -5564,7 +5564,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "Grădina zoologică principală a insulei, situată lângă Queen's Park Savannah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -5591,7 +5591,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Cascadia Hotel Water Park",
                   "text": "Un parc de distracții cu atracții acvatice lângă Cascadia Hotel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.498734,
                         10.685289
@@ -5746,7 +5746,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Emperor Valley Zoo",
                   "text": "The island's main zoo, located adjacent to the Queen's Park Savannah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.516417,
                         10.675622
@@ -5773,7 +5773,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Cascadia Hotel Water Park",
                   "text": "A recreational water park located at the Cascadia Hotel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.498734,
                         10.685289
@@ -9551,7 +9551,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Harry's Water Park",
                   "text": "Ein beliebter Wasserpark und Erholungsgebiet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.262463,
                         10.341409
@@ -9571,7 +9571,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Harry's Water Park",
                   "text": "Népszerű vízi park és kikapcsolódási terület.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.262463,
                         10.341409
@@ -9591,7 +9591,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Harry's Water Park",
                   "text": "Un parc acvatic popular și zonă de recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.262463,
                         10.341409
@@ -9611,7 +9611,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             {
                   "name": "Harry's Water Park",
                   "text": "A popular water park and recreation area.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -61.262463,
                         10.341409

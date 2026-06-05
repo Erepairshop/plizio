@@ -276,7 +276,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             {
                   "name": "Centro recreativo Los Termales",
                   "text": "Ein Freizeitzentrum in Tipitapa, das für seine Thermalbecken bekannt ist.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.091487,
                         12.203123
@@ -296,7 +296,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             {
                   "name": "Centro recreativo Los Termales",
                   "text": "Tipitapai szabadidős központ, amely termálvizes medencéiről ismert.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.091487,
                         12.203123
@@ -316,7 +316,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             {
                   "name": "Centro recreativo Los Termales",
                   "text": "Un centru recreativ din Tipitapa cunoscut pentru piscinele sale cu apă termală.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.091487,
                         12.203123
@@ -336,7 +336,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             {
                   "name": "Centro recreativo Los Termales",
                   "text": "A recreational center in Tipitapa known for its thermal water pools.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -86.091487,
                         12.203123

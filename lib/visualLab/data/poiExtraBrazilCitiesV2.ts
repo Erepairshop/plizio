@@ -957,7 +957,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Cidade da Criança",
                   "text": "Cidade da Criança ist ein bekannter Freizeitpark in São Bernardo do Campo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -46.556158,
                         -23.687787
@@ -1094,7 +1094,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Cidade da Criança",
                   "text": "A Cidade da Criança egy nevezetes vidámpark São Bernardo do Campo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -46.556158,
                         -23.687787
@@ -1231,7 +1231,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Cidade da Criança",
                   "text": "Cidade da Criança este un parc tematic notabil în São Bernardo do Campo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -46.556158,
                         -23.687787
@@ -1368,7 +1368,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Cidade da Criança",
                   "text": "Cidade da Criança is a notable theme park located in São Bernardo do Campo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -46.556158,
                         -23.687787
@@ -4722,7 +4722,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Municipal Quinzinho de Barros",
                   "text": "Der städtische Zoo Quinzinho de Barros in Sorocaba beherbergt eine große Vielfalt an Tieren.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -47.437093,
                         -23.505403
@@ -4868,7 +4868,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Municipal Quinzinho de Barros",
                   "text": "A sorocabai Quinzinho de Barros városi állatkert állatok nagy választékának ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -47.437093,
                         -23.505403
@@ -5014,7 +5014,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Municipal Quinzinho de Barros",
                   "text": "Grădina zoologică municipală Quinzinho de Barros din Sorocaba găzduiește o mare varietate de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -47.437093,
                         -23.505403
@@ -5160,7 +5160,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Municipal Zoological Park Quinzinho de Barros",
                   "text": "The municipal Quinzinho de Barros Zoo in Sorocaba houses a large variety of animals.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -47.437093,
                         -23.505403
@@ -5360,7 +5360,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Clube Arvoredo",
                   "text": "Clube Arvoredo ist ein Wasserpark in Contagem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.085175,
                         -19.926841
@@ -5369,7 +5369,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Campestre Yucca Clube",
                   "text": "Campestre Yucca Clube ist ein Wasserpark in Contagem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.082254,
                         -19.919296
@@ -5398,7 +5398,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Clube Arvoredo",
                   "text": "A Clube Arvoredo egy vízi vidámpark Contagem városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.085175,
                         -19.926841
@@ -5407,7 +5407,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Campestre Yucca Clube",
                   "text": "A Campestre Yucca Clube egy vízi vidámpark Contagem városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.082254,
                         -19.919296
@@ -5436,7 +5436,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Clube Arvoredo",
                   "text": "Clube Arvoredo este un parc acvatic situat în Contagem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.085175,
                         -19.926841
@@ -5445,7 +5445,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Campestre Yucca Clube",
                   "text": "Campestre Yucca Clube este un parc acvatic situat în Contagem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.082254,
                         -19.919296
@@ -5474,7 +5474,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Clube Arvoredo",
                   "text": "Clube Arvoredo is a water park located in Contagem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.085175,
                         -19.926841
@@ -5483,7 +5483,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Campestre Yucca Clube",
                   "text": "Campestre Yucca Clube is a water park located in Contagem.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -44.082254,
                         -19.919296
@@ -6112,7 +6112,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoobotânico de Joinville",
                   "text": "Zoo in Joinville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -48.835214,
                         -26.294673
@@ -6294,7 +6294,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoobotânico de Joinville",
                   "text": "Állatkert Joinville-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -48.835214,
                         -26.294673
@@ -6476,7 +6476,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoobotânico de Joinville",
                   "text": "Grădină zoologică în Joinville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -48.835214,
                         -26.294673
@@ -6658,7 +6658,7 @@ export const poiExtraBrazilCitiesV2: POI[] = [
             {
                   "name": "Parque Zoobotânico de Joinville",
                   "text": "Zoo in Joinville.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -48.835214,
                         -26.294673

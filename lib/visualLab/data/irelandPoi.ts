@@ -4391,7 +4391,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Galway Atlantaquaria",
                   "text": "Das nationale Aquarium Irlands in Galway mit vielfältigem Meeresleben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.074087,
                         53.260051
@@ -4400,7 +4400,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Curry's Fun Park",
                   "text": "Ein familienfreundlicher Freizeitpark am Meer in Galway.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.083956,
                         53.258845
@@ -4843,7 +4843,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Galway Atlantaquaria",
                   "text": "Írország nemzeti akváriuma Galwayben, gazdag tengeri élővilággal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.074087,
                         53.260051
@@ -4852,7 +4852,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Curry's Fun Park",
                   "text": "Családbarát tengerparti vidámpark Galwayben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.083956,
                         53.258845
@@ -5295,7 +5295,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Galway Atlantaquaria",
                   "text": "Acvariul național al Irlandei din Galway, care prezintă viața marină diversă.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.074087,
                         53.260051
@@ -5304,7 +5304,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Curry's Fun Park",
                   "text": "Un parc de distracții pentru familii, situat la malul mării în Galway.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.083956,
                         53.258845
@@ -5747,7 +5747,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Galway Atlantaquaria",
                   "text": "Ireland's national aquarium in Galway showcasing diverse marine life.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.074087,
                         53.260051
@@ -5756,7 +5756,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "Curry's Fun Park",
                   "text": "A family-friendly seaside amusement park in Galway.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -9.083956,
                         53.258845
@@ -10417,7 +10417,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "National Reptile Zoo",
                   "text": "Der National Reptile Zoo in Kilkenny widmet sich der Haltung und Erforschung von Reptilien und Amphibien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.231252,
                         52.65566
@@ -10752,7 +10752,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "National Reptile Zoo",
                   "text": "A Kilkennyben található Nemzeti Hüllőzoo hüllők és kétéltűek bemutatására és kutatására szakosodott.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.231252,
                         52.65566
@@ -11087,7 +11087,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "National Reptile Zoo",
                   "text": "Grădina Zoologică Națională de Reptile din Kilkenny este dedicată conservării și studiului reptilelor și amfibienilor.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.231252,
                         52.65566
@@ -11422,7 +11422,7 @@ export const irelandCities: POI[] = [
             {
                   "name": "National Reptile Zoo",
                   "text": "The National Reptile Zoo in Kilkenny is dedicated to the conservation and study of reptiles and amphibians.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -7.231252,
                         52.65566

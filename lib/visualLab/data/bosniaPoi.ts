@@ -379,7 +379,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "Zoološki vrt Pionirska dolina ist ein familienfreundlicher Zoo und Freizeitpark in Sarajevo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -768,7 +768,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "A Zoološki vrt Pionirska dolina egy családbarát állatkert és szabadidőpark Szarajevóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -1157,7 +1157,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "Zoološki vrt Pionirska dolina este o grădină zoologică și un parc de recreere potrivit pentru familii, situat în Sarajevo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -1546,7 +1546,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Zoološki vrt Pionirska dolina",
                   "text": "Zoološki vrt Pionirska dolina is a family-friendly zoo and recreational park located in Sarajevo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.412204,
                         43.879453
@@ -3099,7 +3099,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Panonska jezera",
                   "text": "Pannonica ist ein beliebter Wasserpark in Tuzla, der Freizeitmöglichkeiten im Wasser bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.680806,
                         44.53949
@@ -3335,7 +3335,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Panonska jezera",
                   "text": "A Pannonica egy népszerű vízipark létesítmény Tuzlában, amely vízi kikapcsolódást kínál.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.680806,
                         44.53949
@@ -3571,7 +3571,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Panonska jezera",
                   "text": "Pannonica este un parc acvatic popular din Tuzla, care oferă facilități de recreere acvatică.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.680806,
                         44.53949
@@ -3807,7 +3807,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Pannonica",
                   "text": "Pannonica is a popular water park facility in Tuzla offering aquatic recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.680806,
                         44.53949
@@ -4096,7 +4096,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Gradski bazeni",
                   "text": "Ein öffentlicher Schwimmbadkomplex in Zenica, der Erholung und Freizeit bietet.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926223,
                         44.205771
@@ -4179,7 +4179,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Gradski bazeni",
                   "text": "Városi medencekomplexum Zenicában, amely kikapcsolódást kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926223,
                         44.205771
@@ -4262,7 +4262,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Gradski bazeni",
                   "text": "Complex de piscine publice din Zenica, oferind facilități de recreere și agrement.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926223,
                         44.205771
@@ -4345,7 +4345,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Gradski bazeni",
                   "text": "A public swimming pool complex in Zenica offering recreation and leisure.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         17.926223,
                         44.205771
@@ -4472,7 +4472,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Bazeni \"Veni vidi\"",
                   "text": "Öffentlicher Wasserpark mit Schwimmbecken zur Erholung.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.876064,
                         44.807493
@@ -4555,7 +4555,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Bazeni \"Veni vidi\"",
                   "text": "Nyilvános vízi park úszómedencékkel a kikapcsolódáshoz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.876064,
                         44.807493
@@ -4638,7 +4638,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Bazeni \"Veni vidi\"",
                   "text": "Parc acvatic public cu piscine pentru recreere.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.876064,
                         44.807493
@@ -4721,7 +4721,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Bazeni \"Veni vidi\"",
                   "text": "Public water park with swimming pools for recreation.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         15.876064,
                         44.807493
@@ -6429,7 +6429,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Aqua Park Džungla",
                   "text": "Ein beliebter Wasserpark in Doboj mit verschiedenen Pools und Rutschen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.091994,
                         44.72908
@@ -6476,7 +6476,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Aqua Park Džungla",
                   "text": "Népszerű doboji aquapark különféle medencékkel és csúszdákkal.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.091994,
                         44.72908
@@ -6523,7 +6523,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Aqua Park Džungla",
                   "text": "Un parc acvatic popular din Doboj, cu diverse piscine și tobogane.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.091994,
                         44.72908
@@ -6570,7 +6570,7 @@ export const bosniaPois: POI[] = [
             {
                   "name": "Aqua Park Džungla",
                   "text": "A popular water park in Doboj featuring various pools and slides.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.091994,
                         44.72908

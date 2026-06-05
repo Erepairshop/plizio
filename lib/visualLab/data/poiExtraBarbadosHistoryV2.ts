@@ -134,7 +134,7 @@ export const barbadosHistoryV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Der Rascals Water Park ist ein Wasservergnügungszentrum in Historisches Bridgetown.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -478,7 +478,7 @@ export const barbadosHistoryV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy vízi vidámpark Historisches Bridgetownban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -822,7 +822,7 @@ export const barbadosHistoryV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este un centru de distracții acvatice în Historisches Bridgetown.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -1166,7 +1166,7 @@ export const barbadosHistoryV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is an aquatic amusement center in Historisches Bridgetown.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581

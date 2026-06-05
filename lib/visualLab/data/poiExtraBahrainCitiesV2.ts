@@ -1525,7 +1525,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Der Adhari Park ist ein bekannter Freizeitpark in Jidhafs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -1534,7 +1534,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Magic Island",
                   "text": "Magic Island ist ein Freizeitpark in Jidhafs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.538314,
                         26.232143
@@ -1644,7 +1644,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Az Adhari Park egy jól ismert vidámpark Jidhafs városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -1653,7 +1653,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Magic Island",
                   "text": "A Magic Island egy vidámpark Jidhafs városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.538314,
                         26.232143
@@ -1763,7 +1763,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Adhari Park este un parc tematic binecunoscut situat în Jidhafs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -1772,7 +1772,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Magic Island",
                   "text": "Magic Island este un parc tematic situat în Jidhafs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.538314,
                         26.232143
@@ -1882,7 +1882,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Adhari Park is a well-known theme park situated in Jidhafs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -1891,7 +1891,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Magic Island",
                   "text": "Magic Island is a theme park located in Jidhafs.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.538314,
                         26.232143
@@ -2538,7 +2538,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Der Adhari Park ist ein Freizeitpark in der Stadt Tubli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -2594,7 +2594,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Az Adhari Park egy vidámpark Tubli városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -2650,7 +2650,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Adhari Park este un parc tematic situat în orașul Tubli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -2706,7 +2706,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "The Adhari Park is a theme park located in the city of Tubli.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -5028,7 +5028,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Der Adhari Park ist ein bekannter Vergnügungspark in Salmabad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -5066,7 +5066,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Az Adhari Park egy jól ismert vidámpark Salmabad városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -5104,7 +5104,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Adhari Park este un cunoscut parc de distracții tematic situat în Salmabad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446
@@ -5142,7 +5142,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
             {
                   "name": "Adhari Park",
                   "text": "Adhari Park is a well-known amusement theme park located in Salmabad.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         50.545829,
                         26.198446

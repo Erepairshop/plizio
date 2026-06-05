@@ -1952,7 +1952,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Kids ATV's",
                   "text": "Eine Freizeitanlage in Pattaya mit Quads für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.883141,
                         12.906244
@@ -1970,7 +1970,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "International Snake Show",
                   "text": "Eine Anlage in Pattaya, die verschiedene Schlangenarten und Vorführungen zeigt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.907308,
                         12.9349
@@ -2087,7 +2087,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สนุกปาร์ค",
                   "text": "Ein Freizeitpark in Pattaya mit verschiedenen Attraktionen für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.884853,
                         12.899834
@@ -2170,7 +2170,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Kids ATV's",
                   "text": "Szabadidős létesítmény Pattayában, kvadokkal gyerekeknek.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.883141,
                         12.906244
@@ -2188,7 +2188,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "International Snake Show",
                   "text": "Pattayai létesítmény, ahol különböző kígyófajokat és bemutatókat láthatunk.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.907308,
                         12.9349
@@ -2305,7 +2305,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สนุกปาร์ค",
                   "text": "Vidámpark Pattayán, amely különféle attrakciókat kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.884853,
                         12.899834
@@ -2388,7 +2388,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Kids ATV's",
                   "text": "O facilitate de agrement în Pattaya cu ATV-uri pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.883141,
                         12.906244
@@ -2406,7 +2406,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "International Snake Show",
                   "text": "O facilitate din Pattaya care prezintă diverse specii de șerpi și spectacole.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.907308,
                         12.9349
@@ -2523,7 +2523,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สนุกปาร์ค",
                   "text": "Un parc de distracții din Pattaya, oferind diverse atracții pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.884853,
                         12.899834
@@ -2606,7 +2606,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Kids ATV's",
                   "text": "A recreational facility in Pattaya featuring ATVs for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.883141,
                         12.906244
@@ -2624,7 +2624,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "International Snake Show",
                   "text": "A facility in Pattaya showing various snake species and performances.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.907308,
                         12.9349
@@ -2741,7 +2741,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Sanook Park",
                   "text": "A theme park in Pattaya offering various attractions for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.884853,
                         12.899834
@@ -2928,7 +2928,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "YoYoland Udon",
                   "text": "Ein Indoor-Freizeitpark in Udon Thani mit verschiedenen Attraktionen für Kinder.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.800373,
                         17.406078
@@ -2984,7 +2984,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "YoYoland Udon",
                   "text": "Fedett vidámpark Udon Thaniban, különféle látványosságokkal gyermekek számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.800373,
                         17.406078
@@ -3040,7 +3040,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "YoYoland Udon",
                   "text": "Un parc de distracții interior în Udon Thani, cu diverse atracții pentru copii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.800373,
                         17.406078
@@ -3096,7 +3096,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "YoYoland Udon",
                   "text": "An indoor theme park in Udon Thani featuring various attractions for children.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         102.800373,
                         17.406078
@@ -8263,7 +8263,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
                   "text": "Eine der weltweit größten Krokodilfarmen mit täglichen Shows in Samut Prakan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.596211,
                         13.571218
@@ -8391,7 +8391,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
                   "text": "A világ egyik legnagyobb krokodilfarmja napi bemutatókkal Szamutprakánban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.596211,
                         13.571218
@@ -8519,7 +8519,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
                   "text": "Una dintre cele mai mari ferme de crocodili din lume, cu spectacole zilnice în Samut Prakan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.596211,
                         13.571218
@@ -8647,7 +8647,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Samutprakarn Crocodile Farm & Zoo",
                   "text": "One of the world's largest crocodile farms with daily shows in Samut Prakan.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.596211,
                         13.571218
@@ -8823,7 +8823,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สถานแสดงพันธุ์ปลาน้ำจืดภาคอีสาน",
                   "text": "Das Freshwater Fish Aquarium ist ein Aquarium in Sakon Nakhon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.152418,
                         17.170549
@@ -8870,7 +8870,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สถานแสดงพันธุ์ปลาน้ำจืดภาคอีสาน",
                   "text": "A Freshwater Fish Aquarium egy akvárium Sakon Nakhon városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.152418,
                         17.170549
@@ -8917,7 +8917,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สถานแสดงพันธุ์ปลาน้ำจืดภาคอีสาน",
                   "text": "Freshwater Fish Aquarium este un acvariu situat în Sakon Nakhon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.152418,
                         17.170549
@@ -8964,7 +8964,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Freshwater Fish Aquarium",
                   "text": "Freshwater Fish Aquarium is an aquarium located in Sakon Nakhon.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         104.152418,
                         17.170549
@@ -9050,7 +9050,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สวนสัตว์ลพบุรี",
                   "text": "Ein lokaler Zoo in Lopburi, der verschiedene Tierarten der Region beherbergt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.636534,
                         14.803567
@@ -9079,7 +9079,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สวนสัตว์ลพบุรี",
                   "text": "Helyi állatkert Lopburiban, amely a régió különféle állatfajait mutatja be.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.636534,
                         14.803567
@@ -9108,7 +9108,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "สวนสัตว์ลพบุรี",
                   "text": "O grădină zoologică locală din Lopburi, care găzduiește diverse specii de animale din regiune.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.636534,
                         14.803567
@@ -9137,7 +9137,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             {
                   "name": "Lopburi Zoo",
                   "text": "A local zoo in Lopburi housing various animal species of the region.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         100.636534,
                         14.803567

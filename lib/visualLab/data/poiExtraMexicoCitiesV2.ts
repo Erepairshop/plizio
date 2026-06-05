@@ -1814,7 +1814,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lago chapalita",
                   "text": "Lago chapalita ist ein Wasserpark in León.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.698722,
                         21.125463
@@ -1850,7 +1850,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Area de Juegos Feria de León",
                   "text": "Area de Juegos Feria de León ist ein Freizeitpark in León.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.658475,
                         21.113822
@@ -1915,7 +1915,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lago chapalita",
                   "text": "A Lago chapalita egy vízipark León városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.698722,
                         21.125463
@@ -1951,7 +1951,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Area de Juegos Feria de León",
                   "text": "Az Area de Juegos Feria de León egy vidámpark León városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.658475,
                         21.113822
@@ -2016,7 +2016,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lago chapalita",
                   "text": "Lago chapalita este un parc acvatic situat în León.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.698722,
                         21.125463
@@ -2052,7 +2052,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Area de Juegos Feria de León",
                   "text": "Area de Juegos Feria de León este un parc tematic situat în León.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.658475,
                         21.113822
@@ -2117,7 +2117,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lago chapalita",
                   "text": "Lago chapalita is a water park located in León.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.698722,
                         21.125463
@@ -2153,7 +2153,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Area de Juegos Feria de León",
                   "text": "Area de Juegos Feria de León is a theme park located in León.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.658475,
                         21.113822
@@ -2246,7 +2246,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Avila Camacho",
                   "text": "Der Parque Avila Camacho ist ein Themenpark in Zapopan. Er bietet Unterhaltungsmöglichkeiten für Besucher.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.373752,
                         20.712155
@@ -2264,7 +2264,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico Villa Fantasía",
                   "text": "Der Zoologico Villa Fantasía ist ein Zoo in Zapopan. Er bietet eine Heimat für verschiedene Tierarten.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.384404,
                         20.722674
@@ -2581,7 +2581,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Avila Camacho",
                   "text": "A Parque Avila Camacho egy tematikus park Zapopanban. Szórakozási lehetőségeket kínál a látogatóknak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.373752,
                         20.712155
@@ -2599,7 +2599,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico Villa Fantasía",
                   "text": "A Zoologico Villa Fantasía egy állatkert Zapopanban. Különböző állatfajoknak ad otthont.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.384404,
                         20.722674
@@ -2916,7 +2916,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Avila Camacho",
                   "text": "Parque Avila Camacho este un parc tematic în Zapopan. Oferă facilități de divertisment pentru vizitatori.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.373752,
                         20.712155
@@ -2934,7 +2934,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico Villa Fantasía",
                   "text": "Zoologico Villa Fantasía este o grădină zoologică în Zapopan. Găzduiește diverse specii de animale.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.384404,
                         20.722674
@@ -3251,7 +3251,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Avila Camacho",
                   "text": "Parque Avila Camacho is a theme park in Zapopan. It offers entertainment options for visitors.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.373752,
                         20.712155
@@ -3269,7 +3269,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico Villa Fantasía",
                   "text": "Zoologico Villa Fantasía is a zoo in Zapopan. It provides a home to various animal species.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -103.384404,
                         20.722674
@@ -3578,7 +3578,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque del pueblo",
                   "text": "Der Parque del pueblo ist ein Zoo und öffentlicher Park in Nezahualcóyotl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.004753,
                         19.394449
@@ -3587,7 +3587,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Balneario Elba",
                   "text": "Das Balneario Elba ist ein Wasserpark mit Freizeitangeboten in Nezahualcóyotl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.02517,
                         19.378208
@@ -3652,7 +3652,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque del pueblo",
                   "text": "A Parque del pueblo egy állatkert és nyilvános park Nezahualcóyotl városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.004753,
                         19.394449
@@ -3661,7 +3661,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Balneario Elba",
                   "text": "A Balneario Elba egy rekreációs létesítményeket kínáló vízi park Nezahualcóyotl-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.02517,
                         19.378208
@@ -3726,7 +3726,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque del pueblo",
                   "text": "Parque del pueblo este o grădină zoologică și un parc public în Nezahualcóyotl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.004753,
                         19.394449
@@ -3735,7 +3735,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Balneario Elba",
                   "text": "Balneario Elba este un parc acvatic care oferă facilități de recreere în Nezahualcóyotl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.02517,
                         19.378208
@@ -3800,7 +3800,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque del pueblo",
                   "text": "Parque del pueblo is a zoo and public park situated in Nezahualcóyotl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.004753,
                         19.394449
@@ -3809,7 +3809,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Balneario Elba",
                   "text": "Balneario Elba is a water park offering recreational facilities in Nezahualcóyotl.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.02517,
                         19.378208
@@ -4913,7 +4913,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Valle Dorado",
                   "text": "Das Acuario Valle Dorado ist ein lokales Aquarium in Tlalnepantla de Baz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.214614,
                         19.550236
@@ -5041,7 +5041,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Valle Dorado",
                   "text": "Az Acuario Valle Dorado egy helyi akvárium Tlalnepantla de Baz-ban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.214614,
                         19.550236
@@ -5169,7 +5169,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Valle Dorado",
                   "text": "Acuario Valle Dorado este un acvariu local din Tlalnepantla de Baz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.214614,
                         19.550236
@@ -5297,7 +5297,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Valle Dorado",
                   "text": "Acuario Valle Dorado is a local aquarium in Tlalnepantla de Baz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.214614,
                         19.550236
@@ -5798,7 +5798,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Tecnomarine",
                   "text": "Acuario Tecnomarine ist ein Aquarium in Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.125451,
                         19.175349
@@ -5816,7 +5816,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "acuario happy fish",
                   "text": "acuario happy fish ist ein Aquarium in Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.132999,
                         19.192515
@@ -5843,7 +5843,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Miguel Ángel de Quevedo",
                   "text": "Parque Zoológico Miguel Ángel de Quevedo ist ein Zoo in Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.13731,
                         19.173481
@@ -5998,7 +5998,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Tecnomarine",
                   "text": "Az Acuario Tecnomarine egy akvárium Veracruz városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.125451,
                         19.175349
@@ -6016,7 +6016,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "acuario happy fish",
                   "text": "Az acuario happy fish egy akvárium Veracruz városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.132999,
                         19.192515
@@ -6043,7 +6043,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Miguel Ángel de Quevedo",
                   "text": "A Parque Zoológico Miguel Ángel de Quevedo egy állatkert Veracruz városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.13731,
                         19.173481
@@ -6198,7 +6198,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Tecnomarine",
                   "text": "Acuario Tecnomarine este un acvariu situat în Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.125451,
                         19.175349
@@ -6216,7 +6216,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "acuario happy fish",
                   "text": "acuario happy fish este un acvariu situat în Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.132999,
                         19.192515
@@ -6243,7 +6243,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Miguel Ángel de Quevedo",
                   "text": "Parque Zoológico Miguel Ángel de Quevedo este o grădină zoologică situată în Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.13731,
                         19.173481
@@ -6398,7 +6398,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Tecnomarine",
                   "text": "Acuario Tecnomarine is an aquarium located in Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.125451,
                         19.175349
@@ -6416,7 +6416,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "acuario happy fish",
                   "text": "acuario happy fish is an aquarium located in Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.132999,
                         19.192515
@@ -6443,7 +6443,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Zoológico Miguel Ángel de Quevedo",
                   "text": "Parque Zoológico Miguel Ángel de Quevedo is a zoo located in Veracruz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.13731,
                         19.173481
@@ -6740,7 +6740,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
                   "text": "Das Gran Acuario ist ein bedeutendes Aquarium in Mazatlán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -106.428133,
                         23.230228
@@ -6985,7 +6985,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
                   "text": "A Gran Acuario egy jelentős akvárium Mazatlánban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -106.428133,
                         23.230228
@@ -7230,7 +7230,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
                   "text": "Gran Acuario este un acvariu important în Mazatlán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -106.428133,
                         23.230228
@@ -7475,7 +7475,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
                   "text": "The Gran Acuario is a significant aquarium in Mazatlán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -106.428133,
                         23.230228
@@ -7709,7 +7709,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico de Irapuato \"ZOOIRA\"",
                   "text": "Der Zoológico de Irapuato \"ZOOIRA\" ist ein öffentlicher Zoo in Irapuato.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.329695,
                         20.652833
@@ -7765,7 +7765,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico de Irapuato \"ZOOIRA\"",
                   "text": "A Zoológico de Irapuato \"ZOOIRA\" egy nyilvános állatkert Irapuato városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.329695,
                         20.652833
@@ -7821,7 +7821,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico de Irapuato \"ZOOIRA\"",
                   "text": "Zoológico de Irapuato \"ZOOIRA\" este o grădină zoologică publică situată în Irapuato.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.329695,
                         20.652833
@@ -7877,7 +7877,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico de Irapuato \"ZOOIRA\"",
                   "text": "Zoológico de Irapuato \"ZOOIRA\" is a public zoo located in Irapuato.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -101.329695,
                         20.652833
@@ -11591,7 +11591,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "Das Lamar Bruni Vergara Environmental Science Center ist ein Zoo auf dem Campus des Laredo College in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -11600,7 +11600,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Alberca Ilusion Acuatica ist ein Freizeitpark in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -11627,7 +11627,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Expomex",
                   "text": "Expomex ist ein Freizeitpark in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.484738,
                         27.481945
@@ -11636,7 +11636,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico y Acuario de Nuevo Laredo",
                   "text": "Der Zoológico y Acuario de Nuevo Laredo ist ein Zoo in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.482903,
                         27.478523
@@ -11827,7 +11827,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "A Lamar Bruni Vergara Environmental Science Center egy állatkert Nuevo Laredóban, a Laredo College kampuszán.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -11836,7 +11836,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Az Alberca Ilusion Acuatica egy vidámpark Nuevo Laredóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -11863,7 +11863,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Expomex",
                   "text": "Az Expomex egy vidámpark Nuevo Laredóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.484738,
                         27.481945
@@ -11872,7 +11872,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico y Acuario de Nuevo Laredo",
                   "text": "A Zoológico y Acuario de Nuevo Laredo egy állatkert Nuevo Laredóban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.482903,
                         27.478523
@@ -12063,7 +12063,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "Lamar Bruni Vergara Environmental Science Center este o grădină zoologică situată în campusul Laredo College din Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -12072,7 +12072,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Alberca Ilusion Acuatica este un parc tematic în Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -12099,7 +12099,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Expomex",
                   "text": "Expomex este un parc tematic din Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.484738,
                         27.481945
@@ -12108,7 +12108,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico y Acuario de Nuevo Laredo",
                   "text": "Zoológico y Acuario de Nuevo Laredo este o grădină zoologică din Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.482903,
                         27.478523
@@ -12299,7 +12299,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Lamar Bruni Vergara Environmental Science Center",
                   "text": "Lamar Bruni Vergara Environmental Science Center is a zoo located in Nuevo Laredo on the campus of Laredo College.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.523529,
                         27.509014
@@ -12308,7 +12308,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Alberca Ilusion Acuatica is a theme park located in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
@@ -12335,7 +12335,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Expomex",
                   "text": "Expomex is a theme park located in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.484738,
                         27.481945
@@ -12344,7 +12344,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoológico y Acuario de Nuevo Laredo",
                   "text": "Zoológico y Acuario de Nuevo Laredo is a zoo situated in Nuevo Laredo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.482903,
                         27.478523
@@ -13877,7 +13877,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Ostimuri",
                   "text": "Parque Ostimuri ist ein Themenpark in Ciudad Obregón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966289,
                         27.493129
@@ -13895,7 +13895,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Ostimuri",
                   "text": "Ostimuri ist ein Themenpark in der Stadt Ciudad Obregón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966966,
                         27.494132
@@ -13996,7 +13996,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Ostimuri",
                   "text": "A Parque Ostimuri egy vidámpark Ciudad Obregón városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966289,
                         27.493129
@@ -14014,7 +14014,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Ostimuri",
                   "text": "Az Ostimuri egy vidámpark Ciudad Obregón városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966966,
                         27.494132
@@ -14115,7 +14115,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Ostimuri",
                   "text": "Parque Ostimuri este un parc tematic situat în Ciudad Obregón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966289,
                         27.493129
@@ -14133,7 +14133,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Ostimuri",
                   "text": "Ostimuri este un parc tematic situat în orașul Ciudad Obregón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966966,
                         27.494132
@@ -14234,7 +14234,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Parque Ostimuri",
                   "text": "Parque Ostimuri is a theme park located in Ciudad Obregón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966289,
                         27.493129
@@ -14252,7 +14252,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Ostimuri",
                   "text": "Ostimuri is a theme park situated in the city of Ciudad Obregón.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -109.966966,
                         27.494132
@@ -15308,7 +15308,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "BALNEARIO AGUA HEDIONDA",
                   "text": "Ein bekannter Thermal-Wasserpark in Cuautla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.930083,
                         18.815649
@@ -15326,7 +15326,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "AGUA LINDA",
                   "text": "Ein Wasserpark in Cuautla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.949707,
                         18.807089
@@ -15373,7 +15373,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "BALNEARIO AGUA HEDIONDA",
                   "text": "Ismert termál-élményfürdő Cuautla városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.930083,
                         18.815649
@@ -15391,7 +15391,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "AGUA LINDA",
                   "text": "Élményfürdő Cuautla városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.949707,
                         18.807089
@@ -15438,7 +15438,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "BALNEARIO AGUA HEDIONDA",
                   "text": "Un parc acvatic termal cunoscut în Cuautla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.930083,
                         18.815649
@@ -15456,7 +15456,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "AGUA LINDA",
                   "text": "Un parc acvatic în Cuautla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.949707,
                         18.807089
@@ -15503,7 +15503,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "BALNEARIO AGUA HEDIONDA",
                   "text": "A well-known thermal water park in Cuautla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.930083,
                         18.815649
@@ -15521,7 +15521,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "AGUA LINDA",
                   "text": "A water park in Cuautla.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -98.949707,
                         18.807089
@@ -16742,7 +16742,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Albercas Las Obleas",
                   "text": "Ein Wasserpark in Córdoba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.942577,
                         18.918091
@@ -16798,7 +16798,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Albercas Las Obleas",
                   "text": "Élményfürdő Córdoba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.942577,
                         18.918091
@@ -16854,7 +16854,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Albercas Las Obleas",
                   "text": "Un parc acvatic în Córdoba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.942577,
                         18.918091
@@ -16910,7 +16910,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Albercas Las Obleas",
                   "text": "A water park in Córdoba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -96.942577,
                         18.918091
@@ -16967,7 +16967,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico",
                   "text": "Zoologico ist ein Zoo oder Tierpark in der Stadt Ciudad del Carmen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.838901,
                         18.65883
@@ -16994,7 +16994,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Muelle Laguna Azul",
                   "text": "Muelle Laguna Azul ist ein Zoo oder Tierpark in der Stadt Ciudad del Carmen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.840676,
                         18.658074
@@ -17059,7 +17059,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico",
                   "text": "A Zoologico egy állatkert vagy vadaspark Ciudad del Carmen városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.838901,
                         18.65883
@@ -17086,7 +17086,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Muelle Laguna Azul",
                   "text": "A Muelle Laguna Azul egy állatkert vagy vadaspark Ciudad del Carmen városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.840676,
                         18.658074
@@ -17151,7 +17151,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico",
                   "text": "Zoologico este o grădină zoologică sau un parc de animale situat în orașul Ciudad del Carmen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.838901,
                         18.65883
@@ -17178,7 +17178,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Muelle Laguna Azul",
                   "text": "Muelle Laguna Azul este o grădină zoologică sau un parc de animale situat în orașul Ciudad del Carmen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.840676,
                         18.658074
@@ -17243,7 +17243,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Zoologico",
                   "text": "Zoologico is a zoo or animal park located in the city of Ciudad del Carmen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.838901,
                         18.65883
@@ -17270,7 +17270,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Muelle Laguna Azul",
                   "text": "Muelle Laguna Azul is a zoo or animal park located in the city of Ciudad del Carmen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -91.840676,
                         18.658074
@@ -18506,7 +18506,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Leones",
                   "text": "Reserva Animal Leones ist ein Zoo oder Tierpark in der Stadt Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.109987,
                         18.850555
@@ -18515,7 +18515,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Moons (pass del Rio y reserva animal)",
                   "text": "Monkeys (pass del Rio y reserva animal) ist ein Zoo oder Tierpark in der Stadt Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.107594,
                         18.846042
@@ -18524,7 +18524,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Jaguares",
                   "text": "Leopard (pass del Rio y reserva animal) ist ein Tierpark in Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.110497,
                         18.852558
@@ -18533,7 +18533,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Tobogán de la Montaña",
                   "text": "Tobogán de la Montaña ist ein Freizeitpark in Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.084223,
                         18.859223
@@ -18778,7 +18778,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Leones",
                   "text": "A Reserva Animal Leones egy állatkert vagy vadaspark Orizaba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.109987,
                         18.850555
@@ -18787,7 +18787,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Moons (pass del Rio y reserva animal)",
                   "text": "A Monkeys (pass del Rio y reserva animal) egy állatkert vagy vadaspark Orizaba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.107594,
                         18.846042
@@ -18796,7 +18796,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Jaguares",
                   "text": "A(z) Leopard (pass del Rio y reserva animal) egy állatkert Orizaba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.110497,
                         18.852558
@@ -18805,7 +18805,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Tobogán de la Montaña",
                   "text": "A(z) Tobogán de la Montaña egy vidámpark Orizaba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.084223,
                         18.859223
@@ -19050,7 +19050,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Leones",
                   "text": "Reserva Animal Leones este o grădină zoologică sau un parc de animale situat în orașul Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.109987,
                         18.850555
@@ -19059,7 +19059,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Moons (pass del Rio y reserva animal)",
                   "text": "Monkeys (pass del Rio y reserva animal) este o grădină zoologică sau un parc de animale situat în orașul Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.107594,
                         18.846042
@@ -19068,7 +19068,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Jaguares",
                   "text": "Leopard (pass del Rio y reserva animal) este o grădină zoologică în Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.110497,
                         18.852558
@@ -19077,7 +19077,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Tobogán de la Montaña",
                   "text": "Tobogán de la Montaña este un parc de distracții în Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.084223,
                         18.859223
@@ -19322,7 +19322,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Reserva Animal Leones",
                   "text": "Reserva Animal Leones is a zoo or animal park located in the city of Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.109987,
                         18.850555
@@ -19331,7 +19331,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Monkeys (pass del Rio y reserva animal)",
                   "text": "Monkeys (pass del Rio y reserva animal) is a zoo or animal park located in the city of Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.107594,
                         18.846042
@@ -19340,7 +19340,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Leopard (pass del Rio y reserva animal)",
                   "text": "Leopard (pass del Rio y reserva animal) is a zoo located in Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.110497,
                         18.852558
@@ -19349,7 +19349,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Tobogán de la Montaña",
                   "text": "Tobogán de la Montaña is a theme park located in Orizaba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -97.084223,
                         18.859223
@@ -20306,7 +20306,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Cici de Iguala",
                   "text": "Cici de Iguala ist ein Wasserpark in Iguala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.526942,
                         18.340411
@@ -20335,7 +20335,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Cici de Iguala",
                   "text": "A Cici de Iguala egy vízi park Iguala városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.526942,
                         18.340411
@@ -20364,7 +20364,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Cici de Iguala",
                   "text": "Cici de Iguala este un parc acvatic în Iguala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.526942,
                         18.340411
@@ -20393,7 +20393,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Cici de Iguala",
                   "text": "Cici de Iguala is a water park in Iguala.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.526942,
                         18.340411
@@ -20477,7 +20477,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Aviario Municipal",
                   "text": "Aviario Municipal ist ein Tierpark in Ciudad Valles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.028166,
                         21.995479
@@ -20569,7 +20569,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Aviario Municipal",
                   "text": "A(z) Aviario Municipal egy állatkert Ciudad Valles városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.028166,
                         21.995479
@@ -20661,7 +20661,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Aviario Municipal",
                   "text": "Aviario Municipal este o grădină zoologică în Ciudad Valles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.028166,
                         21.995479
@@ -20753,7 +20753,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Aviario Municipal",
                   "text": "Aviario Municipal is a zoo located in Ciudad Valles.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -99.028166,
                         21.995479
@@ -20846,7 +20846,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Bajo El Mar",
                   "text": "Acuario Bajo El Mar ist ein Aquarium in Zamora de Hidalgo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.283325,
                         19.987751
@@ -20911,7 +20911,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Bajo El Mar",
                   "text": "Az Acuario Bajo El Mar egy akvárium Zamora de Hidalgo városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.283325,
                         19.987751
@@ -20976,7 +20976,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Bajo El Mar",
                   "text": "Acuario Bajo El Mar este un acvariu situat în Zamora de Hidalgo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.283325,
                         19.987751
@@ -21041,7 +21041,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Acuario Bajo El Mar",
                   "text": "Acuario Bajo El Mar is an aquarium located in Zamora de Hidalgo.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -102.283325,
                         19.987751
@@ -21134,7 +21134,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Dzonot Wayak Cenote",
                   "text": "Der Dzonot Wayak Cenote ist ein Wasserpark in der Nähe von Tulum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.465362,
                         20.21156
@@ -21208,7 +21208,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Dzonot Wayak Cenote",
                   "text": "A Dzonot Wayak Cenote egy vízi park Tulum közelében.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.465362,
                         20.21156
@@ -21282,7 +21282,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Dzonot Wayak Cenote",
                   "text": "Dzonot Wayak Cenote este un parc acvatic lângă Tulum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.465362,
                         20.21156
@@ -21356,7 +21356,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             {
                   "name": "Dzonot Wayak Cenote",
                   "text": "The Dzonot Wayak Cenote is a water park near Tulum.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -87.465362,
                         20.21156

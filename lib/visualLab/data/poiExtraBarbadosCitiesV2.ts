@@ -134,7 +134,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Wasserpark für Freizeitaktivitäten in Bridgetown.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -478,7 +478,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Vízi vidámpark Bridgetownban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -822,7 +822,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Parc acvatic pentru recreere în Bridgetown.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -1166,7 +1166,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Water park for recreation in Bridgetown.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -16442,7 +16442,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Wasserpark in Wanstead. Spaß für die ganze Familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -16615,7 +16615,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Vízi park Wansteadben. Szórakozás az egész családnak.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -16788,7 +16788,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Parc acvatic în Wanstead. Distracție pentru întreaga familie.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -16961,7 +16961,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Water park in Wanstead. Fun for the whole family.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -17855,7 +17855,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park ist ein Wasserfreizeitpark in Prospect.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -17992,7 +17992,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy rekreációs vízipark Prospect területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -18129,7 +18129,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este un parc acvatic de agrement din Prospect.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -18266,7 +18266,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is a recreational aquatic facility in Prospect.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -20528,7 +20528,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Der Rascals Water Park ist ein Wasserpark in Fairfield.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -20836,7 +20836,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy vízi park Fairfieldben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -21144,7 +21144,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este un parc acvatic în Fairfield.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -21452,7 +21452,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is a water-based recreational area in Fairfield.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -21959,7 +21959,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Der Rascals Water Park ist ein unterhaltsamer Freizeit-Wasserpark in Bush Hall.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -22267,7 +22267,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy szórakoztató rekreációs vízi park Bush Hallban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -22575,7 +22575,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este un parc acvatic de agrement plin de distracție din Bush Hall.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -22883,7 +22883,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is a fun-filled recreational water park in Bush Hall.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -23228,7 +23228,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park bietet Badespaß und Unterhaltung in Bank Hall.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -23536,7 +23536,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park vízi szórakozást és kikapcsolódást nyújt Bank Hall településen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -23844,7 +23844,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park oferă distracție acvatică în Bank Hall.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -24152,7 +24152,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park provides aquatic fun and entertainment in Bank Hall.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -24533,7 +24533,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Der Rascals Water Park ist ein Wasserfreizeitzentrum in Saint Stephen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -24706,7 +24706,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy vízi vidámpark Saint Stephen városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -24879,7 +24879,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este un parc acvatic de agrement situat în Saint Stephen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -25052,7 +25052,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is an aquatic recreation center situated in Saint Stephen.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -25316,7 +25316,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Der Rascals Water Park ist ein Wasservergnügungspark in Tudor Bridge.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -25633,7 +25633,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy vízi vidámpark Tudor Bridge-ben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -25950,7 +25950,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este un parc de distracții acvatic situat în Tudor Bridge.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -26267,7 +26267,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is an aquatic amusement park located in Tudor Bridge.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -26954,7 +26954,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Der Rascals Water Park ist eine Wasserattraktion in Green Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -27136,7 +27136,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "A Rascals Water Park egy vízi látványosság Green Hill városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -27318,7 +27318,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park este o atracție acvatică situată în Green Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581
@@ -27500,7 +27500,7 @@ export const barbadosCitiesV2: POI[] = [
             {
                   "name": "Rascals Water Park",
                   "text": "Rascals Water Park is an aquatic attraction situated in Green Hill.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -59.628782,
                         13.115581

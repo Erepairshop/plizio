@@ -1808,7 +1808,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوان غزة",
                   "text": "Der Gaza Zoo ist ein Tierpark in Gaza-Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.445292,
                         31.480292
@@ -2062,7 +2062,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوان غزة",
                   "text": "A Gaza Zoo egy állatkert Gaza-Stadt területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.445292,
                         31.480292
@@ -2316,7 +2316,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "حديقة حيوان غزة",
                   "text": "Gaza Zoo este o grădină zoologică din Gaza-Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.445292,
                         31.480292
@@ -2570,7 +2570,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Gaza Zoo",
                   "text": "The Gaza Zoo is an animal park situated in Gaza-Stadt.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.445292,
                         31.480292
@@ -4166,7 +4166,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Jabir Land",
                   "text": "Ein Freizeitpark in Nablus für Familien.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.239128,
                         32.226299
@@ -4474,7 +4474,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Jabir Land",
                   "text": "Vidámpark Nabluszban családok számára.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.239128,
                         32.226299
@@ -4782,7 +4782,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Jabir Land",
                   "text": "Un parc de distracții în Nablus pentru familii.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.239128,
                         32.226299
@@ -5090,7 +5090,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Jabir Land",
                   "text": "A theme park in Nablus for families.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.239128,
                         32.226299
@@ -6245,7 +6245,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "حديقة فتحي للحيوان",
                   "text": "Ein Zoo in Rafah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.255807,
                         31.2745
@@ -6364,7 +6364,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "حديقة فتحي للحيوان",
                   "text": "Állatkert Rafahban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.255807,
                         31.2745
@@ -6483,7 +6483,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "حديقة فتحي للحيوان",
                   "text": "O grădină zoologică în Rafah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.255807,
                         31.2745
@@ -6602,7 +6602,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Fathe Zoo",
                   "text": "A zoo in Rafah.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         34.255807,
                         31.2745
@@ -6749,7 +6749,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Mega Land",
                   "text": "Mega Land ist ein Freizeitpark in Tulkarm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.029461,
                         32.321942
@@ -6823,7 +6823,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Mega Land",
                   "text": "A Mega Land egy vidámpark Tulkarm területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.029461,
                         32.321942
@@ -6897,7 +6897,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Mega Land",
                   "text": "Mega Land este un parc de distracții din Tulkarm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.029461,
                         32.321942
@@ -6971,7 +6971,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Mega Land",
                   "text": "Mega Land is a popular theme park offering amusement rides in Tulkarm.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.029461,
                         32.321942
@@ -9548,7 +9548,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Zaytonah Theme Park For Kids",
                   "text": "Al Zaytonah Theme Park For Kids ist ein Freizeitpark in al-Bira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.185025,
                         31.916716
@@ -9865,7 +9865,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Zaytonah Theme Park For Kids",
                   "text": "A(z) Al Zaytonah Theme Park For Kids egy vidámpark al-Bira városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.185025,
                         31.916716
@@ -10182,7 +10182,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Zaytonah Theme Park For Kids",
                   "text": "Al Zaytonah Theme Park For Kids este un parc tematic din al-Bira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.185025,
                         31.916716
@@ -10499,7 +10499,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Zaytonah Theme Park For Kids",
                   "text": "Al Zaytonah Theme Park For Kids is a theme park located in al-Bira.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.185025,
                         31.916716
@@ -14057,7 +14057,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "مسبح ومنتزه الكرمل",
                   "text": "Al Karmel ist ein Freizeitpark in der Stadt Nuba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14066,7 +14066,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "منتزه وحدائق الصفا",
                   "text": "Alsafa ist ein Freizeitpark in der Stadt Nuba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.044522,
                         31.578826
@@ -14122,7 +14122,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "مسبح ومنتزه الكرمل",
                   "text": "Az Al Karmel egy vidámpark Nuba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14131,7 +14131,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "منتزه وحدائق الصفا",
                   "text": "Az Alsafa egy vidámpark Nuba városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.044522,
                         31.578826
@@ -14187,7 +14187,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "مسبح ومنتزه الكرمل",
                   "text": "Al Karmel este un parc tematic situat în orașul Nuba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14196,7 +14196,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "منتزه وحدائق الصفا",
                   "text": "Alsafa este un parc tematic situat în orașul Nuba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.044522,
                         31.578826
@@ -14252,7 +14252,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Karmel",
                   "text": "Al Karmel is a theme park located in the city of Nuba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14261,7 +14261,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Alsafa",
                   "text": "Alsafa is a theme park located in the city of Nuba.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.044522,
                         31.578826
@@ -14363,7 +14363,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "مسبح ومنتزه الكرمل",
                   "text": "Themenpark in Beit Kahel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14428,7 +14428,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "مسبح ومنتزه الكرمل",
                   "text": "Vidámpark Beit Kahelben.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14493,7 +14493,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "مسبح ومنتزه الكرمل",
                   "text": "Parc tematic în Beit Kahel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -14558,7 +14558,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Al Karmel",
                   "text": "Theme park in Beit Kahel.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.046607,
                         31.578028
@@ -18233,7 +18233,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "عين الحمام ist ein Wasserpark in Bir Zait.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -18334,7 +18334,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "A(z) عين الحمام egy vízipark Bir Zait városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -18435,7 +18435,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "عين الحمام este un parc acvatic din Bir Zait.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -18536,7 +18536,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "عين الحمام",
                   "text": "عين الحمام is a water park located in Bir Zait.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.200879,
                         31.972464
@@ -19358,7 +19358,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "חוות אפרים ist ein Tierpark in Dschalazun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -19450,7 +19450,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "A(z) חוות אפרים egy állatkert Dschalazun területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -19542,7 +19542,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "חוות אפרים este o grădină zoologică din Dschalazun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -19634,7 +19634,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "חוות אפרים",
                   "text": "חוות אפרים is a zoo located in Dschalazun.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.223988,
                         31.944429
@@ -21023,7 +21023,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Janat Park",
                   "text": "Janat Park ist ein Freizeitpark in Burqin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.287657,
                         32.439851
@@ -21115,7 +21115,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Janat Park",
                   "text": "A(z) Janat Park egy vidámpark Burqin területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.287657,
                         32.439851
@@ -21207,7 +21207,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Janat Park",
                   "text": "Janat Park este un/o parc de distracții situat(ă) în Burqin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.287657,
                         32.439851
@@ -21299,7 +21299,7 @@ export const palestineCitiesV2: POI[] = [
             {
                   "name": "Janat Park",
                   "text": "Janat Park is a theme park located in Burqin.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         35.287657,
                         32.439851

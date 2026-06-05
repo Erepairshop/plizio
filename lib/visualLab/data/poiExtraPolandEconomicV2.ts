@@ -1964,7 +1964,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Schlesischer Tierpark",
                   "text": "Śląski Ogród Zoologiczny ist ein bekannter Zoo im Geschäftszentrum Kattowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -1973,7 +1973,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Legendia Schlesischer Vergnügungspark",
                   "text": "Legendia Śląskie Wesołe Miasteczko ist ein bekannter Freizeitpark im Geschäftszentrum Kattowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.991634,
                         50.275957
@@ -2434,7 +2434,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Śląski Ogród Zoologiczny",
                   "text": "A Śląski Ogród Zoologiczny egy ismert állatkert a Geschäftszentrum Kattowitz területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -2443,7 +2443,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Legendia Śląskie Wesołe Miasteczko",
                   "text": "A Legendia Śląskie Wesołe Miasteczko egy ismert vidámpark a Geschäftszentrum Kattowitz területén.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.991634,
                         50.275957
@@ -2904,7 +2904,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Śląski Ogród Zoologiczny",
                   "text": "Śląski Ogród Zoologiczny este o grădină zoologică notabilă în Geschäftszentrum Kattowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -2913,7 +2913,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Legendia Śląskie Wesołe Miasteczko",
                   "text": "Legendia Śląskie Wesołe Miasteczko este un parc de distracții notabil în Geschäftszentrum Kattowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.991634,
                         50.275957
@@ -3374,7 +3374,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Śląski Ogród Zoologiczny",
                   "text": "Śląski Ogród Zoologiczny is a notable zoo located in Geschäftszentrum Kattowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.994016,
                         50.282158
@@ -3383,7 +3383,7 @@ export const polandEconomicV2: POI[] = [
             {
                   "name": "Legendia Śląskie Wesołe Miasteczko",
                   "text": "Legendia Śląskie Wesołe Miasteczko is a notable theme park located in Geschäftszentrum Kattowitz.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         18.991634,
                         50.275957

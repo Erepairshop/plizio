@@ -5522,7 +5522,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             {
                   "name": "Sæheimar Aquarium",
                   "text": "Aquarium in Vestmannaeyjar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -20.269189,
                         63.442821
@@ -5659,7 +5659,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             {
                   "name": "Sæheimar Aquarium",
                   "text": "Akvárium Vestmannaeyjarban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -20.269189,
                         63.442821
@@ -5796,7 +5796,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             {
                   "name": "Sæheimar Aquarium",
                   "text": "Acvariu în Vestmannaeyjar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -20.269189,
                         63.442821
@@ -5933,7 +5933,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
             {
                   "name": "Sæheimar Aquarium",
                   "text": "Aquarium in Vestmannaeyjar.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -20.269189,
                         63.442821
@@ -6099,7 +6099,7 @@ imageHint: "Vestmannaeyjar harbor and steep cliffs",
             {
                   "name": "Sundlaug Grindavíkur",
                   "text": "Ein Wasserpark in Grindavík.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.431517,
                         63.843901
@@ -6155,7 +6155,7 @@ imageHint: "Vestmannaeyjar harbor and steep cliffs",
             {
                   "name": "Sundlaug Grindavíkur",
                   "text": "Vízi park Grindavík városában.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.431517,
                         63.843901
@@ -6211,7 +6211,7 @@ imageHint: "Vestmannaeyjar harbor and steep cliffs",
             {
                   "name": "Sundlaug Grindavíkur",
                   "text": "Un parc acvatic din Grindavík.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.431517,
                         63.843901
@@ -6267,7 +6267,7 @@ imageHint: "Vestmannaeyjar harbor and steep cliffs",
             {
                   "name": "Sundlaug Grindavíkur",
                   "text": "A water park located in Grindavík.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.431517,
                         63.843901
@@ -8180,7 +8180,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             {
                   "name": "Íþróttamiðstöð",
                   "text": "Íþróttamiðstöð ist ein Wasserpark in Stykkishólmur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.72936,
                         65.072993
@@ -8236,7 +8236,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             {
                   "name": "Íþróttamiðstöð",
                   "text": "Az Íþróttamiðstöð egy vízi park Stykkishólmurban.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.72936,
                         65.072993
@@ -8292,7 +8292,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             {
                   "name": "Íþróttamiðstöð",
                   "text": "Íþróttamiðstöð este un parc acvatic în Stykkishólmur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.72936,
                         65.072993
@@ -8348,7 +8348,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
             {
                   "name": "Íþróttamiðstöð",
                   "text": "Íþróttamiðstöð is a water park in Stykkishólmur.",
-                  "category": "recreational",
+                  "category": "family",
                   "coords": [
                         -22.72936,
                         65.072993
