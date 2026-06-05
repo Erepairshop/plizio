@@ -2084,6 +2084,33 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       : escapeHtml(a.author);
     return `<span class="plz-sight-attr">📷 ${link}${licShort}</span>`;
   };
+  // Sight category badge — localized label + emoji for the common categories.
+  // Unknown/rare categories render no badge (avoids leaking raw slugs).
+  const SIGHT_CAT: Record<string, { e: string; l: Partial<Record<Lang, string>> }> = {
+    museum:       { e: "🏛", l: { de: "Museum", hu: "múzeum", ro: "muzeu", en: "museum", fr: "musée", tr: "müze", hr: "muzej" } },
+    religious:    { e: "⛪", l: { de: "Sakralbau", hu: "templom", ro: "lăcaș de cult", en: "religious", fr: "édifice religieux", tr: "ibadethane", hr: "sakralno" } },
+    historical:   { e: "🏺", l: { de: "Historisch", hu: "történelmi", ro: "istoric", en: "historical", fr: "historique", tr: "tarihî", hr: "povijesno" } },
+    castle:       { e: "🏰", l: { de: "Burg/Schloss", hu: "vár/kastély", ro: "castel", en: "castle", fr: "château", tr: "kale", hr: "dvorac" } },
+    fortress:     { e: "🛡️", l: { de: "Festung", hu: "erőd", ro: "fortăreață", en: "fortress", fr: "forteresse", tr: "hisar", hr: "utvrda" } },
+    tower:        { e: "🗼", l: { de: "Turm", hu: "torony", ro: "turn", en: "tower", fr: "tour", tr: "kule", hr: "toranj" } },
+    cultural:     { e: "🎭", l: { de: "Kultur", hu: "kultúra", ro: "cultură", en: "culture", fr: "culture", tr: "kültür", hr: "kultura" } },
+    landmark:     { e: "📍", l: { de: "Sehenswert", hu: "látnivaló", ro: "obiectiv", en: "landmark", fr: "site", tr: "simge", hr: "znamenitost" } },
+    natural:      { e: "🌿", l: { de: "Natur", hu: "natúra", ro: "natură", en: "nature", fr: "nature", tr: "doğa", hr: "priroda" } },
+    park:         { e: "🌳", l: { de: "Park", hu: "park", ro: "parc", en: "park", fr: "parc", tr: "park", hr: "park" } },
+    recreational: { e: "🎡", l: { de: "Freizeit", hu: "szabadidő", ro: "recreere", en: "recreation", fr: "loisirs", tr: "eğlence", hr: "rekreacija" } },
+    family:       { e: "👨‍👩‍👧", l: { de: "Familie", hu: "családi", ro: "familie", en: "family", fr: "famille", tr: "aile", hr: "obitelj" } },
+    civic:        { e: "🏙", l: { de: "Stadtbild", hu: "városkép", ro: "civic", en: "civic", fr: "civique", tr: "kent", hr: "gradsko" } },
+    church:       { e: "⛪", l: { de: "Kirche", hu: "templom", ro: "biserică", en: "church", fr: "église", tr: "kilise", hr: "crkva" } },
+    monastery:    { e: "⛪", l: { de: "Kloster", hu: "kolostor", ro: "mănăstire", en: "monastery", fr: "monastère", tr: "manastır", hr: "samostan" } },
+    lake:         { e: "🌊", l: { de: "See", hu: "tó", ro: "lac", en: "lake", fr: "lac", tr: "göl", hr: "jezero" } },
+    culinary:     { e: "🍽", l: { de: "Kulinarik", hu: "gasztro", ro: "culinar", en: "culinary", fr: "gastronomie", tr: "mutfak", hr: "gastro" } },
+  };
+  const sightCatBadge = (s: SightItem): string => {
+    const c = (s as any).category;
+    const m = typeof c === "string" ? SIGHT_CAT[c] : undefined;
+    if (!m) return "";
+    return `<span class="plz-sight-cat">${m.e} ${escapeHtml(m.l[lang] || m.l.en || c)}</span>`;
+  };
   const renderSightCard = (s: SightItem, withDistance: boolean, nameVariants?: string[]): string => {
     if (!s?.name) return "";
     // Inject image from sight-image-map.json if the sight itself lacks one.
@@ -2111,7 +2138,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       }
     }
-    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
+    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}${sightCatBadge(s)}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
   };
   const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights
     || (sidecarSightsFor(poi) as Record<string, SightItem[]> | null);
@@ -2597,6 +2624,7 @@ ready();})();</script>
 .plz-sight-sv{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;margin-left:8px;vertical-align:-5px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.35);transition:transform .15s,box-shadow .15s}
 .plz-sight-sv:hover{transform:scale(1.18);box-shadow:0 2px 8px rgba(251,188,4,.6);background:#f9ab00}
 .plz-sight-sv svg{display:block}
+.plz-sight-cat{display:inline-block;margin-left:8px;vertical-align:2px;background:#ffffff10;border:1px solid #ffffff22;border-radius:999px;padding:2px 9px;font-size:.62rem;font-weight:700;color:#9fc4ff;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
 .plz-hero-sv{position:absolute;right:10px;bottom:10px;z-index:5;display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 2px 6px rgba(0,0,0,.45);transition:transform .15s,box-shadow .15s}
 .plz-hero-sv:hover{transform:scale(1.12);box-shadow:0 3px 10px rgba(251,188,4,.65);background:#f9ab00}
 .plz-hero-sv svg{display:block;width:22px;height:22px}
