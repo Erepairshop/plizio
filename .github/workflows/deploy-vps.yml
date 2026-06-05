@@ -104,6 +104,14 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=8192
         run: npx tsx scripts/build-static-maps.mts all
 
+      # Spatial sight-grid for the client-side "sights within N km" filter on POI
+      # pages (public/data/sight-grid/<lang>/<cell>.json, ~31MB, NOT committed).
+      # Needs _poi-url-index.json (parent links) + sight-sv.json (pegman flags).
+      - name: Build sight grid index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-sight-grid.mts
+
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288

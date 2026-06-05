@@ -1252,6 +1252,71 @@ function renderCostEstimate(stops: any[], mode: string, totalKm: number, lang: L
   return `<div class="plz-itin-cost"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg><strong>${t.cost}: ≈ ${lo}–${hi} €</strong><span class="plz-itin-cost-detail">${t.entry} ${entries}€ · ${t.trans} ${transport}€</span></div>`;
 }
 
+// "Sights within N km" — client-side radius filter over the static sight-grid
+// (public/data/sight-grid/<lang>/<cell>.json, built by scripts/build-sight-grid.mts).
+// Lazy: nothing is fetched until the user taps a radius chip.
+function renderSightRadius(poi: POI, lang: Lang): string {
+  const pc = (poi as { coords?: unknown }).coords as number[] | undefined;
+  if (!Array.isArray(pc) || pc.length !== 2 || typeof pc[0] !== "number" || typeof pc[1] !== "number") return "";
+  const [plng, plat] = pc;
+  const H: Partial<Record<Lang, string>> = {
+    de: "Sehenswürdigkeiten im Umkreis", hu: "Látnivalók a környéken",
+    ro: "Obiective în împrejurimi", en: "Sights nearby",
+    fr: "À voir aux alentours", tr: "Çevredeki gezilecek yerler", hr: "Znamenitosti u okolici",
+  };
+  const NONE: Partial<Record<Lang, string>> = {
+    de: "Keine Treffer in diesem Umkreis.", hu: "Nincs találat ebben a körzetben.",
+    ro: "Niciun rezultat în această rază.", en: "No results in this radius.",
+    fr: "Aucun résultat dans ce rayon.", tr: "Bu yarıçapta sonuç yok.", hr: "Nema rezultata u ovom krugu.",
+  };
+  let ownUrl = "";
+  try { ownUrl = buildPoiPath(lang, poi) || ""; } catch {}
+  const radii = [5, 10, 20, 50];
+  const chips = radii.map((r) => `<button type="button" class="plz-sgr-chip" data-r="${r}">${r} km</button>`).join("");
+  return `<section class="plz-sgr" id="sec-sgr">
+  <h2>${escapeHtml(H[lang] || H.en!)}</h2>
+  <div class="plz-sgr-chips">${chips}</div>
+  <div class="plz-sgr-list" id="plzSgrList" hidden></div>
+  <script>(function(){
+  var LAT=${plat.toFixed(5)},LNG=${plng.toFixed(5)},LANG=${JSON.stringify(lang)},OWN=${JSON.stringify(ownUrl)};
+  var CELL=.5,cache={},list=document.getElementById('plzSgrList');
+  var PEG='<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><circle cx="12" cy="6" r="3.1"/><path d="M12 9.8c-2 0-3.4 1.1-3.4 2.6v3l1.5.6.5 5h2.8l.5-5 1.5-.6v-3c0-1.5-1.4-2.6-3.4-2.6z"/></svg>';
+  function dist(a,b,c,d){var R=6371,x=(c-a)*Math.PI/180,y=(d-b)*Math.PI/180,s=Math.sin(x/2),t=Math.sin(y/2),h=s*s+Math.cos(a*Math.PI/180)*Math.cos(c*Math.PI/180)*t*t;return 2*R*Math.asin(Math.sqrt(h))}
+  function cellsFor(r){var dl=r/111,dg=r/(111*Math.max(.2,Math.cos(LAT*Math.PI/180)));var out=[];
+    for(var la=Math.floor((LAT-dl)/CELL);la<=Math.floor((LAT+dl)/CELL);la++)
+      for(var lo=Math.floor((LNG-dg)/CELL);lo<=Math.floor((LNG+dg)/CELL);lo++)out.push(la+'_'+lo);
+    return out}
+  function getCell(k){if(cache[k])return cache[k];
+    cache[k]=fetch('/data/sight-grid/'+LANG+'/'+k+'.json').then(function(r){return r.ok?r.json():[]}).catch(function(){return[]});
+    return cache[k]}
+  function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
+  function show(r,btn){
+    var bs=document.querySelectorAll('.plz-sgr-chip');for(var i=0;i<bs.length;i++)bs[i].classList.toggle('on',bs[i]===btn);
+    list.hidden=false;list.innerHTML='<div class="plz-sgr-load"><span class="plz-sgr-spin"></span></div>';
+    try{if(window.umami&&window.umami.track)window.umami.track('nearby_radius',{r:r})}catch(e){}
+    Promise.all(cellsFor(r).map(getCell)).then(function(cells){
+      var seen={},items=[];
+      cells.forEach(function(arr){arr.forEach(function(e){
+        var d=dist(LAT,LNG,e[1],e[2]);if(d>r)return;
+        if(OWN&&e[4]===OWN&&d<3)return; /* sajat oldal sightjai mar fent vannak */
+        var k=e[0].toLowerCase()+'|'+e[1].toFixed(3)+','+e[2].toFixed(3);
+        if(seen[k])return;seen[k]=1;items.push({e:e,d:d});
+      })});
+      items.sort(function(a,b){return a.d-b.d});
+      if(!items.length){list.innerHTML='<div class="plz-sgr-load">${escapeHtml(NONE[lang] || NONE.en!)}</div>';return}
+      var top=items.slice(0,120);
+      list.innerHTML=top.map(function(x){var e=x.e;
+        var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>':'';
+        var nm=e[4]?'<a class="plz-sgr-nm" href="'+esc(e[4])+'">'+esc(e[0])+'</a>':'<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
+        return '<div class="plz-sgr-it"><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
+      }).join('');
+    });
+  }
+  document.querySelectorAll('.plz-sgr-chip').forEach(function(b){b.addEventListener('click',function(){show(+b.getAttribute('data-r'),b)})});
+  })();</script>
+  </section>`;
+}
+
 function renderCityItinerary(poi: POI, lang: Lang): string {
   const tier = (poi as { tier?: number }).tier ?? 2;
   const data = loadItinerary(poi.id, tier);
@@ -2437,6 +2502,7 @@ ready();})();</script>
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
   <div id="sec-sights">
   ${sightsHtml}
+  ${renderSightRadius(poi, lang)}
   ${nearbyHtml}
   </div>
   ${renderFAQ(poi, lang) || faqHtml}
@@ -2460,6 +2526,20 @@ ready();})();</script>
 .plz-hero-sv svg{display:block;width:22px;height:22px}
 .plz-itin-sv{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#fbbc04;color:#fff}
 .plz-itin-sv svg{display:block;width:13px;height:13px}
+.plz-sgr{margin-top:1.2rem}
+.plz-sgr-chips{display:flex;gap:.5rem;flex-wrap:wrap;margin:.4rem 0 .7rem}
+.plz-sgr-chip{background:#ffffff12;border:1px solid #ffffff2a;color:#dfe9ff;border-radius:999px;padding:.4rem .95rem;font-size:.85rem;font-weight:700;cursor:pointer;transition:background .15s,border-color .15s}
+.plz-sgr-chip:hover{background:#ffffff20}
+.plz-sgr-chip.on{background:linear-gradient(135deg,#3b82f6,#2563eb);border-color:#3b82f6;color:#fff}
+.plz-sgr-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:.35rem .8rem;max-height:420px;overflow-y:auto;padding-right:.3rem}
+.plz-sgr-it{display:flex;align-items:center;gap:.5rem;padding:.32rem .45rem;border-radius:8px;background:#ffffff08;font-size:.85rem;min-width:0}
+.plz-sgr-d{flex-shrink:0;font-size:.7rem;font-weight:800;color:#7fb0ff;min-width:46px}
+.plz-sgr-nm{color:#e9f1ff;text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}
+a.plz-sgr-nm:hover{text-decoration:underline}
+.plz-sgr-sv{flex-shrink:0;display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:50%;background:#fbbc04;color:#fff}
+.plz-sgr-load{padding:1.2rem;text-align:center;color:#ffffff90;grid-column:1/-1}
+.plz-sgr-spin{display:inline-block;width:26px;height:26px;border-radius:50%;border:3px solid #ffffff25;border-top-color:#3b82f6;animation:plzsgrspin .8s linear infinite}
+@keyframes plzsgrspin{to{transform:rotate(360deg)}}
 .plz-lightbox{position:fixed;inset:0;background:rgba(2,6,12,.92);display:none;align-items:center;justify-content:center;z-index:9999;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);-webkit-tap-highlight-color:transparent}
 .plz-lightbox.open{display:flex}
 .plz-lightbox img{max-width:min(95vw,1400px);max-height:min(90vh,1400px);width:auto;height:auto;object-fit:contain;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,.6)}
